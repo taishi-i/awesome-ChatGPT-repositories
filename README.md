@@ -14,19 +14,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
 ## Claude Code Skill
-
 Search 2,500+ curated repositories directly from Claude Code — just describe what you're looking for in plain language.
 
-- **Find tools by topic** — ask for RAG frameworks, agent libraries, chatbot UIs, CLI tools, and more
-- **Filter by category or language** — narrow results to a specific category (e.g. `CLIs`, `NLP`) or programming language
-- **Multilingual queries** — search in Japanese, Chinese, Korean, or any language
-- **Scored results** — each result is ranked by relevance and project quality
+ **Find tools by topic** — ask for RAG frameworks, agent libraries, chatbot UIs, CLI tools, and more
+ **Filter by category or language** — narrow results to a specific category (e.g. `CLIs`, `NLP`) or programming language
+ **Multilingual queries** — search in Japanese, Chinese, Korean, or any language
+ **Scored results** — each result is ranked by relevance and project quality
 
 **Install as a plugin:**
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
 /plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
 ```
+
 
 Then invoke the skill as:
 ```
@@ -39,26 +39,30 @@ Then invoke the skill as:
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+ * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
+
+
 **Browser-extensions**
- * [plugins](https://github.com/openai/plugins) - OpenAI Plugins
+ * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 
 **CLIs**
- * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - my curated agent skills library
- * [superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
- * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.
- * [paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
- * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
- * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
- * [graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
- * [open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+ * [codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
+ * [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+ * [worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 
-**NLP**
- * [wuphf](https://github.com/nex-crm/wuphf) - WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.
+**Others**
+ * [skills](https://github.com/openai/skills) - Skills Catalog for Codex
+ * [gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
+ * [remodex](https://github.com/emanuele-web04/remodex) - Remote Control for Codex.
+ * [ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
+ * [serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
 
-_Updated on May 04, 2026_ (A total of 2543 repositories listed.)
+_Updated on May 07, 2026_ (A total of 2554 repositories listed.)
 
 ## Table of contents
 
@@ -735,8 +739,10 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * ✅ [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - ⭐ 771 / Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
  * 🔥 [nanobot](https://github.com/hkuds/nanobot) - ⭐ 41k / "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
  * 🔥 [Proma](https://github.com/erlichliu/proma) - ⭐ 601 / 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
- * 🔥 [openagent](https://github.com/the-open-agent/openagent) - ⭐ 4.5k / Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supporting computer-use, browser-use and coding agent with 30+ model providers, MCP-compatible tools, visual workflow builder and admin dashboard. Demo: https://demo.openagentai.org
+ * [openagent](https://github.com/the-open-agent/openagent) - ⭐ 4.5k / Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supporting computer-use, browser-use and coding agent with 30+ model providers, MCP-compatible tools, visual workflow builder and admin dashboard. Demo: https://demo.openagentai.org
  * [AgentOS](https://github.com/spharxteam/agentos) - Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs; more agent protocols coming.
+ * [ruflo](https://github.com/ruvnet/ruflo) - Codex Integration
+ * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
 
 
 ## Browser-extensions
@@ -990,6 +996,7 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * ✅ [openai-cpa](https://github.com/wenfxl/openai-cpa) - ⭐ 1k / Distributed Automation Platform with Dual-Engine (High-speed Protocol + Anti-detection Browser) for high-scale registration. Orchestrates cluster workers, mail engines, and CPA/Sub2API warehouses.
  * 🔥 [nothumansearch](https://github.com/unitedideas/nothumansearch) - ⭐ 0 / Search engine for AI agents — ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin). MCP server, REST API, full-text search. 8,000+ indexed sites.
  * [plugins](https://github.com/openai/plugins) - OpenAI Plugins
+ * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 
 
 ## CLIs
@@ -1218,6 +1225,9 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
  * [graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
  * [open-design](https://github.com/nexu-io/open-design) - Kimi CLI.
+ * [codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
+ * [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+ * [worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 
 ## Reimplementations
@@ -2676,5 +2686,10 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * ⚠️ [cchub](https://github.com/moresl/cchub) - ⭐ repo not found / CCHub - Claude Code 生态管理平台 | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)
  * 🔥 [AutoTeam](https://github.com/cnitlrt/autoteam) - ⭐ 824 / ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步
  * [skill.color-expert](https://github.com/meodai/skill.color-expert) - Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others.
+ * [skills](https://github.com/openai/skills) - Skills Catalog for Codex
+ * [gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
+ * [remodex](https://github.com/emanuele-web04/remodex) - Remote Control for Codex.
+ * [ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
+ * [serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
 

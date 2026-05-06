@@ -16363,6 +16363,69 @@
                     "zh-hans": "Airymax AgentOS：200K+上下文和10M内存，1000小时任务准确率达到99.1%，80%令牌减少，5倍行业效率。与OpenClaw、openJiuwen、LangChain、Claude和OpenAI API原生兼容；更多代理协议即将推出。",
                     "zh-hant": "Airymax AgentOS：擁有200K+上下文和10M記憶體，可在99.1%的準確率下執行1000小時任務，減少80%的令牌，提高5倍的行業效率。原生支持OpenClaw、openJiuwen、LangChain、Claude和OpenAI API；更多代理協議即將推出。"
                 }
+            },
+            "https://github.com/ruvnet/ruflo": {
+                "repository_name": "ruflo",
+                "user_name": "ruvnet",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+                "topics": [
+                    "agentic-ai",
+                    "agentic-engineering",
+                    "agentic-framework",
+                    "agentic-rag",
+                    "agentic-workflow",
+                    "agents",
+                    "ai-assistant",
+                    "ai-tools",
+                    "anthropic-claude",
+                    "autonomous-agents",
+                    "claude-code",
+                    "claude-code-skills",
+                    "codex",
+                    "huggingface",
+                    "mcp-server",
+                    "model-context-protocol",
+                    "multi-agent",
+                    "multi-agent-systems",
+                    "swarm",
+                    "swarm-intelligence"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration",
+                    "ja": "🌊 クロード向けの先進的なエージェントオーケストレーションプラットフォーム。インテリジェントなマルチエージェントスワームを展開し、自律型ワークフローを調整し、会話型AIシステムを構築します。企業向けのアーキテクチャ、自己学習型スワームインテリジェンス、RAG統合を特徴としています。",
+                    "zh-hans": "🌊 为克劳德提供领先的代理编排平台。部署智能多代理群集，协调自主工作流程，并构建对话式人工智能系统。具有企业级架构、自学习群集智能和RAG集成的功能。",
+                    "zh-hant": "🌊 领先的代理编排平台为克劳德。部署智能多代理群集，协调自主工作流程，并构建对话式人工智能系统。功能包括企业级架构、自学习群集智能、RAG集成。"
+                }
+            },
+            "https://github.com/evolution-foundation/evolution-api": {
+                "repository_name": "evolution-api",
+                "user_name": "evolution-foundation",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Evolution API is an open-source WhatsApp integration API",
+                "topics": [
+                    "chatbot",
+                    "chatwoot",
+                    "cloud-api",
+                    "dify",
+                    "evolution",
+                    "n8n",
+                    "openai",
+                    "pusher",
+                    "rabbitmq",
+                    "typebot",
+                    "whatsapp",
+                    "whatsapp-api",
+                    "whatsapp-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Evolution API is an open-source WhatsApp integration API",
+                    "ja": "Evolution APIはオープンソースのWhatsApp統合APIです。",
+                    "zh-hans": "Evolution API 是一个开源的 WhatsApp 集成 API",
+                    "zh-hant": "Evolution API 是一個開源的 WhatsApp 整合 API"
+                }
             }
         },
         "Browser-extensions": {
@@ -22275,6 +22338,23 @@
                     "zh-hans": "OpenAI插件",
                     "zh-hant": "OpenAI 插件"
                 }
+            },
+            "https://github.com/everyinc/compound-engineering-plugin": {
+                "repository_name": "compound-engineering-plugin",
+                "user_name": "EveryInc",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+                "topics": [
+                    "compound",
+                    "engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+                    "ja": "クロードコード、コーデックス、カーソルなどの公式コンパウンドエンジニアリングプラグイン",
+                    "zh-hans": "官方复合工程插件，适用于Claude Code、Codex、Cursor等等。",
+                    "zh-hant": "官方複合工程插件，適用於Claude Code、Codex、Cursor等等。"
+                }
             }
         },
         "CLIs": {
@@ -27759,6 +27839,75 @@
                     "ja": "🎨 AnthropicのClaude Designに対するローカルファーストでオープンソースの代替品。 ⚡ 19のスキル · ✨ 71のブランドグレードのデザインシステム 🖼 ウェブ · デスクトップ · モバイルのプロトタイプ · スライド · 画像 · 動画 · HyperFrames 📦 サンドボックスプレビュー · HTML/PDF/PPTX/MP4エクスポート 🤖 実行します。",
                     "zh-hans": "🎨 本地优先，开源替代Anthropic的Claude Design。⚡ 19种技能 · ✨ 71种品牌级设计系统 🖼 生成web · 桌面 · 移动原型 · 幻灯片 · 图像 · 视频 · 超级帧 📦 沙箱预览 · HTML/PDF/PPTX/MP4导出 🤖 运行 o",
                     "zh-hant": "🎨 本地優先，開源替代Anthropic的Claude Design。⚡ 19技能 · ✨ 71個品牌等級的設計系統 🖼 生成網頁 · 桌面 · 手機原型 · 幻燈片 · 圖片 · 視頻 · 超級幀 📦 沙箱預覽 · HTML/PDF/PPTX/MP4導出 🤖 運行 o"
+                }
+            },
+            "https://github.com/getagentseal/codeburn": {
+                "repository_name": "codeburn",
+                "user_name": "getagentseal",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+                "topics": [
+                    "ai-coding",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "cost-tracking",
+                    "cursor-ide",
+                    "developer-tools",
+                    "observability",
+                    "terminal-ui",
+                    "token-usage"
+                ],
+                "multilingual_descriptions": {
+                    "en": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+                    "ja": "AIコーディングトークンがどこに行くかを確認してください。Claude Code、Codex、およびCursorのコスト可視化のためのインタラクティブTUIダッシュボード。",
+                    "zh-hans": "查看您的AI编码令牌去哪里。Claude Code，Codex和Cursor成本可观察性的交互式TUI仪表板。",
+                    "zh-hant": "查看您的AI编码令牌去哪里。Claude Code、Codex和Cursor成本可观察性的交互式TUI仪表板。"
+                }
+            },
+            "https://github.com/manaflow-ai/cmux": {
+                "repository_name": "cmux",
+                "user_name": "manaflow-ai",
+                "language": "Swift",
+                "license": "Other",
+                "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+                "topics": [
+                    "amp",
+                    "claude-code",
+                    "codex",
+                    "gemini",
+                    "ghostty",
+                    "opencode",
+                    "terminal",
+                    "tmux"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+                    "ja": "垂直タブと通知を備えたGhosttyベースのmacOSターミナル、AIコーディングエージェント向けGhosttyベースのmacOSターミナル、AIコーディングエージェント向けの垂直タブと通知",
+                    "zh-hans": "基于Ghostty的macOS终端，具有垂直标签和通知功能，适用于AI编码代理。",
+                    "zh-hant": "基於Ghostty的macOS終端機，具有垂直標籤和通知功能，適用於AI編碼代理程式。"
+                }
+            },
+            "https://github.com/max-sixty/worktrunk": {
+                "repository_name": "worktrunk",
+                "user_name": "max-sixty",
+                "language": "Rust",
+                "license": "Other",
+                "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+                "topics": [
+                    "agents",
+                    "claude-code",
+                    "codex",
+                    "developer-tools",
+                    "git",
+                    "worktrees"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+                    "ja": "Worktrunkは、並列AIエージェントワークフロー向けに設計されたGitワークツリー管理用のCLIです。",
+                    "zh-hans": "Worktrunk是一个用于Git工作树管理的CLI工具，专为并行AI代理工作流程设计。",
+                    "zh-hant": "Worktrunk 是一個用於 Git 工作樹管理的 CLI，專為平行 AI 代理工作流程而設計。"
                 }
             }
         },
@@ -58825,6 +58974,108 @@
                     "ja": "エージェントのスキルは色彩科学の専門知識です。カラースペース、アクセシビリティ（APCA、WCAG）、パレット生成、顔料の混合、歴史的な色彩理論をカバーする多くの参照資料があります。Claude Code、Codex、Cursor、Copilotなどと一緒に作業します。",
                     "zh-hans": "代理商技能为色彩科学专业知识。许多参考资料涵盖色彩空间、可访问性（APCA，WCAG）、调色板生成、颜料混合和历史色彩理论。与Claude Code、Codex、Cursor、Copilot等合作。",
                     "zh-hant": "代理商技能涵蓋色彩科學專業知識。許多參考資料涵蓋色彩空間、可訪問性（APCA、WCAG）、調色板生成、顏料混合和歷史色彩理論。與Claude Code、Codex、Cursor、Copilot等合作。"
+                }
+            },
+            "https://github.com/openai/skills": {
+                "repository_name": "skills",
+                "user_name": "openai",
+                "language": "Python",
+                "license": null,
+                "description": "Skills Catalog for Codex",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Skills Catalog for Codex",
+                    "ja": "コーデックスのスキルカタログ",
+                    "zh-hans": "Codex技能目录",
+                    "zh-hant": "Codex技能目錄"
+                }
+            },
+            "https://github.com/github/gh-aw": {
+                "repository_name": "gh-aw",
+                "user_name": "github",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "GitHub Agentic Workflows",
+                "topics": [
+                    "actions",
+                    "cai",
+                    "ci",
+                    "claude-code",
+                    "codex",
+                    "copilot",
+                    "gh-extension",
+                    "github-actions"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GitHub Agentic Workflows",
+                    "ja": "GitHubエージェントワークフロー",
+                    "zh-hans": "GitHub 代理工作流",
+                    "zh-hant": "GitHub 代理工作流"
+                }
+            },
+            "https://github.com/emanuele-web04/remodex": {
+                "repository_name": "remodex",
+                "user_name": "Emanuele-web04",
+                "language": "Swift",
+                "license": "Apache License 2.0",
+                "description": "Remote Control for Codex.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Remote Control for Codex.",
+                    "ja": "コーデックス用リモコン",
+                    "zh-hans": "遥控器用于Codex。",
+                    "zh-hant": "遙控器適用於Codex。"
+                }
+            },
+            "https://github.com/intellectronica/ruler": {
+                "repository_name": "ruler",
+                "user_name": "intellectronica",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Ruler — apply the same rules to all coding agents",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "aider",
+                    "claude-code",
+                    "codex",
+                    "cursor",
+                    "github-copilot",
+                    "vibe-coding",
+                    "windsurf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Ruler — apply the same rules to all coding agents",
+                    "ja": "ルーラー - すべてのコーディングエージェントに同じルールを適用します。",
+                    "zh-hans": "统治者-对所有编码代理应用相同的规则",
+                    "zh-hant": "統治者 - 對所有編碼代理應用相同的規則"
+                }
+            },
+            "https://github.com/oraios/serena": {
+                "repository_name": "serena",
+                "user_name": "oraios",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-coding",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "ide",
+                    "jetbrains",
+                    "language-server",
+                    "mcp-server",
+                    "programming",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+                    "ja": "コーディング用の強力なMCPツールキットで、意味論的な検索と編集機能を提供します - あなたのエージェントのためのIDE",
+                    "zh-hans": "一个强大的MCP工具包，提供编码、语义检索和编辑功能 - 您的代理IDE",
+                    "zh-hant": "一個強大的MCP工具包，用於編碼，提供語義檢索和編輯功能 - 您的代理人的集成開發環境"
                 }
             }
         }
