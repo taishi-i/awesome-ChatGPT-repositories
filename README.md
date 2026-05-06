@@ -11,6 +11,8 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
+[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
+
 ## Claude Code Skill
 
 Search 2,500+ repositories directly from Claude Code using the `awesome-chatgpt-search` skill — no Python required.
@@ -31,19 +33,6 @@ Then invoke the skill as:
 ```
 
 Queries in any language are supported (Japanese, Chinese, Korean, etc.).
-
-**Or clone and use locally (unnamespaced command):**
-```bash
-git clone https://github.com/taishi-i/awesome-ChatGPT-repositories
-cd awesome-ChatGPT-repositories
-```
-```
-/awesome-chatgpt RAG retrieval
-/awesome-chatgpt category:CLIs agent
-```
-
-[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
-
 
 ## The latest additions 🎉
 
