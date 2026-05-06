@@ -1,0 +1,12 @@
+{
+  "name": "awesome-chatgpt-search",
+  "description": "Search 2500+ curated ChatGPT and LLM repositories from Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "taishi-i"
+  },
+  "homepage": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+  "repository": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+  "license": "CC0-1.0",
+  "keywords": ["chatgpt", "llm", "search", "awesome-list", "nlp", "langchain"]
+}

@@ -9,13 +9,13 @@ This plugin provides a single skill that searches across all categories of [awes
 **Inside Claude Code:**
 ```shell
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
-/plugin install awesome-chatgpt-search@awesome-chatgpt-search
+/plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
 ```
 
 **Via CLI:**
 ```bash
 claude plugin marketplace add taishi-i/awesome-ChatGPT-repositories
-claude plugin install awesome-chatgpt-search@awesome-chatgpt-search
+claude plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
 ```
 
 **From a local clone:**
@@ -29,7 +29,7 @@ claude plugin install awesome-chatgpt-search
 ## Update
 
 ```shell
-/plugin update awesome-chatgpt-search@awesome-chatgpt-search
+/plugin update awesome-chatgpt-search@awesome-chatgpt-repositories
 ```
 
 ## Usage

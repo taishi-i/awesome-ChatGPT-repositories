@@ -25,7 +25,7 @@ Search 2,500+ curated repositories directly from Claude Code — just describe w
 **Install as a plugin:**
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
-/plugin install awesome-chatgpt-search@awesome-chatgpt-search
+/plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
 ```
 
 Then invoke the skill as:
