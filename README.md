@@ -11,23 +11,26 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
-## Claude Code / Codex Skill
+## Claude Code Skill
 
-Search this repository directly from Claude Code or Codex using the `/awesome-chatgpt` skill.
+Search 2,500+ repositories directly from Claude Code using the `awesome-chatgpt-search` skill — no Python required.
 
-**Install as a plugin (Claude Code):**
+**Install as a plugin:**
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
-/plugin install awesome-chatgpt@awesome-chatgpt-repositories
+/plugin install awesome-chatgpt-search@awesome-chatgpt-search
 ```
 
 Then invoke the skill as:
 ```
-/awesome-chatgpt:search RAG retrieval
-/awesome-chatgpt:search category:CLIs agent
-/awesome-chatgpt:search language:Python langchain
-/awesome-chatgpt:search list categories
+/awesome-chatgpt-search:search RAG retrieval
+/awesome-chatgpt-search:search category:CLIs agent
+/awesome-chatgpt-search:search language:Python langchain
+/awesome-chatgpt-search:search fine-tuning
+/awesome-chatgpt-search:search list categories
 ```
+
+Queries in any language are supported (Japanese, Chinese, Korean, etc.).
 
 **Or clone and use locally (unnamespaced command):**
 ```bash
@@ -37,13 +40,6 @@ cd awesome-ChatGPT-repositories
 ```
 /awesome-chatgpt RAG retrieval
 /awesome-chatgpt category:CLIs agent
-```
-
-**Standalone CLI:**
-```bash
-python3 skills/search/scripts/search.py "fine-tuning" --limit 10
-python3 skills/search/scripts/search.py --category NLP --language Python
-python3 skills/search/scripts/search.py --list-categories
 ```
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
