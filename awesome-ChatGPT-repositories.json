@@ -6907,6 +6907,41 @@
                     "zh-hans": "开源克劳德设计替代方案。一键导入您的克劳德代码/ Codex API密钥。提示→原型/幻灯片/PDF。多模型（克劳德，GPT，Gemini，Kimi，GLM，Ollama）。BYOK，本地优先，MIT。",
                     "zh-hant": "開源克勞德設計替代方案。一鍵導入您的克勞德代碼/ Codex API 金鑰。提示 → 原型 / 幻燈片 / PDF。多模型（克勞德、GPT、Gemini、Kimi、GLM、Ollama）。BYOK、本地優先、MIT。"
                 }
+            },
+            "https://github.com/zseven-w/openpencil": {
+                "repository_name": "openpencil",
+                "user_name": "ZSeven-W",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+                "topics": [
+                    "agent",
+                    "agent-team",
+                    "ai",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "fimga",
+                    "flutter",
+                    "html",
+                    "mcp",
+                    "opencode",
+                    "openpencil",
+                    "pencil",
+                    "react",
+                    "react-native",
+                    "svelte",
+                    "ui",
+                    "vibecoding",
+                    "vibedesign",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+                    "ja": "世界初のオープンソースAIネイティブベクトルデザインツールであり、同時エージェントチームを搭載した最初のツールです。デザインをコードとして扱います。プロンプトをライブキャンバス上で直接UIに変換します。鉛筆の現代的な代替品です。",
+                    "zh-hans": "世界上第一个开源AI原生矢量设计工具，也是第一个具有并发代理团队功能的工具。设计即代码。将提示直接转换为UI在实时画布上。是铅笔的现代替代品。",
+                    "zh-hant": "世界上第一個開源AI原生矢量設計工具，也是第一個具有同時代理團隊功能的工具。設計即代碼。將提示直接轉換為UI在實時畫布上。是鉛筆的現代替代品。"
+                }
             }
         },
         "Chatbots": {
@@ -16426,6 +16461,20 @@
                     "zh-hans": "Evolution API 是一个开源的 WhatsApp 集成 API",
                     "zh-hant": "Evolution API 是一個開源的 WhatsApp 整合 API"
                 }
+            },
+            "https://github.com/preset-io/agor": {
+                "repository_name": "agor",
+                "user_name": "preset-io",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.",
+                    "ja": "マルチプレイヤーキャンバス上で、オーケストレートクロードコード、コーデックス、ジェミニセッションを行います。gitワークツリーを管理し、AI会話を追跡し、チームのエージェントワークをリアルタイムで可視化します。",
+                    "zh-hans": "在多人画布上编排克劳德代码、密码和双子座会话。管理git工作树，跟踪人工智能对话，并实时可视化团队的代理工作。",
+                    "zh-hant": "在多人畫布上組織克勞德代碼、代碼和雙子會話。管理git工作樹，追踪人工智能對話，並即時可視化您團隊的代理工作。"
+                }
             }
         },
         "Browser-extensions": {
@@ -22355,6 +22404,20 @@
                     "zh-hans": "官方复合工程插件，适用于Claude Code、Codex、Cursor等等。",
                     "zh-hant": "官方複合工程插件，適用於Claude Code、Codex、Cursor等等。"
                 }
+            },
+            "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui": {
+                "repository_name": "jetbrains-cc-gui",
+                "user_name": "zhukunpenglinyutong",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Jetbrains Claude Code and Codex GUI Plugin",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Jetbrains Claude Code and Codex GUI Plugin",
+                    "ja": "JetbrainsのClaude CodeとCodex GUIプラグイン",
+                    "zh-hans": "Jetbrains Claude 代码和 Codex GUI 插件",
+                    "zh-hant": "Jetbrains Claude 代碼和 Codex GUI 插件"
+                }
             }
         },
         "CLIs": {
@@ -27908,6 +27971,98 @@
                     "ja": "Worktrunkは、並列AIエージェントワークフロー向けに設計されたGitワークツリー管理用のCLIです。",
                     "zh-hans": "Worktrunk是一个用于Git工作树管理的CLI工具，专为并行AI代理工作流程设计。",
                     "zh-hant": "Worktrunk 是一個用於 Git 工作樹管理的 CLI，專為平行 AI 代理工作流程而設計。"
+                }
+            },
+            "https://github.com/iofficeai/aionui": {
+                "repository_name": "AionUi",
+                "user_name": "iOfficeAI",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+                "topics": [
+                    "acp",
+                    "agent-team",
+                    "ai",
+                    "ai-agent",
+                    "chat",
+                    "chatbot",
+                    "claude-code",
+                    "clawdbot",
+                    "codex",
+                    "cowork",
+                    "gemini",
+                    "gemini-cli",
+                    "hermes",
+                    "llm",
+                    "nano-banana",
+                    "office",
+                    "openclaw",
+                    "opencode",
+                    "skills",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+                    "ja": "無料、ローカル、オープンソースの24時間365日利用可能なCoworkアプリ。OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLIなど20以上のCLIに対応。アシスタントをカスタマイズ可能。気に入ったらスターを付けてください！",
+                    "zh-hans": "免费、本地、开源的24/7 Cowork应用程序，适用于OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLI等20多个CLI | 自定义您的助手 | 如果您喜欢，请点赞！",
+                    "zh-hant": "免費、本地、開源的24/7 Cowork應用程式，適用於OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLI和20多個CLI | 自定義您的助手 | 如果您喜歡，請點擊星星！"
+                }
+            },
+            "https://github.com/teng-lin/notebooklm-py": {
+                "repository_name": "notebooklm-py",
+                "user_name": "teng-lin",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+                "topics": [
+                    "agentic-skill",
+                    "api",
+                    "claude",
+                    "claude-skills",
+                    "google-notebooklm",
+                    "notebooklm",
+                    "notebooklm-api",
+                    "notebooklm-skill",
+                    "openclaw-skills",
+                    "podcast-generator",
+                    "python",
+                    "python-api",
+                    "sdk",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+                    "ja": "Google NotebookLMの非公式Python APIおよびエージェントスキル。Python、CLI、およびClaude Code、Codex、OpenClawなどのAIエージェントを介して、NotebookLMの機能に完全なプログラムアクセスが可能です。Web UIでは公開されていない機能も利用できます。",
+                    "zh-hans": "非官方Python API和Google NotebookLM的代理技能。通过Python、CLI和AI代理（如Claude Code、Codex和OpenClaw）完全编程访问NotebookLM的功能，包括Web UI没有暴露的功能。",
+                    "zh-hant": "非官方Python API和Google NotebookLM的代理技能。 通过Python，CLI和AI代理（如Claude Code，Codex和OpenClaw）完全编程访问NotebookLM的功能，包括Web UI没有暴露的功能。"
+                }
+            },
+            "https://github.com/stablyai/orca": {
+                "repository_name": "orca",
+                "user_name": "stablyai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.",
+                "topics": [
+                    "ade",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "cursor-agent",
+                    "ghostty",
+                    "ide",
+                    "opencode",
+                    "orchestration",
+                    "parallel-agents",
+                    "pi",
+                    "terminal",
+                    "worktrees"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.",
+                    "ja": "オルカは、並列エージェントのフリートと連携するための次世代のIDEです。自分のサブスクリプションで任意のコーディングエージェントを実行できます。",
+                    "zh-hans": "奥卡是与一群并行代理一起工作的下一代IDE。使用您自己的订阅运行任何编码代理。",
+                    "zh-hant": "這是下一代的IDE，專為處理一群平行代理而設計。使用您自己的訂閱來運行任何編碼代理。"
                 }
             }
         },
@@ -38575,6 +38730,92 @@
                     "ja": "WUPHFは、AI従業員の協力オフィスであり、彼ら自身の知識ベースを構築および維持し、与えられたタスクの文脈を失わないようにします。OpenCodeを介してClaude Code、Codex、OpenClaw、およびローカルLLMsをサポートします。",
                     "zh-hans": "WUPHF是一个协作办公室，由人工智能员工构建和维护自己的知识库，以便永远不会丢失您给他们的任务的上下文。通过OpenCode支持Claude Code、Codex、OpenClaw和本地LLMs。",
                     "zh-hant": "WUPHF是一個由AI員工組成的協作辦公室，他們建立和維護自己的知識庫，以便在執行您分配的任務時不會失去上下文。通過OpenCode支持Claude Code、Codex、OpenClaw和本地LLMs。"
+                }
+            },
+            "https://github.com/mksglu/context-mode": {
+                "repository_name": "context-mode",
+                "user_name": "mksglu",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
+                "topics": [
+                    "antigravity",
+                    "claude",
+                    "claude-code",
+                    "claude-code-hooks",
+                    "claude-code-plugins",
+                    "claude-code-skill",
+                    "codex",
+                    "codex-cli",
+                    "context-mode",
+                    "copilot",
+                    "cursor-plugin",
+                    "kiro",
+                    "mcp",
+                    "mcp-server",
+                    "mcp-tools",
+                    "openclaw",
+                    "opencode",
+                    "pi-agent",
+                    "skills",
+                    "zed-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
+                    "ja": "AIコーディングエージェントのためのコンテキストウィンドウ最適化。サンドボックスツールの出力、98％削減。15プラットフォーム。",
+                    "zh-hans": "AI编码代理的上下文窗口优化。沙盒工具输出，减少98%。15个平台。",
+                    "zh-hant": "為AI編碼代理進行上下文窗口優化。沙盒工具輸出，減少98%。15個平台。"
+                }
+            },
+            "https://github.com/yilewang/llm-for-zotero": {
+                "repository_name": "llm-for-zotero",
+                "user_name": "yilewang",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "A research agent system deeply rooted in your own Zotero library.",
+                "topics": [
+                    "academic-paper",
+                    "codex",
+                    "literature-analysis",
+                    "llm-agent",
+                    "mcp",
+                    "rag",
+                    "research-tool",
+                    "zotero",
+                    "zotero-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A research agent system deeply rooted in your own Zotero library.",
+                    "ja": "自分自身のZoteroライブラリに深く根付いた研究エージェントシステム。",
+                    "zh-hans": "一个深深植根于您自己的Zotero库中的研究代理系统。",
+                    "zh-hant": "一個深植於您自己的Zotero圖書館的研究代理系統。"
+                }
+            },
+            "https://github.com/datachain-ai/datachain": {
+                "repository_name": "datachain",
+                "user_name": "datachain-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables",
+                "topics": [
+                    "ai-agents",
+                    "claude-code",
+                    "codex",
+                    "data-context-layer",
+                    "data-memory",
+                    "data-processing",
+                    "harness-engineering",
+                    "knowledge-base",
+                    "mlops",
+                    "multimodal",
+                    "pydantic",
+                    "unstructured-data"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables",
+                    "ja": "データメモリ：AIエージェント用の操作データコンテキストレイヤー - 画像、ビデオ、ドキュメント、テーブルにわたるタイプ化されたバージョン管理されたデータセットデータメモリ：AIエージェント用の操作データコンテキストレイヤー - 画像、ビデオ、ドキュメント、テーブルにわたるタイプ化されたバージョン管理されたデータセット",
+                    "zh-hans": "数据内存：AI代理的操作数据上下文层 - 图像、视频、文档和表格的输入，版本化数据集",
+                    "zh-hant": "數據記憶：AI代理的操作數據上下文層 - 在圖像、視頻、文檔和表格上的打字、版本化數據集。"
                 }
             }
         },
@@ -59076,6 +59317,27 @@
                     "ja": "コーディング用の強力なMCPツールキットで、意味論的な検索と編集機能を提供します - あなたのエージェントのためのIDE",
                     "zh-hans": "一个强大的MCP工具包，提供编码、语义检索和编辑功能 - 您的代理IDE",
                     "zh-hant": "一個強大的MCP工具包，用於編碼，提供語義檢索和編輯功能 - 您的代理人的集成開發環境"
+                }
+            },
+            "https://github.com/open-mercato/open-mercato": {
+                "repository_name": "open-mercato",
+                "user_name": "open-mercato",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC,  event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing.  Ship production grade with AI Agents.",
+                "topics": [
+                    "admin-panel",
+                    "ai-agents",
+                    "ai-coding",
+                    "crm",
+                    "framework",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC,  event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Cl",
+                    "ja": "AIエンジニアリング基盤フレームワークは、AIで構築され、AI向けに設計されています。数百のアーキテクチャとドメインの決定（マルチテナンシー、RBAC、イベントフロー、価格設定、セールスパイプライン、CRM / ERPプロセス）はすでに標準化された仕様となっており、エージェント（Cursor、Cl）によって行われています。",
+                    "zh-hans": "AI工程基础框架是由人工智能构建和设计的，专为人工智能而设计。已经制定了数百个架构和领域决策（多租户、RBAC、事件流、定价、销售渠道、CRM/ERP流程）的规范和规范，以便代理商（Cursor、Cl）使用。",
+                    "zh-hant": "AI-工程基礎框架是由AI構建並為AI設計的。已經做出了數百個架構和領域決策（多租戶、RBAC、事件流、定價、銷售管道、CRM/ERP流程），這些是已經確定的慣例和規範，因此代理人（游標、Cl）"
                 }
             }
         }
