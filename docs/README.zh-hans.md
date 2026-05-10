@@ -41,6 +41,10 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - 一个由独立建立的人工智能初创公司组成的策划清单 - 仅包括自助、前种子和天使投资的产品。
+
+
 **Prompts**
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界上第一个开源AI原生矢量设计工具，也是第一个具有并发代理团队功能的工具。设计即代码。将提示直接转换为UI在实时画布上。是铅笔的现代替代品。
 
@@ -183,6 +187,7 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * ✅ [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ⭐ 1.3k / ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南ChatGPT 调教指南|咒语指南|聊天提示词指南|学习指南
  * ✅ [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - ⭐ 1.9k / 为OpenAI API精心策划的GPT-Image-2提示 - 肖像、海报、UI模型、游戏截图、角色表等等。GPT-Image-2的即用提示。
  * 🔥 [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - ⭐ 14k / Openai API的策展GPT-Image-2提示：跨肖像、海报、UI模型、角色表和社区实验的图像示例。
+ * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - 一个由独立建立的人工智能初创公司组成的策划清单 - 仅包括自助、前种子和天使投资的产品。
 
 
 ## Prompts
