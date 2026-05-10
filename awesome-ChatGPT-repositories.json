@@ -2473,6 +2473,33 @@
                     "zh-hans": "Openai API的策展GPT-Image-2提示：跨肖像、海报、UI模型、角色表和社区实验的图像示例。",
                     "zh-hant": "為Openai API精心挑選的GPT-Image-2提示：跨越肖像、海報、UI模擬、角色表和社區實驗的圖像示例。"
                 }
+            },
+            "https://github.com/nowork-studio/awesome-ai-startups": {
+                "repository_name": "awesome-ai-startups",
+                "user_name": "nowork-studio",
+                "language": null,
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.",
+                "topics": [
+                    "ai-agents",
+                    "ai-tools",
+                    "awesome",
+                    "awesome-ai",
+                    "awesome-list",
+                    "geo",
+                    "marketing",
+                    "marketing-automation",
+                    "marketing-tools",
+                    "mcp",
+                    "mcp-server",
+                    "seo"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.",
+                    "ja": "インディー製のAIスタートアップの厳選リスト - 自己資金調達、プリシード、エンジェルファンドの製品のみ。",
+                    "zh-hans": "一个由独立建立的人工智能初创公司组成的策划清单 - 仅包括自助、前种子和天使投资的产品。",
+                    "zh-hant": "一份精心策劃的獨立AI初創企業清單-僅包括自給自足、前種子輪和天使投資的產品。"
+                }
             }
         },
         "Prompts": {

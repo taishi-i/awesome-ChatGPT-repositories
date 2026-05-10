@@ -41,6 +41,10 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - インディー製のAIスタートアップの厳選リスト - 自己資金調達、プリシード、エンジェルファンドの製品のみ。
+
+
 **Prompts**
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界初のオープンソースAIネイティブベクトルデザインツールであり、同時エージェントチームを搭載した最初のツールです。デザインをコードとして扱います。プロンプトをライブキャンバス上で直接UIに変換します。鉛筆の現代的な代替品です。
 
@@ -183,6 +187,7 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * ✅ [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ⭐ 1.3k / ChatGPTトレーニングガイド|呪文ガイド|チャットのヒントガイド|学習ガイド
  * ✅ [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - ⭐ 1.9k / OpenAI API用のキュレーションされたGPT-Image-2プロンプト - ポートレート、ポスター、UIモックアップ、ゲームのスクリーンショット、キャラクターシートなど。gpt-image-2用の即座に使用可能なプロンプト。
  * 🔥 [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - ⭐ 14k / Openai API用のキュレーションされたGPT-Image-2プロンプト：肖像画、ポスター、UIモックアップ、キャラクターシート、コミュニティ実験などの画像例。
+ * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - インディー製のAIスタートアップの厳選リスト - 自己資金調達、プリシード、エンジェルファンドの製品のみ。
 
 
 ## Prompts
