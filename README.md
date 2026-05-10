@@ -14,27 +14,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
 ## Claude Code Skill
-Search 2,500+ curated repositories directly from Claude Code — just describe what you're looking for in plain language.
 
- **Find tools by topic** — ask for RAG frameworks, agent libraries, chatbot UIs, CLI tools, and more
- **Filter by category or language** — narrow results to a specific category (e.g. `CLIs`, `NLP`) or programming language
- **Multilingual queries** — search in Japanese, Chinese, Korean, or any language
- **Scored results** — each result is ranked by relevance and project quality
+Search 2,500+ curated repositories directly from Claude Code — no browser needed, just describe what you're looking for.
 
-**Install as a plugin:**
+- **Find tools by topic** — RAG frameworks, agent libraries, chatbot UIs, CLI tools, and more
+- **Filter by category or language** — narrow results to a specific category (e.g. `CLIs`, `NLP`) or programming language
+- **Multilingual queries** — search in Japanese, Chinese, Korean, or any language
+- **Scored results** — ranked by relevance, star count, and project quality
+
+### Install
+
+Run these two commands inside Claude Code:
+
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
 /plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
 ```
 
+### Usage
 
-Then invoke the skill as:
 ```
-/awesome-chatgpt-search:search RAG retrieval
-/awesome-chatgpt-search:search category:CLIs agent
-/awesome-chatgpt-search:search language:Python langchain
-/awesome-chatgpt-search:search fine-tuning
-/awesome-chatgpt-search:search list categories
+/awesome-chatgpt-search:search RAG retrieval             # keyword search
+/awesome-chatgpt-search:search category:CLIs agent       # filter by category
+/awesome-chatgpt-search:search language:Python langchain  # filter by language
+/awesome-chatgpt-search:search fine-tuning lora peft     # multiple keywords
+/awesome-chatgpt-search:search list categories           # show all categories
 ```
 
 ## The latest additions 🎉
