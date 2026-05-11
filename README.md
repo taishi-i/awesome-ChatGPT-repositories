@@ -761,6 +761,7 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [ruflo](https://github.com/ruvnet/ruflo) - Codex Integration
  * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
  * [agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
+ * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - One-click signed desktop installer (macOS + Windows) for OpenClaw — connects WhatsApp, Telegram, Slack, Discord, Feishu and Line to ChatGPT, Claude, Gemini, DeepSeek, OpenRouter or local Ollama models with 100% local execution.
 
 
 ## Browser-extensions
