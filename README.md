@@ -341,6 +341,7 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * ⚠️ [lunary](https://github.com/lunary-ai/lunary) - ⭐ repo not found / The production toolkit for LLMs. Observability, prompt management and evaluations.
  * 💤 [pezzo](https://github.com/pezzolabs/pezzo) - ⭐ 3.2k / 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
  * 🔥 [archgw](https://github.com/katanemo/archgw) - ⭐ 6.4k / Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
+ * 🔥 [OfoxAI](https://ofox.ai) - Unified API gateway for 100+ LLMs via a single OpenAI-compatible endpoint. No monthly fees, pay per token.
  * 🔥 [openlit](https://github.com/openlit/openlit) - ⭐ 2.4k / Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
  * ⚠️ [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - ⭐ 1.8k /   Collect the prompt of GPTS
  * ⚠️ [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - ⭐ 2.7k / My own Prompts for Custom instructions ChatGPT
