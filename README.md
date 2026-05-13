@@ -192,6 +192,7 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * ✅ [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - ⭐ 1.9k / Curated GPT-Image-2 prompts for the OpenAI API — portraits, posters, UI mockups, game screenshots, character sheets, and more. Ready-to-use prompts for gpt-image-2.
  * 🔥 [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - ⭐ 14k / Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.
+ * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP-native persistent memory server for AI agents. Decay-weighted retrieval, HNSW vector search, RocksDB storage, and multi-agent namespacing.
 
 
 ## Prompts
