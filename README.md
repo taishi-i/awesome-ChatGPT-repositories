@@ -1327,6 +1327,7 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
 
 ## NLP
 
+ * [suppr-skills](https://github.com/WildDataX/suppr-skills) - Claude Code skills for Suppr literature search and document translation APIs.
  * 💤 [BioGPT](https://github.com/microsoft/biogpt) - ⭐ 4.5k / microsoft research has released biogpt, a large language model trained on biomedical research literature. the model achieves better-than-human performance on answering questions from the biomedical literature, as evaluated on pubmedqa. the code for the …
  * 💤 [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - ⭐ 30k / Code and documentation to train Stanford's Alpaca models, and generate the data.
  * 🔥 [openai-python](https://github.com/openai/openai-python) - ⭐ 31k / The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
