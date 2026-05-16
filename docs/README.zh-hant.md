@@ -25,14 +25,15 @@
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
 /plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
+/reload-plugins
 ```
 ### 使用方式
 ```
-/awesome-chatgpt-search:search RAG retrieval             # 關鍵字搜尋
-/awesome-chatgpt-search:search category:CLIs agent       # 依類別篩選
-/awesome-chatgpt-search:search language:Python langchain  # 依語言篩選
-/awesome-chatgpt-search:search fine-tuning lora peft     # 多關鍵字
-/awesome-chatgpt-search:search list categories           # 顯示所有類別
+/awesome-chatgpt-search:search RAG retrieval
+/awesome-chatgpt-search:search category:CLIs agent
+/awesome-chatgpt-search:search language:Python langchain
+/awesome-chatgpt-search:search fine-tuning lora peft
+/awesome-chatgpt-search:search list categories
 ```
 
 
@@ -41,39 +42,31 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - 一份精心策劃的獨立AI初創企業清單-僅包括自給自足、前種子輪和天使投資的產品。
-
-
-**Prompts**
- * [openpencil](https://github.com/zseven-w/openpencil) - 世界上第一個開源AI原生矢量設計工具，也是第一個具有同時代理團隊功能的工具。設計即代碼。將提示直接轉換為UI在實時畫布上。是鉛筆的現代替代品。
-
-
 **Chatbots**
- * [agor](https://github.com/preset-io/agor) - 在多人畫布上組織克勞德代碼、代碼和雙子會話。管理git工作樹，追踪人工智能對話，並即時可視化您團隊的代理工作。
-
-
-**Browser-extensions**
- * [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude 代碼和 Codex GUI 插件
+ * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3 是一個人工智慧自動化平台，將工作流程、動作、代理人和對話通道結合在一個運行時中。
 
 
 **CLIs**
- * [AionUi](https://github.com/iofficeai/aionui) - 免費、本地、開源的24/7 Cowork應用程式，適用於OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLI和20多個CLI | 自定義您的助手 | 如果您喜歡，請點擊星星！
- * [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - 非官方Python API和Google NotebookLM的代理技能。 通过Python，CLI和AI代理（如Claude Code，Codex和OpenClaw）完全编程访问NotebookLM的功能，包括Web UI没有暴露的功能。
- * [orca](https://github.com/stablyai/orca) - 這是下一代的IDE，專為處理一群平行代理而設計。使用您自己的訂閱來運行任何編碼代理。
+ * [open-vibe-island](https://github.com/octane0411/open-vibe-island) - 開源的vibe-island替代品，為重度code agent用戶設計，支持cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm。
+ * [lean-ctx](https://github.com/yvgude/lean-ctx) - 用於AI開發的Context OS。通過Shell Hook + MCP Server，將Cursor、Claude Code、Copilot、Windsurf、Codex、Gemini等工具中的令牌浪費減少60-95%（在緩存讀取時可達99%）。49種工具，10種讀取模式，90多種模式，單一的Rust二進制文件。
+ * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - 您的設備上的 AI 助手，能夠操作終端並在 Android 世界中執行各種任務。
+ * [opencove](https://github.com/deadwavewave/opencove) - 您的無限畫布工作空間，用於代理、任務、知識和研究。一個供克勞德代碼、代碼、終端、任務和筆記使用的無限畫布。
+ * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClaw桌面應用程式-無需終端機，無需編碼。 macOS和Windows的一鍵安裝程式。
 
 
 **NLP**
- * [context-mode](https://github.com/mksglu/context-mode) - 為AI編碼代理進行上下文窗口優化。沙盒工具輸出，減少98%。15個平台。
- * [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - 一個深植於您自己的Zotero圖書館的研究代理系統。
- * [datachain](https://github.com/datachain-ai/datachain) - 數據記憶：AI代理的操作數據上下文層 - 在圖像、視頻、文檔和表格上的打字、版本化數據集。
+ * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - 代理商利用性能优化系统。为克劳德代码、密码、开放代码、光标等进行技能、直觉、记忆、安全和研究优先的开发。
+ * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - 自託管的MCP伺服器用於AI代理記憶 - 83個工具，87.8%的LoCoMo。與Claude、Cursor、Windsurf一起使用。
+ * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - 你是CTO，代理人是你的團隊。他們獨立處理任務，互相傳遞訊息，並審查彼此的工作。你只需觀看看板並發出高層指令。Codex/Claude/OpenCode（200多個模型）。建立你的人工智慧公司。
 
 
 **Others**
- * [open-mercato](https://github.com/open-mercato/open-mercato) - AI-工程基礎框架是由AI構建並為AI設計的。已經做出了數百個架構和領域決策（多租戶、RBAC、事件流、定價、銷售管道、CRM/ERP流程），這些是已經確定的慣例和規範，因此代理人（游標、Cl）
+ * [agentmemory](https://github.com/rohitg00/agentmemory) - #1 基於真實世界基準的AI編碼代理持久記憶
+ * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文獻（Suppr）AI 文件翻譯與學術文獻檢索技能集
+ * [agentsview](https://github.com/wesm/agentsview) - 本地優先的會話智能和分析，支持Claude Code、Codex和其他14個代理。另外：ccusage的100倍更快替代品！
 
 
-_Updated on May 11, 2026_ (A total of 2565 repositories listed.)
+_Updated on May 17, 2026_ (A total of 2577 repositories listed.)
 
 ## Table of contents
 
@@ -757,6 +750,7 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [ruflo](https://github.com/ruvnet/ruflo) - 🌊 领先的代理编排平台为克劳德。部署智能多代理群集，协调自主工作流程，并构建对话式人工智能系统。功能包括企业级架构、自学习群集智能、RAG集成。
  * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API 是一個開源的 WhatsApp 整合 API
  * [agor](https://github.com/preset-io/agor) - 在多人畫布上組織克勞德代碼、代碼和雙子會話。管理git工作樹，追踪人工智能對話，並即時可視化您團隊的代理工作。
+ * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3 是一個人工智慧自動化平台，將工作流程、動作、代理人和對話通道結合在一個運行時中。
 
 
 ## Browser-extensions
@@ -1246,6 +1240,11 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [AionUi](https://github.com/iofficeai/aionui) - 免費、本地、開源的24/7 Cowork應用程式，適用於OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLI和20多個CLI | 自定義您的助手 | 如果您喜歡，請點擊星星！
  * [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - 非官方Python API和Google NotebookLM的代理技能。 通过Python，CLI和AI代理（如Claude Code，Codex和OpenClaw）完全编程访问NotebookLM的功能，包括Web UI没有暴露的功能。
  * [orca](https://github.com/stablyai/orca) - 這是下一代的IDE，專為處理一群平行代理而設計。使用您自己的訂閱來運行任何編碼代理。
+ * [open-vibe-island](https://github.com/octane0411/open-vibe-island) - 開源的vibe-island替代品，為重度code agent用戶設計，支持cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm。
+ * [lean-ctx](https://github.com/yvgude/lean-ctx) - 用於AI開發的Context OS。通過Shell Hook + MCP Server，將Cursor、Claude Code、Copilot、Windsurf、Codex、Gemini等工具中的令牌浪費減少60-95%（在緩存讀取時可達99%）。49種工具，10種讀取模式，90多種模式，單一的Rust二進制文件。
+ * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - 您的設備上的 AI 助手，能夠操作終端並在 Android 世界中執行各種任務。
+ * [opencove](https://github.com/deadwavewave/opencove) - 您的無限畫布工作空間，用於代理、任務、知識和研究。一個供克勞德代碼、代碼、終端、任務和筆記使用的無限畫布。
+ * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClaw桌面應用程式-無需終端機，無需編碼。 macOS和Windows的一鍵安裝程式。
 
 
 ## Reimplementations
@@ -1727,6 +1726,9 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [context-mode](https://github.com/mksglu/context-mode) - 為AI編碼代理進行上下文窗口優化。沙盒工具輸出，減少98%。15個平台。
  * [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - 一個深植於您自己的Zotero圖書館的研究代理系統。
  * [datachain](https://github.com/datachain-ai/datachain) - 數據記憶：AI代理的操作數據上下文層 - 在圖像、視頻、文檔和表格上的打字、版本化數據集。
+ * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - 代理商利用性能优化系统。为克劳德代码、密码、开放代码、光标等进行技能、直觉、记忆、安全和研究优先的开发。
+ * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - 自託管的MCP伺服器用於AI代理記憶 - 83個工具，87.8%的LoCoMo。與Claude、Cursor、Windsurf一起使用。
+ * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - 你是CTO，代理人是你的團隊。他們獨立處理任務，互相傳遞訊息，並審查彼此的工作。你只需觀看看板並發出高層指令。Codex/Claude/OpenCode（200多個模型）。建立你的人工智慧公司。
 
 
 ## Langchain
@@ -2713,5 +2715,8 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [ruler](https://github.com/intellectronica/ruler) - 統治者 - 對所有編碼代理應用相同的規則
  * [serena](https://github.com/oraios/serena) - 一個強大的MCP工具包，用於編碼，提供語義檢索和編輯功能 - 您的代理人的集成開發環境
  * [open-mercato](https://github.com/open-mercato/open-mercato) - AI-工程基礎框架是由AI構建並為AI設計的。已經做出了數百個架構和領域決策（多租戶、RBAC、事件流、定價、銷售管道、CRM/ERP流程），這些是已經確定的慣例和規範，因此代理人（游標、Cl）
+ * [agentmemory](https://github.com/rohitg00/agentmemory) - #1 基於真實世界基準的AI編碼代理持久記憶
+ * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文獻（Suppr）AI 文件翻譯與學術文獻檢索技能集
+ * [agentsview](https://github.com/wesm/agentsview) - 本地優先的會話智能和分析，支持Claude Code、Codex和其他14個代理。另外：ccusage的100倍更快替代品！
 
 
