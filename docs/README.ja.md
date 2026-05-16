@@ -25,14 +25,15 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
 /plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
+/reload-plugins
 ```
 ### 使い方
 ```
-/awesome-chatgpt-search:search RAG retrieval             # キーワード検索
-/awesome-chatgpt-search:search category:CLIs agent       # カテゴリでフィルタリング
-/awesome-chatgpt-search:search language:Python langchain  # 言語でフィルタリング
-/awesome-chatgpt-search:search fine-tuning lora peft     # 複数キーワード
-/awesome-chatgpt-search:search list categories           # 全カテゴリを表示
+/awesome-chatgpt-search:search RAG retrieval
+/awesome-chatgpt-search:search category:CLIs agent
+/awesome-chatgpt-search:search language:Python langchain
+/awesome-chatgpt-search:search fine-tuning lora peft
+/awesome-chatgpt-search:search list categories
 ```
 
 
@@ -41,39 +42,31 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - インディー製のAIスタートアップの厳選リスト - 自己資金調達、プリシード、エンジェルファンドの製品のみ。
-
-
-**Prompts**
- * [openpencil](https://github.com/zseven-w/openpencil) - 世界初のオープンソースAIネイティブベクトルデザインツールであり、同時エージェントチームを搭載した最初のツールです。デザインをコードとして扱います。プロンプトをライブキャンバス上で直接UIに変換します。鉛筆の現代的な代替品です。
-
-
 **Chatbots**
- * [agor](https://github.com/preset-io/agor) - マルチプレイヤーキャンバス上で、オーケストレートクロードコード、コーデックス、ジェミニセッションを行います。gitワークツリーを管理し、AI会話を追跡し、チームのエージェントワークをリアルタイムで可視化します。
-
-
-**Browser-extensions**
- * [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - JetbrainsのClaude CodeとCodex GUIプラグイン
+ * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3は、ワークフロー、アクション、エージェント、および会話チャンネルを1つのランタイムで組み合わせたAI自動化プラットフォームです。
 
 
 **CLIs**
- * [AionUi](https://github.com/iofficeai/aionui) - 無料、ローカル、オープンソースの24時間365日利用可能なCoworkアプリ。OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLIなど20以上のCLIに対応。アシスタントをカスタマイズ可能。気に入ったらスターを付けてください！
- * [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Google NotebookLMの非公式Python APIおよびエージェントスキル。Python、CLI、およびClaude Code、Codex、OpenClawなどのAIエージェントを介して、NotebookLMの機能に完全なプログラムアクセスが可能です。Web UIでは公開されていない機能も利用できます。
- * [orca](https://github.com/stablyai/orca) - オルカは、並列エージェントのフリートと連携するための次世代のIDEです。自分のサブスクリプションで任意のコーディングエージェントを実行できます。
+ * [open-vibe-island](https://github.com/octane0411/open-vibe-island) - オープンソースのvibe-islandの代替品は、重いコードエージェントユーザー向けに設計されており、cc/codex/opencode、terminal/ghostty/cmux/kaku/itermをサポートしています。
+ * [lean-ctx](https://github.com/yvgude/lean-ctx) - AI開発用のContext OS。Cursor、Claude Code、Copilot、Windsurf、Codex、Geminiなどでのトークンの無駄を60〜95％削減（キャッシュされた読み取り時には最大99％）Shell Hook + MCP Server · 49のツール · 10の読み取りモード · 90以上のパターン · 単一のRustバイナリ
+ * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - 端末を操作し、Androidワールドで様々なタスクを実行することができる、あなたの端末内AIアシスタント
+ * [opencove](https://github.com/deadwavewave/opencove) - エージェント、タスク、知識、研究のための無限キャンバスワークスペース。クロードコード、コーデックス、端末、タスク、メモのための無限キャンバス。
+ * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClawデスクトップアプリ - ターミナル不要、コーディング不要。macOSおよびWindows用のワンクリックインストーラー。
 
 
 **NLP**
- * [context-mode](https://github.com/mksglu/context-mode) - AIコーディングエージェントのためのコンテキストウィンドウ最適化。サンドボックスツールの出力、98％削減。15プラットフォーム。
- * [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - 自分自身のZoteroライブラリに深く根付いた研究エージェントシステム。
- * [datachain](https://github.com/datachain-ai/datachain) - データメモリ：AIエージェント用の操作データコンテキストレイヤー - 画像、ビデオ、ドキュメント、テーブルにわたるタイプ化されたバージョン管理されたデータセットデータメモリ：AIエージェント用の操作データコンテキストレイヤー - 画像、ビデオ、ドキュメント、テーブルにわたるタイプ化されたバージョン管理されたデータセット
+ * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - エージェントは、パフォーマンス最適化システムを利用します。クロードコード、コーデックス、オープンコード、カーソルなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
+ * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - AIエージェントメモリ用の自己ホスト型MCPサーバー - 83のツール、87.8％のLoCoMo。Claude、Cursor、Windsurfと連携します。
+ * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - あなたはCTOです。エージェントたちはあなたのチームです。彼らは自分たちでタスクを処理し、お互いにメッセージを送り合い、お互いの仕事をレビューします。あなたは単にかんばんボードを見て高レベルの指示を出すだけです。Codex/Claude/OpenCode（200以上のモデル）を構築して、あなたのAI企業を作り上げてください。
 
 
 **Others**
- * [open-mercato](https://github.com/open-mercato/open-mercato) - AIエンジニアリング基盤フレームワークは、AIで構築され、AI向けに設計されています。数百のアーキテクチャとドメインの決定（マルチテナンシー、RBAC、イベントフロー、価格設定、セールスパイプライン、CRM / ERPプロセス）はすでに標準化された仕様となっており、エージェント（Cursor、Cl）によって行われています。
+ * [agentmemory](https://github.com/rohitg00/agentmemory) - 実世界のベンチマークに基づいたAIコーディングエージェントのための永続メモリ実世界のベンチマークに基づいたAIコーディングエージェントのための永続メモリ
+ * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI ドキュメント翻訳と学術文献検索スキルセット
+ * [agentsview](https://github.com/wesm/agentsview) - コーディングエージェント向けのローカルファーストセッションインテリジェンスとアナリティクス、Claude Code、Codex、および14の他のエージェントをサポートします。また、ccusageの100倍高速な置換も！
 
 
-_Updated on May 11, 2026_ (A total of 2565 repositories listed.)
+_Updated on May 17, 2026_ (A total of 2577 repositories listed.)
 
 ## Table of contents
 
@@ -757,6 +750,7 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [ruflo](https://github.com/ruvnet/ruflo) - 🌊 クロード向けの先進的なエージェントオーケストレーションプラットフォーム。インテリジェントなマルチエージェントスワームを展開し、自律型ワークフローを調整し、会話型AIシステムを構築します。企業向けのアーキテクチャ、自己学習型スワームインテリジェンス、RAG統合を特徴としています。
  * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
  * [agor](https://github.com/preset-io/agor) - マルチプレイヤーキャンバス上で、オーケストレートクロードコード、コーデックス、ジェミニセッションを行います。gitワークツリーを管理し、AI会話を追跡し、チームのエージェントワークをリアルタイムで可視化します。
+ * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3は、ワークフロー、アクション、エージェント、および会話チャンネルを1つのランタイムで組み合わせたAI自動化プラットフォームです。
 
 
 ## Browser-extensions
@@ -1246,6 +1240,11 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [AionUi](https://github.com/iofficeai/aionui) - 無料、ローカル、オープンソースの24時間365日利用可能なCoworkアプリ。OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLIなど20以上のCLIに対応。アシスタントをカスタマイズ可能。気に入ったらスターを付けてください！
  * [notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Google NotebookLMの非公式Python APIおよびエージェントスキル。Python、CLI、およびClaude Code、Codex、OpenClawなどのAIエージェントを介して、NotebookLMの機能に完全なプログラムアクセスが可能です。Web UIでは公開されていない機能も利用できます。
  * [orca](https://github.com/stablyai/orca) - オルカは、並列エージェントのフリートと連携するための次世代のIDEです。自分のサブスクリプションで任意のコーディングエージェントを実行できます。
+ * [open-vibe-island](https://github.com/octane0411/open-vibe-island) - オープンソースのvibe-islandの代替品は、重いコードエージェントユーザー向けに設計されており、cc/codex/opencode、terminal/ghostty/cmux/kaku/itermをサポートしています。
+ * [lean-ctx](https://github.com/yvgude/lean-ctx) - AI開発用のContext OS。Cursor、Claude Code、Copilot、Windsurf、Codex、Geminiなどでのトークンの無駄を60〜95％削減（キャッシュされた読み取り時には最大99％）Shell Hook + MCP Server · 49のツール · 10の読み取りモード · 90以上のパターン · 単一のRustバイナリ
+ * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - 端末を操作し、Androidワールドで様々なタスクを実行することができる、あなたの端末内AIアシスタント
+ * [opencove](https://github.com/deadwavewave/opencove) - エージェント、タスク、知識、研究のための無限キャンバスワークスペース。クロードコード、コーデックス、端末、タスク、メモのための無限キャンバス。
+ * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClawデスクトップアプリ - ターミナル不要、コーディング不要。macOSおよびWindows用のワンクリックインストーラー。
 
 
 ## Reimplementations
@@ -1727,6 +1726,9 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [context-mode](https://github.com/mksglu/context-mode) - AIコーディングエージェントのためのコンテキストウィンドウ最適化。サンドボックスツールの出力、98％削減。15プラットフォーム。
  * [llm-for-zotero](https://github.com/yilewang/llm-for-zotero) - 自分自身のZoteroライブラリに深く根付いた研究エージェントシステム。
  * [datachain](https://github.com/datachain-ai/datachain) - データメモリ：AIエージェント用の操作データコンテキストレイヤー - 画像、ビデオ、ドキュメント、テーブルにわたるタイプ化されたバージョン管理されたデータセットデータメモリ：AIエージェント用の操作データコンテキストレイヤー - 画像、ビデオ、ドキュメント、テーブルにわたるタイプ化されたバージョン管理されたデータセット
+ * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - エージェントは、パフォーマンス最適化システムを利用します。クロードコード、コーデックス、オープンコード、カーソルなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
+ * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - AIエージェントメモリ用の自己ホスト型MCPサーバー - 83のツール、87.8％のLoCoMo。Claude、Cursor、Windsurfと連携します。
+ * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - あなたはCTOです。エージェントたちはあなたのチームです。彼らは自分たちでタスクを処理し、お互いにメッセージを送り合い、お互いの仕事をレビューします。あなたは単にかんばんボードを見て高レベルの指示を出すだけです。Codex/Claude/OpenCode（200以上のモデル）を構築して、あなたのAI企業を作り上げてください。
 
 
 ## Langchain
@@ -2712,6 +2714,9 @@ _Updated on May 11, 2026_ (A total of 2565 repositories listed.)
  * [remodex](https://github.com/emanuele-web04/remodex) - コーデックス用リモコン
  * [ruler](https://github.com/intellectronica/ruler) - ルーラー - すべてのコーディングエージェントに同じルールを適用します。
  * [serena](https://github.com/oraios/serena) - コーディング用の強力なMCPツールキットで、意味論的な検索と編集機能を提供します - あなたのエージェントのためのIDE
- * [open-mercato](https://github.com/open-mercato/open-mercato) - ERPプロセス）はすでに標準化された仕様となっており、エージェント（Cursor、Cl）によって行われています。
+ * [open-mercato](https://github.com/open-mercato/open-mercato) - AIエンジニアリング基盤フレームワークは、AIで構築され、AI向けに設計されています。数百のアーキテクチャとドメインの決定（マルチテナンシー、RBAC、イベントフロー、価格設定、セールスパイプライン、CRM / ERPプロセス）はすでに標準化された仕様となっており、エージェント（Cursor、Cl）によって行われています。
+ * [agentmemory](https://github.com/rohitg00/agentmemory) - 実世界のベンチマークに基づいたAIコーディングエージェントのための永続メモリ実世界のベンチマークに基づいたAIコーディングエージェントのための永続メモリ
+ * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI ドキュメント翻訳と学術文献検索スキルセット
+ * [agentsview](https://github.com/wesm/agentsview) - コーディングエージェント向けのローカルファーストセッションインテリジェンスとアナリティクス、Claude Code、Codex、および14の他のエージェントをサポートします。また、ccusageの100倍高速な置換も！
 
 
