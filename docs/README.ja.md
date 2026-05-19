@@ -42,31 +42,24 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3は、ワークフロー、アクション、エージェント、および会話チャンネルを1つのランタイムで組み合わせたAI自動化プラットフォームです。
+**Prompts**
+ * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-SkillsはオールインワンのAIスキルパッケージです。専門レベルの機能とコンテキスト管理を一般的なスキルパッケージにシームレスに統合し、どんなAIエージェントでも瞬時に機能をアップグレードできるようにします。断片化の摩擦を排除します。
 
 
 **CLIs**
- * [open-vibe-island](https://github.com/octane0411/open-vibe-island) - オープンソースのvibe-islandの代替品は、重いコードエージェントユーザー向けに設計されており、cc/codex/opencode、terminal/ghostty/cmux/kaku/itermをサポートしています。
- * [lean-ctx](https://github.com/yvgude/lean-ctx) - AI開発用のContext OS。Cursor、Claude Code、Copilot、Windsurf、Codex、Geminiなどでのトークンの無駄を60〜95％削減（キャッシュされた読み取り時には最大99％）Shell Hook + MCP Server · 49のツール · 10の読み取りモード · 90以上のパターン · 単一のRustバイナリ
- * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - 端末を操作し、Androidワールドで様々なタスクを実行することができる、あなたの端末内AIアシスタント
- * [opencove](https://github.com/deadwavewave/opencove) - エージェント、タスク、知識、研究のための無限キャンバスワークスペース。クロードコード、コーデックス、端末、タスク、メモのための無限キャンバス。
- * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClawデスクトップアプリ - ターミナル不要、コーディング不要。macOSおよびWindows用のワンクリックインストーラー。
+ * [claurst](https://github.com/kuberwastaken/claurst) - 出荷するビルダーのためのエージェントコーディング
+ * [agent-deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェントのためのターミナルセッションマネージャー。Claude、Gemini、OpenCode、Codexなどのための1つのTUI。
 
 
 **NLP**
- * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - エージェントは、パフォーマンス最適化システムを利用します。クロードコード、コーデックス、オープンコード、カーソルなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
- * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - AIエージェントメモリ用の自己ホスト型MCPサーバー - 83のツール、87.8％のLoCoMo。Claude、Cursor、Windsurfと連携します。
- * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - あなたはCTOです。エージェントたちはあなたのチームです。彼らは自分たちでタスクを処理し、お互いにメッセージを送り合い、お互いの仕事をレビューします。あなたは単にかんばんボードを見て高レベルの指示を出すだけです。Codex/Claude/OpenCode（200以上のモデル）を構築して、あなたのAI企業を作り上げてください。
+ * [ECC](https://github.com/affaan-m/ecc) - エージェントは、パフォーマンス最適化システムを利用します。Claude Code、Codex、Opencode、Cursorなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
 
 
 **Others**
- * [agentmemory](https://github.com/rohitg00/agentmemory) - 実世界のベンチマークに基づいたAIコーディングエージェントのための永続メモリ実世界のベンチマークに基づいたAIコーディングエージェントのための永続メモリ
- * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI ドキュメント翻訳と学術文献検索スキルセット
- * [agentsview](https://github.com/wesm/agentsview) - コーディングエージェント向けのローカルファーストセッションインテリジェンスとアナリティクス、Claude Code、Codex、および14の他のエージェントをサポートします。また、ccusageの100倍高速な置換も！
+ * [codegraph](https://github.com/colbymchenry/codegraph) - クロード・コード、コーデックス、カーソル、オープンコード用の事前インデックス付きコードナレッジグラフ - トークンが少なく、ツールの呼び出しが少なく、100％ローカル
 
 
-_Updated on May 17, 2026_ (A total of 2577 repositories listed.)
+_Updated on May 20, 2026_ (A total of 2582 repositories listed.)
 
 ## Table of contents
 
@@ -368,6 +361,7 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * ✅ [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - ⭐ 7.5k / 22の迅速なエンジニアリング技術と、基本的な概念からLLMを活用するための高度な戦略までを扱ったJupyter Notebookの実践的なチュートリアル。
  * 🔥 [open-codesign](https://github.com/opencoworkai/open-codesign) - ⭐ 5.4k / オープンソースのクロードデザインの代替。クロードコード/コーデックスAPIキーをワンクリックでインポートします。プロンプト→プロトタイプ/スライド/PDF。マルチモデル（クロード、GPT、ジェミニ、キミ、GLM、オラマ）。BYOK、ローカルファースト、MIT。
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界初のオープンソースAIネイティブベクトルデザインツールであり、同時エージェントチームを搭載した最初のツールです。デザインをコードとして扱います。プロンプトをライブキャンバス上で直接UIに変換します。鉛筆の現代的な代替品です。
+ * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-SkillsはオールインワンのAIスキルパッケージです。専門レベルの機能とコンテキスト管理を一般的なスキルパッケージにシームレスに統合し、どんなAIエージェントでも瞬時に機能をアップグレードできるようにします。断片化の摩擦を排除します。
 
 
 ## Chatbots
@@ -1245,6 +1239,8 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - 端末を操作し、Androidワールドで様々なタスクを実行することができる、あなたの端末内AIアシスタント
  * [opencove](https://github.com/deadwavewave/opencove) - エージェント、タスク、知識、研究のための無限キャンバスワークスペース。クロードコード、コーデックス、端末、タスク、メモのための無限キャンバス。
  * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClawデスクトップアプリ - ターミナル不要、コーディング不要。macOSおよびWindows用のワンクリックインストーラー。
+ * [claurst](https://github.com/kuberwastaken/claurst) - 出荷するビルダーのためのエージェントコーディング
+ * [agent-deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェントのためのターミナルセッションマネージャー。Claude、Gemini、OpenCode、Codexなどのための1つのTUI。
 
 
 ## Reimplementations
@@ -1729,6 +1725,7 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - エージェントは、パフォーマンス最適化システムを利用します。クロードコード、コーデックス、オープンコード、カーソルなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
  * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - AIエージェントメモリ用の自己ホスト型MCPサーバー - 83のツール、87.8％のLoCoMo。Claude、Cursor、Windsurfと連携します。
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - あなたはCTOです。エージェントたちはあなたのチームです。彼らは自分たちでタスクを処理し、お互いにメッセージを送り合い、お互いの仕事をレビューします。あなたは単にかんばんボードを見て高レベルの指示を出すだけです。Codex/Claude/OpenCode（200以上のモデル）を構築して、あなたのAI企業を作り上げてください。
+ * [ECC](https://github.com/affaan-m/ecc) - エージェントは、パフォーマンス最適化システムを利用します。Claude Code、Codex、Opencode、Cursorなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
 
 
 ## Langchain
@@ -2718,5 +2715,6 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [agentmemory](https://github.com/rohitg00/agentmemory) - 実世界のベンチマークに基づいたAIコーディングエージェントのための永続メモリ実世界のベンチマークに基づいたAIコーディングエージェントのための永続メモリ
  * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI ドキュメント翻訳と学術文献検索スキルセット
  * [agentsview](https://github.com/wesm/agentsview) - コーディングエージェント向けのローカルファーストセッションインテリジェンスとアナリティクス、Claude Code、Codex、および14の他のエージェントをサポートします。また、ccusageの100倍高速な置換も！
+ * [codegraph](https://github.com/colbymchenry/codegraph) - クロード・コード、コーデックス、カーソル、オープンコード用の事前インデックス付きコードナレッジグラフ - トークンが少なく、ツールの呼び出しが少なく、100％ローカル
 
 

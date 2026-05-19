@@ -46,31 +46,24 @@ Run these two commands inside Claude Code:
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3 is an AI automation platform, combining workflows, actions, agents, and conversational channels in one runtime.
+**Prompts**
+ * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragme
 
 
 **CLIs**
- * [open-vibe-island](https://github.com/octane0411/open-vibe-island) - The open-source alternative to vibe-island, designed for heavy code agent users, supporting cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm. 开源的vibe-island替代品，为重度code agent用户设计，支持cc/codex/opencode, terminal/ghostty/cmux/kaku/iterm
- * [lean-ctx](https://github.com/yvgude/lean-ctx) - The Context OS for AI Development. Reduce token waste in Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini & more by 60–95% (up to 99% on cached reads) Shell Hook + MCP Server · 49 tools · 10 read modes · 90+ patterns · Single Rust binary
- * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world || 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务
- * [opencove](https://github.com/deadwavewave/opencove) - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes.
- * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClaw Desktop App — No Terminal, No Coding. One-click installer for macOS & Windows.
+ * [claurst](https://github.com/kuberwastaken/claurst) - Agentic Coding for Builders who Ship
+ * [agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 
 **NLP**
- * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
- * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP server for AI agent memory — 83 tools, 87.8% LoCoMo. Works with Claude, Cursor, Windsurf.
- * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models). Build your AI company.
+ * [ECC](https://github.com/affaan-m/ecc) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
 **Others**
- * [agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
- * [suppr-skills](https://github.com/wilddatax/suppr-skills) - Superpower Literature (Suppr) AI Document Translation and Academic Literature Retrieval Skills Collection
- * [agentsview](https://github.com/wesm/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
+ * [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
 
 
-_Updated on May 17, 2026_ (A total of 2577 repositories listed.)
+_Updated on May 20, 2026_ (A total of 2582 repositories listed.)
 
 ## Table of contents
 
@@ -372,6 +365,7 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * ✅ [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - ⭐ 7.5k / 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
  * 🔥 [open-codesign](https://github.com/opencoworkai/open-codesign) - ⭐ 5.4k / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
  * [openpencil](https://github.com/zseven-w/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
+ * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragme
 
 
 ## Chatbots
@@ -1249,6 +1243,8 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world || 你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务
  * [opencove](https://github.com/deadwavewave/opencove) - Your infinite canvas workspace for agents, tasks, knowledge, and research. An infinite canvas for Claude Code, Codex, terminals, tasks, and notes.
  * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClaw Desktop App — No Terminal, No Coding. One-click installer for macOS & Windows.
+ * [claurst](https://github.com/kuberwastaken/claurst) - Agentic Coding for Builders who Ship
+ * [agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 
 
 ## Reimplementations
@@ -1733,6 +1729,7 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
  * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP server for AI agent memory — 83 tools, 87.8% LoCoMo. Works with Claude, Cursor, Windsurf.
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models). Build your AI company.
+ * [ECC](https://github.com/affaan-m/ecc) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
 ## Langchain
@@ -2722,5 +2719,6 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
  * [suppr-skills](https://github.com/wilddatax/suppr-skills) - Superpower Literature (Suppr) AI Document Translation and Academic Literature Retrieval Skills Collection
  * [agentsview](https://github.com/wesm/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
+ * [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
 
 
