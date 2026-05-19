@@ -7242,6 +7242,40 @@
                     "zh-hans": "世界上第一个开源AI原生矢量设计工具，也是第一个具有并发代理团队功能的工具。设计即代码。将提示直接转换为UI在实时画布上。是铅笔的现代替代品。",
                     "zh-hant": "世界上第一個開源AI原生矢量設計工具，也是第一個具有同時代理團隊功能的工具。設計即代碼。將提示直接轉換為UI在實時畫布上。是鉛筆的現代替代品。"
                 }
+            },
+            "https://github.com/foryourhealth111-pixel/vibe-skills": {
+                "repository_name": "Vibe-Skills",
+                "user_name": "foryourhealth111-pixel",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragmented tools and complex harnesses.",
+                "topics": [
+                    "agent-framework",
+                    "agent-skills",
+                    "agentic-coding",
+                    "ai-agents",
+                    "ai-scientist",
+                    "ai-skills",
+                    "ai-workflow",
+                    "automation",
+                    "claude-code",
+                    "codex",
+                    "context-engineering",
+                    "developer-tools",
+                    "llm",
+                    "multi-agent",
+                    "prompt-engineering",
+                    "skills",
+                    "vibe-coding",
+                    "vibecoding",
+                    "workflow-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragme",
+                    "ja": "Vibe-SkillsはオールインワンのAIスキルパッケージです。専門レベルの機能とコンテキスト管理を一般的なスキルパッケージにシームレスに統合し、どんなAIエージェントでも瞬時に機能をアップグレードできるようにします。断片化の摩擦を排除します。",
+                    "zh-hans": "Vibe-Skills是一款全能的AI技能包。它无缝地将专家级能力和上下文管理集成到一个通用技能包中，使任何AI代理能够立即升级其功能，消除了碎片化的摩擦。",
+                    "zh-hant": "Vibe-Skills 是一個全方位的 AI 技能套件。它無縫地將專家級能力和上下文管理整合到一個通用技能套件中，使任何 AI 代理能夠立即升級其功能，消除了碎片化的摩擦。"
+                }
             }
         },
         "Chatbots": {
@@ -29367,6 +29401,62 @@
                     "zh-hans": "OpenClaw桌面应用程序-无终端，无编码。 macOS和Windows的一键安装程序。",
                     "zh-hant": "OpenClaw桌面應用程式-無需終端機，無需編碼。 macOS和Windows的一鍵安裝程式。"
                 }
+            },
+            "https://github.com/kuberwastaken/claurst": {
+                "repository_name": "claurst",
+                "user_name": "Kuberwastaken",
+                "language": "Rust",
+                "license": "GNU General Public License v3.0",
+                "description": "Agentic Coding for Builders who Ship",
+                "topics": [
+                    "claude",
+                    "claude-code",
+                    "claurst",
+                    "cli",
+                    "codex",
+                    "gemini",
+                    "rust",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Agentic Coding for Builders who Ship",
+                    "ja": "出荷するビルダーのためのエージェントコーディング",
+                    "zh-hans": "为那些交付产品的建造者编码",
+                    "zh-hant": "具有出貨能力的建造者的代碼"
+                }
+            },
+            "https://github.com/asheshgoplani/agent-deck": {
+                "repository_name": "agent-deck",
+                "user_name": "asheshgoplani",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+                "topics": [
+                    "ai-agent",
+                    "ai-agents",
+                    "ai-coding-assistant",
+                    "aider",
+                    "bubble-tea",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "developer-tools",
+                    "discord",
+                    "gemini-cli",
+                    "golang",
+                    "mcp",
+                    "productivity",
+                    "session-manager",
+                    "terminal",
+                    "tmux",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+                    "ja": "AIコーディングエージェントのためのターミナルセッションマネージャー。Claude、Gemini、OpenCode、Codexなどのための1つのTUI。",
+                    "zh-hans": "用于AI编码代理的终端会话管理器。 为Claude，Gemini，OpenCode，Codex等提供一个TUI。",
+                    "zh-hant": "用於AI編碼代理的終端會話管理器。Claude、Gemini、OpenCode、Codex等等的一個TUI。"
+                }
             }
         },
         "Reimplementations": {
@@ -40661,6 +40751,29 @@
                     "ja": "あなたはCTOです。エージェントたちはあなたのチームです。彼らは自分たちでタスクを処理し、お互いにメッセージを送り合い、お互いの仕事をレビューします。あなたは単にかんばんボードを見て高レベルの指示を出すだけです。Codex/Claude/OpenCode（200以上のモデル）を構築して、あなたのAI企業を作り上げてください。",
                     "zh-hans": "你是首席技术官，代理人是你的团队。他们独立处理任务，相互发送消息，审查彼此的工作。你只需观察看板并发出高层指令。Codex/Claude/OpenCode（200多个模型）。打造你的人工智能公司。",
                     "zh-hant": "你是CTO，代理人是你的團隊。他們獨立處理任務，互相傳遞訊息，並審查彼此的工作。你只需觀看看板並發出高層指令。Codex/Claude/OpenCode（200多個模型）。建立你的人工智慧公司。"
+                }
+            },
+            "https://github.com/affaan-m/ecc": {
+                "repository_name": "ECC",
+                "user_name": "affaan-m",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                "topics": [
+                    "ai-agents",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "developer-tools",
+                    "llm",
+                    "mcp",
+                    "productivity"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "ja": "エージェントは、パフォーマンス最適化システムを利用します。Claude Code、Codex、Opencode、Cursorなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。",
+                    "zh-hans": "代理商利用性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全和研究优先的开发。",
+                    "zh-hant": "代理商利用性能優化系統。為Claude Code、Codex、Opencode、Cursor等等提供技能、直覺、記憶、安全性和研究優先的開發。"
                 }
             }
         },
@@ -62167,6 +62280,20 @@
                     "ja": "コーディングエージェント向けのローカルファーストセッションインテリジェンスとアナリティクス、Claude Code、Codex、および14の他のエージェントをサポートします。また、ccusageの100倍高速な置換も！",
                     "zh-hans": "本地首选会话智能和编码代理分析，支持Claude Code，Codex和其他14个代理。另外：ccusage的替代速度提高100倍！",
                     "zh-hant": "本地優先的會話智能和分析，支持Claude Code、Codex和其他14個代理。另外：ccusage的100倍更快替代品！"
+                }
+            },
+            "https://github.com/colbymchenry/codegraph": {
+                "repository_name": "codegraph",
+                "user_name": "colbymchenry",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+                    "ja": "クロード・コード、コーデックス、カーソル、オープンコード用の事前インデックス付きコードナレッジグラフ - トークンが少なく、ツールの呼び出しが少なく、100％ローカル",
+                    "zh-hans": "为Claude Code、Codex、Cursor和OpenCode预先索引的代码知识图——更少的标记，更少的工具调用，100%本地。",
+                    "zh-hant": "為Claude Code、Codex、Cursor和OpenCode預先索引的代碼知識圖-更少的令牌，更少的工具調用，100%本地"
                 }
             }
         }

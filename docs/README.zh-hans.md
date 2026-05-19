@@ -42,31 +42,24 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3是一个AI自动化平台，将工作流程、动作、代理和对话渠道结合在一个运行时中。
+**Prompts**
+ * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills是一款全能的AI技能包。它无缝地将专家级能力和上下文管理集成到一个通用技能包中，使任何AI代理能够立即升级其功能，消除了碎片化的摩擦。
 
 
 **CLIs**
- * [open-vibe-island](https://github.com/octane0411/open-vibe-island) - 适用于重度代码代理用户的开源替代方案，支持cc/codex/opencode，终端/ghostty/cmux/kaku/iterm。
- * [lean-ctx](https://github.com/yvgude/lean-ctx) - 用于AI开发的上下文操作系统。通过Shell Hook + MCP服务器，将Cursor、Claude Code、Copilot、Windsurf、Codex、Gemini等工具中的令牌浪费减少60-95%（缓存读取时可高达99%）。49种工具，10种读取模式，90多种模式，单一的Rust二进制文件。
- * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - 您的设备上的 AI 助手，能够操作终端并在安卓世界中执行各种任务。
- * [opencove](https://github.com/deadwavewave/opencove) - 您的无限画布工作空间，用于代理、任务、知识和研究。为克劳德代码、编码、终端、任务和笔记提供无限画布。
- * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClaw桌面应用程序-无终端，无编码。 macOS和Windows的一键安装程序。
+ * [claurst](https://github.com/kuberwastaken/claurst) - 为那些交付产品的建造者编码
+ * [agent-deck](https://github.com/asheshgoplani/agent-deck) - 用于AI编码代理的终端会话管理器。 为Claude，Gemini，OpenCode，Codex等提供一个TUI。
 
 
 **NLP**
- * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - 代理商利用性能优化系统。为克劳德代码、密码、开放代码、光标等进行技能、直觉、记忆、安全和研究优先的开发。
- * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - 自托管的MCP服务器用于AI代理记忆 - 83个工具，87.8%的LoCoMo。与Claude，Cursor，Windsurf配合使用。
- * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - 你是首席技术官，代理人是你的团队。他们独立处理任务，相互发送消息，审查彼此的工作。你只需观察看板并发出高层指令。Codex/Claude/OpenCode（200多个模型）。打造你的人工智能公司。
+ * [ECC](https://github.com/affaan-m/ecc) - 代理商利用性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全和研究优先的开发。
 
 
 **Others**
- * [agentmemory](https://github.com/rohitg00/agentmemory) - 基于真实世界基准的AI编码代理的持久内存
- * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI 文档翻译与学术文献检索技能集超能文献（Suppr）AI 文档翻译与学术文献检索技能集
- * [agentsview](https://github.com/wesm/agentsview) - 本地首选会话智能和编码代理分析，支持Claude Code，Codex和其他14个代理。另外：ccusage的替代速度提高100倍！
+ * [codegraph](https://github.com/colbymchenry/codegraph) - 为Claude Code、Codex、Cursor和OpenCode预先索引的代码知识图——更少的标记，更少的工具调用，100%本地。
 
 
-_Updated on May 17, 2026_ (A total of 2577 repositories listed.)
+_Updated on May 20, 2026_ (A total of 2582 repositories listed.)
 
 ## Table of contents
 
@@ -368,6 +361,7 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * ✅ [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - ⭐ 7.5k / 22个快速的工程技术，配有实践Jupyter Notebook教程，从基本概念到利用LLMs的高级策略。
  * 🔥 [open-codesign](https://github.com/opencoworkai/open-codesign) - ⭐ 5.4k / 开源克劳德设计替代方案。一键导入您的克劳德代码/ Codex API密钥。提示→原型/幻灯片/PDF。多模型（克劳德，GPT，Gemini，Kimi，GLM，Ollama）。BYOK，本地优先，MIT。
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界上第一个开源AI原生矢量设计工具，也是第一个具有并发代理团队功能的工具。设计即代码。将提示直接转换为UI在实时画布上。是铅笔的现代替代品。
+ * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills是一款全能的AI技能包。它无缝地将专家级能力和上下文管理集成到一个通用技能包中，使任何AI代理能够立即升级其功能，消除了碎片化的摩擦。
 
 
 ## Chatbots
@@ -1245,6 +1239,8 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [OpenOmniBot](https://github.com/omnimind-ai/openomnibot) - 您的设备上的 AI 助手，能够操作终端并在安卓世界中执行各种任务。
  * [opencove](https://github.com/deadwavewave/opencove) - 您的无限画布工作空间，用于代理、任务、知识和研究。为克劳德代码、编码、终端、任务和笔记提供无限画布。
  * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClaw桌面应用程序-无终端，无编码。 macOS和Windows的一键安装程序。
+ * [claurst](https://github.com/kuberwastaken/claurst) - 为那些交付产品的建造者编码
+ * [agent-deck](https://github.com/asheshgoplani/agent-deck) - 用于AI编码代理的终端会话管理器。 为Claude，Gemini，OpenCode，Codex等提供一个TUI。
 
 
 ## Reimplementations
@@ -1729,6 +1725,7 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [everything-claude-code](https://github.com/affaan-m/everything-claude-code) - 代理商利用性能优化系统。为克劳德代码、密码、开放代码、光标等进行技能、直觉、记忆、安全和研究优先的开发。
  * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - 自托管的MCP服务器用于AI代理记忆 - 83个工具，87.8%的LoCoMo。与Claude，Cursor，Windsurf配合使用。
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - 你是首席技术官，代理人是你的团队。他们独立处理任务，相互发送消息，审查彼此的工作。你只需观察看板并发出高层指令。Codex/Claude/OpenCode（200多个模型）。打造你的人工智能公司。
+ * [ECC](https://github.com/affaan-m/ecc) - 代理商利用性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全和研究优先的开发。
 
 
 ## Langchain
@@ -2718,5 +2715,6 @@ _Updated on May 17, 2026_ (A total of 2577 repositories listed.)
  * [agentmemory](https://github.com/rohitg00/agentmemory) - 基于真实世界基准的AI编码代理的持久内存
  * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI 文档翻译与学术文献检索技能集超能文献（Suppr）AI 文档翻译与学术文献检索技能集
  * [agentsview](https://github.com/wesm/agentsview) - 本地首选会话智能和编码代理分析，支持Claude Code，Codex和其他14个代理。另外：ccusage的替代速度提高100倍！
+ * [codegraph](https://github.com/colbymchenry/codegraph) - 为Claude Code、Codex、Cursor和OpenCode预先索引的代码知识图——更少的标记，更少的工具调用，100%本地。
 
 
