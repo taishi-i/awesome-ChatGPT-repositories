@@ -2720,5 +2720,5 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI 文档翻译与学术文献检索技能集
  * [agentsview](https://github.com/wesm/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
  * [codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
-
+* [crustAI](https://github.com/DaveSimoes/CrustAI) - A private, local-first AI assistant that integrates with Telegram, Discord, WhatsApp and Slack using Ollama for 100% local LLM inference
 
