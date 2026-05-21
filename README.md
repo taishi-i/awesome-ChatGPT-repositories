@@ -741,6 +741,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * ✅ [AskePub](https://github.com/geiserx/askepub) - ⭐ 1 / This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 370k / Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
  * ✅ [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - ⭐ 804 / Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
+ * ⭐ [EasyClaw](https://easyclaw.com/) - Open-source AI browser automation framework for automating repetitive web workflows and agent tasks using natural language.
  * 🔥 [nanobot](https://github.com/hkuds/nanobot) - ⭐ 42k / "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
  * 🔥 [Proma](https://github.com/erlichliu/proma) - ⭐ 689 / 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
  * 🔥 [openagent](https://github.com/the-open-agent/openagent) - ⭐ 4.6k / Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supporting computer-use, browser-use and coding agent with 30+ model providers, MCP-compatible tools, visual workflow builder and admin dashboard. Demo: https://demo.openagentai.org
