@@ -1295,7 +1295,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
 
 ## Tutorials
 
- * [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+ * [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/chatgpt-applications) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
  * 💤 [Hello-Python](https://github.com/mouredev/hello-python) - ⭐ 36k / Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...
  * ⚠️ [notebooks](https://github.com/dataflowr/notebooks) - ⭐ 1.3k / code for deep learning courses
  * 💤 [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - ⭐ 102 / 🔥gpt4all (the best chatgpt clone) running locally and on colab tutorial -  -  to @camenduru's colab -
