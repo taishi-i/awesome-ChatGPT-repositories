@@ -180,6 +180,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.
 
 
+ * 🔥 [AI-Models-Catalog](https://github.com/i-need-token/ai-models) - ⭐ 0 / Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive catalog at https://i-need-token.github.io/ai-models/
 ## Prompts
 
  * 💤 [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - ⭐ 3k / Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
