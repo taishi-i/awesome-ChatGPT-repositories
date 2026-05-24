@@ -64,19 +64,19 @@ All data is bundled in the plugin and sourced from `awesome-ChatGPT-repositories
 
 | Category | Count |
 |----------|-------|
-| Awesome-lists | 95 |
-| Prompts | 182 |
-| Chatbots | 375 |
-| Browser-extensions | 250 |
-| CLIs | 227 |
+| Awesome-lists | 96 |
+| Prompts | 184 |
+| Chatbots | 379 |
+| Browser-extensions | 252 |
+| CLIs | 240 |
 | Reimplementations | 42 |
 | Tutorials | 21 |
-| NLP | 405 |
+| NLP | 412 |
 | Langchain | 178 |
 | Unity | 17 |
 | Openai | 325 |
-| Others | 451 |
-| **Total** | **2,568** |
+| Others | 461 |
+| **Total** | **2,607** |
 
 ## License
 

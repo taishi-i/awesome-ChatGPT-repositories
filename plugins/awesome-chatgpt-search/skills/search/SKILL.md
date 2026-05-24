@@ -50,17 +50,17 @@ Examples:
 Data is split into per-category files. Each file is a JSON array of items with fields:
 - `u`: GitHub URL · `n`: repository name · `d`: English description
 - `c`: category · `l`: language (optional) · `t`: topics comma-separated (optional)
-- `sc`: quality score 0–8
+- `sc`: quality score 0–8 · `st`: star count (optional) · `ns`: normalized star score 0–10 (optional)
 
-**File list** (all under `data/` relative to this plugin; the four largest categories are split a/b):
+**File list** (all under `data/` relative to this plugin; six categories over ~200 entries are split a/b):
 
 | Category | File(s) |
 |----------|---------|
 | Awesome-lists | `repos-awesome-lists.json` |
 | Prompts | `repos-prompts.json` |
 | Chatbots | `repos-chatbots-a.json`, `repos-chatbots-b.json` |
-| Browser-extensions | `repos-browser-extensions.json` |
-| CLIs | `repos-clis.json` |
+| Browser-extensions | `repos-browser-extensions-a.json`, `repos-browser-extensions-b.json` |
+| CLIs | `repos-clis-a.json`, `repos-clis-b.json` |
 | Reimplementations | `repos-reimplementations.json` |
 | Tutorials | `repos-tutorials.json` |
 | NLP | `repos-nlp-a.json`, `repos-nlp-b.json` |
@@ -72,6 +72,8 @@ Data is split into per-category files. Each file is a JSON array of items with f
 **Which files to read — read the minimum set that covers the query:**
 
 **Rule A — category: specified:** read only that category's file(s), skip routing below.
+Match the category name **case-insensitively** and accept common variants:
+`cli`/`clis`/`command-line` → CLIs · `chatbot`/`bot`/`chatbots` → Chatbots · `browser`/`extension`/`browser-extension` → Browser-extensions · `prompt`/`prompts` → Prompts · `tutorial`/`tutorials` → Tutorials · `reimpl`/`reimplementation` → Reimplementations · `awesome`/`lists` → Awesome-lists · `open ai`/`openai` → Openai. If the value matches no category, fall back to keyword routing (Rule C).
 
 **Rule B — list categories:** skip all file reads, jump to Step 5b.
 
@@ -162,18 +164,19 @@ Skip scoring. Present:
 
 | Category | Count |
 |----------|-------|
-| Awesome-lists | 95 |
-| Prompts | 182 |
-| Chatbots | 375 |
-| Browser-extensions | 250 |
-| CLIs | 227 |
+| Awesome-lists | 96 |
+| Prompts | 184 |
+| Chatbots | 379 |
+| Browser-extensions | 252 |
+| CLIs | 240 |
 | Reimplementations | 42 |
 | Tutorials | 21 |
-| NLP | 405 |
+| NLP | 412 |
 | Langchain | 178 |
 | Unity | 17 |
 | Openai | 325 |
-| Others | 451 |
+| Others | 461 |
+| **Total** | **2,607** |
 ```
 
 ### Step 6 — Format the output
