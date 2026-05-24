@@ -122,10 +122,13 @@ def to_compact(url: str, entry: dict, category: str) -> dict:
 
 
 def write_json(path: Path, records: list) -> None:
-    path.write_text(
-        json.dumps(records, ensure_ascii=False, separators=(",", ":")),
-        encoding="utf-8",
+    # One record per line. The file stays a valid JSON array, but the layout
+    # lets the search skill `grep` for matching repos and read only those lines
+    # instead of loading whole category files into context (far fewer tokens).
+    body = ",\n".join(
+        json.dumps(r, ensure_ascii=False, separators=(",", ":")) for r in records
     )
+    path.write_text(f"[\n{body}\n]\n", encoding="utf-8")
     kb = path.stat().st_size / 1024
     print(f"  {path.name}: {len(records)} entries  ({kb:.0f} KB)")
 

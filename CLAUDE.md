@@ -50,7 +50,16 @@ repos-openai-a.json               repos-openai-b.json
 repos-others-a.json               repos-others-b.json
 ```
 
-Each file is a flat JSON array optimised for Claude to read and score directly:
+Each file is a JSON array with **one record per line** (a valid array, but newline-delimited) so the search skill can `grep` for matching repos and score only those lines — instead of reading whole files into context, which keeps token use low:
+
+```json
+[
+{"u":"https://github.com/user/repo","n":"repo-name","d":"...","c":"Category","l":"Python","t":"tag1,tag2","sc":6.5,"st":1234,"ns":6.4},
+...
+]
+```
+
+Expanded, each record has these fields:
 
 ```json
 [
