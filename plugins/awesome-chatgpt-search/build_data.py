@@ -136,6 +136,7 @@ def main() -> None:
     with SOURCE.open(encoding="utf-8") as f:
         data = json.load(f)
 
+    cat_counts: dict[str, int] = {}
     for category, entries in data["contents"].items():
         slug = SLUG.get(category)
         if not slug:
@@ -146,6 +147,7 @@ def main() -> None:
             to_compact(url, entry, category)
             for url, entry in entries.items()
         ]
+        cat_counts[category] = len(records)
 
         if len(records) > SPLIT_THRESHOLD:
             mid = math.ceil(len(records) / 2)
@@ -155,6 +157,18 @@ def main() -> None:
             write_json(OUT_DIR / f"{slug}.json", records)
 
     print("\nDone.")
+
+    # Category-count table — copy into README.md, SKILL.md and awesome-chatgpt.md
+    # whenever the data is regenerated, so the `list categories` numbers stay accurate.
+    print("\nCategory counts (sync into the docs' count tables):")
+    print("| Category | Count |")
+    print("|----------|-------|")
+    total = 0
+    for category in SLUG:
+        n = cat_counts.get(category, 0)
+        total += n
+        print(f"| {category} | {n} |")
+    print(f"| **Total** | **{total:,}** |")
 
 
 if __name__ == "__main__":
