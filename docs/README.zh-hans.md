@@ -42,24 +42,32 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills是一款全能的AI技能包。它无缝地将专家级能力和上下文管理集成到一个通用技能包中，使任何AI代理能够立即升级其功能，消除了碎片化的摩擦。
+**Awesome-lists**
+ * [ai-models](https://github.com/i-need-token/ai-models) - 包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。输出：包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。
+
+
+**Chatbots**
+ * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地优先的AI助手，支持Telegram、Discord、WhatsApp和Slack。
 
 
 **CLIs**
- * [claurst](https://github.com/kuberwastaken/claurst) - 为那些交付产品的建造者编码
- * [agent-deck](https://github.com/asheshgoplani/agent-deck) - 用于AI编码代理的终端会话管理器。 为Claude，Gemini，OpenCode，Codex等提供一个TUI。
+ * [Understand-Anything](https://github.com/lum1104/understand-anything) - 教育性图表>令人印象深刻的图表。将任何代码转换为交互式知识图表，您可以探索、搜索并提出问题。适用于Claude Code、Codex、Cursor、Copilot、Gemini CLI等等。
+ * [muxy](https://github.com/muxy-app/muxy) - 使用SwiftUI和libghostty构建的轻量级和内存高效的Mac终端
+ * [codeg](https://github.com/xintaofei/codeg) - 协作多智能体AI编码工作空间：整合来自Claude Code、Codex、Gemini CLI等的会话。桌面应用程序、自托管服务器或Docker。
 
 
-**NLP**
- * [ECC](https://github.com/affaan-m/ecc) - 代理商利用性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全和研究优先的开发。
+**Openai**
+ * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上运行OpenAI Codex桌面版-自动安装程序
 
 
 **Others**
- * [codegraph](https://github.com/colbymchenry/codegraph) - 为Claude Code、Codex、Cursor和OpenCode预先索引的代码知识图——更少的标记，更少的工具调用，100%本地。
+ * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
+ * [takt](https://github.com/nrslib/takt) - TAKT代理协调拓扑 - 定义AI代理如何协调，人类何时介入，以及记录什么 — 在YAML中
+ * [ccx](https://github.com/benedictking/ccx) - 克劳德/密码/双子座API代理-CCX
+ * [helmor](https://github.com/dohooo/helmor) - 开源本地工作台，用于多智能体软件开发。
 
 
-_Updated on May 20, 2026_ (A total of 2582 repositories listed.)
+_Updated on May 26, 2026_ (A total of 2592 repositories listed.)
 
 ## Table of contents
 
@@ -174,6 +182,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * ✅ [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - ⭐ 1.9k / 为OpenAI API精心策划的GPT-Image-2提示 - 肖像、海报、UI模型、游戏截图、角色表等等。GPT-Image-2的即用提示。
  * 🔥 [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - ⭐ 14k / Openai API的策展GPT-Image-2提示：跨肖像、海报、UI模型、角色表和社区实验的图像示例。
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - 一个由独立建立的人工智能初创公司组成的策划清单 - 仅包括自助、前种子和天使投资的产品。
+ * [ai-models](https://github.com/i-need-token/ai-models) - 包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。输出：包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。
 
 
 ## Prompts
@@ -745,6 +754,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API 是一个开源的 WhatsApp 集成 API
  * [agor](https://github.com/preset-io/agor) - 在多人画布上编排克劳德代码、密码和双子座会话。管理git工作树，跟踪人工智能对话，并实时可视化团队的代理工作。
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3是一个AI自动化平台，将工作流程、动作、代理和对话渠道结合在一个运行时中。
+ * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地优先的AI助手，支持Telegram、Discord、WhatsApp和Slack。
 
 
 ## Browser-extensions
@@ -1241,6 +1251,9 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClaw桌面应用程序-无终端，无编码。 macOS和Windows的一键安装程序。
  * [claurst](https://github.com/kuberwastaken/claurst) - 为那些交付产品的建造者编码
  * [agent-deck](https://github.com/asheshgoplani/agent-deck) - 用于AI编码代理的终端会话管理器。 为Claude，Gemini，OpenCode，Codex等提供一个TUI。
+ * [Understand-Anything](https://github.com/lum1104/understand-anything) - 教育性图表>令人印象深刻的图表。将任何代码转换为交互式知识图表，您可以探索、搜索并提出问题。适用于Claude Code、Codex、Cursor、Copilot、Gemini CLI等等。
+ * [muxy](https://github.com/muxy-app/muxy) - 使用SwiftUI和libghostty构建的轻量级和内存高效的Mac终端
+ * [codeg](https://github.com/xintaofei/codeg) - 协作多智能体AI编码工作空间：整合来自Claude Code、Codex、Gemini CLI等的会话。桌面应用程序、自托管服务器或Docker。
 
 
 ## Reimplementations
@@ -2255,6 +2268,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * 🔥 [WindsurfAPI](https://github.com/dwgx/windsurfapi) - ⭐ 2.1k / 风帆冲浪-OpenAI兼容的API代理
  * ⚠️ [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - ⭐ 0 / OpenAI GPT动作用于查询实时审查数据-覆盖126个国家，5700多起事件。
  * 🔥 [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ⭐ 2.2k / ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池，支持接入Cherry Studio、New Api等软件。
+ * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上运行OpenAI Codex桌面版-自动安装程序
 
 
 ## Others
@@ -2716,5 +2730,9 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI 文档翻译与学术文献检索技能集超能文献（Suppr）AI 文档翻译与学术文献检索技能集
  * [agentsview](https://github.com/wesm/agentsview) - 本地首选会话智能和编码代理分析，支持Claude Code，Codex和其他14个代理。另外：ccusage的替代速度提高100倍！
  * [codegraph](https://github.com/colbymchenry/codegraph) - 为Claude Code、Codex、Cursor和OpenCode预先索引的代码知识图——更少的标记，更少的工具调用，100%本地。
+ * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
+ * [takt](https://github.com/nrslib/takt) - TAKT代理协调拓扑 - 定义AI代理如何协调，人类何时介入，以及记录什么 — 在YAML中
+ * [ccx](https://github.com/benedictking/ccx) - 克劳德/密码/双子座API代理-CCX
+ * [helmor](https://github.com/dohooo/helmor) - 开源本地工作台，用于多智能体软件开发。
 
 

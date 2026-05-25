@@ -42,24 +42,32 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-SkillsはオールインワンのAIスキルパッケージです。専門レベルの機能とコンテキスト管理を一般的なスキルパッケージにシームレスに統合し、どんなAIエージェントでも瞬時に機能をアップグレードできるようにします。断片化の摩擦を排除します。
+**Awesome-lists**
+ * [ai-models](https://github.com/i-need-token/ai-models) - 95のプロバイダーにわたる4,587のAIモデルの構造化されたYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。4,587のAIモデルを95のプロバイダーにわたって構造化したYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。
+
+
+**Chatbots**
+ * [CrustAI](https://github.com/davesimoes/crustai) - Telegram、Discord、WhatsApp、Slackと連携したプライベートでローカルファーストのAIアシスタント
 
 
 **CLIs**
- * [claurst](https://github.com/kuberwastaken/claurst) - 出荷するビルダーのためのエージェントコーディング
- * [agent-deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェントのためのターミナルセッションマネージャー。Claude、Gemini、OpenCode、Codexなどのための1つのTUI。
+ * [Understand-Anything](https://github.com/lum1104/understand-anything) - 教えるグラフ＞印象を与えるグラフ。どんなコードも、探索、検索、質問ができるインタラクティブな知識グラフに変換します。Claude Code、Codex、Cursor、Copilot、Gemini CLIなどと連携します。
+ * [muxy](https://github.com/muxy-app/muxy) - 軽量でメモリ効率の良いMac用のターミナル、SwiftUIとlibghosttyで構築
+ * [codeg](https://github.com/xintaofei/codeg) - 協力的なマルチエージェントAIコーディングワークスペース：Claude Code、Codex、Gemini CLIなどからのセッションを集約します。デスクトップアプリ、自己ホスト型サーバー、またはDocker。
 
 
-**NLP**
- * [ECC](https://github.com/affaan-m/ecc) - エージェントは、パフォーマンス最適化システムを利用します。Claude Code、Codex、Opencode、Cursorなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
+**Openai**
+ * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - LinuxでOpenAI Codex Desktopを実行する - 自動インストーラ
 
 
 **Others**
- * [codegraph](https://github.com/colbymchenry/codegraph) - クロード・コード、コーデックス、カーソル、オープンコード用の事前インデックス付きコードナレッジグラフ - トークンが少なく、ツールの呼び出しが少なく、100％ローカル
+ * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API は、Go + Gin + React/Vite をベースとした Codex のリバースプロキシと管理画面プロジェクトです。
+ * [takt](https://github.com/nrslib/takt) - TAKTエージェントコーディネーショントポロジー - AIエージェントがどのように調整され、人間がどこで介入し、何が記録されるかを定義する — YAMLで
+ * [ccx](https://github.com/benedictking/ccx) - クロード / コデックス / ジェミニAPIプロキシ - CCX
+ * [helmor](https://github.com/dohooo/helmor) - マルチエージェントソフトウェア開発のためのオープンソースのローカルワークベンチ。
 
 
-_Updated on May 20, 2026_ (A total of 2582 repositories listed.)
+_Updated on May 26, 2026_ (A total of 2592 repositories listed.)
 
 ## Table of contents
 
@@ -174,6 +182,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * ✅ [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - ⭐ 1.9k / OpenAI API用のキュレーションされたGPT-Image-2プロンプト - ポートレート、ポスター、UIモックアップ、ゲームのスクリーンショット、キャラクターシートなど。gpt-image-2用の即座に使用可能なプロンプト。
  * 🔥 [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - ⭐ 14k / Openai API用のキュレーションされたGPT-Image-2プロンプト：肖像画、ポスター、UIモックアップ、キャラクターシート、コミュニティ実験などの画像例。
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - インディー製のAIスタートアップの厳選リスト - 自己資金調達、プリシード、エンジェルファンドの製品のみ。
+ * [ai-models](https://github.com/i-need-token/ai-models) - 95のプロバイダーにわたる4,587のAIモデルの構造化されたYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。4,587のAIモデルを95のプロバイダーにわたって構造化したYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。
 
 
 ## Prompts
@@ -745,6 +754,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
  * [agor](https://github.com/preset-io/agor) - マルチプレイヤーキャンバス上で、オーケストレートクロードコード、コーデックス、ジェミニセッションを行います。gitワークツリーを管理し、AI会話を追跡し、チームのエージェントワークをリアルタイムで可視化します。
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3は、ワークフロー、アクション、エージェント、および会話チャンネルを1つのランタイムで組み合わせたAI自動化プラットフォームです。
+ * [CrustAI](https://github.com/davesimoes/crustai) - Telegram、Discord、WhatsApp、Slackと連携したプライベートでローカルファーストのAIアシスタント
 
 
 ## Browser-extensions
@@ -1241,6 +1251,9 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * [openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) - OpenClawデスクトップアプリ - ターミナル不要、コーディング不要。macOSおよびWindows用のワンクリックインストーラー。
  * [claurst](https://github.com/kuberwastaken/claurst) - 出荷するビルダーのためのエージェントコーディング
  * [agent-deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェントのためのターミナルセッションマネージャー。Claude、Gemini、OpenCode、Codexなどのための1つのTUI。
+ * [Understand-Anything](https://github.com/lum1104/understand-anything) - 教えるグラフ＞印象を与えるグラフ。どんなコードも、探索、検索、質問ができるインタラクティブな知識グラフに変換します。Claude Code、Codex、Cursor、Copilot、Gemini CLIなどと連携します。
+ * [muxy](https://github.com/muxy-app/muxy) - 軽量でメモリ効率の良いMac用のターミナル、SwiftUIとlibghosttyで構築
+ * [codeg](https://github.com/xintaofei/codeg) - 協力的なマルチエージェントAIコーディングワークスペース：Claude Code、Codex、Gemini CLIなどからのセッションを集約します。デスクトップアプリ、自己ホスト型サーバー、またはDocker。
 
 
 ## Reimplementations
@@ -2255,6 +2268,7 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * 🔥 [WindsurfAPI](https://github.com/dwgx/windsurfapi) - ⭐ 2.1k / ウィンドサーフとOpenAI互換のAPIプロキシ
  * ⚠️ [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - ⭐ 0 / リアルタイムの検閲データをクエリするためのOpenAI GPTアクション-126以上の国、5,700以上のインシデントOpenAI GPTアクションによるリアルタイムの検閲データのクエリ-126以上の国、5,700以上のインシデント
  * 🔥 [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ⭐ 2.2k / Input: ChatGPT公式ウェブサイトのAPIプロトコルの逆転実装、登録機の維持番号プール枠のサポート、GPT-Image-2モデル、テキストモデルのサポート、複数のOpenAI APIプロトコルと互換性があり、オンラインで画像を大量生成、番号プール管理、CPA、sub2api番号プールのインポートをサポート、Cherry Studio、New Apiなどのソフトウェアへの接続をサポートします。
+ * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - LinuxでOpenAI Codex Desktopを実行する - 自動インストーラ
 
 
 ## Others
@@ -2716,5 +2730,9 @@ _Updated on May 20, 2026_ (A total of 2582 repositories listed.)
  * [suppr-skills](https://github.com/wilddatax/suppr-skills) - 超能文献（Suppr）AI ドキュメント翻訳と学術文献検索スキルセット
  * [agentsview](https://github.com/wesm/agentsview) - コーディングエージェント向けのローカルファーストセッションインテリジェンスとアナリティクス、Claude Code、Codex、および14の他のエージェントをサポートします。また、ccusageの100倍高速な置換も！
  * [codegraph](https://github.com/colbymchenry/codegraph) - クロード・コード、コーデックス、カーソル、オープンコード用の事前インデックス付きコードナレッジグラフ - トークンが少なく、ツールの呼び出しが少なく、100％ローカル
+ * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API は、Go + Gin + React/Vite をベースとした Codex のリバースプロキシと管理画面プロジェクトです。
+ * [takt](https://github.com/nrslib/takt) - TAKTエージェントコーディネーショントポロジー - AIエージェントがどのように調整され、人間がどこで介入し、何が記録されるかを定義する — YAMLで
+ * [ccx](https://github.com/benedictking/ccx) - ジェミニAPIプロキシ - CCX
+ * [helmor](https://github.com/dohooo/helmor) - マルチエージェントソフトウェア開発のためのオープンソースのローカルワークベンチ。
 
 
