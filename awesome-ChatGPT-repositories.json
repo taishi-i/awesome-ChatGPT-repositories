@@ -2594,6 +2594,41 @@
                     "zh-hans": "一个由独立建立的人工智能初创公司组成的策划清单 - 仅包括自助、前种子和天使投资的产品。",
                     "zh-hant": "一份精心策劃的獨立AI初創企業清單-僅包括自給自足、前種子輪和天使投資的產品。"
                 }
+            },
+            "https://github.com/i-need-token/ai-models": {
+                "repository_name": "ai-models",
+                "user_name": "i-need-token",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Structured YAML catalog of 4,587 AI models across 95 providers — pricing, context windows, modalities, capabilities. First-party data with TypeScript types and Zod validation.",
+                "topics": [
+                    "ai-agents",
+                    "ai-models",
+                    "anthropic",
+                    "awesome",
+                    "awesome-list",
+                    "chat-models",
+                    "deepseek",
+                    "free-ai-models",
+                    "gemini",
+                    "github-action",
+                    "large-language-model",
+                    "llm",
+                    "model-pricing",
+                    "multimodal",
+                    "open-weights",
+                    "openai",
+                    "reasoning-models",
+                    "structured-output",
+                    "tool-calling",
+                    "vision-models"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Structured YAML catalog of 4,587 AI models across 95 providers — pricing, context windows, modalities, capabilities. First-party data with TypeScript types and Zod validation.",
+                    "ja": "95のプロバイダーにわたる4,587のAIモデルの構造化されたYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。4,587のAIモデルを95のプロバイダーにわたって構造化したYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。",
+                    "zh-hans": "包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。输出：包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。",
+                    "zh-hant": "包含4,587個AI模型在95個供應商之間的結構化YAML目錄 - 定價、上下文窗口、模態、功能。具有TypeScript類型和Zod驗證的第一方數據。"
+                }
             }
         },
         "Prompts": {
@@ -17206,6 +17241,41 @@
                     "zh-hans": "Hexabot v3是一个AI自动化平台，将工作流程、动作、代理和对话渠道结合在一个运行时中。",
                     "zh-hant": "Hexabot v3 是一個人工智慧自動化平台，將工作流程、動作、代理人和對話通道結合在一個運行時中。"
                 }
+            },
+            "https://github.com/davesimoes/crustai": {
+                "repository_name": "CrustAI",
+                "user_name": "DaveSimoes",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "automation",
+                    "chatbot",
+                    "developer-tools",
+                    "discord",
+                    "discord-js",
+                    "llm",
+                    "llm-ollama",
+                    "local-ai",
+                    "local-llm",
+                    "ollama",
+                    "open-source",
+                    "portfolio",
+                    "privacy",
+                    "privacy-local-llm",
+                    "selfhosted",
+                    "telegram-bot-ai-assistant",
+                    "whatsapp",
+                    "whatsapp-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack",
+                    "ja": "Telegram、Discord、WhatsApp、Slackと連携したプライベートでローカルファーストのAIアシスタント",
+                    "zh-hans": "私人、本地优先的AI助手，支持Telegram、Discord、WhatsApp和Slack。",
+                    "zh-hant": "私人、本地優先的AI助手，支援Telegram、Discord、WhatsApp和Slack"
+                }
             }
         },
         "Browser-extensions": {
@@ -29456,6 +29526,92 @@
                     "ja": "AIコーディングエージェントのためのターミナルセッションマネージャー。Claude、Gemini、OpenCode、Codexなどのための1つのTUI。",
                     "zh-hans": "用于AI编码代理的终端会话管理器。 为Claude，Gemini，OpenCode，Codex等提供一个TUI。",
                     "zh-hant": "用於AI編碼代理的終端會話管理器。Claude、Gemini、OpenCode、Codex等等的一個TUI。"
+                }
+            },
+            "https://github.com/lum1104/understand-anything": {
+                "repository_name": "Understand-Anything",
+                "user_name": "Lum1104",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+                "topics": [
+                    "antigravity-skills",
+                    "business-knowledge",
+                    "claude-code",
+                    "claude-skills",
+                    "codebase-analysis",
+                    "codex",
+                    "codex-skills",
+                    "developer-tools-ai-agent",
+                    "gemini-cli-skills",
+                    "karpathy-llm-wiki",
+                    "knowledge-base",
+                    "knowledge-graph",
+                    "memory",
+                    "opencode-skills",
+                    "pi-agent",
+                    "understandcode",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+                    "ja": "教えるグラフ＞印象を与えるグラフ。どんなコードも、探索、検索、質問ができるインタラクティブな知識グラフに変換します。Claude Code、Codex、Cursor、Copilot、Gemini CLIなどと連携します。",
+                    "zh-hans": "教育性图表>令人印象深刻的图表。将任何代码转换为交互式知识图表，您可以探索、搜索并提出问题。适用于Claude Code、Codex、Cursor、Copilot、Gemini CLI等等。",
+                    "zh-hant": "以教學為主的圖表 > 以印象為主的圖表。將任何代碼轉換為互動式知識圖表，您可以探索、搜索並提出問題。適用於Claude Code、Codex、Cursor、Copilot、Gemini CLI等等。"
+                }
+            },
+            "https://github.com/muxy-app/muxy": {
+                "repository_name": "muxy",
+                "user_name": "muxy-app",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty",
+                "topics": [
+                    "amp",
+                    "claude",
+                    "codex",
+                    "gemini",
+                    "ghostty",
+                    "macos",
+                    "multiplexer",
+                    "opencode",
+                    "temux",
+                    "terminal"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty",
+                    "ja": "軽量でメモリ効率の良いMac用のターミナル、SwiftUIとlibghosttyで構築",
+                    "zh-hans": "使用SwiftUI和libghostty构建的轻量级和内存高效的Mac终端",
+                    "zh-hant": "使用SwiftUI和libghostty構建的輕量級和內存高效的Mac終端使用SwiftUI和libghostty構建的輕量級和內存高效的Mac終端"
+                }
+            },
+            "https://github.com/xintaofei/codeg": {
+                "repository_name": "codeg",
+                "user_name": "xintaofei",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.",
+                "topics": [
+                    "acp",
+                    "agent",
+                    "claude-code",
+                    "code-generation",
+                    "codex",
+                    "gemini-cli",
+                    "git",
+                    "gui",
+                    "ilink",
+                    "lark",
+                    "openclaw",
+                    "opencode",
+                    "telegram",
+                    "worktree"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.",
+                    "ja": "協力的なマルチエージェントAIコーディングワークスペース：Claude Code、Codex、Gemini CLIなどからのセッションを集約します。デスクトップアプリ、自己ホスト型サーバー、またはDocker。",
+                    "zh-hans": "协作多智能体AI编码工作空间：整合来自Claude Code、Codex、Gemini CLI等的会话。桌面应用程序、自托管服务器或Docker。",
+                    "zh-hant": "協作式多智能體人工智慧編碼工作空間：整合來自Claude Code、Codex、Gemini CLI等的會話。桌面應用程式、自託管伺服器或Docker。"
                 }
             }
         },
@@ -53137,6 +53293,20 @@
                     "zh-hant": "ChatGPT官網接口純協議的逆向實現，支持註冊機維持號池額度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口協議，在線批量生成圖像，號池管理，支持導入CPA、sub2api號池，支持接入Cherry Studio、New Api等軟件。"
                 },
                 "star_count": 2200
+            },
+            "https://github.com/ilysenko/codex-desktop-linux": {
+                "repository_name": "codex-desktop-linux",
+                "user_name": "ilysenko",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Run OpenAI Codex Desktop on Linux - automated installer",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Run OpenAI Codex Desktop on Linux - automated installer",
+                    "ja": "LinuxでOpenAI Codex Desktopを実行する - 自動インストーラ",
+                    "zh-hans": "在Linux上运行OpenAI Codex桌面版-自动安装程序",
+                    "zh-hant": "在Linux上運行OpenAI Codex桌面版-自動安裝程式"
+                }
             }
         },
         "Others": {
@@ -62294,6 +62464,87 @@
                     "ja": "クロード・コード、コーデックス、カーソル、オープンコード用の事前インデックス付きコードナレッジグラフ - トークンが少なく、ツールの呼び出しが少なく、100％ローカル",
                     "zh-hans": "为Claude Code、Codex、Cursor和OpenCode预先索引的代码知识图——更少的标记，更少的工具调用，100%本地。",
                     "zh-hant": "為Claude Code、Codex、Cursor和OpenCode預先索引的代碼知識圖-更少的令牌，更少的工具調用，100%本地"
+                }
+            },
+            "https://github.com/james-6-23/codex2api": {
+                "repository_name": "codex2api",
+                "user_name": "james-6-23",
+                "language": "Go",
+                "license": null,
+                "description": "Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目",
+                    "ja": "Codex2API は、Go + Gin + React/Vite をベースとした Codex のリバースプロキシと管理画面プロジェクトです。",
+                    "zh-hans": "Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目",
+                    "zh-hant": "Codex2API 是一個基於 Go + Gin + React/Vite 的 Codex 反向代理與管理後台專案"
+                }
+            },
+            "https://github.com/nrslib/takt": {
+                "repository_name": "takt",
+                "user_name": "nrslib",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML",
+                "topics": [
+                    "agent-orchestration",
+                    "agent-team",
+                    "ai-agents",
+                    "claude-code",
+                    "codex",
+                    "multi-agent",
+                    "opencode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML",
+                    "ja": "TAKTエージェントコーディネーショントポロジー - AIエージェントがどのように調整され、人間がどこで介入し、何が記録されるかを定義する — YAMLで",
+                    "zh-hans": "TAKT代理协调拓扑 - 定义AI代理如何协调，人类何时介入，以及记录什么 — 在YAML中",
+                    "zh-hant": "TAKT代理協調拓撲 - 定義AI代理如何協調，人類如何介入，以及什麼被記錄 - 在YAML中"
+                }
+            },
+            "https://github.com/benedictking/ccx": {
+                "repository_name": "ccx",
+                "user_name": "BenedictKing",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Claude / Codex / Gemini API Proxy - CCX",
+                "topics": [
+                    "claude",
+                    "codex",
+                    "gemini"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Claude / Codex / Gemini API Proxy - CCX",
+                    "ja": "クロード / コデックス / ジェミニAPIプロキシ - CCX",
+                    "zh-hans": "克劳德/密码/双子座API代理-CCX",
+                    "zh-hant": "克勞德 / 密碼 / 雙子座 API 代理 - CCX"
+                }
+            },
+            "https://github.com/dohooo/helmor": {
+                "repository_name": "helmor",
+                "user_name": "dohooo",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Open-source local workbench for multi-agent software development.",
+                "topics": [
+                    "agent-orchestration",
+                    "ai",
+                    "claude-code",
+                    "codex",
+                    "coding-agents",
+                    "developer-tools",
+                    "git-worktree",
+                    "local-first",
+                    "macos",
+                    "multi-agent",
+                    "open-source",
+                    "software-development"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source local workbench for multi-agent software development.",
+                    "ja": "マルチエージェントソフトウェア開発のためのオープンソースのローカルワークベンチ。",
+                    "zh-hans": "开源本地工作台，用于多智能体软件开发。",
+                    "zh-hant": "開源本地工作臺，用於多智能體軟件開發。"
                 }
             }
         }
