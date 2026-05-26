@@ -1019,6 +1019,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
 ## CLIs
 
  * 💤 [ChatGPT](https://github.com/acheong08/chatgpt) - ⭐ 28k / Reverse engineered ChatGPT API
+ * [II-Commons-Skills](https://github.com/Intelligent-Internet/II-Commons-Skills) - Fast, daily-updated skill and CLI for deterministic retrieval across arXiv, PubMed/PMC, and supported US policy corpora.
  * 🔥 [shell_gpt](https://github.com/ther1d/shell_gpt) - ⭐ 12k / A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * ⚠️ [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⭐ 4.2k / ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
  * ✅ [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - ⭐ 3.7k / API for interacting with ChatGPT and GPT4 using Python and from Shell.
@@ -2738,5 +2739,4 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * [takt](https://github.com/nrslib/takt) - TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
  * [ccx](https://github.com/benedictking/ccx) - Gemini API Proxy - CCX
  * [helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
-
 
