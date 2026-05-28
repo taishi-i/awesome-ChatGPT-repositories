@@ -1744,6 +1744,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - Self-hosted MCP server for AI agent memory — 83 tools, 87.8% LoCoMo. Works with Claude, Cursor, Windsurf.
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models). Build your AI company.
  * [ECC](https://github.com/affaan-m/ecc) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+ * [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); supports RAG and agent trajectory evaluation.
 
 
 ## Langchain
@@ -1926,6 +1927,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * 🔥 [swarmclaw](https://github.com/swarmclawai/swarmclaw) - ⭐ 473 / Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
  * 🔥 [kronk](https://github.com/ardanlabs/kronk) - ⭐ 612 / Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk provides a high-level API that feels similar to using an OpenAI compatible API. Kronk also provides a model server to run local work
  * 🔥 [openyak](https://github.com/openyak/openyak) - ⭐ 777 / OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.
+ * [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps; auto-instruments LangChain, LlamaIndex, OpenAI, Anthropic, CrewAI, Bedrock, and 50+ frameworks across Python, TypeScript, Java, and C#.
 
 
 ## Unity
@@ -2739,4 +2741,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * [takt](https://github.com/nrslib/takt) - TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
  * [ccx](https://github.com/benedictking/ccx) - Gemini API Proxy - CCX
  * [helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
+ * [agent-opt](https://github.com/future-agi/agent-opt) - Open-source library for evaluation-driven prompt and agent-workflow optimization with six algorithms (Random, Bayesian, ProTeGi, Meta-Prompt, PromptWizard, GEPA).
+ * [simulate-sdk](https://github.com/future-agi/simulate-sdk) - Open-source SDK for simulating voice and text AI agents through persona- and scenario-driven multi-turn conversations before launch.
+ * [future-agi](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop.
 
