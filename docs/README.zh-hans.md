@@ -42,32 +42,22 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [ai-models](https://github.com/i-need-token/ai-models) - 包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。输出：包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。
-
-
-**Chatbots**
- * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地优先的AI助手，支持Telegram、Discord、WhatsApp和Slack。
+**Prompts**
+ * [typeui](https://github.com/bergside/typeui) - 设计技能和UI提示，适用于代理工具，如Claude Design，Google Stitch，Codex，Cursor和其他AI工具。
 
 
 **CLIs**
- * [Understand-Anything](https://github.com/lum1104/understand-anything) - 教育性图表>令人印象深刻的图表。将任何代码转换为交互式知识图表，您可以探索、搜索并提出问题。适用于Claude Code、Codex、Cursor、Copilot、Gemini CLI等等。
- * [muxy](https://github.com/muxy-app/muxy) - 使用SwiftUI和libghostty构建的轻量级和内存高效的Mac终端
- * [codeg](https://github.com/xintaofei/codeg) - 协作多智能体AI编码工作空间：整合来自Claude Code、Codex、Gemini CLI等的会话。桌面应用程序、自托管服务器或Docker。
+ * [jcode](https://github.com/1jehuang/jcode) - 编码代理工具
+ * [cc-switch](https://github.com/farion1231/cc-switch) - 一个跨平台桌面全能助手，适用于Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。官方网站：ccswitch.io
+ * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
+ * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的 arXiv、PubMed、PMC 和政策检索技能和命令行界面
 
 
 **Openai**
- * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上运行OpenAI Codex桌面版-自动安装程序
+ * [Friday](https://github.com/thesongzhu/friday) - AI个人运营平台，监督、有证据支持的自动化。
 
 
-**Others**
- * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
- * [takt](https://github.com/nrslib/takt) - TAKT代理协调拓扑 - 定义AI代理如何协调，人类何时介入，以及记录什么 — 在YAML中
- * [ccx](https://github.com/benedictking/ccx) - 克劳德/密码/双子座API代理-CCX
- * [helmor](https://github.com/dohooo/helmor) - 开源本地工作台，用于多智能体软件开发。
-
-
-_Updated on May 26, 2026_ (A total of 2592 repositories listed.)
+_Updated on May 31, 2026_ (A total of 2598 repositories listed.)
 
 ## Table of contents
 
@@ -371,6 +361,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * 🔥 [open-codesign](https://github.com/opencoworkai/open-codesign) - ⭐ 5.4k / 开源克劳德设计替代方案。一键导入您的克劳德代码/ Codex API密钥。提示→原型/幻灯片/PDF。多模型（克劳德，GPT，Gemini，Kimi，GLM，Ollama）。BYOK，本地优先，MIT。
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界上第一个开源AI原生矢量设计工具，也是第一个具有并发代理团队功能的工具。设计即代码。将提示直接转换为UI在实时画布上。是铅笔的现代替代品。
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills是一款全能的AI技能包。它无缝地将专家级能力和上下文管理集成到一个通用技能包中，使任何AI代理能够立即升级其功能，消除了碎片化的摩擦。
+ * [typeui](https://github.com/bergside/typeui) - 设计技能和UI提示，适用于代理工具，如Claude Design，Google Stitch，Codex，Cursor和其他AI工具。
 
 
 ## Chatbots
@@ -1254,6 +1245,10 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * [Understand-Anything](https://github.com/lum1104/understand-anything) - 教育性图表>令人印象深刻的图表。将任何代码转换为交互式知识图表，您可以探索、搜索并提出问题。适用于Claude Code、Codex、Cursor、Copilot、Gemini CLI等等。
  * [muxy](https://github.com/muxy-app/muxy) - 使用SwiftUI和libghostty构建的轻量级和内存高效的Mac终端
  * [codeg](https://github.com/xintaofei/codeg) - 协作多智能体AI编码工作空间：整合来自Claude Code、Codex、Gemini CLI等的会话。桌面应用程序、自托管服务器或Docker。
+ * [jcode](https://github.com/1jehuang/jcode) - 编码代理工具
+ * [cc-switch](https://github.com/farion1231/cc-switch) - 一个跨平台桌面全能助手，适用于Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。官方网站：ccswitch.io
+ * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
+ * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的 arXiv、PubMed、PMC 和政策检索技能和命令行界面
 
 
 ## Reimplementations
@@ -2269,6 +2264,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * ⚠️ [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - ⭐ 0 / OpenAI GPT动作用于查询实时审查数据-覆盖126个国家，5700多起事件。
  * 🔥 [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ⭐ 2.2k / ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池，支持接入Cherry Studio、New Api等软件。
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上运行OpenAI Codex桌面版-自动安装程序
+ * [Friday](https://github.com/thesongzhu/friday) - AI个人运营平台，监督、有证据支持的自动化。
 
 
 ## Others
