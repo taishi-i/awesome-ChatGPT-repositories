@@ -42,32 +42,22 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [ai-models](https://github.com/i-need-token/ai-models) - 95のプロバイダーにわたる4,587のAIモデルの構造化されたYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。4,587のAIモデルを95のプロバイダーにわたって構造化したYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。
-
-
-**Chatbots**
- * [CrustAI](https://github.com/davesimoes/crustai) - Telegram、Discord、WhatsApp、Slackと連携したプライベートでローカルファーストのAIアシスタント
+**Prompts**
+ * [typeui](https://github.com/bergside/typeui) - クロードデザイン、Google Stitch、Codex、CursorなどのエージェントツールのデザインスキルとUIプロンプト
 
 
 **CLIs**
- * [Understand-Anything](https://github.com/lum1104/understand-anything) - 教えるグラフ＞印象を与えるグラフ。どんなコードも、探索、検索、質問ができるインタラクティブな知識グラフに変換します。Claude Code、Codex、Cursor、Copilot、Gemini CLIなどと連携します。
- * [muxy](https://github.com/muxy-app/muxy) - 軽量でメモリ効率の良いMac用のターミナル、SwiftUIとlibghosttyで構築
- * [codeg](https://github.com/xintaofei/codeg) - 協力的なマルチエージェントAIコーディングワークスペース：Claude Code、Codex、Gemini CLIなどからのセッションを集約します。デスクトップアプリ、自己ホスト型サーバー、またはDocker。
+ * [jcode](https://github.com/1jehuang/jcode) - コーディングエージェントハーネス
+ * [cc-switch](https://github.com/farion1231/cc-switch) - クロードコード、コーデックス、オープンコード、オープンクロー、ジェミニCLI＆ヘルメスエージェント向けのクロスプラットフォームデスクトップオールインワンアシスタント。公式ウェブサイトのみ：ccswitch.io
+ * [claude-tap](https://github.com/liaohch3/claude-tap) - クロードコード、コデックスCLI、ジェミニCLI、カーソルCLI、オープンコード、キミ、Pi、ヘルメスからのコーディングエージェントAPIトラフィックをローカルトレースビューアでインターセプトして検査します。
+ * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 高速で毎日更新されるarXiv、PubMed、PMC、および政策検索のためのスキルとCLI
 
 
 **Openai**
- * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - LinuxでOpenAI Codex Desktopを実行する - 自動インストーラ
+ * [Friday](https://github.com/thesongzhu/friday) - 監督された、証拠に基づいた自動化のためのAIパーソナルオペレーションプラットフォーム。
 
 
-**Others**
- * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API は、Go + Gin + React/Vite をベースとした Codex のリバースプロキシと管理画面プロジェクトです。
- * [takt](https://github.com/nrslib/takt) - TAKTエージェントコーディネーショントポロジー - AIエージェントがどのように調整され、人間がどこで介入し、何が記録されるかを定義する — YAMLで
- * [ccx](https://github.com/benedictking/ccx) - クロード / コデックス / ジェミニAPIプロキシ - CCX
- * [helmor](https://github.com/dohooo/helmor) - マルチエージェントソフトウェア開発のためのオープンソースのローカルワークベンチ。
-
-
-_Updated on May 26, 2026_ (A total of 2592 repositories listed.)
+_Updated on May 31, 2026_ (A total of 2598 repositories listed.)
 
 ## Table of contents
 
@@ -371,6 +361,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * 🔥 [open-codesign](https://github.com/opencoworkai/open-codesign) - ⭐ 5.4k / オープンソースのクロードデザインの代替。クロードコード/コーデックスAPIキーをワンクリックでインポートします。プロンプト→プロトタイプ/スライド/PDF。マルチモデル（クロード、GPT、ジェミニ、キミ、GLM、オラマ）。BYOK、ローカルファースト、MIT。
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界初のオープンソースAIネイティブベクトルデザインツールであり、同時エージェントチームを搭載した最初のツールです。デザインをコードとして扱います。プロンプトをライブキャンバス上で直接UIに変換します。鉛筆の現代的な代替品です。
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-SkillsはオールインワンのAIスキルパッケージです。専門レベルの機能とコンテキスト管理を一般的なスキルパッケージにシームレスに統合し、どんなAIエージェントでも瞬時に機能をアップグレードできるようにします。断片化の摩擦を排除します。
+ * [typeui](https://github.com/bergside/typeui) - クロードデザイン、Google Stitch、Codex、CursorなどのエージェントツールのデザインスキルとUIプロンプト
 
 
 ## Chatbots
@@ -1254,6 +1245,10 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * [Understand-Anything](https://github.com/lum1104/understand-anything) - 教えるグラフ＞印象を与えるグラフ。どんなコードも、探索、検索、質問ができるインタラクティブな知識グラフに変換します。Claude Code、Codex、Cursor、Copilot、Gemini CLIなどと連携します。
  * [muxy](https://github.com/muxy-app/muxy) - 軽量でメモリ効率の良いMac用のターミナル、SwiftUIとlibghosttyで構築
  * [codeg](https://github.com/xintaofei/codeg) - 協力的なマルチエージェントAIコーディングワークスペース：Claude Code、Codex、Gemini CLIなどからのセッションを集約します。デスクトップアプリ、自己ホスト型サーバー、またはDocker。
+ * [jcode](https://github.com/1jehuang/jcode) - コーディングエージェントハーネス
+ * [cc-switch](https://github.com/farion1231/cc-switch) - クロードコード、コーデックス、オープンコード、オープンクロー、ジェミニCLI＆ヘルメスエージェント向けのクロスプラットフォームデスクトップオールインワンアシスタント。公式ウェブサイトのみ：ccswitch.io
+ * [claude-tap](https://github.com/liaohch3/claude-tap) - クロードコード、コデックスCLI、ジェミニCLI、カーソルCLI、オープンコード、キミ、Pi、ヘルメスからのコーディングエージェントAPIトラフィックをローカルトレースビューアでインターセプトして検査します。
+ * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 高速で毎日更新されるarXiv、PubMed、PMC、および政策検索のためのスキルとCLI
 
 
 ## Reimplementations
@@ -2269,6 +2264,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * ⚠️ [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - ⭐ 0 / リアルタイムの検閲データをクエリするためのOpenAI GPTアクション-126以上の国、5,700以上のインシデントOpenAI GPTアクションによるリアルタイムの検閲データのクエリ-126以上の国、5,700以上のインシデント
  * 🔥 [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ⭐ 2.2k / Input: ChatGPT公式ウェブサイトのAPIプロトコルの逆転実装、登録機の維持番号プール枠のサポート、GPT-Image-2モデル、テキストモデルのサポート、複数のOpenAI APIプロトコルと互換性があり、オンラインで画像を大量生成、番号プール管理、CPA、sub2api番号プールのインポートをサポート、Cherry Studio、New Apiなどのソフトウェアへの接続をサポートします。
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - LinuxでOpenAI Codex Desktopを実行する - 自動インストーラ
+ * [Friday](https://github.com/thesongzhu/friday) - 監督された、証拠に基づいた自動化のためのAIパーソナルオペレーションプラットフォーム。
 
 
 ## Others
@@ -2732,7 +2728,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * [codegraph](https://github.com/colbymchenry/codegraph) - クロード・コード、コーデックス、カーソル、オープンコード用の事前インデックス付きコードナレッジグラフ - トークンが少なく、ツールの呼び出しが少なく、100％ローカル
  * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API は、Go + Gin + React/Vite をベースとした Codex のリバースプロキシと管理画面プロジェクトです。
  * [takt](https://github.com/nrslib/takt) - TAKTエージェントコーディネーショントポロジー - AIエージェントがどのように調整され、人間がどこで介入し、何が記録されるかを定義する — YAMLで
- * [ccx](https://github.com/benedictking/ccx) - ジェミニAPIプロキシ - CCX
+ * [ccx](https://github.com/benedictking/ccx) - クロード / コデックス / ジェミニAPIプロキシ - CCX
  * [helmor](https://github.com/dohooo/helmor) - マルチエージェントソフトウェア開発のためのオープンソースのローカルワークベンチ。
 
 

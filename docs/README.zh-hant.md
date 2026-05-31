@@ -42,32 +42,22 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [ai-models](https://github.com/i-need-token/ai-models) - 包含4,587個AI模型在95個供應商之間的結構化YAML目錄 - 定價、上下文窗口、模態、功能。具有TypeScript類型和Zod驗證的第一方數據。
-
-
-**Chatbots**
- * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地優先的AI助手，支援Telegram、Discord、WhatsApp和Slack
+**Prompts**
+ * [typeui](https://github.com/bergside/typeui) - 設計技能和UI提示，適用於Claude Design、Google Stitch、Codex、Cursor和其他AI工具等主動工具。
 
 
 **CLIs**
- * [Understand-Anything](https://github.com/lum1104/understand-anything) - 以教學為主的圖表 > 以印象為主的圖表。將任何代碼轉換為互動式知識圖表，您可以探索、搜索並提出問題。適用於Claude Code、Codex、Cursor、Copilot、Gemini CLI等等。
- * [muxy](https://github.com/muxy-app/muxy) - 使用SwiftUI和libghostty構建的輕量級和內存高效的Mac終端使用SwiftUI和libghostty構建的輕量級和內存高效的Mac終端
- * [codeg](https://github.com/xintaofei/codeg) - 協作式多智能體人工智慧編碼工作空間：整合來自Claude Code、Codex、Gemini CLI等的會話。桌面應用程式、自託管伺服器或Docker。
+ * [jcode](https://github.com/1jehuang/jcode) - 編碼代理器束縛
+ * [cc-switch](https://github.com/farion1231/cc-switch) - 一個跨平台桌面全能助手，適用於Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。僅官方網站：ccswitch.io
+ * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
+ * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的技能和CLI，用於arXiv、PubMed、PMC和政策檢索
 
 
 **Openai**
- * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上運行OpenAI Codex桌面版-自動安裝程式
+ * [Friday](https://github.com/thesongzhu/friday) - AI個人操作平台，用於監督、證據支持的自動化。
 
 
-**Others**
- * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一個基於 Go + Gin + React/Vite 的 Codex 反向代理與管理後台專案
- * [takt](https://github.com/nrslib/takt) - TAKT代理協調拓撲 - 定義AI代理如何協調，人類如何介入，以及什麼被記錄 - 在YAML中
- * [ccx](https://github.com/benedictking/ccx) - 克勞德 / 密碼 / 雙子座 API 代理 - CCX
- * [helmor](https://github.com/dohooo/helmor) - 開源本地工作臺，用於多智能體軟件開發。
-
-
-_Updated on May 26, 2026_ (A total of 2592 repositories listed.)
+_Updated on May 31, 2026_ (A total of 2598 repositories listed.)
 
 ## Table of contents
 
@@ -371,6 +361,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * 🔥 [open-codesign](https://github.com/opencoworkai/open-codesign) - ⭐ 5.4k / PDF。多模型（克勞德、GPT、Gemini、Kimi、GLM、Ollama）。BYOK、本地優先、MIT。
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界上第一個開源AI原生矢量設計工具，也是第一個具有同時代理團隊功能的工具。設計即代碼。將提示直接轉換為UI在實時畫布上。是鉛筆的現代替代品。
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills 是一個全方位的 AI 技能套件。它無縫地將專家級能力和上下文管理整合到一個通用技能套件中，使任何 AI 代理能夠立即升級其功能，消除了碎片化的摩擦。
+ * [typeui](https://github.com/bergside/typeui) - 設計技能和UI提示，適用於Claude Design、Google Stitch、Codex、Cursor和其他AI工具等主動工具。
 
 
 ## Chatbots
@@ -1254,6 +1245,10 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * [Understand-Anything](https://github.com/lum1104/understand-anything) - 以教學為主的圖表 > 以印象為主的圖表。將任何代碼轉換為互動式知識圖表，您可以探索、搜索並提出問題。適用於Claude Code、Codex、Cursor、Copilot、Gemini CLI等等。
  * [muxy](https://github.com/muxy-app/muxy) - 使用SwiftUI和libghostty構建的輕量級和內存高效的Mac終端使用SwiftUI和libghostty構建的輕量級和內存高效的Mac終端
  * [codeg](https://github.com/xintaofei/codeg) - 協作式多智能體人工智慧編碼工作空間：整合來自Claude Code、Codex、Gemini CLI等的會話。桌面應用程式、自託管伺服器或Docker。
+ * [jcode](https://github.com/1jehuang/jcode) - 編碼代理器束縛
+ * [cc-switch](https://github.com/farion1231/cc-switch) - 一個跨平台桌面全能助手，適用於Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。僅官方網站：ccswitch.io
+ * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
+ * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的技能和CLI，用於arXiv、PubMed、PMC和政策檢索
 
 
 ## Reimplementations
@@ -2269,6 +2264,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * ⚠️ [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - ⭐ 0 / OpenAI GPT用於查詢實時審查數據-126個國家，5,700多起事件
  * 🔥 [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ⭐ 2.2k / ChatGPT官網接口純協議的逆向實現，支持註冊機維持號池額度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口協議，在線批量生成圖像，號池管理，支持導入CPA、sub2api號池，支持接入Cherry Studio、New Api等軟件。
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上運行OpenAI Codex桌面版-自動安裝程式
+ * [Friday](https://github.com/thesongzhu/friday) - AI個人操作平台，用於監督、證據支持的自動化。
 
 
 ## Others
@@ -2732,7 +2728,7 @@ _Updated on May 26, 2026_ (A total of 2592 repositories listed.)
  * [codegraph](https://github.com/colbymchenry/codegraph) - 為Claude Code、Codex、Cursor和OpenCode預先索引的代碼知識圖-更少的令牌，更少的工具調用，100%本地
  * [codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一個基於 Go + Gin + React/Vite 的 Codex 反向代理與管理後台專案
  * [takt](https://github.com/nrslib/takt) - TAKT代理協調拓撲 - 定義AI代理如何協調，人類如何介入，以及什麼被記錄 - 在YAML中
- * [ccx](https://github.com/benedictking/ccx) - 雙子座 API 代理 - CCX
+ * [ccx](https://github.com/benedictking/ccx) - 克勞德 / 密碼 / 雙子座 API 代理 - CCX
  * [helmor](https://github.com/dohooo/helmor) - 開源本地工作臺，用於多智能體軟件開發。
 
 

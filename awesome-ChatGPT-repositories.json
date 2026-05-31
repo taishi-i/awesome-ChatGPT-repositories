@@ -7311,6 +7311,36 @@
                     "zh-hans": "Vibe-Skills是一款全能的AI技能包。它无缝地将专家级能力和上下文管理集成到一个通用技能包中，使任何AI代理能够立即升级其功能，消除了碎片化的摩擦。",
                     "zh-hant": "Vibe-Skills 是一個全方位的 AI 技能套件。它無縫地將專家級能力和上下文管理整合到一個通用技能套件中，使任何 AI 代理能夠立即升級其功能，消除了碎片化的摩擦。"
                 }
+            },
+            "https://github.com/bergside/typeui": {
+                "repository_name": "typeui",
+                "user_name": "bergside",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Design skills and UI prompts for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and other AI tools",
+                "topics": [
+                    "agent-skills",
+                    "ai",
+                    "ai-tools",
+                    "claude-design",
+                    "cli",
+                    "codex",
+                    "design",
+                    "design-md",
+                    "design-system",
+                    "design-tools",
+                    "gemini",
+                    "google-stitch",
+                    "skills",
+                    "terminal",
+                    "ui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Design skills and UI prompts for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and other AI tools",
+                    "ja": "クロードデザイン、Google Stitch、Codex、CursorなどのエージェントツールのデザインスキルとUIプロンプト",
+                    "zh-hans": "设计技能和UI提示，适用于代理工具，如Claude Design，Google Stitch，Codex，Cursor和其他AI工具。",
+                    "zh-hant": "設計技能和UI提示，適用於Claude Design、Google Stitch、Codex、Cursor和其他AI工具等主動工具。"
+                }
             }
         },
         "Chatbots": {
@@ -29612,6 +29642,126 @@
                     "ja": "協力的なマルチエージェントAIコーディングワークスペース：Claude Code、Codex、Gemini CLIなどからのセッションを集約します。デスクトップアプリ、自己ホスト型サーバー、またはDocker。",
                     "zh-hans": "协作多智能体AI编码工作空间：整合来自Claude Code、Codex、Gemini CLI等的会话。桌面应用程序、自托管服务器或Docker。",
                     "zh-hant": "協作式多智能體人工智慧編碼工作空間：整合來自Claude Code、Codex、Gemini CLI等的會話。桌面應用程式、自託管伺服器或Docker。"
+                }
+            },
+            "https://github.com/1jehuang/jcode": {
+                "repository_name": "jcode",
+                "user_name": "1jehuang",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "Coding Agent Harness",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "cli",
+                    "coding-agent",
+                    "llm",
+                    "mcp",
+                    "openai",
+                    "rust",
+                    "terminal",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Coding Agent Harness",
+                    "ja": "コーディングエージェントハーネス",
+                    "zh-hans": "编码代理工具",
+                    "zh-hant": "編碼代理器束縛"
+                }
+            },
+            "https://github.com/farion1231/cc-switch": {
+                "repository_name": "cc-switch",
+                "user_name": "farion1231",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+                "topics": [
+                    "ai-tools",
+                    "claude-code",
+                    "codex",
+                    "desktop-app",
+                    "hermes",
+                    "hermes-agent",
+                    "mcp",
+                    "minimax",
+                    "omo",
+                    "open-source",
+                    "openclaw",
+                    "openclaw-ui",
+                    "opencode",
+                    "provider-management",
+                    "rust",
+                    "skills",
+                    "skills-management",
+                    "tauri",
+                    "typescript",
+                    "wsl-support"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io",
+                    "ja": "クロードコード、コーデックス、オープンコード、オープンクロー、ジェミニCLI＆ヘルメスエージェント向けのクロスプラットフォームデスクトップオールインワンアシスタント。公式ウェブサイトのみ：ccswitch.io",
+                    "zh-hans": "一个跨平台桌面全能助手，适用于Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。官方网站：ccswitch.io",
+                    "zh-hant": "一個跨平台桌面全能助手，適用於Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。僅官方網站：ccswitch.io"
+                }
+            },
+            "https://github.com/liaohch3/claude-tap": {
+                "repository_name": "claude-tap",
+                "user_name": "liaohch3",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.",
+                "topics": [
+                    "agent-debugging",
+                    "agent-observability",
+                    "ai-agents",
+                    "ai-tools",
+                    "api-debugging",
+                    "claude-code",
+                    "codex",
+                    "codex-cli",
+                    "cursor-cli",
+                    "developer-tools",
+                    "gemini-cli",
+                    "hermes-agent",
+                    "kimi",
+                    "llm",
+                    "llm-proxy",
+                    "opencode",
+                    "pi-coding-agent",
+                    "proxy",
+                    "trace",
+                    "trace-viewer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.",
+                    "ja": "クロードコード、コデックスCLI、ジェミニCLI、カーソルCLI、オープンコード、キミ、Pi、ヘルメスからのコーディングエージェントAPIトラフィックをローカルトレースビューアでインターセプトして検査します。",
+                    "zh-hans": "在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。",
+                    "zh-hant": "在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。"
+                }
+            },
+            "https://github.com/intelligent-internet/ii-commons-skills": {
+                "repository_name": "II-Commons-Skills",
+                "user_name": "Intelligent-Internet",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "Fast, daily-updated skill and CLI for arXiv, PubMed, PMC, and policy retrieval",
+                "topics": [
+                    "arxiv",
+                    "cli",
+                    "daily-updated",
+                    "ii-commons",
+                    "pmc",
+                    "policy",
+                    "pubmed",
+                    "research",
+                    "retrieval",
+                    "skill"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fast, daily-updated skill and CLI for arXiv, PubMed, PMC, and policy retrieval",
+                    "ja": "高速で毎日更新されるarXiv、PubMed、PMC、および政策検索のためのスキルとCLI",
+                    "zh-hans": "快速、每日更新的 arXiv、PubMed、PMC 和政策检索技能和命令行界面",
+                    "zh-hant": "快速、每日更新的技能和CLI，用於arXiv、PubMed、PMC和政策檢索"
                 }
             }
         },
@@ -53306,6 +53456,34 @@
                     "ja": "LinuxでOpenAI Codex Desktopを実行する - 自動インストーラ",
                     "zh-hans": "在Linux上运行OpenAI Codex桌面版-自动安装程序",
                     "zh-hant": "在Linux上運行OpenAI Codex桌面版-自動安裝程式"
+                }
+            },
+            "https://github.com/thesongzhu/friday": {
+                "repository_name": "Friday",
+                "user_name": "thesongzhu",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI personal operations platform for supervised, evidence-backed automation.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-agents",
+                    "ai-assistant",
+                    "automation",
+                    "codex",
+                    "friday",
+                    "local-first",
+                    "openai",
+                    "personal-assistant",
+                    "self-hosted",
+                    "typescript",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI personal operations platform for supervised, evidence-backed automation.",
+                    "ja": "監督された、証拠に基づいた自動化のためのAIパーソナルオペレーションプラットフォーム。",
+                    "zh-hans": "AI个人运营平台，监督、有证据支持的自动化。",
+                    "zh-hant": "AI個人操作平台，用於監督、證據支持的自動化。"
                 }
             }
         },
