@@ -2734,5 +2734,6 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [takt](https://github.com/nrslib/takt) - TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
  * [ccx](https://github.com/benedictking/ccx) - Gemini API Proxy - CCX
  * [helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
+ * [eval-harness](https://github.com/nano-step/eval-harness) - Behavior-regression testing for LLM agents. 4-class attribution, 6-field FAIL schema, $-cost gating, flaky detection. Bash + jq, MIT.
 
 
