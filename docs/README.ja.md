@@ -42,22 +42,23 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界最大のGPTイメージ2プロンプトライブラリ、毎日更新 - プレビュー画像付きの2000以上の厳選されたプロンプト、16言語。ピクセル完璧なテキストレンダリング、画像間の一貫性、商業用イラストを備えたOpenAIの次世代画像モデル。無料＆オープン
+
+
 **Prompts**
- * [typeui](https://github.com/bergside/typeui) - クロードデザイン、Google Stitch、Codex、CursorなどのエージェントツールのデザインスキルとUIプロンプト
+ * [eval-harness](https://github.com/nano-step/eval-harness) - LLMエージェントの動作回帰テスト。4クラスの属性、6フィールドのFAILスキーマ、$-コストゲート、フレーキー検出。Bash + jq。今日のopencodeと連携し、ランナープラグインを使用します。
 
 
 **CLIs**
- * [jcode](https://github.com/1jehuang/jcode) - コーディングエージェントハーネス
- * [cc-switch](https://github.com/farion1231/cc-switch) - クロードコード、コーデックス、オープンコード、オープンクロー、ジェミニCLI＆ヘルメスエージェント向けのクロスプラットフォームデスクトップオールインワンアシスタント。公式ウェブサイトのみ：ccswitch.io
- * [claude-tap](https://github.com/liaohch3/claude-tap) - クロードコード、コデックスCLI、ジェミニCLI、カーソルCLI、オープンコード、キミ、Pi、ヘルメスからのコーディングエージェントAPIトラフィックをローカルトレースビューアでインターセプトして検査します。
- * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 高速で毎日更新されるarXiv、PubMed、PMC、および政策検索のためのスキルとCLI
+ * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - クロードコード、カーソル、コーデックスCLIを使用して、コードベースのためのChatGPTを提供します。マルチエージェント知識エンジン、ファイルパスと行番号を使用したグラウンデッドQ&A。どんなAI IDEでも動作します。
 
 
-**Openai**
- * [Friday](https://github.com/thesongzhu/friday) - 監督された、証拠に基づいた自動化のためのAIパーソナルオペレーションプラットフォーム。
+**NLP**
+ * [MemOS](https://github.com/memtensor/memos) - LLM＆AIエージェント向けの自己進化メモリOS：超持続メモリ、ハイブリッド検索、クロスタスクスキル再利用、トークン節約率35.24％
 
 
-_Updated on May 31, 2026_ (A total of 2598 repositories listed.)
+_Updated on June 05, 2026_ (A total of 2602 repositories listed.)
 
 ## Table of contents
 
@@ -173,6 +174,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * 🔥 [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - ⭐ 14k / Openai API用のキュレーションされたGPT-Image-2プロンプト：肖像画、ポスター、UIモックアップ、キャラクターシート、コミュニティ実験などの画像例。
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - インディー製のAIスタートアップの厳選リスト - 自己資金調達、プリシード、エンジェルファンドの製品のみ。
  * [ai-models](https://github.com/i-need-token/ai-models) - 95のプロバイダーにわたる4,587のAIモデルの構造化されたYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。4,587のAIモデルを95のプロバイダーにわたって構造化したYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。
+ * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界最大のGPTイメージ2プロンプトライブラリ、毎日更新 - プレビュー画像付きの2000以上の厳選されたプロンプト、16言語。ピクセル完璧なテキストレンダリング、画像間の一貫性、商業用イラストを備えたOpenAIの次世代画像モデル。無料＆オープン
 
 
 ## Prompts
@@ -362,6 +364,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界初のオープンソースAIネイティブベクトルデザインツールであり、同時エージェントチームを搭載した最初のツールです。デザインをコードとして扱います。プロンプトをライブキャンバス上で直接UIに変換します。鉛筆の現代的な代替品です。
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-SkillsはオールインワンのAIスキルパッケージです。専門レベルの機能とコンテキスト管理を一般的なスキルパッケージにシームレスに統合し、どんなAIエージェントでも瞬時に機能をアップグレードできるようにします。断片化の摩擦を排除します。
  * [typeui](https://github.com/bergside/typeui) - クロードデザイン、Google Stitch、Codex、CursorなどのエージェントツールのデザインスキルとUIプロンプト
+ * [eval-harness](https://github.com/nano-step/eval-harness) - LLMエージェントの動作回帰テスト。4クラスの属性、6フィールドのFAILスキーマ、$-コストゲート、フレーキー検出。Bash + jq。今日のopencodeと連携し、ランナープラグインを使用します。
 
 
 ## Chatbots
@@ -1249,6 +1252,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [cc-switch](https://github.com/farion1231/cc-switch) - クロードコード、コーデックス、オープンコード、オープンクロー、ジェミニCLI＆ヘルメスエージェント向けのクロスプラットフォームデスクトップオールインワンアシスタント。公式ウェブサイトのみ：ccswitch.io
  * [claude-tap](https://github.com/liaohch3/claude-tap) - クロードコード、コデックスCLI、ジェミニCLI、カーソルCLI、オープンコード、キミ、Pi、ヘルメスからのコーディングエージェントAPIトラフィックをローカルトレースビューアでインターセプトして検査します。
  * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 高速で毎日更新されるarXiv、PubMed、PMC、および政策検索のためのスキルとCLI
+ * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - クロードコード、カーソル、コーデックスCLIを使用して、コードベースのためのChatGPTを提供します。マルチエージェント知識エンジン、ファイルパスと行番号を使用したグラウンデッドQ&A。どんなAI IDEでも動作します。
 
 
 ## Reimplementations
@@ -1734,6 +1738,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - AIエージェントメモリ用の自己ホスト型MCPサーバー - 83のツール、87.8％のLoCoMo。Claude、Cursor、Windsurfと連携します。
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - あなたはCTOです。エージェントたちはあなたのチームです。彼らは自分たちでタスクを処理し、お互いにメッセージを送り合い、お互いの仕事をレビューします。あなたは単にかんばんボードを見て高レベルの指示を出すだけです。Codex/Claude/OpenCode（200以上のモデル）を構築して、あなたのAI企業を作り上げてください。
  * [ECC](https://github.com/affaan-m/ecc) - エージェントは、パフォーマンス最適化システムを利用します。Claude Code、Codex、Opencode、Cursorなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
+ * [MemOS](https://github.com/memtensor/memos) - LLM＆AIエージェント向けの自己進化メモリOS：超持続メモリ、ハイブリッド検索、クロスタスクスキル再利用、トークン節約率35.24％
 
 
 ## Langchain

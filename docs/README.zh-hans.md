@@ -42,22 +42,23 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界上最大的GPT图像2提示库，每天更新 - 2000多个精选提示与预览图像，支持16种语言。OpenAI的下一代图像模型具有像素完美的文本渲染，跨图像一致性和商业级插图。免费并开放。
+
+
 **Prompts**
- * [typeui](https://github.com/bergside/typeui) - 设计技能和UI提示，适用于代理工具，如Claude Design，Google Stitch，Codex，Cursor和其他AI工具。
+ * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行为回归测试。4类属性，6字段失败模式，成本门控，易变检测。Bash + jq。今天与opencode一起使用，可插拔的运行器。
 
 
 **CLIs**
- * [jcode](https://github.com/1jehuang/jcode) - 编码代理工具
- * [cc-switch](https://github.com/farion1231/cc-switch) - 一个跨平台桌面全能助手，适用于Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。官方网站：ccswitch.io
- * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
- * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的 arXiv、PubMed、PMC 和政策检索技能和命令行界面
+ * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - 为您的代码库提供Claude Code、Cursor、Codex CLI和ChatGPT。多代理知识引擎，基于文件路径和行号的问答。适用于任何AI IDE。
 
 
-**Openai**
- * [Friday](https://github.com/thesongzhu/friday) - AI个人运营平台，监督、有证据支持的自动化。
+**NLP**
+ * [MemOS](https://github.com/memtensor/memos) - 自我进化的记忆操作系统，用于LLM和AI代理：超持久的记忆，混合检索，跨任务技能重复利用，节省35.24%的令牌
 
 
-_Updated on May 31, 2026_ (A total of 2598 repositories listed.)
+_Updated on June 05, 2026_ (A total of 2602 repositories listed.)
 
 ## Table of contents
 
@@ -173,6 +174,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * 🔥 [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - ⭐ 14k / Openai API的策展GPT-Image-2提示：跨肖像、海报、UI模型、角色表和社区实验的图像示例。
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - 一个由独立建立的人工智能初创公司组成的策划清单 - 仅包括自助、前种子和天使投资的产品。
  * [ai-models](https://github.com/i-need-token/ai-models) - 包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。输出：包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。
+ * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界上最大的GPT图像2提示库，每天更新 - 2000多个精选提示与预览图像，支持16种语言。OpenAI的下一代图像模型具有像素完美的文本渲染，跨图像一致性和商业级插图。免费并开放。
 
 
 ## Prompts
@@ -362,6 +364,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界上第一个开源AI原生矢量设计工具，也是第一个具有并发代理团队功能的工具。设计即代码。将提示直接转换为UI在实时画布上。是铅笔的现代替代品。
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills是一款全能的AI技能包。它无缝地将专家级能力和上下文管理集成到一个通用技能包中，使任何AI代理能够立即升级其功能，消除了碎片化的摩擦。
  * [typeui](https://github.com/bergside/typeui) - 设计技能和UI提示，适用于代理工具，如Claude Design，Google Stitch，Codex，Cursor和其他AI工具。
+ * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行为回归测试。4类属性，6字段失败模式，成本门控，易变检测。Bash + jq。今天与opencode一起使用，可插拔的运行器。
 
 
 ## Chatbots
@@ -1249,6 +1252,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [cc-switch](https://github.com/farion1231/cc-switch) - 一个跨平台桌面全能助手，适用于Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。官方网站：ccswitch.io
  * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
  * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的 arXiv、PubMed、PMC 和政策检索技能和命令行界面
+ * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - 为您的代码库提供Claude Code、Cursor、Codex CLI和ChatGPT。多代理知识引擎，基于文件路径和行号的问答。适用于任何AI IDE。
 
 
 ## Reimplementations
@@ -1734,6 +1738,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - 自托管的MCP服务器用于AI代理记忆 - 83个工具，87.8%的LoCoMo。与Claude，Cursor，Windsurf配合使用。
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - 你是首席技术官，代理人是你的团队。他们独立处理任务，相互发送消息，审查彼此的工作。你只需观察看板并发出高层指令。Codex/Claude/OpenCode（200多个模型）。打造你的人工智能公司。
  * [ECC](https://github.com/affaan-m/ecc) - 代理商利用性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全和研究优先的开发。
+ * [MemOS](https://github.com/memtensor/memos) - 自我进化的记忆操作系统，用于LLM和AI代理：超持久的记忆，混合检索，跨任务技能重复利用，节省35.24%的令牌
 
 
 ## Langchain
