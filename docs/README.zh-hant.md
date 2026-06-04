@@ -42,22 +42,23 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 全球最大的GPT圖像2提示庫，每天更新-2000多個精心挑選的提示與預覽圖像，支持16種語言。OpenAI的下一代圖像模型具有像素級文本渲染，跨圖像一致性和商業級插圖。免費且開放。
+
+
 **Prompts**
- * [typeui](https://github.com/bergside/typeui) - 設計技能和UI提示，適用於Claude Design、Google Stitch、Codex、Cursor和其他AI工具等主動工具。
+ * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行為回歸測試。4類歸因，6字段失敗模式，成本閘控，不穩定檢測。Bash + jq。今天與opencode一起工作，可插拔運行。
 
 
 **CLIs**
- * [jcode](https://github.com/1jehuang/jcode) - 編碼代理器束縛
- * [cc-switch](https://github.com/farion1231/cc-switch) - 一個跨平台桌面全能助手，適用於Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。僅官方網站：ccswitch.io
- * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
- * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的技能和CLI，用於arXiv、PubMed、PMC和政策檢索
+ * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - 給克勞德代碼，游標，Codex CLI一個ChatGPT，用於您的代碼庫。多代理知識引擎，基於文件路徑和行號的問答。適用於任何AI IDE。
 
 
-**Openai**
- * [Friday](https://github.com/thesongzhu/friday) - AI個人操作平台，用於監督、證據支持的自動化。
+**NLP**
+ * [MemOS](https://github.com/memtensor/memos) - 自我演化記憶體作業系統，適用於LLM和AI代理人：超持久記憶體，混合檢索，跨任務技能重複使用，節省35.24%的令牌。
 
 
-_Updated on May 31, 2026_ (A total of 2598 repositories listed.)
+_Updated on June 05, 2026_ (A total of 2602 repositories listed.)
 
 ## Table of contents
 
@@ -173,6 +174,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * 🔥 [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - ⭐ 14k / 為Openai API精心挑選的GPT-Image-2提示：跨越肖像、海報、UI模擬、角色表和社區實驗的圖像示例。
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - 一份精心策劃的獨立AI初創企業清單-僅包括自給自足、前種子輪和天使投資的產品。
  * [ai-models](https://github.com/i-need-token/ai-models) - 包含4,587個AI模型在95個供應商之間的結構化YAML目錄 - 定價、上下文窗口、模態、功能。具有TypeScript類型和Zod驗證的第一方數據。
+ * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 全球最大的GPT圖像2提示庫，每天更新-2000多個精心挑選的提示與預覽圖像，支持16種語言。OpenAI的下一代圖像模型具有像素級文本渲染，跨圖像一致性和商業級插圖。免費且開放。
 
 
 ## Prompts
@@ -362,6 +364,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [openpencil](https://github.com/zseven-w/openpencil) - 世界上第一個開源AI原生矢量設計工具，也是第一個具有同時代理團隊功能的工具。設計即代碼。將提示直接轉換為UI在實時畫布上。是鉛筆的現代替代品。
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills 是一個全方位的 AI 技能套件。它無縫地將專家級能力和上下文管理整合到一個通用技能套件中，使任何 AI 代理能夠立即升級其功能，消除了碎片化的摩擦。
  * [typeui](https://github.com/bergside/typeui) - 設計技能和UI提示，適用於Claude Design、Google Stitch、Codex、Cursor和其他AI工具等主動工具。
+ * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行為回歸測試。4類歸因，6字段失敗模式，成本閘控，不穩定檢測。Bash + jq。今天與opencode一起工作，可插拔運行。
 
 
 ## Chatbots
@@ -1249,6 +1252,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [cc-switch](https://github.com/farion1231/cc-switch) - 一個跨平台桌面全能助手，適用於Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI和Hermes Agent。僅官方網站：ccswitch.io
  * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
  * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的技能和CLI，用於arXiv、PubMed、PMC和政策檢索
+ * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - 給克勞德代碼，游標，Codex CLI一個ChatGPT，用於您的代碼庫。多代理知識引擎，基於文件路徑和行號的問答。適用於任何AI IDE。
 
 
 ## Reimplementations
@@ -1734,6 +1738,7 @@ _Updated on May 31, 2026_ (A total of 2598 repositories listed.)
  * [dakera-mcp](https://github.com/dakera-ai/dakera-mcp) - 自託管的MCP伺服器用於AI代理記憶 - 83個工具，87.8%的LoCoMo。與Claude、Cursor、Windsurf一起使用。
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - 你是CTO，代理人是你的團隊。他們獨立處理任務，互相傳遞訊息，並審查彼此的工作。你只需觀看看板並發出高層指令。Codex/Claude/OpenCode（200多個模型）。建立你的人工智慧公司。
  * [ECC](https://github.com/affaan-m/ecc) - 代理商利用性能優化系統。為Claude Code、Codex、Opencode、Cursor等等提供技能、直覺、記憶、安全性和研究優先的開發。
+ * [MemOS](https://github.com/memtensor/memos) - 自我演化記憶體作業系統，適用於LLM和AI代理人：超持久記憶體，混合檢索，跨任務技能重複使用，節省35.24%的令牌。
 
 
 ## Langchain
