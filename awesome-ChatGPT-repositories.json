@@ -23555,6 +23555,41 @@
                     "zh-hans": "Jetbrains Claude 代码和 Codex GUI 插件",
                     "zh-hant": "Jetbrains Claude 代碼和 Codex GUI 插件"
                 }
+            },
+            "https://github.com/ttop32/mousetooltiptranslator": {
+                "repository_name": "MouseTooltipTranslator",
+                "user_name": "ttop32",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH",
+                "topics": [
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome",
+                    "chrome-extension",
+                    "dictionaries",
+                    "dictionary",
+                    "dual",
+                    "ebook",
+                    "epub",
+                    "extension",
+                    "manifest-v3",
+                    "ocr",
+                    "pdf",
+                    "subtitle",
+                    "translate",
+                    "translator",
+                    "tts",
+                    "vue",
+                    "webextension",
+                    "youtube"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH",
+                    "ja": "マウスオーバー翻訳一度に任意の言語 - Chrome拡張機能：PDF翻訳、EBOOK、EPUB、OCR、TTS、NETFLIX、YOUTUBEデュアル字幕、Googleドキュメント、AI、ビューア、Gmail、ライティング、画像、デュアルサブ、マンガ、ホバー、辞書、WEBTOON、EDGE、日本語、英語",
+                    "zh-hans": "鼠标悬停翻译任何语言一次 - Chrome扩展程序：PDF翻译器，电子书，EPUB，OCR，TTS，NETFLIX，YOUTUBE双字幕，谷歌文档，人工智能，查看器，GMAIL，写作，图像，双字幕，漫画，悬停，词典，WEBTOON，EDGE，日语，英语",
+                    "zh-hant": "滑鼠懸停翻譯任何語言一次 - Chrome 擴充功能：PDF 翻譯器，電子書，EPUB，OCR，TTS，NETFLIX，YOUTUBE 雙字幕，GOOGLE DOCS，AI，檢視器，GMAIL，寫作，圖片，雙字幕，漫畫，懸停，字典，WEBTOON，EDGE，日文，英文"
+                }
             }
         },
         "CLIs": {
@@ -45891,6 +45926,72 @@
                     "zh-hant": "OpenYak - 開源本地AI代理，適用於Windows、macOS和Linux。一個私人的、BYOK替代方案，可替代Claude Code、Claude for Work和OpenAI Codex，提供20多種工具、100多種模型，通過OpenRouter、MCP和Ollama。免費、MIT許可證，無遙測。"
                 },
                 "star_count": 777
+            },
+            "https://github.com/enterpilot/gomodel": {
+                "repository_name": "GoModel",
+                "user_name": "ENTERPILOT",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.",
+                "topics": [
+                    "ai",
+                    "ai-gateway",
+                    "ai-proxy",
+                    "anthropic",
+                    "go",
+                    "golang",
+                    "groq",
+                    "litellm-alternative",
+                    "llm",
+                    "llm-gateway",
+                    "observability",
+                    "ollama",
+                    "openai",
+                    "openai-compatible",
+                    "openai-compatible-api",
+                    "openai-compatible-proxy-server",
+                    "proxy"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.",
+                    "ja": "Goで書かれたAIゲートウェイ。OpenAI、Anthropic、Gemini、Groq、xAI＆Ollamaに対応した軽量統合API。観測可能性、ガードレール、ストリーミング、コストおよび使用状況の追跡を備えたLiteLLMの代替手段。",
+                    "zh-hans": "用Go编写的AI网关。轻量级统一的OpenAI兼容API，适用于OpenAI、Anthropic、Gemini、Groq、xAI和Ollama。具有可观察性、防护栏、流式传输、成本和使用跟踪的LiteLLM替代方案。",
+                    "zh-hant": "使用Go编写的AI网关。轻量级统一的OpenAI兼容API，适用于OpenAI、Anthropic、Gemini、Groq、xAI和Ollama。具有可观察性、防护栏、流式传输、成本和使用跟踪的LiteLLM替代方案。"
+                }
+            },
+            "https://github.com/strands-agents/harness-sdk": {
+                "repository_name": "harness-sdk",
+                "user_name": "strands-agents",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "A model-driven approach to building AI agents in just a few lines of code.",
+                "topics": [
+                    "agentic",
+                    "agentic-ai",
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "autonomous-agents",
+                    "bedrock",
+                    "genai",
+                    "litellm",
+                    "llama",
+                    "llm",
+                    "machine-learning",
+                    "mcp",
+                    "multi-agent-systems",
+                    "ollama",
+                    "openai",
+                    "opentelemetry",
+                    "python",
+                    "strands-agents"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A model-driven approach to building AI agents in just a few lines of code.",
+                    "ja": "わずか数行のコードでAIエージェントを構築するモデル駆動アプローチ。",
+                    "zh-hans": "一种基于模型驱动的方法，仅需几行代码即可构建AI代理。",
+                    "zh-hant": "一種以模型驅動的方法，在僅需幾行代碼中建立AI代理。"
+                }
             }
         },
         "Unity": {

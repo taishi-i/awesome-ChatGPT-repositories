@@ -42,23 +42,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界上最大的GPT图像2提示库，每天更新 - 2000多个精选提示与预览图像，支持16种语言。OpenAI的下一代图像模型具有像素完美的文本渲染，跨图像一致性和商业级插图。免费并开放。
+**Browser-extensions**
+ * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - 鼠标悬停翻译任何语言一次 - Chrome扩展程序：PDF翻译器，电子书，EPUB，OCR，TTS，NETFLIX，YOUTUBE双字幕，谷歌文档，人工智能，查看器，GMAIL，写作，图像，双字幕，漫画，悬停，词典，WEBTOON，EDGE，日语，英语
 
 
-**Prompts**
- * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行为回归测试。4类属性，6字段失败模式，成本门控，易变检测。Bash + jq。今天与opencode一起使用，可插拔的运行器。
+**Langchain**
+ * [GoModel](https://github.com/enterpilot/gomodel) - 用Go编写的AI网关。轻量级统一的OpenAI兼容API，适用于OpenAI、Anthropic、Gemini、Groq、xAI和Ollama。具有可观察性、防护栏、流式传输、成本和使用跟踪的LiteLLM替代方案。
+ * [harness-sdk](https://github.com/strands-agents/harness-sdk) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
 
 
-**CLIs**
- * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - 为您的代码库提供Claude Code、Cursor、Codex CLI和ChatGPT。多代理知识引擎，基于文件路径和行号的问答。适用于任何AI IDE。
-
-
-**NLP**
- * [MemOS](https://github.com/memtensor/memos) - 自我进化的记忆操作系统，用于LLM和AI代理：超持久的记忆，混合检索，跨任务技能重复利用，节省35.24%的令牌
-
-
-_Updated on June 05, 2026_ (A total of 2602 repositories listed.)
+_Updated on June 09, 2026_ (A total of 2605 repositories listed.)
 
 ## Table of contents
 
@@ -1004,6 +997,7 @@ _Updated on June 05, 2026_ (A total of 2602 repositories listed.)
  * 🔥 [plugins](https://github.com/openai/plugins) - ⭐ 1.1k / OpenAI插件
  * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - 官方复合工程插件，适用于Claude Code、Codex、Cursor等等。
  * [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude 代码和 Codex GUI 插件
+ * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - 鼠标悬停翻译任何语言一次 - Chrome扩展程序：PDF翻译器，电子书，EPUB，OCR，TTS，NETFLIX，YOUTUBE双字幕，谷歌文档，人工智能，查看器，GMAIL，写作，图像，双字幕，漫画，悬停，词典，WEBTOON，EDGE，日语，英语
 
 
 ## CLIs
@@ -1921,6 +1915,8 @@ _Updated on June 05, 2026_ (A total of 2602 repositories listed.)
  * 🔥 [swarmclaw](https://github.com/swarmclawai/swarmclaw) - ⭐ 473 / 自托管的多代理人AI运行时，支持MCP服务器。使用内存、技能、日程表和23个以上的LLM提供商（Claude、GPT、Gemini、OpenRouter、Ollama）构建、编排和运行自主代理人。
  * 🔥 [kronk](https://github.com/ardanlabs/kronk) - ⭐ 612 / 您的个人引擎，用于在本地运行开源模型。使用Go进行硬件加速的本地推理，直接通过yzma模块将llama.cpp集成到您的Go应用程序中。Kronk提供了一个高级API，感觉类似于使用Op。
  * 🔥 [openyak](https://github.com/openyak/openyak) - ⭐ 777 / OpenYak - 适用于Windows，macOS和Linux的开源本地AI代理。是Claude Code，Claude for Work和OpenAI Codex的私人BYOK替代方案，具有20多种工具，通过OpenRouter，MCP和Ollama提供100多种模型。免费，MIT许可，无遥测。
+ * [GoModel](https://github.com/enterpilot/gomodel) - 用Go编写的AI网关。轻量级统一的OpenAI兼容API，适用于OpenAI、Anthropic、Gemini、Groq、xAI和Ollama。具有可观察性、防护栏、流式传输、成本和使用跟踪的LiteLLM替代方案。
+ * [harness-sdk](https://github.com/strands-agents/harness-sdk) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
 
 
 ## Unity

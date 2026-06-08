@@ -42,23 +42,16 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界最大のGPTイメージ2プロンプトライブラリ、毎日更新 - プレビュー画像付きの2000以上の厳選されたプロンプト、16言語。ピクセル完璧なテキストレンダリング、画像間の一貫性、商業用イラストを備えたOpenAIの次世代画像モデル。無料＆オープン
+**Browser-extensions**
+ * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - マウスオーバー翻訳一度に任意の言語 - Chrome拡張機能：PDF翻訳、EBOOK、EPUB、OCR、TTS、NETFLIX、YOUTUBEデュアル字幕、Googleドキュメント、AI、ビューア、Gmail、ライティング、画像、デュアルサブ、マンガ、ホバー、辞書、WEBTOON、EDGE、日本語、英語
 
 
-**Prompts**
- * [eval-harness](https://github.com/nano-step/eval-harness) - LLMエージェントの動作回帰テスト。4クラスの属性、6フィールドのFAILスキーマ、$-コストゲート、フレーキー検出。Bash + jq。今日のopencodeと連携し、ランナープラグインを使用します。
+**Langchain**
+ * [GoModel](https://github.com/enterpilot/gomodel) - Goで書かれたAIゲートウェイ。OpenAI、Anthropic、Gemini、Groq、xAI＆Ollamaに対応した軽量統合API。観測可能性、ガードレール、ストリーミング、コストおよび使用状況の追跡を備えたLiteLLMの代替手段。
+ * [harness-sdk](https://github.com/strands-agents/harness-sdk) - わずか数行のコードでAIエージェントを構築するモデル駆動アプローチ。
 
 
-**CLIs**
- * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - クロードコード、カーソル、コーデックスCLIを使用して、コードベースのためのChatGPTを提供します。マルチエージェント知識エンジン、ファイルパスと行番号を使用したグラウンデッドQ&A。どんなAI IDEでも動作します。
-
-
-**NLP**
- * [MemOS](https://github.com/memtensor/memos) - LLM＆AIエージェント向けの自己進化メモリOS：超持続メモリ、ハイブリッド検索、クロスタスクスキル再利用、トークン節約率35.24％
-
-
-_Updated on June 05, 2026_ (A total of 2602 repositories listed.)
+_Updated on June 09, 2026_ (A total of 2605 repositories listed.)
 
 ## Table of contents
 
@@ -1004,6 +997,7 @@ _Updated on June 05, 2026_ (A total of 2602 repositories listed.)
  * 🔥 [plugins](https://github.com/openai/plugins) - ⭐ 1.1k / OpenAIプラグイン
  * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - クロードコード、コーデックス、カーソルなどの公式コンパウンドエンジニアリングプラグイン
  * [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - JetbrainsのClaude CodeとCodex GUIプラグイン
+ * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - マウスオーバー翻訳一度に任意の言語 - Chrome拡張機能：PDF翻訳、EBOOK、EPUB、OCR、TTS、NETFLIX、YOUTUBEデュアル字幕、Googleドキュメント、AI、ビューア、Gmail、ライティング、画像、デュアルサブ、マンガ、ホバー、辞書、WEBTOON、EDGE、日本語、英語
 
 
 ## CLIs
@@ -1921,6 +1915,8 @@ _Updated on June 05, 2026_ (A total of 2602 repositories listed.)
  * 🔥 [swarmclaw](https://github.com/swarmclawai/swarmclaw) - ⭐ 473 / 自己ホスト型のマルチエージェントAIランタイムで、MCPサーバーサポートを備えています。メモリ、スキル、スケジュール、23以上のLLMプロバイダ（Claude、GPT、Gemini、OpenRouter、Ollama）を備えた自律エージェントを構築、オーケストレーション、実行できます。
  * 🔥 [kronk](https://github.com/ardanlabs/kronk) - ⭐ 612 / オープンソースモデルをローカルで実行するための個人用エンジンです。Goを使用して、llama.cppがyzmaモジュールを介して直接Goアプリケーションに統合されたハードウェアアクセラレーションローカル推論を行います。Kronkは、Opを使用するのと似た高レベルAPIを提供します。
  * 🔥 [openyak](https://github.com/openyak/openyak) - ⭐ 777 / Input: OpenYak — Windows、macOS、およびLinux向けのオープンソースのローカルAIエージェント。Claude Code、Claude for Work、およびOpenAI CodexのプライベートでBYOKの代替手段であり、OpenRouter、MCP、およびOllamaを介して20以上のツール、100以上のモデルを提供しています。無料で、MITライセンスで、テレメトリーはありません。
+ * [GoModel](https://github.com/enterpilot/gomodel) - Goで書かれたAIゲートウェイ。OpenAI、Anthropic、Gemini、Groq、xAI＆Ollamaに対応した軽量統合API。観測可能性、ガードレール、ストリーミング、コストおよび使用状況の追跡を備えたLiteLLMの代替手段。
+ * [harness-sdk](https://github.com/strands-agents/harness-sdk) - わずか数行のコードでAIエージェントを構築するモデル駆動アプローチ。
 
 
 ## Unity

@@ -46,23 +46,16 @@ Run these two commands inside Claude Code:
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open
+**Browser-extensions**
+ * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH
 
 
-**Prompts**
- * [eval-harness](https://github.com/nano-step/eval-harness) - Behavior-regression testing for LLM agents. 4-class attribution, 6-field FAIL schema, $-cost gating, flaky detection. Bash + jq. Works with opencode today, runner-pluggable.
+**Langchain**
+ * [GoModel](https://github.com/enterpilot/gomodel) - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.
+ * [harness-sdk](https://github.com/strands-agents/harness-sdk) - A model-driven approach to building AI agents in just a few lines of code.
 
 
-**CLIs**
- * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q&A with file paths and line numbers. Works in any AI IDE.
-
-
-**NLP**
- * [MemOS](https://github.com/memtensor/memos) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
-
-
-_Updated on June 05, 2026_ (A total of 2602 repositories listed.)
+_Updated on June 09, 2026_ (A total of 2605 repositories listed.)
 
 ## Table of contents
 
@@ -1008,6 +1001,7 @@ _Updated on June 05, 2026_ (A total of 2602 repositories listed.)
  * 🔥 [plugins](https://github.com/openai/plugins) - ⭐ 1.1k / OpenAI Plugins
  * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
  * [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
+ * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH
 
 
 ## CLIs
@@ -1925,6 +1919,8 @@ _Updated on June 05, 2026_ (A total of 2602 repositories listed.)
  * 🔥 [swarmclaw](https://github.com/swarmclawai/swarmclaw) - ⭐ 473 / Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
  * 🔥 [kronk](https://github.com/ardanlabs/kronk) - ⭐ 612 / Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk provides a high-level API that feels similar to using an Op
  * 🔥 [openyak](https://github.com/openyak/openyak) - ⭐ 777 / OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.
+ * [GoModel](https://github.com/enterpilot/gomodel) - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.
+ * [harness-sdk](https://github.com/strands-agents/harness-sdk) - A model-driven approach to building AI agents in just a few lines of code.
 
 
 ## Unity
