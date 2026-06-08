@@ -181,6 +181,7 @@ _Updated on June 05, 2026_ (A total of 2602 repositories listed.)
  * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
 
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Prompts
 
  * 💤 [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - ⭐ 3k / Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
