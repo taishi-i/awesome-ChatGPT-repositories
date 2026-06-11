@@ -1251,6 +1251,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
  * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - Fast, daily-updated skill and CLI for arXiv, PubMed, PMC, and policy retrieval
  * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q&A with file paths and line numbers. Works in any AI IDE.
+ * [ariadne-loop](https://github.com/zhangzeyu99-web/ariadne-loop) - Loop Engineering CLI and workbench for verifiable Codex, Claude Code, OpenClaw, and AI coding-agent handoff packets.
 
 
 ## Reimplementations
