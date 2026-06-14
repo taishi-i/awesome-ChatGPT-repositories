@@ -46,16 +46,31 @@ Run these two commands inside Claude Code:
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt, get an answer — and run the command it suggests
+
+
 **Browser-extensions**
- * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH
+ * [thClaws](https://github.com/thclaws/thclaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
 
 
-**Langchain**
- * [GoModel](https://github.com/enterpilot/gomodel) - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.
- * [harness-sdk](https://github.com/strands-agents/harness-sdk) - A model-driven approach to building AI agents in just a few lines of code.
+**CLIs**
+ * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
+ * [herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+ * [CliRelay](https://github.com/kittors/clirelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+ * [Observal](https://github.com/blazeup-ai/observal) - Observal is a unified agent registry and analytics platform.
 
 
-_Updated on June 09, 2026_ (A total of 2605 repositories listed.)
+**Openai**
+ * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - Image generation and editing tool based on OpenAI gpt-image-2 API
+
+
+**Others**
+ * [evo](https://github.com/evo-hq/evo) - turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
+ * [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
+
+
+_Updated on June 15, 2026_ (A total of 2614 repositories listed.)
 
 ## Table of contents
 
@@ -362,6 +377,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills is an all-in-one AI skills package. It seamlessly integrates expert-level capabilities and context management into a general-purpose skills package， enabling any AI agent to instantly upgrade its functionality—eliminating the friction of fragme
  * [typeui](https://github.com/bergside/typeui) - Design skills and UI prompts for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and other AI tools
  * [eval-harness](https://github.com/nano-step/eval-harness) - Behavior-regression testing for LLM agents. 4-class attribution, 6-field FAIL schema, $-cost gating, flaky detection. Bash + jq. Works with opencode today, runner-pluggable.
+ * [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt, get an answer — and run the command it suggests
 
 
 ## Chatbots
@@ -1002,6 +1018,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
  * [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
  * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH
+ * [thClaws](https://github.com/thclaws/thclaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
 
 
 ## CLIs
@@ -1251,6 +1268,10 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.
  * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - Fast, daily-updated skill and CLI for arXiv, PubMed, PMC, and policy retrieval
  * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q&A with file paths and line numbers. Works in any AI IDE.
+ * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
+ * [herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+ * [CliRelay](https://github.com/kittors/clirelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+ * [Observal](https://github.com/blazeup-ai/observal) - Observal is a unified agent registry and analytics platform.
 
 
 ## Reimplementations
@@ -2270,6 +2291,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * 🔥 [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ⭐ 2.2k / Reverse implementation of the ChatGPT official website interface protocol, supporting registration machine to maintain number pool quota, supporting GPT-Image-2 model, text model, compatible with multiple OpenAI interface protocols, online batch generation of images, number pool management, supporting import of CPA, sub2api number pool, supporting integration with Cherry Studio, New Api and other software.
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer
  * [Friday](https://github.com/thesongzhu/friday) - AI personal operations platform for supervised, evidence-backed automation.
+ * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - Image generation and editing tool based on OpenAI gpt-image-2 API
 
 
 ## Others
@@ -2735,5 +2757,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [takt](https://github.com/nrslib/takt) - TAKT Agent Koordination Topology - Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
  * [ccx](https://github.com/benedictking/ccx) - Claude / Codex / Gemini API Proxy - CCX
  * [helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
+ * [evo](https://github.com/evo-hq/evo) - turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
+ * [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
 
 

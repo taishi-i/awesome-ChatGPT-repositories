@@ -7401,6 +7401,35 @@
                     "zh-hans": "LLM代理的行为回归测试。4类属性，6字段失败模式，成本门控，易变检测。Bash + jq。今天与opencode一起使用，可插拔的运行器。",
                     "zh-hant": "LLM代理的行為回歸測試。4類歸因，6字段失敗模式，成本閘控，不穩定檢測。Bash + jq。今天與opencode一起工作，可插拔運行。"
                 }
+            },
+            "https://github.com/jianshuo/ccline": {
+                "repository_name": "ccline",
+                "user_name": "jianshuo",
+                "language": "Shell",
+                "license": "MIT License",
+                "description": "Type a thought at your zsh prompt, get an answer — and run the command it suggests",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "claude",
+                    "cli",
+                    "command-line",
+                    "command-not-found",
+                    "llm",
+                    "macos",
+                    "natural-language",
+                    "productivity",
+                    "shell",
+                    "terminal",
+                    "zsh",
+                    "zsh-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Type a thought at your zsh prompt, get an answer — and run the command it suggests",
+                    "ja": "zshプロンプトで考えを入力し、回答を得て、提案されたコマンドを実行します。",
+                    "zh-hans": "在您的zsh提示符处输入一个想法，得到一个答案 - 并运行它建议的命令。",
+                    "zh-hant": "在您的zsh提示符處輸入一個想法，獲得一個答案 - 並運行它建議的命令。"
+                }
             }
         },
         "Chatbots": {
@@ -23590,6 +23619,41 @@
                     "zh-hans": "鼠标悬停翻译任何语言一次 - Chrome扩展程序：PDF翻译器，电子书，EPUB，OCR，TTS，NETFLIX，YOUTUBE双字幕，谷歌文档，人工智能，查看器，GMAIL，写作，图像，双字幕，漫画，悬停，词典，WEBTOON，EDGE，日语，英语",
                     "zh-hant": "滑鼠懸停翻譯任何語言一次 - Chrome 擴充功能：PDF 翻譯器，電子書，EPUB，OCR，TTS，NETFLIX，YOUTUBE 雙字幕，GOOGLE DOCS，AI，檢視器，GMAIL，寫作，圖片，雙字幕，漫畫，懸停，字典，WEBTOON，EDGE，日文，英文"
                 }
+            },
+            "https://github.com/thclaws/thclaws": {
+                "repository_name": "thClaws",
+                "user_name": "thClaws",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+                "topics": [
+                    "agent-harness",
+                    "agent-teams",
+                    "ai-agent",
+                    "anthropic",
+                    "claude-code",
+                    "cli",
+                    "desktop-app",
+                    "developer-tools",
+                    "gemini",
+                    "kms",
+                    "llm",
+                    "llm-wiki",
+                    "mcp",
+                    "model-context-protocol",
+                    "multi-provider",
+                    "ollama",
+                    "openai",
+                    "rust",
+                    "tauri",
+                    "telegram-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
+                    "ja": "ネイティブRustでのオープンソースAIエージェントハーネス- GUI、CLI、ヘッドレス、およびWebアプリを1つのバイナリから。マルチプロバイダー、MCP、スキル、プラグイン、エージェントチーム。",
+                    "zh-hans": "开源AI代理程序在本机Rust中利用- GUI，CLI，无头和Web应用程序来自一个二进制文件。多提供商，MCP，技能，插件，代理团队。",
+                    "zh-hant": "開源AI代理程式，使用原生Rust語言 — GUI、CLI、無頭模式和Web應用程式皆可從單一二進制檔案中操作。支援多個供應商、MCP、技能、插件和代理團隊。"
+                }
             }
         },
         "CLIs": {
@@ -29892,6 +29956,110 @@
                     "ja": "クロードコード、カーソル、コーデックスCLIを使用して、コードベースのためのChatGPTを提供します。マルチエージェント知識エンジン、ファイルパスと行番号を使用したグラウンデッドQ&A。どんなAI IDEでも動作します。",
                     "zh-hans": "为您的代码库提供Claude Code、Cursor、Codex CLI和ChatGPT。多代理知识引擎，基于文件路径和行号的问答。适用于任何AI IDE。",
                     "zh-hant": "給克勞德代碼，游標，Codex CLI一個ChatGPT，用於您的代碼庫。多代理知識引擎，基於文件路徑和行號的問答。適用於任何AI IDE。"
+                }
+            },
+            "https://github.com/pchalasani/claude-code-tools": {
+                "repository_name": "claude-code-tools",
+                "user_name": "pchalasani",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.",
+                "topics": [
+                    "claude-code",
+                    "cli",
+                    "cli-agent",
+                    "code-agent",
+                    "codex",
+                    "codex-cli",
+                    "context",
+                    "llm",
+                    "tmux"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.",
+                    "ja": "クロードコード、Codex-CLI、および類似のCLIコーディングエージェント向けの実用的な生産性ツール。",
+                    "zh-hans": "为Claude Code、Codex-CLI和类似的CLI编码代理提供实用的生产力工具。",
+                    "zh-hant": "針對Claude Code、Codex-CLI和類似的CLI編碼代理，提供實用的生產力工具。"
+                }
+            },
+            "https://github.com/ogulcancelik/herdr": {
+                "repository_name": "herdr",
+                "user_name": "ogulcancelik",
+                "language": "Rust",
+                "license": "Other",
+                "description": "agent multiplexer that lives in your terminal.",
+                "topics": [
+                    "agent",
+                    "agent-orchestration",
+                    "ai",
+                    "ai-agents",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "coding-agents",
+                    "developer-tools",
+                    "devtools",
+                    "multiplexer",
+                    "rust",
+                    "terminal",
+                    "terminal-multiplexer",
+                    "terminal-ui",
+                    "tmux",
+                    "tui",
+                    "workspace-manager"
+                ],
+                "multilingual_descriptions": {
+                    "en": "agent multiplexer that lives in your terminal.",
+                    "ja": "端末に住むエージェントマルチプレクサー。端末に住むエージェントマルチプレクサー。",
+                    "zh-hans": "生活在您终端的代理复用器。输出：生活在您终端的代理复用器。",
+                    "zh-hant": "存在於您終端機中的代理多路復用器。存在於您終端機中的代理多路復用器。"
+                }
+            },
+            "https://github.com/kittors/clirelay": {
+                "repository_name": "CliRelay",
+                "user_name": "kittors",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
+                    "ja": "Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlowをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPI経由で利用できるようにします。",
+                    "zh-hans": "将Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。",
+                    "zh-hant": "將Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow包裝成一個OpenAI/Gemini/Claude/Codex兼容的API服務，讓您可以通過API享受免費的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。"
+                }
+            },
+            "https://github.com/blazeup-ai/observal": {
+                "repository_name": "Observal",
+                "user_name": "BlazeUp-AI",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Observal is a unified agent registry and analytics platform. ",
+                "topics": [
+                    "agents",
+                    "analytics",
+                    "antigravity",
+                    "claude-code",
+                    "cli-tool",
+                    "codex",
+                    "cursor",
+                    "cursor-ai",
+                    "insights",
+                    "kiro",
+                    "large-language-models",
+                    "mcp",
+                    "open-source",
+                    "pi",
+                    "playground",
+                    "registry",
+                    "self-hosted",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Observal is a unified agent registry and analytics platform.",
+                    "ja": "Observalは統合エージェント登録および分析プラットフォームです。",
+                    "zh-hans": "Observal是一个统一的代理注册和分析平台。",
+                    "zh-hant": "Observal是一個統一的代理註冊和分析平台。"
                 }
             }
         },
@@ -53716,6 +53884,29 @@
                     "zh-hans": "AI个人运营平台，监督、有证据支持的自动化。",
                     "zh-hant": "AI個人操作平台，用於監督、證據支持的自動化。"
                 }
+            },
+            "https://github.com/cooksleep/gpt_image_playground": {
+                "repository_name": "gpt_image_playground",
+                "user_name": "CookSleep",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "基于 OpenAI gpt-image-2 API 的图片生成与编辑工具",
+                "topics": [
+                    "gpt-image",
+                    "image-editing",
+                    "image-generation",
+                    "openai",
+                    "react",
+                    "tailwindcss",
+                    "typescript",
+                    "vite"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Image generation and editing tool based on OpenAI gpt-image-2 API",
+                    "ja": "OpenAIのgpt-image-2 APIを使用した画像生成および編集ツール",
+                    "zh-hans": "基于OpenAI gpt-image-2 API的图片生成与编辑工具",
+                    "zh-hant": "基於 OpenAI gpt-image-2 API 的圖片生成與編輯工具"
+                }
             }
         },
         "Others": {
@@ -62954,6 +63145,43 @@
                     "ja": "マルチエージェントソフトウェア開発のためのオープンソースのローカルワークベンチ。",
                     "zh-hans": "开源本地工作台，用于多智能体软件开发。",
                     "zh-hant": "開源本地工作臺，用於多智能體軟件開發。"
+                }
+            },
+            "https://github.com/evo-hq/evo": {
+                "repository_name": "evo",
+                "user_name": "evo-hq",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.",
+                "topics": [
+                    "agent-skills",
+                    "autonomous-agents",
+                    "autoresearch",
+                    "claude-code",
+                    "code-optimization",
+                    "codex",
+                    "evolutionary-algorithms",
+                    "llm-agents"
+                ],
+                "multilingual_descriptions": {
+                    "en": "turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.",
+                    "ja": "コードベースを自動研究ループに変換し、何を測定するかを発見し、ベンチマークを計測し、並列サブエージェントで木探索を実行します。",
+                    "zh-hans": "将您的代码库转变为自动研究循环——发现要测量的内容，为基准测试添加仪器，然后使用并行子代运行树搜索。",
+                    "zh-hant": "將您的代碼庫轉換為自動研究循環-發現要測量的內容，儀器化基準測試，然後運行具有平行子代理的樹搜索。"
+                }
+            },
+            "https://github.com/diffusionstudio/lottie": {
+                "repository_name": "lottie",
+                "user_name": "diffusionstudio",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Generate production-ready Lottie animations with Claude Code or Codex",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Generate production-ready Lottie animations with Claude Code or Codex",
+                    "ja": "Claude CodeまたはCodexを使用して、製品向けのLottieアニメーションを生成します。",
+                    "zh-hans": "使用Claude Code或Codex生成可用于生产的Lottie动画",
+                    "zh-hant": "使用Claude Code或Codex生成可用于生产的Lottie动画"
                 }
             }
         }
