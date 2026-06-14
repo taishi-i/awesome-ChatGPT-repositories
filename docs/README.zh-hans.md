@@ -42,16 +42,31 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符处输入一个想法，得到一个答案 - 并运行它建议的命令。
+
+
 **Browser-extensions**
- * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - 鼠标悬停翻译任何语言一次 - Chrome扩展程序：PDF翻译器，电子书，EPUB，OCR，TTS，NETFLIX，YOUTUBE双字幕，谷歌文档，人工智能，查看器，GMAIL，写作，图像，双字幕，漫画，悬停，词典，WEBTOON，EDGE，日语，英语
+ * [thClaws](https://github.com/thclaws/thclaws) - 开源AI代理程序在本机Rust中利用- GUI，CLI，无头和Web应用程序来自一个二进制文件。多提供商，MCP，技能，插件，代理团队。
 
 
-**Langchain**
- * [GoModel](https://github.com/enterpilot/gomodel) - 用Go编写的AI网关。轻量级统一的OpenAI兼容API，适用于OpenAI、Anthropic、Gemini、Groq、xAI和Ollama。具有可观察性、防护栏、流式传输、成本和使用跟踪的LiteLLM替代方案。
- * [harness-sdk](https://github.com/strands-agents/harness-sdk) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
+**CLIs**
+ * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - 为Claude Code、Codex-CLI和类似的CLI编码代理提供实用的生产力工具。
+ * [herdr](https://github.com/ogulcancelik/herdr) - 生活在您终端的代理复用器。输出：生活在您终端的代理复用器。
+ * [CliRelay](https://github.com/kittors/clirelay) - 将Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
+ * [Observal](https://github.com/blazeup-ai/observal) - Observal是一个统一的代理注册和分析平台。
 
 
-_Updated on June 09, 2026_ (A total of 2605 repositories listed.)
+**Openai**
+ * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基于OpenAI gpt-image-2 API的图片生成与编辑工具
+
+
+**Others**
+ * [evo](https://github.com/evo-hq/evo) - 将您的代码库转变为自动研究循环——发现要测量的内容，为基准测试添加仪器，然后使用并行子代运行树搜索。
+ * [lottie](https://github.com/diffusionstudio/lottie) - 使用Claude Code或Codex生成可用于生产的Lottie动画
+
+
+_Updated on June 15, 2026_ (A total of 2614 repositories listed.)
 
 ## Table of contents
 
@@ -358,6 +373,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-Skills是一款全能的AI技能包。它无缝地将专家级能力和上下文管理集成到一个通用技能包中，使任何AI代理能够立即升级其功能，消除了碎片化的摩擦。
  * [typeui](https://github.com/bergside/typeui) - 设计技能和UI提示，适用于代理工具，如Claude Design，Google Stitch，Codex，Cursor和其他AI工具。
  * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行为回归测试。4类属性，6字段失败模式，成本门控，易变检测。Bash + jq。今天与opencode一起使用，可插拔的运行器。
+ * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符处输入一个想法，得到一个答案 - 并运行它建议的命令。
 
 
 ## Chatbots
@@ -998,6 +1014,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - 官方复合工程插件，适用于Claude Code、Codex、Cursor等等。
  * [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude 代码和 Codex GUI 插件
  * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - 鼠标悬停翻译任何语言一次 - Chrome扩展程序：PDF翻译器，电子书，EPUB，OCR，TTS，NETFLIX，YOUTUBE双字幕，谷歌文档，人工智能，查看器，GMAIL，写作，图像，双字幕，漫画，悬停，词典，WEBTOON，EDGE，日语，英语
+ * [thClaws](https://github.com/thclaws/thclaws) - 开源AI代理程序在本机Rust中利用- GUI，CLI，无头和Web应用程序来自一个二进制文件。多提供商，MCP，技能，插件，代理团队。
 
 
 ## CLIs
@@ -1247,6 +1264,10 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [claude-tap](https://github.com/liaohch3/claude-tap) - 在本地跟踪查看器中拦截和检查来自Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi、Pi和Hermes的编码代理API流量。
  * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 快速、每日更新的 arXiv、PubMed、PMC 和政策检索技能和命令行界面
  * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - 为您的代码库提供Claude Code、Cursor、Codex CLI和ChatGPT。多代理知识引擎，基于文件路径和行号的问答。适用于任何AI IDE。
+ * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - 为Claude Code、Codex-CLI和类似的CLI编码代理提供实用的生产力工具。
+ * [herdr](https://github.com/ogulcancelik/herdr) - 生活在您终端的代理复用器。输出：生活在您终端的代理复用器。
+ * [CliRelay](https://github.com/kittors/clirelay) - 将Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
+ * [Observal](https://github.com/blazeup-ai/observal) - Observal是一个统一的代理注册和分析平台。
 
 
 ## Reimplementations
@@ -2266,6 +2287,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * 🔥 [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ⭐ 2.2k / ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池，支持接入Cherry Studio、New Api等软件。
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上运行OpenAI Codex桌面版-自动安装程序
  * [Friday](https://github.com/thesongzhu/friday) - AI个人运营平台，监督、有证据支持的自动化。
+ * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基于OpenAI gpt-image-2 API的图片生成与编辑工具
 
 
 ## Others
@@ -2731,5 +2753,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [takt](https://github.com/nrslib/takt) - TAKT代理协调拓扑 - 定义AI代理如何协调，人类何时介入，以及记录什么 — 在YAML中
  * [ccx](https://github.com/benedictking/ccx) - 克劳德/密码/双子座API代理-CCX
  * [helmor](https://github.com/dohooo/helmor) - 开源本地工作台，用于多智能体软件开发。
+ * [evo](https://github.com/evo-hq/evo) - 将您的代码库转变为自动研究循环——发现要测量的内容，为基准测试添加仪器，然后使用并行子代运行树搜索。
+ * [lottie](https://github.com/diffusionstudio/lottie) - 使用Claude Code或Codex生成可用于生产的Lottie动画
 
 

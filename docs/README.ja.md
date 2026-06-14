@@ -42,16 +42,31 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [ccline](https://github.com/jianshuo/ccline) - zshプロンプトで考えを入力し、回答を得て、提案されたコマンドを実行します。
+
+
 **Browser-extensions**
- * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - マウスオーバー翻訳一度に任意の言語 - Chrome拡張機能：PDF翻訳、EBOOK、EPUB、OCR、TTS、NETFLIX、YOUTUBEデュアル字幕、Googleドキュメント、AI、ビューア、Gmail、ライティング、画像、デュアルサブ、マンガ、ホバー、辞書、WEBTOON、EDGE、日本語、英語
+ * [thClaws](https://github.com/thclaws/thclaws) - ネイティブRustでのオープンソースAIエージェントハーネス- GUI、CLI、ヘッドレス、およびWebアプリを1つのバイナリから。マルチプロバイダー、MCP、スキル、プラグイン、エージェントチーム。
 
 
-**Langchain**
- * [GoModel](https://github.com/enterpilot/gomodel) - Goで書かれたAIゲートウェイ。OpenAI、Anthropic、Gemini、Groq、xAI＆Ollamaに対応した軽量統合API。観測可能性、ガードレール、ストリーミング、コストおよび使用状況の追跡を備えたLiteLLMの代替手段。
- * [harness-sdk](https://github.com/strands-agents/harness-sdk) - わずか数行のコードでAIエージェントを構築するモデル駆動アプローチ。
+**CLIs**
+ * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - クロードコード、Codex-CLI、および類似のCLIコーディングエージェント向けの実用的な生産性ツール。
+ * [herdr](https://github.com/ogulcancelik/herdr) - 端末に住むエージェントマルチプレクサー。端末に住むエージェントマルチプレクサー。
+ * [CliRelay](https://github.com/kittors/clirelay) - Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlowをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPI経由で利用できるようにします。
+ * [Observal](https://github.com/blazeup-ai/observal) - Observalは統合エージェント登録および分析プラットフォームです。
 
 
-_Updated on June 09, 2026_ (A total of 2605 repositories listed.)
+**Openai**
+ * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - OpenAIのgpt-image-2 APIを使用した画像生成および編集ツール
+
+
+**Others**
+ * [evo](https://github.com/evo-hq/evo) - コードベースを自動研究ループに変換し、何を測定するかを発見し、ベンチマークを計測し、並列サブエージェントで木探索を実行します。
+ * [lottie](https://github.com/diffusionstudio/lottie) - Claude CodeまたはCodexを使用して、製品向けのLottieアニメーションを生成します。
+
+
+_Updated on June 15, 2026_ (A total of 2614 repositories listed.)
 
 ## Table of contents
 
@@ -358,6 +373,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [Vibe-Skills](https://github.com/foryourhealth111-pixel/vibe-skills) - Vibe-SkillsはオールインワンのAIスキルパッケージです。専門レベルの機能とコンテキスト管理を一般的なスキルパッケージにシームレスに統合し、どんなAIエージェントでも瞬時に機能をアップグレードできるようにします。断片化の摩擦を排除します。
  * [typeui](https://github.com/bergside/typeui) - クロードデザイン、Google Stitch、Codex、CursorなどのエージェントツールのデザインスキルとUIプロンプト
  * [eval-harness](https://github.com/nano-step/eval-harness) - LLMエージェントの動作回帰テスト。4クラスの属性、6フィールドのFAILスキーマ、$-コストゲート、フレーキー検出。Bash + jq。今日のopencodeと連携し、ランナープラグインを使用します。
+ * [ccline](https://github.com/jianshuo/ccline) - zshプロンプトで考えを入力し、回答を得て、提案されたコマンドを実行します。
 
 
 ## Chatbots
@@ -998,6 +1014,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - クロードコード、コーデックス、カーソルなどの公式コンパウンドエンジニアリングプラグイン
  * [jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - JetbrainsのClaude CodeとCodex GUIプラグイン
  * [MouseTooltipTranslator](https://github.com/ttop32/mousetooltiptranslator) - マウスオーバー翻訳一度に任意の言語 - Chrome拡張機能：PDF翻訳、EBOOK、EPUB、OCR、TTS、NETFLIX、YOUTUBEデュアル字幕、Googleドキュメント、AI、ビューア、Gmail、ライティング、画像、デュアルサブ、マンガ、ホバー、辞書、WEBTOON、EDGE、日本語、英語
+ * [thClaws](https://github.com/thclaws/thclaws) - ネイティブRustでのオープンソースAIエージェントハーネス- GUI、CLI、ヘッドレス、およびWebアプリを1つのバイナリから。マルチプロバイダー、MCP、スキル、プラグイン、エージェントチーム。
 
 
 ## CLIs
@@ -1247,6 +1264,10 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [claude-tap](https://github.com/liaohch3/claude-tap) - クロードコード、コデックスCLI、ジェミニCLI、カーソルCLI、オープンコード、キミ、Pi、ヘルメスからのコーディングエージェントAPIトラフィックをローカルトレースビューアでインターセプトして検査します。
  * [II-Commons-Skills](https://github.com/intelligent-internet/ii-commons-skills) - 高速で毎日更新されるarXiv、PubMed、PMC、および政策検索のためのスキルとCLI
  * [antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template) - クロードコード、カーソル、コーデックスCLIを使用して、コードベースのためのChatGPTを提供します。マルチエージェント知識エンジン、ファイルパスと行番号を使用したグラウンデッドQ&A。どんなAI IDEでも動作します。
+ * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - クロードコード、Codex-CLI、および類似のCLIコーディングエージェント向けの実用的な生産性ツール。
+ * [herdr](https://github.com/ogulcancelik/herdr) - 端末に住むエージェントマルチプレクサー。端末に住むエージェントマルチプレクサー。
+ * [CliRelay](https://github.com/kittors/clirelay) - Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlowをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPI経由で利用できるようにします。
+ * [Observal](https://github.com/blazeup-ai/observal) - Observalは統合エージェント登録および分析プラットフォームです。
 
 
 ## Reimplementations
@@ -2266,6 +2287,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * 🔥 [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ⭐ 2.2k / Input: ChatGPT公式ウェブサイトのAPIプロトコルの逆転実装、登録機の維持番号プール枠のサポート、GPT-Image-2モデル、テキストモデルのサポート、複数のOpenAI APIプロトコルと互換性があり、オンラインで画像を大量生成、番号プール管理、CPA、sub2api番号プールのインポートをサポート、Cherry Studio、New Apiなどのソフトウェアへの接続をサポートします。
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - LinuxでOpenAI Codex Desktopを実行する - 自動インストーラ
  * [Friday](https://github.com/thesongzhu/friday) - 監督された、証拠に基づいた自動化のためのAIパーソナルオペレーションプラットフォーム。
+ * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - OpenAIのgpt-image-2 APIを使用した画像生成および編集ツール
 
 
 ## Others
@@ -2731,5 +2753,7 @@ _Updated on June 09, 2026_ (A total of 2605 repositories listed.)
  * [takt](https://github.com/nrslib/takt) - TAKTエージェントコーディネーショントポロジー - AIエージェントがどのように調整され、人間がどこで介入し、何が記録されるかを定義する — YAMLで
  * [ccx](https://github.com/benedictking/ccx) - クロード / コデックス / ジェミニAPIプロキシ - CCX
  * [helmor](https://github.com/dohooo/helmor) - マルチエージェントソフトウェア開発のためのオープンソースのローカルワークベンチ。
+ * [evo](https://github.com/evo-hq/evo) - コードベースを自動研究ループに変換し、何を測定するかを発見し、ベンチマークを計測し、並列サブエージェントで木探索を実行します。
+ * [lottie](https://github.com/diffusionstudio/lottie) - Claude CodeまたはCodexを使用して、製品向けのLottieアニメーションを生成します。
 
 
