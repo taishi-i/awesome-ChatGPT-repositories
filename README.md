@@ -70,6 +70,10 @@ Run these two commands inside Claude Code:
  * [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
 
 
+**API Gateways**
+ * [AI Relay](https://github.com/MoyuFamily/ai-relay) - Serverless AI API gateway. One-click deploy to Vercel or auto-deploy to Cloudflare Pages. Supports OpenAI, Claude, DeepSeek, custom providers with multi-provider routing and API key rotation. No server/Docker needed.
+
+
 _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
 
 ## Table of contents
