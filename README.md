@@ -58,6 +58,7 @@ Run these two commands inside Claude Code:
  * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
  * [herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
  * [CliRelay](https://github.com/kittors/clirelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+ * [SuperCLI](https://github.com/javimosch/supercli) - Universal CLI router with 7,000+ plugins. One command pattern for every tool, JSON-by-default, AI-agent-native discovery via `sc skills search`. 250KB Zig binary or `npx supercli`.
  * [Observal](https://github.com/blazeup-ai/observal) - Observal is a unified agent registry and analytics platform.
 
 
