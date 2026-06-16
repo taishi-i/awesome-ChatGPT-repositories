@@ -2764,6 +2764,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
  * [evo](https://github.com/evo-hq/evo) - turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
  * [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
+ * [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus) - Open-source AI agent team workspace by NetMind.AI. Agents remember, collaborate, and use tools from day one with persistent memory, multi-agent collaboration (PM/dev/deployment/research), and MCP-style tool integrations.
 
 
  * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable Python examples for the Superhighway web search API using the OpenAI API — a news briefing agent, a web search CLI, and a scrape-and-analyze tool.
