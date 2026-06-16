@@ -2766,3 +2766,4 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
 
 
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable Python examples for the Superhighway web search API using the OpenAI API — a news briefing agent, a web search CLI, and a scrape-and-analyze tool.
