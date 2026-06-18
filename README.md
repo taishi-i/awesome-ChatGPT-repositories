@@ -383,6 +383,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [typeui](https://github.com/bergside/typeui) - Design skills and UI prompts for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and other AI tools
  * [eval-harness](https://github.com/nano-step/eval-harness) - Behavior-regression testing for LLM agents. 4-class attribution, 6-field FAIL schema, $-cost gating, flaky detection. Bash + jq. Works with opencode today, runner-pluggable.
  * [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt, get an answer — and run the command it suggests
+ * [presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) - 56 free slide-design prompts for ChatGPT and Claude, each a full deck theme with a pinned color palette, fonts, and layout rules.
 
 
 ## Chatbots
