@@ -2769,3 +2769,4 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
 
 
  * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable Python examples for the Superhighway web search API using the OpenAI API — a news briefing agent, a web search CLI, and a scrape-and-analyze tool.
+ * [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
