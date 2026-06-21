@@ -7430,6 +7430,33 @@
                     "zh-hans": "在您的zsh提示符处输入一个想法，得到一个答案 - 并运行它建议的命令。",
                     "zh-hant": "在您的zsh提示符處輸入一個想法，獲得一個答案 - 並運行它建議的命令。"
                 }
+            },
+            "https://github.com/slidespeak/presentation-design-prompts": {
+                "repository_name": "presentation-design-prompts",
+                "user_name": "SlideSpeak",
+                "language": null,
+                "license": "MIT License",
+                "description": "Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "claude-design",
+                    "design-md",
+                    "designmd",
+                    "google-slides",
+                    "powerpoint",
+                    "presentation-templates",
+                    "presentations",
+                    "prompts",
+                    "slides"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools.",
+                    "ja": "ChatGPT、Claude、または他のAIツールに貼り付けることができる無料のプレゼンテーションスライドデザイン.md。",
+                    "zh-hans": "免费演示幻灯片设计.md，您可以粘贴到ChatGPT、Claude或您的任何AI工具中。",
+                    "zh-hant": "免費演示幻燈片設計.md，您可以將其粘貼到ChatGPT、Claude或您的任何AI工具中。"
+                }
             }
         },
         "Chatbots": {
@@ -17394,6 +17421,38 @@
                     "ja": "Telegram、Discord、WhatsApp、Slackと連携したプライベートでローカルファーストのAIアシスタント",
                     "zh-hans": "私人、本地优先的AI助手，支持Telegram、Discord、WhatsApp和Slack。",
                     "zh-hant": "私人、本地優先的AI助手，支援Telegram、Discord、WhatsApp和Slack"
+                }
+            },
+            "https://github.com/vellum-ai/vellum-assistant": {
+                "repository_name": "vellum-assistant",
+                "user_name": "vellum-ai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "ai-assistant",
+                    "anthropic",
+                    "autonomous-agents",
+                    "claude",
+                    "claude-code",
+                    "ios",
+                    "macos",
+                    "memory",
+                    "open-source",
+                    "openai",
+                    "openclaw",
+                    "proactive-ai",
+                    "slack",
+                    "telegram-bot",
+                    "vellum-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
+                    "ja": "簡単にセットアップできるAIアシスタントは、24時間365日あなたの仕事を行い、あなたの好みを知り、時間とともにより良くなります。",
+                    "zh-hans": "一个易于设置的AI助手，全天候为您工作，了解您的偏好，并随着时间的推移变得更加智能。",
+                    "zh-hant": "一個易於設置的人工智能助手，全天候為您工作，了解您的喜好並隨著時間變得更好。"
                 }
             }
         },
@@ -30061,6 +30120,80 @@
                     "zh-hans": "Observal是一个统一的代理注册和分析平台。",
                     "zh-hant": "Observal是一個統一的代理註冊和分析平台。"
                 }
+            },
+            "https://github.com/happier-dev/happier": {
+                "repository_name": "happier",
+                "user_name": "happier-dev",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted",
+                "topics": [
+                    "ai-agents",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "gemini",
+                    "kimi",
+                    "opencode",
+                    "qwen",
+                    "vibe-coding",
+                    "vibecoding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted",
+                    "ja": "Codex、Claude Code、OpenCode、Kimi、Augment Code、QwenのためのWeb、デスクトップ、モバイルクライアント、完全なエンドツーエンド暗号化",
+                    "zh-hans": "Codex、Claude Code、OpenCode、Kimi、Augment Code、Qwen的Web、桌面和移动客户端，完全端到端加密。",
+                    "zh-hant": "網頁、桌面和手機客戶端，適用於Codex、Claude Code、OpenCode、Kimi、Augment Code、Qwen，完全端到端加密。"
+                }
+            },
+            "https://github.com/javimosch/supercli": {
+                "repository_name": "supercli",
+                "user_name": "javimosch",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "7,000+ tools. One CLI. Zero configuration",
+                "topics": [
+                    "agents",
+                    "cli",
+                    "harness",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "7,000+ tools. One CLI. Zero configuration",
+                    "ja": "7,000以上のツール。1つのCLI。設定不要。",
+                    "zh-hans": "7000多种工具。一个CLI。零配置。",
+                    "zh-hant": "7,000多種工具。一個CLI。零配置。"
+                }
+            },
+            "https://github.com/crafter-station/petdex": {
+                "repository_name": "petdex",
+                "user_name": "crafter-station",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI",
+                "topics": [
+                    "claude-code",
+                    "clerk",
+                    "cli",
+                    "codex",
+                    "developer-tools",
+                    "drizzle-orm",
+                    "mascot",
+                    "neon",
+                    "nextjs",
+                    "pixel-art",
+                    "postgres",
+                    "react",
+                    "sprites",
+                    "tailwindcss",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI",
+                    "ja": "コーデックス、クロードコード、オープンコード、ジェミニCLIのアニメーションペットの一般ギャラリー",
+                    "zh-hans": "Codex，Claude Code，OpenCode和Gemini CLI的动画宠物公共画廊",
+                    "zh-hant": "Codex、Claude Code、OpenCode和Gemini CLI的動畫寵物公共畫廊"
+                }
             }
         },
         "Reimplementations": {
@@ -41413,6 +41546,147 @@
                     "ja": "LLM＆AIエージェント向けの自己進化メモリOS：超持続メモリ、ハイブリッド検索、クロスタスクスキル再利用、トークン節約率35.24％",
                     "zh-hans": "自我进化的记忆操作系统，用于LLM和AI代理：超持久的记忆，混合检索，跨任务技能重复利用，节省35.24%的令牌",
                     "zh-hant": "自我演化記憶體作業系統，適用於LLM和AI代理人：超持久記憶體，混合檢索，跨任務技能重複使用，節省35.24%的令牌。"
+                }
+            },
+            "https://github.com/looptroop-ai/looptroop": {
+                "repository_name": "LoopTroop",
+                "user_name": "looptroop-ai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "LLM councils plan it. Ralph loops perfect it. OpenCode worktrees ship it.",
+                "topics": [
+                    "agent-orchestration",
+                    "agentic-ai",
+                    "agentic-coding",
+                    "agentic-workflow",
+                    "ai-agents",
+                    "ai-coding",
+                    "ai-orchestration",
+                    "context-engineering",
+                    "llm-council",
+                    "llm-orchestration",
+                    "multi-agent-orchestration",
+                    "opencode",
+                    "ralph-loop"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LLM councils plan it. Ralph loops perfect it. OpenCode worktrees ship it.",
+                    "ja": "LLM評議会が計画し、Ralphが完璧にループし、OpenCodeワークツリーが出荷します。",
+                    "zh-hans": "LLM理事会计划。拉尔夫完美地循环。OpenCode工作树发货。",
+                    "zh-hant": "LLM理事會計劃它。拉爾夫完美地循環它。OpenCode工作樹運輸它。"
+                }
+            },
+            "https://github.com/moyufamily/ai-relay": {
+                "repository_name": "ai-relay",
+                "user_name": "MoyuFamily",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Serverless AI API Gateway / 无服务器 AI API 网关 · Vercel 一键部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容",
+                "topics": [
+                    "ai",
+                    "api-gateway",
+                    "api-relay",
+                    "edge-runtime",
+                    "llm",
+                    "llm-gateway",
+                    "one-click-deploy",
+                    "openai",
+                    "openai-compatible",
+                    "serverless",
+                    "typescript",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Serverless AI API Gateway / 无服务器 AI API 网关 · Vercel 一键部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容",
+                    "ja": "サーバーレスAI APIゲートウェイ/ Vercelワンクリックデプロイ/ Cloudflareプッシュデプロイ/複数のプロバイダールート/キーのローテーション/フェイルオーバー/OpenAI互換",
+                    "zh-hans": "无服务器 AI API 网关 / Vercel 一键部署 / Cloudflare 推送即部署 / 多 Provider 路由 / Key 轮换 / 故障转移 / OpenAI 兼容",
+                    "zh-hant": "無伺服器 AI API 網關 · Vercel 一鍵部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 輪換 · 故障轉移 · OpenAI 兼容"
+                }
+            },
+            "https://github.com/agent-field/swe-af": {
+                "repository_name": "SWE-AF",
+                "user_name": "Agent-Field",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.",
+                "topics": [
+                    "agent-factory",
+                    "agentfield",
+                    "agentic-ai",
+                    "ai-agents",
+                    "ai-factory",
+                    "autonomous-agents",
+                    "claude-code",
+                    "code-generation",
+                    "codex",
+                    "coding-agent",
+                    "developer-tools",
+                    "gemini-cli",
+                    "llm",
+                    "multi-agent",
+                    "open-source",
+                    "openrouter",
+                    "python",
+                    "software-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.",
+                    "ja": "エージェントフィールドでの本番用PRのためのAIエージェントの自律ソフトウェアエンジニアリングフリート：計画、コード、テスト、出荷。",
+                    "zh-hans": "AgentField上的自主软件工程团队由AI代理组成，用于生产级PR：计划、编码、测试和发布。",
+                    "zh-hant": "在AgentField上，用於生產級PR的自主軟件工程小組由AI代理組成：計劃、編碼、測試和發布。"
+                }
+            },
+            "https://github.com/patwalls/superhighway-examples": {
+                "repository_name": "superhighway-examples",
+                "user_name": "patwalls",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Runnable examples for the Superhighway web search API — search, news, images, scrape, research for AI agents",
+                "topics": [
+                    "ai-agents",
+                    "llm",
+                    "openai",
+                    "python",
+                    "superhighway",
+                    "web-search",
+                    "x402"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Runnable examples for the Superhighway web search API — search, news, images, scrape, research for AI agents",
+                    "ja": "スーパーハイウェイウェブ検索API用の実行可能な例 - 検索、ニュース、画像、スクレイプ、AIエージェントのための研究",
+                    "zh-hans": "超级高速公路网络搜索API的可运行示例-搜索、新闻、图片、抓取、为AI代理进行研究",
+                    "zh-hant": "Superhighway網絡搜索API的可運行示例 - 搜索、新聞、圖片、刮擦、為AI代理進行研究"
+                }
+            },
+            "https://github.com/omnigent-ai/omnigent": {
+                "repository_name": "omnigent",
+                "user_name": "omnigent-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+                "topics": [
+                    "agent-framework",
+                    "agent-governance",
+                    "agent-orchestration",
+                    "agents",
+                    "ai",
+                    "ai-agent",
+                    "ai-agents",
+                    "claude-code",
+                    "codex",
+                    "coding-agents",
+                    "developer-tools",
+                    "llm",
+                    "ml",
+                    "multi-agent",
+                    "python",
+                    "sandbox"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+                    "ja": "OmnigentはオープンソースのAIエージェントフレームワークおよびメタハーネスです：Claude Code、Codex、Cursor、Pi、およびカスタムエージェントを統合し、書き換えることなくハーネスを交換し、ポリシーとサンドボックスを強制し、どのデバイスからでもリアルタイムで協力します。",
+                    "zh-hans": "Omnigent是一个开源的AI代理框架和元调度器：可以编排Claude Code、Codex、Cursor、Pi和自定义代理——无需重写即可交换调度器，执行策略和沙盒，可以在任何设备上实时协作。",
+                    "zh-hant": "Omnigent 是一個開源的人工智慧代理框架和元控制器：可以協調Claude Code、Codex、Cursor、Pi和自定義代理，無需重新編寫即可交換控制器，執行政策和沙箱，並可以從任何設備實時協作。"
                 }
             }
         },
@@ -63182,6 +63456,43 @@
                     "ja": "Claude CodeまたはCodexを使用して、製品向けのLottieアニメーションを生成します。",
                     "zh-hans": "使用Claude Code或Codex生成可用于生产的Lottie动画",
                     "zh-hant": "使用Claude Code或Codex生成可用于生产的Lottie动画"
+                }
+            },
+            "https://github.com/nowork-studio/notfair": {
+                "repository_name": "NotFair",
+                "user_name": "nowork-studio",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
+                "topics": [
+                    "claude-code-plugin",
+                    "claude-skills",
+                    "geo",
+                    "googleads",
+                    "googleadsmcp",
+                    "mcp",
+                    "metaads",
+                    "seo"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
+                    "ja": "オープンソースのクロードコードスキルを使用して、SEO、GEO、Google Ads、Meta Adsを実装します。",
+                    "zh-hans": "开源克劳德代码技能用于SEO、GEO、Google广告、Meta广告",
+                    "zh-hant": "開源Claude代碼技能用於SEO、GEO、Google廣告、Meta廣告"
+                }
+            },
+            "https://github.com/netmindai-open/narranexus": {
+                "repository_name": "NarraNexus",
+                "user_name": "NetMindAI-Open",
+                "language": "Python",
+                "license": "Other",
+                "description": "A framework for building nexuses of agents -- where intelligence emerges from interaction, not isolation.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A framework for building nexuses of agents -- where intelligence emerges from interaction, not isolation.",
+                    "ja": "エージェントのネクサスを構築するためのフレームワーク - 知性は孤立ではなく相互作用から生まれる。",
+                    "zh-hans": "一个用于构建代理人网络的框架——智能是由互动而非孤立产生的。",
+                    "zh-hant": "一個建立代理人聯繫點的框架——智能是從互動中而非孤立中產生的。"
                 }
             }
         }

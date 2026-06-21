@@ -43,30 +43,33 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 ## The latest additions 🎉
 
 **Prompts**
- * [ccline](https://github.com/jianshuo/ccline) - zshプロンプトで考えを入力し、回答を得て、提案されたコマンドを実行します。
+ * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - ChatGPT、Claude、または他のAIツールに貼り付けることができる無料のプレゼンテーションスライドデザイン.md。
 
 
-**Browser-extensions**
- * [thClaws](https://github.com/thclaws/thclaws) - ネイティブRustでのオープンソースAIエージェントハーネス- GUI、CLI、ヘッドレス、およびWebアプリを1つのバイナリから。マルチプロバイダー、MCP、スキル、プラグイン、エージェントチーム。
+**Chatbots**
+ * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 簡単にセットアップできるAIアシスタントは、24時間365日あなたの仕事を行い、あなたの好みを知り、時間とともにより良くなります。
 
 
 **CLIs**
- * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - クロードコード、Codex-CLI、および類似のCLIコーディングエージェント向けの実用的な生産性ツール。
- * [herdr](https://github.com/ogulcancelik/herdr) - 端末に住むエージェントマルチプレクサー。端末に住むエージェントマルチプレクサー。
- * [CliRelay](https://github.com/kittors/clirelay) - Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlowをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPI経由で利用できるようにします。
- * [Observal](https://github.com/blazeup-ai/observal) - Observalは統合エージェント登録および分析プラットフォームです。
+ * [happier](https://github.com/happier-dev/happier) - Codex、Claude Code、OpenCode、Kimi、Augment Code、QwenのためのWeb、デスクトップ、モバイルクライアント、完全なエンドツーエンド暗号化
+ * [supercli](https://github.com/javimosch/supercli) - 7,000以上のツール。1つのCLI。設定不要。
+ * [petdex](https://github.com/crafter-station/petdex) - コーデックス、クロードコード、オープンコード、ジェミニCLIのアニメーションペットの一般ギャラリー
 
 
-**Openai**
- * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - OpenAIのgpt-image-2 APIを使用した画像生成および編集ツール
+**NLP**
+ * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM評議会が計画し、Ralphが完璧にループし、OpenCodeワークツリーが出荷します。
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - サーバーレスAI APIゲートウェイ/ Vercelワンクリックデプロイ/ Cloudflareプッシュデプロイ/複数のプロバイダールート/キーのローテーション/フェイルオーバー/OpenAI互換
+ * [SWE-AF](https://github.com/agent-field/swe-af) - エージェントフィールドでの本番用PRのためのAIエージェントの自律ソフトウェアエンジニアリングフリート：計画、コード、テスト、出荷。
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - スーパーハイウェイウェブ検索API用の実行可能な例 - 検索、ニュース、画像、スクレイプ、AIエージェントのための研究
+ * [omnigent](https://github.com/omnigent-ai/omnigent) - OmnigentはオープンソースのAIエージェントフレームワークおよびメタハーネスです：Claude Code、Codex、Cursor、Pi、およびカスタムエージェントを統合し、書き換えることなくハーネスを交換し、ポリシーとサンドボックスを強制し、どのデバイスからでもリアルタイムで協力します。
 
 
 **Others**
- * [evo](https://github.com/evo-hq/evo) - コードベースを自動研究ループに変換し、何を測定するかを発見し、ベンチマークを計測し、並列サブエージェントで木探索を実行します。
- * [lottie](https://github.com/diffusionstudio/lottie) - Claude CodeまたはCodexを使用して、製品向けのLottieアニメーションを生成します。
+ * [NotFair](https://github.com/nowork-studio/notfair) - オープンソースのクロードコードスキルを使用して、SEO、GEO、Google Ads、Meta Adsを実装します。
+ * [NarraNexus](https://github.com/netmindai-open/narranexus) - エージェントのネクサスを構築するためのフレームワーク - 知性は孤立ではなく相互作用から生まれる。
 
 
-_Updated on June 15, 2026_ (A total of 2614 repositories listed.)
+_Updated on June 22, 2026_ (A total of 2626 repositories listed.)
 
 ## Table of contents
 
@@ -374,6 +377,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [typeui](https://github.com/bergside/typeui) - クロードデザイン、Google Stitch、Codex、CursorなどのエージェントツールのデザインスキルとUIプロンプト
  * [eval-harness](https://github.com/nano-step/eval-harness) - LLMエージェントの動作回帰テスト。4クラスの属性、6フィールドのFAILスキーマ、$-コストゲート、フレーキー検出。Bash + jq。今日のopencodeと連携し、ランナープラグインを使用します。
  * [ccline](https://github.com/jianshuo/ccline) - zshプロンプトで考えを入力し、回答を得て、提案されたコマンドを実行します。
+ * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - ChatGPT、Claude、または他のAIツールに貼り付けることができる無料のプレゼンテーションスライドデザイン.md。
 
 
 ## Chatbots
@@ -758,6 +762,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [agor](https://github.com/preset-io/agor) - マルチプレイヤーキャンバス上で、オーケストレートクロードコード、コーデックス、ジェミニセッションを行います。gitワークツリーを管理し、AI会話を追跡し、チームのエージェントワークをリアルタイムで可視化します。
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3は、ワークフロー、アクション、エージェント、および会話チャンネルを1つのランタイムで組み合わせたAI自動化プラットフォームです。
  * [CrustAI](https://github.com/davesimoes/crustai) - Telegram、Discord、WhatsApp、Slackと連携したプライベートでローカルファーストのAIアシスタント
+ * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 簡単にセットアップできるAIアシスタントは、24時間365日あなたの仕事を行い、あなたの好みを知り、時間とともにより良くなります。
 
 
 ## Browser-extensions
@@ -1268,6 +1273,9 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [herdr](https://github.com/ogulcancelik/herdr) - 端末に住むエージェントマルチプレクサー。端末に住むエージェントマルチプレクサー。
  * [CliRelay](https://github.com/kittors/clirelay) - Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlowをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPI経由で利用できるようにします。
  * [Observal](https://github.com/blazeup-ai/observal) - Observalは統合エージェント登録および分析プラットフォームです。
+ * [happier](https://github.com/happier-dev/happier) - Codex、Claude Code、OpenCode、Kimi、Augment Code、QwenのためのWeb、デスクトップ、モバイルクライアント、完全なエンドツーエンド暗号化
+ * [supercli](https://github.com/javimosch/supercli) - 7,000以上のツール。1つのCLI。設定不要。
+ * [petdex](https://github.com/crafter-station/petdex) - コーデックス、クロードコード、オープンコード、ジェミニCLIのアニメーションペットの一般ギャラリー
 
 
 ## Reimplementations
@@ -1754,6 +1762,11 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - あなたはCTOです。エージェントたちはあなたのチームです。彼らは自分たちでタスクを処理し、お互いにメッセージを送り合い、お互いの仕事をレビューします。あなたは単にかんばんボードを見て高レベルの指示を出すだけです。Codex/Claude/OpenCode（200以上のモデル）を構築して、あなたのAI企業を作り上げてください。
  * [ECC](https://github.com/affaan-m/ecc) - エージェントは、パフォーマンス最適化システムを利用します。Claude Code、Codex、Opencode、Cursorなどのスキル、本能、記憶、セキュリティ、および研究優先の開発に対応します。
  * [MemOS](https://github.com/memtensor/memos) - LLM＆AIエージェント向けの自己進化メモリOS：超持続メモリ、ハイブリッド検索、クロスタスクスキル再利用、トークン節約率35.24％
+ * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM評議会が計画し、Ralphが完璧にループし、OpenCodeワークツリーが出荷します。
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - サーバーレスAI APIゲートウェイ/ Vercelワンクリックデプロイ/ Cloudflareプッシュデプロイ/複数のプロバイダールート/キーのローテーション/フェイルオーバー/OpenAI互換
+ * [SWE-AF](https://github.com/agent-field/swe-af) - エージェントフィールドでの本番用PRのためのAIエージェントの自律ソフトウェアエンジニアリングフリート：計画、コード、テスト、出荷。
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - スーパーハイウェイウェブ検索API用の実行可能な例 - 検索、ニュース、画像、スクレイプ、AIエージェントのための研究
+ * [omnigent](https://github.com/omnigent-ai/omnigent) - OmnigentはオープンソースのAIエージェントフレームワークおよびメタハーネスです：Claude Code、Codex、Cursor、Pi、およびカスタムエージェントを統合し、書き換えることなくハーネスを交換し、ポリシーとサンドボックスを強制し、どのデバイスからでもリアルタイムで協力します。
 
 
 ## Langchain
@@ -2755,5 +2768,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [helmor](https://github.com/dohooo/helmor) - マルチエージェントソフトウェア開発のためのオープンソースのローカルワークベンチ。
  * [evo](https://github.com/evo-hq/evo) - コードベースを自動研究ループに変換し、何を測定するかを発見し、ベンチマークを計測し、並列サブエージェントで木探索を実行します。
  * [lottie](https://github.com/diffusionstudio/lottie) - Claude CodeまたはCodexを使用して、製品向けのLottieアニメーションを生成します。
+ * [NotFair](https://github.com/nowork-studio/notfair) - オープンソースのクロードコードスキルを使用して、SEO、GEO、Google Ads、Meta Adsを実装します。
+ * [NarraNexus](https://github.com/netmindai-open/narranexus) - エージェントのネクサスを構築するためのフレームワーク - 知性は孤立ではなく相互作用から生まれる。
 
 

@@ -47,35 +47,33 @@ Run these two commands inside Claude Code:
 ## The latest additions 🎉
 
 **Prompts**
- * [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt, get an answer — and run the command it suggests
+ * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools.
 
 
-**Browser-extensions**
- * [thClaws](https://github.com/thclaws/thclaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
+**Chatbots**
+ * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
 
 
 **CLIs**
- * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
- * [herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
- * [CliRelay](https://github.com/kittors/clirelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
- * [SuperCLI](https://github.com/javimosch/supercli) - Universal CLI router with 7,000+ plugins. One command pattern for every tool, JSON-by-default, AI-agent-native discovery via `sc skills search`. 250KB Zig binary or `npx supercli`.
- * [Observal](https://github.com/blazeup-ai/observal) - Observal is a unified agent registry and analytics platform.
+ * [happier](https://github.com/happier-dev/happier) - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted
+ * [supercli](https://github.com/javimosch/supercli) - 7,000+ tools. One CLI. Zero configuration
+ * [petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 
 
-**Openai**
- * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
+**NLP**
+ * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM councils plan it. Ralph loops perfect it. OpenCode worktrees ship it.
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - Serverless AI API Gateway / 无服务器 AI API 网关 · Vercel 一键部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容
+ * [SWE-AF](https://github.com/agent-field/swe-af) - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable examples for the Superhighway web search API — search, news, images, scrape, research for AI agents
+ * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
 
 **Others**
- * [evo](https://github.com/evo-hq/evo) - turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
- * [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
+ * [NotFair](https://github.com/nowork-studio/notfair) - Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+ * [NarraNexus](https://github.com/netmindai-open/narranexus) - A framework for building nexuses of agents -- where intelligence emerges from interaction, not isolation.
 
 
-**API Gateways**
- * [AI Relay](https://github.com/MoyuFamily/ai-relay) - Serverless AI API gateway. One-click deploy to Vercel or auto-deploy to Cloudflare Pages. Supports OpenAI, Claude, DeepSeek, custom providers with multi-provider routing and API key rotation. No server/Docker needed.
-
-
-_Updated on June 15, 2026_ (A total of 2614 repositories listed.)
+_Updated on June 22, 2026_ (A total of 2626 repositories listed.)
 
 ## Table of contents
 
@@ -383,7 +381,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [typeui](https://github.com/bergside/typeui) - Design skills and UI prompts for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and other AI tools
  * [eval-harness](https://github.com/nano-step/eval-harness) - Behavior-regression testing for LLM agents. 4-class attribution, 6-field FAIL schema, $-cost gating, flaky detection. Bash + jq. Works with opencode today, runner-pluggable.
  * [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt, get an answer — and run the command it suggests
- * [presentation-design-prompts](https://github.com/SlideSpeak/presentation-design-prompts) - 56 free slide-design prompts for ChatGPT and Claude, each a full deck theme with a pinned color palette, fonts, and layout rules.
+ * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools.
 
 
 ## Chatbots
@@ -768,6 +766,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3 is an AI automation platform, combining workflows, actions, agents, and conversational channels in one runtime.
  * [CrustAI](https://github.com/davesimoes/crustai) - Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack
+ * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
 
 
 ## Browser-extensions
@@ -1278,6 +1277,9 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
  * [CliRelay](https://github.com/kittors/clirelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
  * [Observal](https://github.com/blazeup-ai/observal) - Observal is a unified agent registry and analytics platform.
+ * [happier](https://github.com/happier-dev/happier) - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted
+ * [supercli](https://github.com/javimosch/supercli) - 7,000+ tools. One CLI. Zero configuration
+ * [petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 
 
 ## Reimplementations
@@ -1764,6 +1766,11 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models). Build your AI company.
  * [ECC](https://github.com/affaan-m/ecc) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
  * [MemOS](https://github.com/memtensor/memos) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
+ * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM councils plan it. Ralph loops perfect it. OpenCode worktrees ship it.
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容
+ * [SWE-AF](https://github.com/agent-field/swe-af) - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable examples for the Superhighway web search API — search, news, images, scrape, research for AI agents
+ * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
 
 ## Langchain
@@ -2765,9 +2772,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
  * [evo](https://github.com/evo-hq/evo) - turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents.
  * [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
- * [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus) - Open-source AI agent team workspace by NetMind.AI. Agents remember, collaborate, and use tools from day one with persistent memory, multi-agent collaboration (PM/dev/deployment/research), and MCP-style tool integrations.
+ * [NotFair](https://github.com/nowork-studio/notfair) - Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
+ * [NarraNexus](https://github.com/netmindai-open/narranexus) - A framework for building nexuses of agents -- where intelligence emerges from interaction, not isolation.
 
 
- * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable Python examples for the Superhighway web search API using the OpenAI API — a news briefing agent, a web search CLI, and a scrape-and-analyze tool.
- * [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
- * [LoopTroop](https://github.com/looptroop-ai/LoopTroop) - Local, open-source GUI that orchestrates AI coding agents from ticket to PR, with LLM-council planning, isolated git worktrees, and a Ralph loop that retries on failure. Built on OpenCode.

@@ -43,30 +43,33 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符處輸入一個想法，獲得一個答案 - 並運行它建議的命令。
+ * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免費演示幻燈片設計.md，您可以將其粘貼到ChatGPT、Claude或您的任何AI工具中。
 
 
-**Browser-extensions**
- * [thClaws](https://github.com/thclaws/thclaws) - 開源AI代理程式，使用原生Rust語言 — GUI、CLI、無頭模式和Web應用程式皆可從單一二進制檔案中操作。支援多個供應商、MCP、技能、插件和代理團隊。
+**Chatbots**
+ * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一個易於設置的人工智能助手，全天候為您工作，了解您的喜好並隨著時間變得更好。
 
 
 **CLIs**
- * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - 針對Claude Code、Codex-CLI和類似的CLI編碼代理，提供實用的生產力工具。
- * [herdr](https://github.com/ogulcancelik/herdr) - 存在於您終端機中的代理多路復用器。存在於您終端機中的代理多路復用器。
- * [CliRelay](https://github.com/kittors/clirelay) - 將Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow包裝成一個OpenAI/Gemini/Claude/Codex兼容的API服務，讓您可以通過API享受免費的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
- * [Observal](https://github.com/blazeup-ai/observal) - Observal是一個統一的代理註冊和分析平台。
+ * [happier](https://github.com/happier-dev/happier) - 網頁、桌面和手機客戶端，適用於Codex、Claude Code、OpenCode、Kimi、Augment Code、Qwen，完全端到端加密。
+ * [supercli](https://github.com/javimosch/supercli) - 7,000多種工具。一個CLI。零配置。
+ * [petdex](https://github.com/crafter-station/petdex) - Codex、Claude Code、OpenCode和Gemini CLI的動畫寵物公共畫廊
 
 
-**Openai**
- * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基於 OpenAI gpt-image-2 API 的圖片生成與編輯工具
+**NLP**
+ * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM理事會計劃它。拉爾夫完美地循環它。OpenCode工作樹運輸它。
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - 無伺服器 AI API 網關 · Vercel 一鍵部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 輪換 · 故障轉移 · OpenAI 兼容
+ * [SWE-AF](https://github.com/agent-field/swe-af) - 在AgentField上，用於生產級PR的自主軟件工程小組由AI代理組成：計劃、編碼、測試和發布。
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Superhighway網絡搜索API的可運行示例 - 搜索、新聞、圖片、刮擦、為AI代理進行研究
+ * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent 是一個開源的人工智慧代理框架和元控制器：可以協調Claude Code、Codex、Cursor、Pi和自定義代理，無需重新編寫即可交換控制器，執行政策和沙箱，並可以從任何設備實時協作。
 
 
 **Others**
- * [evo](https://github.com/evo-hq/evo) - 將您的代碼庫轉換為自動研究循環-發現要測量的內容，儀器化基準測試，然後運行具有平行子代理的樹搜索。
- * [lottie](https://github.com/diffusionstudio/lottie) - 使用Claude Code或Codex生成可用于生产的Lottie动画
+ * [NotFair](https://github.com/nowork-studio/notfair) - 開源Claude代碼技能用於SEO、GEO、Google廣告、Meta廣告
+ * [NarraNexus](https://github.com/netmindai-open/narranexus) - 一個建立代理人聯繫點的框架——智能是從互動中而非孤立中產生的。
 
 
-_Updated on June 15, 2026_ (A total of 2614 repositories listed.)
+_Updated on June 22, 2026_ (A total of 2626 repositories listed.)
 
 ## Table of contents
 
@@ -374,6 +377,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [typeui](https://github.com/bergside/typeui) - 設計技能和UI提示，適用於Claude Design、Google Stitch、Codex、Cursor和其他AI工具等主動工具。
  * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行為回歸測試。4類歸因，6字段失敗模式，成本閘控，不穩定檢測。Bash + jq。今天與opencode一起工作，可插拔運行。
  * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符處輸入一個想法，獲得一個答案 - 並運行它建議的命令。
+ * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免費演示幻燈片設計.md，您可以將其粘貼到ChatGPT、Claude或您的任何AI工具中。
 
 
 ## Chatbots
@@ -758,6 +762,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [agor](https://github.com/preset-io/agor) - 在多人畫布上組織克勞德代碼、代碼和雙子會話。管理git工作樹，追踪人工智能對話，並即時可視化您團隊的代理工作。
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3 是一個人工智慧自動化平台，將工作流程、動作、代理人和對話通道結合在一個運行時中。
  * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地優先的AI助手，支援Telegram、Discord、WhatsApp和Slack
+ * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一個易於設置的人工智能助手，全天候為您工作，了解您的喜好並隨著時間變得更好。
 
 
 ## Browser-extensions
@@ -1268,6 +1273,9 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [herdr](https://github.com/ogulcancelik/herdr) - 存在於您終端機中的代理多路復用器。存在於您終端機中的代理多路復用器。
  * [CliRelay](https://github.com/kittors/clirelay) - 將Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow包裝成一個OpenAI/Gemini/Claude/Codex兼容的API服務，讓您可以通過API享受免費的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
  * [Observal](https://github.com/blazeup-ai/observal) - Observal是一個統一的代理註冊和分析平台。
+ * [happier](https://github.com/happier-dev/happier) - 網頁、桌面和手機客戶端，適用於Codex、Claude Code、OpenCode、Kimi、Augment Code、Qwen，完全端到端加密。
+ * [supercli](https://github.com/javimosch/supercli) - 7,000多種工具。一個CLI。零配置。
+ * [petdex](https://github.com/crafter-station/petdex) - Codex、Claude Code、OpenCode和Gemini CLI的動畫寵物公共畫廊
 
 
 ## Reimplementations
@@ -1754,6 +1762,11 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - 你是CTO，代理人是你的團隊。他們獨立處理任務，互相傳遞訊息，並審查彼此的工作。你只需觀看看板並發出高層指令。Codex/Claude/OpenCode（200多個模型）。建立你的人工智慧公司。
  * [ECC](https://github.com/affaan-m/ecc) - 代理商利用性能優化系統。為Claude Code、Codex、Opencode、Cursor等等提供技能、直覺、記憶、安全性和研究優先的開發。
  * [MemOS](https://github.com/memtensor/memos) - 自我演化記憶體作業系統，適用於LLM和AI代理人：超持久記憶體，混合檢索，跨任務技能重複使用，節省35.24%的令牌。
+ * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM理事會計劃它。拉爾夫完美地循環它。OpenCode工作樹運輸它。
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - Cloudflare 推送即部署 · 多 Provider 路由 · Key 輪換 · 故障轉移 · OpenAI 兼容
+ * [SWE-AF](https://github.com/agent-field/swe-af) - 在AgentField上，用於生產級PR的自主軟件工程小組由AI代理組成：計劃、編碼、測試和發布。
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Superhighway網絡搜索API的可運行示例 - 搜索、新聞、圖片、刮擦、為AI代理進行研究
+ * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent 是一個開源的人工智慧代理框架和元控制器：可以協調Claude Code、Codex、Cursor、Pi和自定義代理，無需重新編寫即可交換控制器，執行政策和沙箱，並可以從任何設備實時協作。
 
 
 ## Langchain
@@ -2755,5 +2768,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [helmor](https://github.com/dohooo/helmor) - 開源本地工作臺，用於多智能體軟件開發。
  * [evo](https://github.com/evo-hq/evo) - 將您的代碼庫轉換為自動研究循環-發現要測量的內容，儀器化基準測試，然後運行具有平行子代理的樹搜索。
  * [lottie](https://github.com/diffusionstudio/lottie) - 使用Claude Code或Codex生成可用于生产的Lottie动画
+ * [NotFair](https://github.com/nowork-studio/notfair) - 開源Claude代碼技能用於SEO、GEO、Google廣告、Meta廣告
+ * [NarraNexus](https://github.com/netmindai-open/narranexus) - 一個建立代理人聯繫點的框架——智能是從互動中而非孤立中產生的。
 
 

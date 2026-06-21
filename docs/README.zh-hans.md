@@ -43,30 +43,33 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符处输入一个想法，得到一个答案 - 并运行它建议的命令。
+ * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免费演示幻灯片设计.md，您可以粘贴到ChatGPT、Claude或您的任何AI工具中。
 
 
-**Browser-extensions**
- * [thClaws](https://github.com/thclaws/thclaws) - 开源AI代理程序在本机Rust中利用- GUI，CLI，无头和Web应用程序来自一个二进制文件。多提供商，MCP，技能，插件，代理团队。
+**Chatbots**
+ * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一个易于设置的AI助手，全天候为您工作，了解您的偏好，并随着时间的推移变得更加智能。
 
 
 **CLIs**
- * [claude-code-tools](https://github.com/pchalasani/claude-code-tools) - 为Claude Code、Codex-CLI和类似的CLI编码代理提供实用的生产力工具。
- * [herdr](https://github.com/ogulcancelik/herdr) - 生活在您终端的代理复用器。输出：生活在您终端的代理复用器。
- * [CliRelay](https://github.com/kittors/clirelay) - 将Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
- * [Observal](https://github.com/blazeup-ai/observal) - Observal是一个统一的代理注册和分析平台。
+ * [happier](https://github.com/happier-dev/happier) - Codex、Claude Code、OpenCode、Kimi、Augment Code、Qwen的Web、桌面和移动客户端，完全端到端加密。
+ * [supercli](https://github.com/javimosch/supercli) - 7000多种工具。一个CLI。零配置。
+ * [petdex](https://github.com/crafter-station/petdex) - Codex，Claude Code，OpenCode和Gemini CLI的动画宠物公共画廊
 
 
-**Openai**
- * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基于OpenAI gpt-image-2 API的图片生成与编辑工具
+**NLP**
+ * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM理事会计划。拉尔夫完美地循环。OpenCode工作树发货。
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - 无服务器 AI API 网关 / Vercel 一键部署 / Cloudflare 推送即部署 / 多 Provider 路由 / Key 轮换 / 故障转移 / OpenAI 兼容
+ * [SWE-AF](https://github.com/agent-field/swe-af) - AgentField上的自主软件工程团队由AI代理组成，用于生产级PR：计划、编码、测试和发布。
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - 超级高速公路网络搜索API的可运行示例-搜索、新闻、图片、抓取、为AI代理进行研究
+ * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent是一个开源的AI代理框架和元调度器：可以编排Claude Code、Codex、Cursor、Pi和自定义代理——无需重写即可交换调度器，执行策略和沙盒，可以在任何设备上实时协作。
 
 
 **Others**
- * [evo](https://github.com/evo-hq/evo) - 将您的代码库转变为自动研究循环——发现要测量的内容，为基准测试添加仪器，然后使用并行子代运行树搜索。
- * [lottie](https://github.com/diffusionstudio/lottie) - 使用Claude Code或Codex生成可用于生产的Lottie动画
+ * [NotFair](https://github.com/nowork-studio/notfair) - 开源克劳德代码技能用于SEO、GEO、Google广告、Meta广告
+ * [NarraNexus](https://github.com/netmindai-open/narranexus) - 一个用于构建代理人网络的框架——智能是由互动而非孤立产生的。
 
 
-_Updated on June 15, 2026_ (A total of 2614 repositories listed.)
+_Updated on June 22, 2026_ (A total of 2626 repositories listed.)
 
 ## Table of contents
 
@@ -374,6 +377,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [typeui](https://github.com/bergside/typeui) - 设计技能和UI提示，适用于代理工具，如Claude Design，Google Stitch，Codex，Cursor和其他AI工具。
  * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行为回归测试。4类属性，6字段失败模式，成本门控，易变检测。Bash + jq。今天与opencode一起使用，可插拔的运行器。
  * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符处输入一个想法，得到一个答案 - 并运行它建议的命令。
+ * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免费演示幻灯片设计.md，您可以粘贴到ChatGPT、Claude或您的任何AI工具中。
 
 
 ## Chatbots
@@ -758,6 +762,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [agor](https://github.com/preset-io/agor) - 在多人画布上编排克劳德代码、密码和双子座会话。管理git工作树，跟踪人工智能对话，并实时可视化团队的代理工作。
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3是一个AI自动化平台，将工作流程、动作、代理和对话渠道结合在一个运行时中。
  * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地优先的AI助手，支持Telegram、Discord、WhatsApp和Slack。
+ * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一个易于设置的AI助手，全天候为您工作，了解您的偏好，并随着时间的推移变得更加智能。
 
 
 ## Browser-extensions
@@ -1268,6 +1273,9 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [herdr](https://github.com/ogulcancelik/herdr) - 生活在您终端的代理复用器。输出：生活在您终端的代理复用器。
  * [CliRelay](https://github.com/kittors/clirelay) - 将Gemini CLI、Antigravity、ChatGPT Codex、Claude Code、Qwen Code、iFlow打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
  * [Observal](https://github.com/blazeup-ai/observal) - Observal是一个统一的代理注册和分析平台。
+ * [happier](https://github.com/happier-dev/happier) - Codex、Claude Code、OpenCode、Kimi、Augment Code、Qwen的Web、桌面和移动客户端，完全端到端加密。
+ * [supercli](https://github.com/javimosch/supercli) - 7000多种工具。一个CLI。零配置。
+ * [petdex](https://github.com/crafter-station/petdex) - Codex，Claude Code，OpenCode和Gemini CLI的动画宠物公共画廊
 
 
 ## Reimplementations
@@ -1754,6 +1762,11 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [agent-teams-ai](https://github.com/777genius/agent-teams-ai) - 你是首席技术官，代理人是你的团队。他们独立处理任务，相互发送消息，审查彼此的工作。你只需观察看板并发出高层指令。Codex/Claude/OpenCode（200多个模型）。打造你的人工智能公司。
  * [ECC](https://github.com/affaan-m/ecc) - 代理商利用性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、直觉、记忆、安全和研究优先的开发。
  * [MemOS](https://github.com/memtensor/memos) - 自我进化的记忆操作系统，用于LLM和AI代理：超持久的记忆，混合检索，跨任务技能重复利用，节省35.24%的令牌
+ * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM理事会计划。拉尔夫完美地循环。OpenCode工作树发货。
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - OpenAI 兼容
+ * [SWE-AF](https://github.com/agent-field/swe-af) - AgentField上的自主软件工程团队由AI代理组成，用于生产级PR：计划、编码、测试和发布。
+ * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - 超级高速公路网络搜索API的可运行示例-搜索、新闻、图片、抓取、为AI代理进行研究
+ * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent是一个开源的AI代理框架和元调度器：可以编排Claude Code、Codex、Cursor、Pi和自定义代理——无需重写即可交换调度器，执行策略和沙盒，可以在任何设备上实时协作。
 
 
 ## Langchain
@@ -2755,5 +2768,7 @@ _Updated on June 15, 2026_ (A total of 2614 repositories listed.)
  * [helmor](https://github.com/dohooo/helmor) - 开源本地工作台，用于多智能体软件开发。
  * [evo](https://github.com/evo-hq/evo) - 将您的代码库转变为自动研究循环——发现要测量的内容，为基准测试添加仪器，然后使用并行子代运行树搜索。
  * [lottie](https://github.com/diffusionstudio/lottie) - 使用Claude Code或Codex生成可用于生产的Lottie动画
+ * [NotFair](https://github.com/nowork-studio/notfair) - 开源克劳德代码技能用于SEO、GEO、Google广告、Meta广告
+ * [NarraNexus](https://github.com/netmindai-open/narranexus) - 一个用于构建代理人网络的框架——智能是由互动而非孤立产生的。
 
 
