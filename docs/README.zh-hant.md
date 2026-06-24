@@ -42,34 +42,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免費演示幻燈片設計.md，您可以將其粘貼到ChatGPT、Claude或您的任何AI工具中。
-
-
-**Chatbots**
- * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一個易於設置的人工智能助手，全天候為您工作，了解您的喜好並隨著時間變得更好。
-
-
 **CLIs**
- * [happier](https://github.com/happier-dev/happier) - 網頁、桌面和手機客戶端，適用於Codex、Claude Code、OpenCode、Kimi、Augment Code、Qwen，完全端到端加密。
- * [supercli](https://github.com/javimosch/supercli) - 7,000多種工具。一個CLI。零配置。
- * [petdex](https://github.com/crafter-station/petdex) - Codex、Claude Code、OpenCode和Gemini CLI的動畫寵物公共畫廊
+ * [plannotator](https://github.com/backnotprop/plannotator) - 註釋並審查編碼代理計劃和代碼差異，以視覺方式分享給您的團隊，並通過一鍵方式向代理發送反饋。
+ * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - 管理多個Claude Code，OpenCode代理，可從TUI或Web輕鬆訪問移動設備。同時支持Mistral Vibe，Codex CLI，Gemini CLI，Pi.dev，Copilot CLI，Factory Droid Coding。
+ * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一個Codex cli 帳號管理與切換工具。為 Codex cli 提供本地網關轉發。
 
 
 **NLP**
- * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM理事會計劃它。拉爾夫完美地循環它。OpenCode工作樹運輸它。
- * [ai-relay](https://github.com/moyufamily/ai-relay) - 無伺服器 AI API 網關 · Vercel 一鍵部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 輪換 · 故障轉移 · OpenAI 兼容
- * [SWE-AF](https://github.com/agent-field/swe-af) - 在AgentField上，用於生產級PR的自主軟件工程小組由AI代理組成：計劃、編碼、測試和發布。
- * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Superhighway網絡搜索API的可運行示例 - 搜索、新聞、圖片、刮擦、為AI代理進行研究
- * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent 是一個開源的人工智慧代理框架和元控制器：可以協調Claude Code、Codex、Cursor、Pi和自定義代理，無需重新編寫即可交換控制器，執行政策和沙箱，並可以從任何設備實時協作。
+ * [EverOS](https://github.com/evermind-ai/everos) - 跨代理和平台的自我演化記憶。每個代理使用的唯一可攜式記憶層 - Claude Code、Codex、OpenClaw、Hermes等。
 
 
 **Others**
- * [NotFair](https://github.com/nowork-studio/notfair) - 開源Claude代碼技能用於SEO、GEO、Google廣告、Meta廣告
- * [NarraNexus](https://github.com/netmindai-open/narranexus) - 一個建立代理人聯繫點的框架——智能是從互動中而非孤立中產生的。
+ * [Memoh](https://github.com/memohai/memoh) - ✨ 這是一個開源的多智能體平台。每個智能體都有自己的電腦、桌面、網絡和長期記憶。您可以自己帶來密鑰，或者像克勞德代碼、Codex等等一樣來托管您的編碼智能體。
+ * [Trellis](https://github.com/mindfold-ai/trellis) - 最好的代理帶。
+ * [agentsview](https://github.com/kenn-io/agentsview) - 本地優先會話搜索、分析、洞察和代幣使用統計，支持Claude Code、Codex和其他20多個代理。
+ * [nezha](https://github.com/hanshuaikang/nezha) - AI代理時代的代碼編輯器。在您的機器上運行多個Claude Code和Codex代理，跨項目運行。AI代理時代的代碼編輯器。在您的機器上運行多個Claude Code和Codex代理，跨項目運行。
 
 
-_Updated on June 22, 2026_ (A total of 2626 repositories listed.)
+_Updated on June 25, 2026_ (A total of 2634 repositories listed.)
 
 ## Table of contents
 
@@ -1276,6 +1266,9 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [happier](https://github.com/happier-dev/happier) - 網頁、桌面和手機客戶端，適用於Codex、Claude Code、OpenCode、Kimi、Augment Code、Qwen，完全端到端加密。
  * [supercli](https://github.com/javimosch/supercli) - 7,000多種工具。一個CLI。零配置。
  * [petdex](https://github.com/crafter-station/petdex) - Codex、Claude Code、OpenCode和Gemini CLI的動畫寵物公共畫廊
+ * [plannotator](https://github.com/backnotprop/plannotator) - 註釋並審查編碼代理計劃和代碼差異，以視覺方式分享給您的團隊，並通過一鍵方式向代理發送反饋。
+ * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - 管理多個Claude Code，OpenCode代理，可從TUI或Web輕鬆訪問移動設備。同時支持Mistral Vibe，Codex CLI，Gemini CLI，Pi.dev，Copilot CLI，Factory Droid Coding。
+ * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一個Codex cli 帳號管理與切換工具。為 Codex cli 提供本地網關轉發。
 
 
 ## Reimplementations
@@ -1763,10 +1756,11 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [ECC](https://github.com/affaan-m/ecc) - 代理商利用性能優化系統。為Claude Code、Codex、Opencode、Cursor等等提供技能、直覺、記憶、安全性和研究優先的開發。
  * [MemOS](https://github.com/memtensor/memos) - 自我演化記憶體作業系統，適用於LLM和AI代理人：超持久記憶體，混合檢索，跨任務技能重複使用，節省35.24%的令牌。
  * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM理事會計劃它。拉爾夫完美地循環它。OpenCode工作樹運輸它。
- * [ai-relay](https://github.com/moyufamily/ai-relay) - Cloudflare 推送即部署 · 多 Provider 路由 · Key 輪換 · 故障轉移 · OpenAI 兼容
+ * [ai-relay](https://github.com/moyufamily/ai-relay) - 無伺服器 AI API 網關 · Vercel 一鍵部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 輪換 · 故障轉移 · OpenAI 兼容
  * [SWE-AF](https://github.com/agent-field/swe-af) - 在AgentField上，用於生產級PR的自主軟件工程小組由AI代理組成：計劃、編碼、測試和發布。
  * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Superhighway網絡搜索API的可運行示例 - 搜索、新聞、圖片、刮擦、為AI代理進行研究
  * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent 是一個開源的人工智慧代理框架和元控制器：可以協調Claude Code、Codex、Cursor、Pi和自定義代理，無需重新編寫即可交換控制器，執行政策和沙箱，並可以從任何設備實時協作。
+ * [EverOS](https://github.com/evermind-ai/everos) - 跨代理和平台的自我演化記憶。每個代理使用的唯一可攜式記憶層 - Claude Code、Codex、OpenClaw、Hermes等。
 
 
 ## Langchain
@@ -2770,5 +2764,9 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [lottie](https://github.com/diffusionstudio/lottie) - 使用Claude Code或Codex生成可用于生产的Lottie动画
  * [NotFair](https://github.com/nowork-studio/notfair) - 開源Claude代碼技能用於SEO、GEO、Google廣告、Meta廣告
  * [NarraNexus](https://github.com/netmindai-open/narranexus) - 一個建立代理人聯繫點的框架——智能是從互動中而非孤立中產生的。
+ * [Memoh](https://github.com/memohai/memoh) - ✨ 這是一個開源的多智能體平台。每個智能體都有自己的電腦、桌面、網絡和長期記憶。您可以自己帶來密鑰，或者像克勞德代碼、Codex等等一樣來托管您的編碼智能體。
+ * [Trellis](https://github.com/mindfold-ai/trellis) - 最好的代理帶。
+ * [agentsview](https://github.com/kenn-io/agentsview) - 本地優先會話搜索、分析、洞察和代幣使用統計，支持Claude Code、Codex和其他20多個代理。
+ * [nezha](https://github.com/hanshuaikang/nezha) - AI代理時代的代碼編輯器。在您的機器上運行多個Claude Code和Codex代理，跨項目運行。AI代理時代的代碼編輯器。在您的機器上運行多個Claude Code和Codex代理，跨項目運行。
 
 

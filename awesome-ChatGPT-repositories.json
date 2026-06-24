@@ -30194,6 +30194,79 @@
                     "zh-hans": "Codex，Claude Code，OpenCode和Gemini CLI的动画宠物公共画廊",
                     "zh-hant": "Codex、Claude Code、OpenCode和Gemini CLI的動畫寵物公共畫廊"
                 }
+            },
+            "https://github.com/backnotprop/plannotator": {
+                "repository_name": "plannotator",
+                "user_name": "backnotprop",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
+                "topics": [
+                    "agents",
+                    "claude-code",
+                    "code-review",
+                    "codex",
+                    "obsidian",
+                    "opencode",
+                    "pi-mono",
+                    "plan-mode",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
+                    "ja": "コーディングエージェントの計画とコードの差分を視覚的に注釈付けしてレビューし、チームと共有し、1クリックでエージェントにフィードバックを送信します。",
+                    "zh-hans": "标注和审查编码代理计划和代码差异，可视化地与团队分享，一键向代理发送反馈。",
+                    "zh-hant": "註釋並審查編碼代理計劃和代碼差異，以視覺方式分享給您的團隊，並通過一鍵方式向代理發送反饋。"
+                }
+            },
+            "https://github.com/agent-of-empires/agent-of-empires": {
+                "repository_name": "agent-of-empires",
+                "user_name": "agent-of-empires",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.",
+                "topics": [
+                    "ai-coding",
+                    "claude",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "cursor",
+                    "factory-droid-cli",
+                    "gemini",
+                    "gemini-cli",
+                    "github-copilot-cli",
+                    "hermes-agent",
+                    "llm",
+                    "mistral-vibe",
+                    "opencode",
+                    "orchestrator",
+                    "pi",
+                    "terminal",
+                    "tmux",
+                    "vibe",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.",
+                    "ja": "モバイルで簡単にアクセスできるように、TUIまたはWebから複数のClaude Code、OpenCodeエージェントを管理します。また、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Codingをサポートしています。",
+                    "zh-hans": "使用TUI或Web管理多个Claude Code、OpenCode代理，以便在移动设备上轻松访问。还支持Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Coding。",
+                    "zh-hant": "管理多個Claude Code，OpenCode代理，可從TUI或Web輕鬆訪問移動設備。同時支持Mistral Vibe，Codex CLI，Gemini CLI，Pi.dev，Copilot CLI，Factory Droid Coding。"
+                }
+            },
+            "https://github.com/qxcnm/codex-manager": {
+                "repository_name": "Codex-Manager",
+                "user_name": "qxcnm",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Codex cli account management and switching tool. Provides local gateway forwarding for Codex cli.",
+                    "ja": "Codex cliのアカウント管理と切り替えツール。Codex cliにローカルゲートウェイ転送を提供します。",
+                    "zh-hans": "一个Codex cli账号管理与切换工具。为Codex cli提供本地网关转发。",
+                    "zh-hant": "一個Codex cli 帳號管理與切換工具。為 Codex cli 提供本地網關轉發。"
+                }
             }
         },
         "Reimplementations": {
@@ -41687,6 +41760,35 @@
                     "ja": "OmnigentはオープンソースのAIエージェントフレームワークおよびメタハーネスです：Claude Code、Codex、Cursor、Pi、およびカスタムエージェントを統合し、書き換えることなくハーネスを交換し、ポリシーとサンドボックスを強制し、どのデバイスからでもリアルタイムで協力します。",
                     "zh-hans": "Omnigent是一个开源的AI代理框架和元调度器：可以编排Claude Code、Codex、Cursor、Pi和自定义代理——无需重写即可交换调度器，执行策略和沙盒，可以在任何设备上实时协作。",
                     "zh-hant": "Omnigent 是一個開源的人工智慧代理框架和元控制器：可以協調Claude Code、Codex、Cursor、Pi和自定義代理，無需重新編寫即可交換控制器，執行政策和沙箱，並可以從任何設備實時協作。"
+                }
+            },
+            "https://github.com/evermind-ai/everos": {
+                "repository_name": "EverOS",
+                "user_name": "EverMind-AI",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more",
+                "topics": [
+                    "agent-memory",
+                    "agentic-ai",
+                    "ai",
+                    "chats",
+                    "clawdbot",
+                    "clawdbot-skill",
+                    "llm",
+                    "long-term-memory",
+                    "mcp",
+                    "memory",
+                    "memory-management",
+                    "python3",
+                    "rag",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more",
+                    "ja": "エージェントとプラットフォーム間で自己進化するメモリ。彼らが使用するすべてのエージェントに1つのポータブルメモリレイヤー - Claude Code、Codex、OpenClaw、Hermes、その他",
+                    "zh-hans": "自我进化的记忆跨代理和平台。每个代理使用的唯一可移植记忆层 - Claude Code，Codex，OpenClaw，Hermes等。",
+                    "zh-hant": "跨代理和平台的自我演化記憶。每個代理使用的唯一可攜式記憶層 - Claude Code、Codex、OpenClaw、Hermes等。"
                 }
             }
         },
@@ -63493,6 +63595,82 @@
                     "ja": "エージェントのネクサスを構築するためのフレームワーク - 知性は孤立ではなく相互作用から生まれる。",
                     "zh-hans": "一个用于构建代理人网络的框架——智能是由互动而非孤立产生的。",
                     "zh-hant": "一個建立代理人聯繫點的框架——智能是從互動中而非孤立中產生的。"
+                }
+            },
+            "https://github.com/memohai/memoh": {
+                "repository_name": "Memoh",
+                "user_name": "memohai",
+                "language": "Go",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-companion",
+                    "ai-memory",
+                    "personal-assistant"
+                ],
+                "multilingual_descriptions": {
+                    "en": "✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on.",
+                    "ja": "✨ オープンソースのマルチエージェントプラットフォーム。各エージェントは独自のコンピューター、デスクトップ、ネットワーク、長期記憶を持っています。あなたは自分のキーを持参するか、クロードコード、コーデックスなどのコーディングエージェントをホストすることができます。",
+                    "zh-hans": "✨ 这是一个开源的多代理平台。每个代理都有自己的计算机、桌面、网络和长期记忆。您可以自带密钥，或者像克劳德代码、Codex等一样托管您的编码代理。",
+                    "zh-hant": "✨ 這是一個開源的多智能體平台。每個智能體都有自己的電腦、桌面、網絡和長期記憶。您可以自己帶來密鑰，或者像克勞德代碼、Codex等等一樣來托管您的編碼智能體。"
+                }
+            },
+            "https://github.com/mindfold-ai/trellis": {
+                "repository_name": "Trellis",
+                "user_name": "mindfold-ai",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "The best agent harness.",
+                "topics": [
+                    "agentic-coding",
+                    "ai-workflow",
+                    "claudecode",
+                    "codex",
+                    "harness"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The best agent harness.",
+                    "ja": "最高のエージェントハーネス。",
+                    "zh-hans": "最好的代理利用。",
+                    "zh-hant": "最好的代理帶。"
+                }
+            },
+            "https://github.com/kenn-io/agentsview": {
+                "repository_name": "agentsview",
+                "user_name": "kenn-io",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+                    "ja": "コーディングエージェント向けのローカルファーストセッション検索、分析、インサイト、およびトークン利用統計。Claude Code、Codex、および20以上の他のエージェントをサポートします。",
+                    "zh-hans": "本地优先会话搜索、分析、洞察和令牌使用统计数据，支持克劳德代码、Codex 和其他 20 多个代理。",
+                    "zh-hant": "本地優先會話搜索、分析、洞察和代幣使用統計，支持Claude Code、Codex和其他20多個代理。"
+                }
+            },
+            "https://github.com/hanshuaikang/nezha": {
+                "repository_name": "nezha",
+                "user_name": "hanshuaikang",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.",
+                "topics": [
+                    "ai",
+                    "claude-code",
+                    "codex",
+                    "cursor",
+                    "ide",
+                    "vibe-coding",
+                    "vibecoding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.",
+                    "ja": "AI エージェント時代のためのコードエディター。複数のクロードコードとコーデックスエージェントを、あなたのマシン上のプロジェクト全体で実行します。",
+                    "zh-hans": "AI代理时代的代码编辑器。在您的计算机上运行多个克劳德代码和Codex代理，跨项目运行。",
+                    "zh-hant": "AI代理時代的代碼編輯器。在您的機器上運行多個Claude Code和Codex代理，跨項目運行。AI代理時代的代碼編輯器。在您的機器上運行多個Claude Code和Codex代理，跨項目運行。"
                 }
             }
         }
