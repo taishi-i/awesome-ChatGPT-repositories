@@ -42,34 +42,24 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Prompts**
- * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - ChatGPT、Claude、または他のAIツールに貼り付けることができる無料のプレゼンテーションスライドデザイン.md。
-
-
-**Chatbots**
- * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 簡単にセットアップできるAIアシスタントは、24時間365日あなたの仕事を行い、あなたの好みを知り、時間とともにより良くなります。
-
-
 **CLIs**
- * [happier](https://github.com/happier-dev/happier) - Codex、Claude Code、OpenCode、Kimi、Augment Code、QwenのためのWeb、デスクトップ、モバイルクライアント、完全なエンドツーエンド暗号化
- * [supercli](https://github.com/javimosch/supercli) - 7,000以上のツール。1つのCLI。設定不要。
- * [petdex](https://github.com/crafter-station/petdex) - コーデックス、クロードコード、オープンコード、ジェミニCLIのアニメーションペットの一般ギャラリー
+ * [plannotator](https://github.com/backnotprop/plannotator) - コーディングエージェントの計画とコードの差分を視覚的に注釈付けしてレビューし、チームと共有し、1クリックでエージェントにフィードバックを送信します。
+ * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - モバイルで簡単にアクセスできるように、TUIまたはWebから複数のClaude Code、OpenCodeエージェントを管理します。また、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Codingをサポートしています。
+ * [Codex-Manager](https://github.com/qxcnm/codex-manager) - Codex cliのアカウント管理と切り替えツール。Codex cliにローカルゲートウェイ転送を提供します。
 
 
 **NLP**
- * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM評議会が計画し、Ralphが完璧にループし、OpenCodeワークツリーが出荷します。
- * [ai-relay](https://github.com/moyufamily/ai-relay) - サーバーレスAI APIゲートウェイ/ Vercelワンクリックデプロイ/ Cloudflareプッシュデプロイ/複数のプロバイダールート/キーのローテーション/フェイルオーバー/OpenAI互換
- * [SWE-AF](https://github.com/agent-field/swe-af) - エージェントフィールドでの本番用PRのためのAIエージェントの自律ソフトウェアエンジニアリングフリート：計画、コード、テスト、出荷。
- * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - スーパーハイウェイウェブ検索API用の実行可能な例 - 検索、ニュース、画像、スクレイプ、AIエージェントのための研究
- * [omnigent](https://github.com/omnigent-ai/omnigent) - OmnigentはオープンソースのAIエージェントフレームワークおよびメタハーネスです：Claude Code、Codex、Cursor、Pi、およびカスタムエージェントを統合し、書き換えることなくハーネスを交換し、ポリシーとサンドボックスを強制し、どのデバイスからでもリアルタイムで協力します。
+ * [EverOS](https://github.com/evermind-ai/everos) - エージェントとプラットフォーム間で自己進化するメモリ。彼らが使用するすべてのエージェントに1つのポータブルメモリレイヤー - Claude Code、Codex、OpenClaw、Hermes、その他
 
 
 **Others**
- * [NotFair](https://github.com/nowork-studio/notfair) - オープンソースのクロードコードスキルを使用して、SEO、GEO、Google Ads、Meta Adsを実装します。
- * [NarraNexus](https://github.com/netmindai-open/narranexus) - エージェントのネクサスを構築するためのフレームワーク - 知性は孤立ではなく相互作用から生まれる。
+ * [Memoh](https://github.com/memohai/memoh) - ✨ オープンソースのマルチエージェントプラットフォーム。各エージェントは独自のコンピューター、デスクトップ、ネットワーク、長期記憶を持っています。あなたは自分のキーを持参するか、クロードコード、コーデックスなどのコーディングエージェントをホストすることができます。
+ * [Trellis](https://github.com/mindfold-ai/trellis) - 最高のエージェントハーネス。
+ * [agentsview](https://github.com/kenn-io/agentsview) - コーディングエージェント向けのローカルファーストセッション検索、分析、インサイト、およびトークン利用統計。Claude Code、Codex、および20以上の他のエージェントをサポートします。
+ * [nezha](https://github.com/hanshuaikang/nezha) - AI エージェント時代のためのコードエディター。複数のクロードコードとコーデックスエージェントを、あなたのマシン上のプロジェクト全体で実行します。
 
 
-_Updated on June 22, 2026_ (A total of 2626 repositories listed.)
+_Updated on June 25, 2026_ (A total of 2634 repositories listed.)
 
 ## Table of contents
 
@@ -1276,6 +1266,9 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [happier](https://github.com/happier-dev/happier) - Codex、Claude Code、OpenCode、Kimi、Augment Code、QwenのためのWeb、デスクトップ、モバイルクライアント、完全なエンドツーエンド暗号化
  * [supercli](https://github.com/javimosch/supercli) - 7,000以上のツール。1つのCLI。設定不要。
  * [petdex](https://github.com/crafter-station/petdex) - コーデックス、クロードコード、オープンコード、ジェミニCLIのアニメーションペットの一般ギャラリー
+ * [plannotator](https://github.com/backnotprop/plannotator) - コーディングエージェントの計画とコードの差分を視覚的に注釈付けしてレビューし、チームと共有し、1クリックでエージェントにフィードバックを送信します。
+ * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - モバイルで簡単にアクセスできるように、TUIまたはWebから複数のClaude Code、OpenCodeエージェントを管理します。また、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Codingをサポートしています。
+ * [Codex-Manager](https://github.com/qxcnm/codex-manager) - Codex cliのアカウント管理と切り替えツール。Codex cliにローカルゲートウェイ転送を提供します。
 
 
 ## Reimplementations
@@ -1767,6 +1760,7 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [SWE-AF](https://github.com/agent-field/swe-af) - エージェントフィールドでの本番用PRのためのAIエージェントの自律ソフトウェアエンジニアリングフリート：計画、コード、テスト、出荷。
  * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - スーパーハイウェイウェブ検索API用の実行可能な例 - 検索、ニュース、画像、スクレイプ、AIエージェントのための研究
  * [omnigent](https://github.com/omnigent-ai/omnigent) - OmnigentはオープンソースのAIエージェントフレームワークおよびメタハーネスです：Claude Code、Codex、Cursor、Pi、およびカスタムエージェントを統合し、書き換えることなくハーネスを交換し、ポリシーとサンドボックスを強制し、どのデバイスからでもリアルタイムで協力します。
+ * [EverOS](https://github.com/evermind-ai/everos) - エージェントとプラットフォーム間で自己進化するメモリ。彼らが使用するすべてのエージェントに1つのポータブルメモリレイヤー - Claude Code、Codex、OpenClaw、Hermes、その他
 
 
 ## Langchain
@@ -2770,5 +2764,9 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [lottie](https://github.com/diffusionstudio/lottie) - Claude CodeまたはCodexを使用して、製品向けのLottieアニメーションを生成します。
  * [NotFair](https://github.com/nowork-studio/notfair) - オープンソースのクロードコードスキルを使用して、SEO、GEO、Google Ads、Meta Adsを実装します。
  * [NarraNexus](https://github.com/netmindai-open/narranexus) - エージェントのネクサスを構築するためのフレームワーク - 知性は孤立ではなく相互作用から生まれる。
+ * [Memoh](https://github.com/memohai/memoh) - ✨ オープンソースのマルチエージェントプラットフォーム。各エージェントは独自のコンピューター、デスクトップ、ネットワーク、長期記憶を持っています。あなたは自分のキーを持参するか、クロードコード、コーデックスなどのコーディングエージェントをホストすることができます。
+ * [Trellis](https://github.com/mindfold-ai/trellis) - 最高のエージェントハーネス。
+ * [agentsview](https://github.com/kenn-io/agentsview) - コーディングエージェント向けのローカルファーストセッション検索、分析、インサイト、およびトークン利用統計。Claude Code、Codex、および20以上の他のエージェントをサポートします。
+ * [nezha](https://github.com/hanshuaikang/nezha) - AI エージェント時代のためのコードエディター。複数のクロードコードとコーデックスエージェントを、あなたのマシン上のプロジェクト全体で実行します。
 
 

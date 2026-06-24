@@ -46,34 +46,24 @@ Run these two commands inside Claude Code:
 
 ## The latest additions 🎉
 
-**Prompts**
- * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools.
-
-
-**Chatbots**
- * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
-
-
 **CLIs**
- * [happier](https://github.com/happier-dev/happier) - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted
- * [supercli](https://github.com/javimosch/supercli) - 7,000+ tools. One CLI. Zero configuration
- * [petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
+ * [plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+ * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+ * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
 
 
 **NLP**
- * [LoopTroop](https://github.com/looptroop-ai/looptroop) - LLM councils plan it. Ralph loops perfect it. OpenCode worktrees ship it.
- * [ai-relay](https://github.com/moyufamily/ai-relay) - Serverless AI API Gateway / 无服务器 AI API 网关 · Vercel 一键部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容
- * [SWE-AF](https://github.com/agent-field/swe-af) - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
- * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable examples for the Superhighway web search API — search, news, images, scrape, research for AI agents
- * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+ * [EverOS](https://github.com/evermind-ai/everos) - Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
 
 
 **Others**
- * [NotFair](https://github.com/nowork-studio/notfair) - Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
- * [NarraNexus](https://github.com/netmindai-open/narranexus) - A framework for building nexuses of agents -- where intelligence emerges from interaction, not isolation.
+ * [Memoh](https://github.com/memohai/memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on.
+ * [Trellis](https://github.com/mindfold-ai/trellis) - The best agent harness.
+ * [agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+ * [nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
 
 
-_Updated on June 22, 2026_ (A total of 2626 repositories listed.)
+_Updated on June 25, 2026_ (A total of 2634 repositories listed.)
 
 ## Table of contents
 
@@ -1280,6 +1270,9 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [happier](https://github.com/happier-dev/happier) - Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted
  * [supercli](https://github.com/javimosch/supercli) - 7,000+ tools. One CLI. Zero configuration
  * [petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
+ * [plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
+ * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+ * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
 
 
 ## Reimplementations
@@ -1771,6 +1764,7 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [SWE-AF](https://github.com/agent-field/swe-af) - Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
  * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable examples for the Superhighway web search API — search, news, images, scrape, research for AI agents
  * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+ * [EverOS](https://github.com/evermind-ai/everos) - Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
 
 
 ## Langchain
@@ -2774,5 +2768,9 @@ _Updated on June 22, 2026_ (A total of 2626 repositories listed.)
  * [lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
  * [NotFair](https://github.com/nowork-studio/notfair) - Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads
  * [NarraNexus](https://github.com/netmindai-open/narranexus) - A framework for building nexuses of agents -- where intelligence emerges from interaction, not isolation.
+ * [Memoh](https://github.com/memohai/memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so on.
+ * [Trellis](https://github.com/mindfold-ai/trellis) - The best agent harness.
+ * [agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
+ * [nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
 
 
