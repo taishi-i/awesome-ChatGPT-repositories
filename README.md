@@ -752,6 +752,7 @@ _Updated on June 25, 2026_ (A total of 2634 repositories listed.)
  * 🔥 [openagent](https://github.com/the-open-agent/openagent) - ⭐ 4.6k / Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supporting computer-use, browser-use and coding agent with 30+ model providers, MCP-compatible tools, visual workflow builder and admin dashboard. Demo: https://demo.openagentai.org
  * 🔥 [AgentOS](https://github.com/spharxteam/agentos) - ⭐ 1.1k / Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs; more agent protocols coming.
  * [ruflo](https://github.com/ruvnet/ruflo) - Codex Integration
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
  * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
  * [agor](https://github.com/preset-io/agor) - Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3 is an AI automation platform, combining workflows, actions, agents, and conversational channels in one runtime.
