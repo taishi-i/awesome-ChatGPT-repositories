@@ -17454,6 +17454,41 @@
                     "zh-hans": "一个易于设置的AI助手，全天候为您工作，了解您的偏好，并随着时间的推移变得更加智能。",
                     "zh-hant": "一個易於設置的人工智能助手，全天候為您工作，了解您的喜好並隨著時間變得更好。"
                 }
+            },
+            "https://github.com/shiwenwen/hope-agent": {
+                "repository_name": "hope-agent",
+                "user_name": "shiwenwen",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-assistant",
+                    "anthropic",
+                    "chatbot",
+                    "claude",
+                    "claw",
+                    "codex",
+                    "cross-device",
+                    "desktop-app",
+                    "gemini",
+                    "handoff",
+                    "harness",
+                    "hermes-agent",
+                    "llm",
+                    "local-ai",
+                    "mcp",
+                    "openai",
+                    "openclaw",
+                    "personal"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud",
+                    "ja": "🦭デバイス間で手を渡すデスクトップAIは、あなたをよりよく理解し、NASやクラウド上でヘッドレスで実行されることもあります。",
+                    "zh-hans": "🦭跨设备传递、更了解你的桌面 AI 助手——也可在NAS或云端无头运行",
+                    "zh-hant": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服務化常駐、跑在雲上 | 桌面 AI 跨越設備，更了解您 — 也可在 NAS 或雲端上無頭運行"
+                }
             }
         },
         "Browser-extensions": {
@@ -30266,6 +30301,20 @@
                     "ja": "Codex cliのアカウント管理と切り替えツール。Codex cliにローカルゲートウェイ転送を提供します。",
                     "zh-hans": "一个Codex cli账号管理与切换工具。为Codex cli提供本地网关转发。",
                     "zh-hant": "一個Codex cli 帳號管理與切換工具。為 Codex cli 提供本地網關轉發。"
+                }
+            },
+            "https://github.com/chenhg5/cc-connect": {
+                "repository_name": "cc-connect",
+                "user_name": "chenhg5",
+                "language": "Go",
+                "license": null,
+                "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+                    "ja": "ローカルAIコーディングエージェント（Claude Code、Cursor、Gemini CLI、Codex）をメッセージングプラットフォーム（Feishu/Lark、DingTalk、Slack、Telegram、Discord、LINE、WeChat Work）に接続します。どこからでもAI開発アシスタントとチャットできます - 大抵のプラットフォームではパブリックIPは必要ありません。",
+                    "zh-hans": "将本地AI编码代理（Claude Code，Cursor，Gemini CLI，Codex）连接到消息平台（飞书/ Lark，钉钉，Slack，Telegram，Discord，LINE，企业微信）。 无需公共IP，您可以随时与您的AI开发助手聊天。",
+                    "zh-hant": "將本地AI編碼代理（Claude Code、Cursor、Gemini CLI、Codex）連接到消息平台（飛書/百靈、釘釘、Slack、Telegram、Discord、LINE、企業微信）。隨時隨地與您的AI開發助手聊天 - 大多數平台無需公共IP。"
                 }
             }
         },
@@ -63671,6 +63720,87 @@
                     "ja": "AI エージェント時代のためのコードエディター。複数のクロードコードとコーデックスエージェントを、あなたのマシン上のプロジェクト全体で実行します。",
                     "zh-hans": "AI代理时代的代码编辑器。在您的计算机上运行多个克劳德代码和Codex代理，跨项目运行。",
                     "zh-hant": "AI代理時代的代碼編輯器。在您的機器上運行多個Claude Code和Codex代理，跨項目運行。AI代理時代的代碼編輯器。在您的機器上運行多個Claude Code和Codex代理，跨項目運行。"
+                }
+            },
+            "https://github.com/rebel0789/codexpro": {
+                "repository_name": "codexpro",
+                "user_name": "rebel0789",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+                "topics": [
+                    "apps-sdk",
+                    "chatgpt",
+                    "cloudflare-tunnel",
+                    "codex",
+                    "local-development",
+                    "mcp",
+                    "ngrok"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+                    "ja": "MCPを介してリポジトリのローカルコーディングエージェントとしてChatGPT Developer Modeを使用します。MCPを介してリポジトリのローカルコーディングエージェントとしてChatGPT Developer Modeを使用します。",
+                    "zh-hans": "使用ChatGPT开发者模式作为本地编码代理通过MCP管理您的存储库。",
+                    "zh-hant": "使用 MCP 將 ChatGPT 開發者模式作為本地編碼代理，用於您的存儲庫。"
+                }
+            },
+            "https://github.com/waishnav/devspace": {
+                "repository_name": "devspace",
+                "user_name": "Waishnav",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Turn ChatGPT into Codex!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Turn ChatGPT into Codex!",
+                    "ja": "ChatGPTをCodexに変える！",
+                    "zh-hans": "将ChatGPT转变为Codex！",
+                    "zh-hant": "將ChatGPT轉換為Codex！"
+                }
+            },
+            "https://github.com/rullerzhou-afk/clawd-on-desk": {
+                "repository_name": "clawd-on-desk",
+                "user_name": "rullerzhou-afk",
+                "language": "JavaScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.",
+                "topics": [
+                    "claude-code",
+                    "codex",
+                    "copilot",
+                    "cursor",
+                    "desktop-pet",
+                    "electron",
+                    "gemini",
+                    "pixel-art",
+                    "svg-animation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.",
+                    "ja": "クロードコード、コーデックス、カーソル、および他のAIコーディングエージェントを見守るピクセルデスクトップペット-あなたがしなくても。",
+                    "zh-hans": "一个像素桌面宠物，观看克劳德代码、密码、光标和其他人工智能编码代理，让您无需亲自操作。",
+                    "zh-hant": "一個像素桌面寵物，觀看克勞德代碼、代碼、游標和其他人工智能編碼代理，這樣你就不必自己看了。"
+                }
+            },
+            "https://github.com/erha19/ping-island": {
+                "repository_name": "ping-island",
+                "user_name": "erha19",
+                "language": "Swift",
+                "license": "Apache License 2.0",
+                "description": "A Dynamic Island-style command center for managing all your AI coding agents on macOS.",
+                "topics": [
+                    "agents",
+                    "claude-code",
+                    "codex",
+                    "island",
+                    "vibe-coding",
+                    "vibe-island"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Dynamic Island-style command center for managing all your AI coding agents on macOS.",
+                    "ja": "macOS上ですべてのAIコーディングエージェントを管理するためのダイナミックなアイランドスタイルのコマンドセンター。",
+                    "zh-hans": "一个动态的岛屿风格指挥中心，用于管理macOS上所有的AI编码代理。",
+                    "zh-hant": "一個動態的島嶼風格指揮中心，用於管理macOS上所有AI編碼代理。"
                 }
             }
         }

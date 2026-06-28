@@ -42,24 +42,22 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨设备传递、更了解你的桌面 AI 助手——也可在NAS或云端无头运行
+
+
 **CLIs**
- * [plannotator](https://github.com/backnotprop/plannotator) - 标注和审查编码代理计划和代码差异，可视化地与团队分享，一键向代理发送反馈。
- * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - 使用TUI或Web管理多个Claude Code、OpenCode代理，以便在移动设备上轻松访问。还支持Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Coding。
- * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一个Codex cli账号管理与切换工具。为Codex cli提供本地网关转发。
-
-
-**NLP**
- * [EverOS](https://github.com/evermind-ai/everos) - 自我进化的记忆跨代理和平台。每个代理使用的唯一可移植记忆层 - Claude Code，Codex，OpenClaw，Hermes等。
+ * [cc-connect](https://github.com/chenhg5/cc-connect) - 将本地AI编码代理（Claude Code，Cursor，Gemini CLI，Codex）连接到消息平台（飞书/ Lark，钉钉，Slack，Telegram，Discord，LINE，企业微信）。 无需公共IP，您可以随时与您的AI开发助手聊天。
 
 
 **Others**
- * [Memoh](https://github.com/memohai/memoh) - ✨ 这是一个开源的多代理平台。每个代理都有自己的计算机、桌面、网络和长期记忆。您可以自带密钥，或者像克劳德代码、Codex等一样托管您的编码代理。
- * [Trellis](https://github.com/mindfold-ai/trellis) - 最好的代理利用。
- * [agentsview](https://github.com/kenn-io/agentsview) - 本地优先会话搜索、分析、洞察和令牌使用统计数据，支持克劳德代码、Codex 和其他 20 多个代理。
- * [nezha](https://github.com/hanshuaikang/nezha) - AI代理时代的代码编辑器。在您的计算机上运行多个克劳德代码和Codex代理，跨项目运行。
+ * [codexpro](https://github.com/rebel0789/codexpro) - 使用ChatGPT开发者模式作为本地编码代理通过MCP管理您的存储库。
+ * [devspace](https://github.com/waishnav/devspace) - 将ChatGPT转变为Codex！
+ * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - 一个像素桌面宠物，观看克劳德代码、密码、光标和其他人工智能编码代理，让您无需亲自操作。
+ * [ping-island](https://github.com/erha19/ping-island) - 一个动态的岛屿风格指挥中心，用于管理macOS上所有的AI编码代理。
 
 
-_Updated on June 25, 2026_ (A total of 2634 repositories listed.)
+_Updated on June 28, 2026_ (A total of 2640 repositories listed.)
 
 ## Table of contents
 
@@ -753,6 +751,7 @@ _Updated on June 25, 2026_ (A total of 2634 repositories listed.)
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3是一个AI自动化平台，将工作流程、动作、代理和对话渠道结合在一个运行时中。
  * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地优先的AI助手，支持Telegram、Discord、WhatsApp和Slack。
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一个易于设置的AI助手，全天候为您工作，了解您的偏好，并随着时间的推移变得更加智能。
+ * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨设备传递、更了解你的桌面 AI 助手——也可在NAS或云端无头运行
 
 
 ## Browser-extensions
@@ -1269,6 +1268,7 @@ _Updated on June 25, 2026_ (A total of 2634 repositories listed.)
  * [plannotator](https://github.com/backnotprop/plannotator) - 标注和审查编码代理计划和代码差异，可视化地与团队分享，一键向代理发送反馈。
  * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - 使用TUI或Web管理多个Claude Code、OpenCode代理，以便在移动设备上轻松访问。还支持Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Coding。
  * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一个Codex cli账号管理与切换工具。为Codex cli提供本地网关转发。
+ * [cc-connect](https://github.com/chenhg5/cc-connect) - 将本地AI编码代理（Claude Code，Cursor，Gemini CLI，Codex）连接到消息平台（飞书/ Lark，钉钉，Slack，Telegram，Discord，LINE，企业微信）。 无需公共IP，您可以随时与您的AI开发助手聊天。
 
 
 ## Reimplementations
@@ -2768,5 +2768,9 @@ _Updated on June 25, 2026_ (A total of 2634 repositories listed.)
  * [Trellis](https://github.com/mindfold-ai/trellis) - 最好的代理利用。
  * [agentsview](https://github.com/kenn-io/agentsview) - 本地优先会话搜索、分析、洞察和令牌使用统计数据，支持克劳德代码、Codex 和其他 20 多个代理。
  * [nezha](https://github.com/hanshuaikang/nezha) - AI代理时代的代码编辑器。在您的计算机上运行多个克劳德代码和Codex代理，跨项目运行。
+ * [codexpro](https://github.com/rebel0789/codexpro) - 使用ChatGPT开发者模式作为本地编码代理通过MCP管理您的存储库。
+ * [devspace](https://github.com/waishnav/devspace) - 将ChatGPT转变为Codex！
+ * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - 一个像素桌面宠物，观看克劳德代码、密码、光标和其他人工智能编码代理，让您无需亲自操作。
+ * [ping-island](https://github.com/erha19/ping-island) - 一个动态的岛屿风格指挥中心，用于管理macOS上所有的AI编码代理。
 
 

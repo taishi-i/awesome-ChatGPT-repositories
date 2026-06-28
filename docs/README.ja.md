@@ -42,24 +42,22 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭デバイス間で手を渡すデスクトップAIは、あなたをよりよく理解し、NASやクラウド上でヘッドレスで実行されることもあります。
+
+
 **CLIs**
- * [plannotator](https://github.com/backnotprop/plannotator) - コーディングエージェントの計画とコードの差分を視覚的に注釈付けしてレビューし、チームと共有し、1クリックでエージェントにフィードバックを送信します。
- * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - モバイルで簡単にアクセスできるように、TUIまたはWebから複数のClaude Code、OpenCodeエージェントを管理します。また、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Codingをサポートしています。
- * [Codex-Manager](https://github.com/qxcnm/codex-manager) - Codex cliのアカウント管理と切り替えツール。Codex cliにローカルゲートウェイ転送を提供します。
-
-
-**NLP**
- * [EverOS](https://github.com/evermind-ai/everos) - エージェントとプラットフォーム間で自己進化するメモリ。彼らが使用するすべてのエージェントに1つのポータブルメモリレイヤー - Claude Code、Codex、OpenClaw、Hermes、その他
+ * [cc-connect](https://github.com/chenhg5/cc-connect) - ローカルAIコーディングエージェント（Claude Code、Cursor、Gemini CLI、Codex）をメッセージングプラットフォーム（Feishu/Lark、DingTalk、Slack、Telegram、Discord、LINE、WeChat Work）に接続します。どこからでもAI開発アシスタントとチャットできます - 大抵のプラットフォームではパブリックIPは必要ありません。
 
 
 **Others**
- * [Memoh](https://github.com/memohai/memoh) - ✨ オープンソースのマルチエージェントプラットフォーム。各エージェントは独自のコンピューター、デスクトップ、ネットワーク、長期記憶を持っています。あなたは自分のキーを持参するか、クロードコード、コーデックスなどのコーディングエージェントをホストすることができます。
- * [Trellis](https://github.com/mindfold-ai/trellis) - 最高のエージェントハーネス。
- * [agentsview](https://github.com/kenn-io/agentsview) - コーディングエージェント向けのローカルファーストセッション検索、分析、インサイト、およびトークン利用統計。Claude Code、Codex、および20以上の他のエージェントをサポートします。
- * [nezha](https://github.com/hanshuaikang/nezha) - AI エージェント時代のためのコードエディター。複数のクロードコードとコーデックスエージェントを、あなたのマシン上のプロジェクト全体で実行します。
+ * [codexpro](https://github.com/rebel0789/codexpro) - MCPを介してリポジトリのローカルコーディングエージェントとしてChatGPT Developer Modeを使用します。MCPを介してリポジトリのローカルコーディングエージェントとしてChatGPT Developer Modeを使用します。
+ * [devspace](https://github.com/waishnav/devspace) - ChatGPTをCodexに変える！
+ * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - クロードコード、コーデックス、カーソル、および他のAIコーディングエージェントを見守るピクセルデスクトップペット-あなたがしなくても。
+ * [ping-island](https://github.com/erha19/ping-island) - macOS上ですべてのAIコーディングエージェントを管理するためのダイナミックなアイランドスタイルのコマンドセンター。
 
 
-_Updated on June 25, 2026_ (A total of 2634 repositories listed.)
+_Updated on June 28, 2026_ (A total of 2640 repositories listed.)
 
 ## Table of contents
 
@@ -753,6 +751,7 @@ _Updated on June 25, 2026_ (A total of 2634 repositories listed.)
  * [Hexabot](https://github.com/hexabot-ai/hexabot) - Hexabot v3は、ワークフロー、アクション、エージェント、および会話チャンネルを1つのランタイムで組み合わせたAI自動化プラットフォームです。
  * [CrustAI](https://github.com/davesimoes/crustai) - Telegram、Discord、WhatsApp、Slackと連携したプライベートでローカルファーストのAIアシスタント
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 簡単にセットアップできるAIアシスタントは、24時間365日あなたの仕事を行い、あなたの好みを知り、時間とともにより良くなります。
+ * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭デバイス間で手を渡すデスクトップAIは、あなたをよりよく理解し、NASやクラウド上でヘッドレスで実行されることもあります。
 
 
 ## Browser-extensions
@@ -1269,6 +1268,7 @@ _Updated on June 25, 2026_ (A total of 2634 repositories listed.)
  * [plannotator](https://github.com/backnotprop/plannotator) - コーディングエージェントの計画とコードの差分を視覚的に注釈付けしてレビューし、チームと共有し、1クリックでエージェントにフィードバックを送信します。
  * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - モバイルで簡単にアクセスできるように、TUIまたはWebから複数のClaude Code、OpenCodeエージェントを管理します。また、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Codingをサポートしています。
  * [Codex-Manager](https://github.com/qxcnm/codex-manager) - Codex cliのアカウント管理と切り替えツール。Codex cliにローカルゲートウェイ転送を提供します。
+ * [cc-connect](https://github.com/chenhg5/cc-connect) - ローカルAIコーディングエージェント（Claude Code、Cursor、Gemini CLI、Codex）をメッセージングプラットフォーム（Feishu/Lark、DingTalk、Slack、Telegram、Discord、LINE、WeChat Work）に接続します。どこからでもAI開発アシスタントとチャットできます - 大抵のプラットフォームではパブリックIPは必要ありません。
 
 
 ## Reimplementations
@@ -2768,5 +2768,9 @@ _Updated on June 25, 2026_ (A total of 2634 repositories listed.)
  * [Trellis](https://github.com/mindfold-ai/trellis) - 最高のエージェントハーネス。
  * [agentsview](https://github.com/kenn-io/agentsview) - コーディングエージェント向けのローカルファーストセッション検索、分析、インサイト、およびトークン利用統計。Claude Code、Codex、および20以上の他のエージェントをサポートします。
  * [nezha](https://github.com/hanshuaikang/nezha) - AI エージェント時代のためのコードエディター。複数のクロードコードとコーデックスエージェントを、あなたのマシン上のプロジェクト全体で実行します。
+ * [codexpro](https://github.com/rebel0789/codexpro) - MCPを介してリポジトリのローカルコーディングエージェントとしてChatGPT Developer Modeを使用します。MCPを介してリポジトリのローカルコーディングエージェントとしてChatGPT Developer Modeを使用します。
+ * [devspace](https://github.com/waishnav/devspace) - ChatGPTをCodexに変える！
+ * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - クロードコード、コーデックス、カーソル、および他のAIコーディングエージェントを見守るピクセルデスクトップペット-あなたがしなくても。
+ * [ping-island](https://github.com/erha19/ping-island) - macOS上ですべてのAIコーディングエージェントを管理するためのダイナミックなアイランドスタイルのコマンドセンター。
 
 
