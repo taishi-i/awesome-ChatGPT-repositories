@@ -1134,7 +1134,6 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * 💤 [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ⭐ 339 / ChatGPT Bot in CLI with long term memory support using Embeddings.
  * 💤 [openai4j](https://github.com/lambdua/openai4j) - ⭐ 385 / Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.
  * 💤 [json-translator](https://github.com/mololab/json-translator) - ⭐ 609 / Argos
- * 🔥 [gptme](https://github.com/erikbjare/gptme) - ⭐ 4.3k / Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
  * ⚠️ [Apt](https://github.com/rnchg/apt) - ⭐ 775 / AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent processing of images and videos, and more.
  * 🔥 [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ⭐ 379 / Efficient translation tool based on ChatGPT API
  * 🔥 [tenere](https://github.com/pythops/tenere) - ⭐ 662 / 🔥 TUI interface for LLMs written in Rust
