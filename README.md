@@ -1345,6 +1345,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * 🔥 [easy-vibe](https://github.com/datawhalechina/easy-vibe) - ⭐ 8.8k / Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
  * ✅ [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - ⭐ 27k / This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
+ * ✅ [chinese-ai-learning-roadmap](https://github.com/aifeng-asu/chinese-ai-learning-roadmap) - ⭐ 3 / Chinese AI learning roadmap covering ChatGPT and LLM applications, RAG, agents, MCP, and AI coding.
 
 ## NLP
 
