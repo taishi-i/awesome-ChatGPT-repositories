@@ -2777,3 +2777,4 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
 
 
+ * [screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local screen and microphone recording that indexes OCR, accessibility, and transcripts so OpenAI, Codex, Claude, and Ollama agents can search and act on your past activity.
