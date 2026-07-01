@@ -1017,6 +1017,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
 
 ## CLIs
 
+ * [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for X/Twitter search, reply search, follower exports, media workflows, monitors, webhooks, giveaways, and approval-reviewed post actions.
  * 💤 [ChatGPT](https://github.com/acheong08/chatgpt) - ⭐ 28k / Reverse engineered ChatGPT API
  * 🔥 [shell_gpt](https://github.com/ther1d/shell_gpt) - ⭐ 12k / A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * ⚠️ [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⭐ 4.2k / ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
@@ -2776,5 +2777,4 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [devspace](https://github.com/waishnav/devspace) - Turn ChatGPT into Codex!
  * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
-
 
