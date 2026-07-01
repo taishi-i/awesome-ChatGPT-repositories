@@ -2784,5 +2784,5 @@ _Updated on July 06, 2026_ (A total of 2645 repositories listed.)
  * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
-
+ * [Explyt](https://github.com/explyt/explyt) - AI agent for JetBrains IDEs that uses LLMs (Claude, GPT) and fixes code with the project facts your IDE already knows.
 
