@@ -1017,6 +1017,8 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
 
 ## CLIs
 
+
+ * ✅ [ai-api-examples](https://github.com/aitoken-hub/ai-api-examples) - ⭐ 0 / Ready-to-use code examples for accessing 200+ AI models (DeepSeek, Qwen, Llama) through unified OpenAI-compatible API. Python, Node.js, and curl examples included.
  * 💤 [ChatGPT](https://github.com/acheong08/chatgpt) - ⭐ 28k / Reverse engineered ChatGPT API
  * 🔥 [shell_gpt](https://github.com/ther1d/shell_gpt) - ⭐ 12k / A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * ⚠️ [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⭐ 4.2k / ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
