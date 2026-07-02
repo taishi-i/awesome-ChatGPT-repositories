@@ -559,6 +559,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * 💤 [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - ⭐ 1.1k / This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
  * ⚠️ [pandas-ai](https://github.com/gventuri/pandas-ai) - ⭐ 24k / 4, Anthropic, VertexAI) and RAG.
  * ⚠️ [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - ⭐ 19k / 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+ * [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) - Self-hosted QQ ↔ AI bot scaffold built on OneBot 11 / NapCat / LLOneBot with ACP-compatible agents, persistent sessions, progress streaming, and Docker demo.
  * 💤 [quivr](https://github.com/quivrhq/quivr) - ⭐ 39k / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
  * ⚠️ [smalltalk](https://github.com/tinystruct/smalltalk) - ⭐ 356 / ChatGPT. @tinystruct
  * ✅ [maid](https://github.com/mobile-artificial-intelligence/maid) - ⭐ 2.5k / llama.cpp models locally, and with Ollama and OpenAI models remotely.
@@ -1910,7 +1911,8 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * ⚠️ [autoview](https://github.com/wrtnlabs/autoview) - ⭐ repo not found / Automatic view component renderer by AI agent
  * 🔥 [helix](https://github.com/helixml/helix) - ⭐ 774 / ♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
  * 🔥 [openinference](https://github.com/arize-ai/openinference) - ⭐ 959 / OpenTelemetry Instrumentation for AI Observability
- * 💤 [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 471 / WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.
+ * 💤 [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 471 / WorkflowAI is an open-source platform where product and engineering teams 
+collaborate to build and iterate on AI features.
  * 🔥 [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - ⭐ 1.9k / An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
  * ⚠️ [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - ⭐ 12k / All Of The Above] working as one.
  * 💤 [llm-ui](https://github.com/richardgill/llm-ui) - ⭐ 1.7k / The React library for LLMs
