@@ -1911,8 +1911,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * ⚠️ [autoview](https://github.com/wrtnlabs/autoview) - ⭐ repo not found / Automatic view component renderer by AI agent
  * 🔥 [helix](https://github.com/helixml/helix) - ⭐ 774 / ♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
  * 🔥 [openinference](https://github.com/arize-ai/openinference) - ⭐ 959 / OpenTelemetry Instrumentation for AI Observability
- * 💤 [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 471 / WorkflowAI is an open-source platform where product and engineering teams 
-collaborate to build and iterate on AI features.
+ * 💤 [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 471 / WorkflowAI is an open-source platform where product and engineering teams collaborate to build and iterate on AI features.
  * 🔥 [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - ⭐ 1.9k / An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
  * ⚠️ [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - ⭐ 12k / All Of The Above] working as one.
  * 💤 [llm-ui](https://github.com/richardgill/llm-ui) - ⭐ 1.7k / The React library for LLMs
