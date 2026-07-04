@@ -2778,3 +2778,6 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
 
 
  * [screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local screen and microphone recording that indexes OCR, accessibility, and transcripts so OpenAI, Codex, Claude, and Ollama agents can search and act on your past activity.
+
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown templates + Claude Code skills for giving AI agents deep personal context. Used in a real 28-agent autonomous system. Open-source, MIT licensed.
