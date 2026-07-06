@@ -759,6 +759,7 @@ _Updated on July 06, 2026_ (A total of 2645 repositories listed.)
  * [CrustAI](https://github.com/davesimoes/crustai) - Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud
+ * [off-grid-ai-desktop](https://github.com/off-grid-ai/off-grid-ai-desktop) - A private, local-first AI desktop app for macOS. Runs LLM chat, image generation, voice transcription, and memory/RAG entirely on-device via llama.cpp; nothing leaves the machine.
 
 
 ## Browser-extensions
