@@ -42,22 +42,24 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨设备传递、更了解你的桌面 AI 助手——也可在NAS或云端无头运行
+**Prompts**
+ * [headroom](https://github.com/headroomlabs-ai/headroom) - 在输出到LLM之前，压缩工具会压缩输出、日志、文件和RAG块。减少60-95%的令牌数量，但答案保持不变。包括图书馆、代理和MCP服务器。
 
 
 **CLIs**
- * [cc-connect](https://github.com/chenhg5/cc-connect) - 将本地AI编码代理（Claude Code，Cursor，Gemini CLI，Codex）连接到消息平台（飞书/ Lark，钉钉，Slack，Telegram，Discord，LINE，企业微信）。 无需公共IP，您可以随时与您的AI开发助手聊天。
+ * [gptme](https://github.com/erikbjare/gptme) - 与配备本地工具的LLMs聊天：执行Python和Bash，编辑本地文件，浏览网页。
+ * [TokenTracker](https://github.com/mm7894215/tokentracker) - 跟踪25个AI编码工具的令牌使用情况 - Claude Code，Codex，Cursor，Gemini，Kiro，OpenCode，Antigravity，Copilot，Kimi，CodeBuddy，WorkBuddy，Grok，Kilo，Roo，Zed，Goose，Mimo，ZCode等等 - 本地优先，零配置，带有仪表板，macOS菜单栏
+
+
+**NLP**
+ * [agency-orchestrator](https://github.com/jnmetacode/agency-orchestrator) - 🚀 一句话 → 多个 AI 角色协作 → 几分钟完成计划。基于 agency-agents 角色库（216+ 专家），零代码 YAML，Web Studio + 桌面应用程序，10 个 LLM 提供商（7 个免费）。
 
 
 **Others**
- * [codexpro](https://github.com/rebel0789/codexpro) - 使用ChatGPT开发者模式作为本地编码代理通过MCP管理您的存储库。
- * [devspace](https://github.com/waishnav/devspace) - 将ChatGPT转变为Codex！
- * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - 一个像素桌面宠物，观看克劳德代码、密码、光标和其他人工智能编码代理，让您无需亲自操作。
- * [ping-island](https://github.com/erha19/ping-island) - 一个动态的岛屿风格指挥中心，用于管理macOS上所有的AI编码代理。
+ * [PriceAI](https://github.com/dimthink/priceai) - AI订阅卡网渠道比价工具：汇集100多个卡网渠道，包括ChatGPT、Claude、Gemini、Grok等多个渠道的报价，展示有货的最低价、库存状态和原站购买链接。
 
 
-_Updated on June 28, 2026_ (A total of 2640 repositories listed.)
+_Updated on July 06, 2026_ (A total of 2645 repositories listed.)
 
 ## Table of contents
 
@@ -366,6 +368,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [eval-harness](https://github.com/nano-step/eval-harness) - LLM代理的行为回归测试。4类属性，6字段失败模式，成本门控，易变检测。Bash + jq。今天与opencode一起使用，可插拔的运行器。
  * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符处输入一个想法，得到一个答案 - 并运行它建议的命令。
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免费演示幻灯片设计.md，您可以粘贴到ChatGPT、Claude或您的任何AI工具中。
+ * [headroom](https://github.com/headroomlabs-ai/headroom) - 在输出到LLM之前，压缩工具会压缩输出、日志、文件和RAG块。减少60-95%的令牌数量，但答案保持不变。包括图书馆、代理和MCP服务器。
 
 
 ## Chatbots
@@ -1130,7 +1133,6 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * 💤 [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ⭐ 339 / 使用嵌入技术支持的长期记忆功能，在CLI中与ChatGPT Bot交流。
  * 💤 [openai4j](https://github.com/lambdua/openai4j) - ⭐ 385 / Java客户端库用于OpenAI API。完全支持所有OpenAI API模型，包括Completions，Chat，Edits，Embeddings，Audio，Files，Assistants-v2，Images，Moderations，Batch和Fine-tuning。
  * 💤 [json-translator](https://github.com/mololab/json-translator) - ⭐ 609 / Argos
- * 🔥 [gptme](https://github.com/erikbjare/gptme) - ⭐ 4.3k / 与配备本地工具的LLMs聊天：执行Python和Bash，编辑本地文件，浏览网页。
  * ⚠️ [Apt](https://github.com/rnchg/apt) - ⭐ 775 / AI生产力工具-免费开源，提高用户生产力同时确保隐私和数据安全。它提供高效便捷的AI解决方案，包括但不限于：内置独家ChatGPT，一键批量智能处理。
  * 🔥 [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ⭐ 379 / 基于ChatGPT API的高效翻译工具
  * 🔥 [tenere](https://github.com/pythops/tenere) - ⭐ 662 / 🔥 用Rust编写的LLMs的TUI界面
@@ -1269,6 +1271,8 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - 使用TUI或Web管理多个Claude Code、OpenCode代理，以便在移动设备上轻松访问。还支持Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Coding。
  * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一个Codex cli账号管理与切换工具。为Codex cli提供本地网关转发。
  * [cc-connect](https://github.com/chenhg5/cc-connect) - 将本地AI编码代理（Claude Code，Cursor，Gemini CLI，Codex）连接到消息平台（飞书/ Lark，钉钉，Slack，Telegram，Discord，LINE，企业微信）。 无需公共IP，您可以随时与您的AI开发助手聊天。
+ * [gptme](https://github.com/erikbjare/gptme) - 与配备本地工具的LLMs聊天：执行Python和Bash，编辑本地文件，浏览网页。
+ * [TokenTracker](https://github.com/mm7894215/tokentracker) - 跟踪25个AI编码工具的令牌使用情况 - Claude Code，Codex，Cursor，Gemini，Kiro，OpenCode，Antigravity，Copilot，Kimi，CodeBuddy，WorkBuddy，Grok，Kilo，Roo，Zed，Goose，Mimo，ZCode等等 - 本地优先，零配置，带有仪表板，macOS菜单栏
 
 
 ## Reimplementations
@@ -1761,6 +1765,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - 超级高速公路网络搜索API的可运行示例-搜索、新闻、图片、抓取、为AI代理进行研究
  * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent是一个开源的AI代理框架和元调度器：可以编排Claude Code、Codex、Cursor、Pi和自定义代理——无需重写即可交换调度器，执行策略和沙盒，可以在任何设备上实时协作。
  * [EverOS](https://github.com/evermind-ai/everos) - 自我进化的记忆跨代理和平台。每个代理使用的唯一可移植记忆层 - Claude Code，Codex，OpenClaw，Hermes等。
+ * [agency-orchestrator](https://github.com/jnmetacode/agency-orchestrator) - 🚀 一句话 → 多个 AI 角色协作 → 几分钟完成计划。基于 agency-agents 角色库（216+ 专家），零代码 YAML，Web Studio + 桌面应用程序，10 个 LLM 提供商（7 个免费）。
 
 
 ## Langchain
@@ -2772,5 +2777,6 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [devspace](https://github.com/waishnav/devspace) - 将ChatGPT转变为Codex！
  * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - 一个像素桌面宠物，观看克劳德代码、密码、光标和其他人工智能编码代理，让您无需亲自操作。
  * [ping-island](https://github.com/erha19/ping-island) - 一个动态的岛屿风格指挥中心，用于管理macOS上所有的AI编码代理。
+ * [PriceAI](https://github.com/dimthink/priceai) - AI订阅卡网渠道比价工具：汇集100多个卡网渠道，包括ChatGPT、Claude、Gemini、Grok等多个渠道的报价，展示有货的最低价、库存状态和原站购买链接。
 
 

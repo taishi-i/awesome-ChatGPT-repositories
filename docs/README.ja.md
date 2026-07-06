@@ -42,22 +42,24 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭デバイス間で手を渡すデスクトップAIは、あなたをよりよく理解し、NASやクラウド上でヘッドレスで実行されることもあります。
+**Prompts**
+ * [headroom](https://github.com/headroomlabs-ai/headroom) - LLMに到達する前に、圧縮ツールの出力、ログ、ファイル、およびRAGチャンクを圧縮します。トークン数が60〜95％減少し、同じ回答が得られます。ライブラリ、プロキシ、MCPサーバー。
 
 
 **CLIs**
- * [cc-connect](https://github.com/chenhg5/cc-connect) - ローカルAIコーディングエージェント（Claude Code、Cursor、Gemini CLI、Codex）をメッセージングプラットフォーム（Feishu/Lark、DingTalk、Slack、Telegram、Discord、LINE、WeChat Work）に接続します。どこからでもAI開発アシスタントとチャットできます - 大抵のプラットフォームではパブリックIPは必要ありません。
+ * [gptme](https://github.com/erikbjare/gptme) - ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
+ * [TokenTracker](https://github.com/mm7894215/tokentracker) - 25のAIコーディングツール（Claude Code、Codex、Cursor、Gemini、Kiro、OpenCode、Antigravity、Copilot、Kimi、CodeBuddy、WorkBuddy、Grok、Kilo、Roo、Zed、Goose、Mimo、ZCodeなど）を横断してトークンの使用状況を追跡します。ローカルファースト、ゼロ構成、ダッシュボード、macOSメニューバーを備えています。
+
+
+**NLP**
+ * [agency-orchestrator](https://github.com/jnmetacode/agency-orchestrator) - 🚀 一文から複数のAI役割の協力 → 数分で完全な計画を作成。エージェンシー・エージェントの役割ライブラリ（216以上の専門家）に基づいて、ゼロコードのYAML、Webスタジオ＋デスクトップアプリ、10のLLMプロバイダー（7無料）を搭載。
 
 
 **Others**
- * [codexpro](https://github.com/rebel0789/codexpro) - MCPを介してリポジトリのローカルコーディングエージェントとしてChatGPT Developer Modeを使用します。MCPを介してリポジトリのローカルコーディングエージェントとしてChatGPT Developer Modeを使用します。
- * [devspace](https://github.com/waishnav/devspace) - ChatGPTをCodexに変える！
- * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - クロードコード、コーデックス、カーソル、および他のAIコーディングエージェントを見守るピクセルデスクトップペット-あなたがしなくても。
- * [ping-island](https://github.com/erha19/ping-island) - macOS上ですべてのAIコーディングエージェントを管理するためのダイナミックなアイランドスタイルのコマンドセンター。
+ * [PriceAI](https://github.com/dimthink/priceai) - AI サブスクリプションカードネットワークチャネル価格比較ツール：ChatGPT、Claude、Gemini、Grokなど100以上のカードネットワークチャネルを集約し、在庫状況や元のサイトの購入リンクを表示する複数のチャネルの見積もりを表示します。
 
 
-_Updated on June 28, 2026_ (A total of 2640 repositories listed.)
+_Updated on July 06, 2026_ (A total of 2645 repositories listed.)
 
 ## Table of contents
 
@@ -366,6 +368,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [eval-harness](https://github.com/nano-step/eval-harness) - LLMエージェントの動作回帰テスト。4クラスの属性、6フィールドのFAILスキーマ、$-コストゲート、フレーキー検出。Bash + jq。今日のopencodeと連携し、ランナープラグインを使用します。
  * [ccline](https://github.com/jianshuo/ccline) - zshプロンプトで考えを入力し、回答を得て、提案されたコマンドを実行します。
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - ChatGPT、Claude、または他のAIツールに貼り付けることができる無料のプレゼンテーションスライドデザイン.md。
+ * [headroom](https://github.com/headroomlabs-ai/headroom) - LLMに到達する前に、圧縮ツールの出力、ログ、ファイル、およびRAGチャンクを圧縮します。トークン数が60〜95％減少し、同じ回答が得られます。ライブラリ、プロキシ、MCPサーバー。
 
 
 ## Chatbots
@@ -1130,7 +1133,6 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * 💤 [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ⭐ 339 / 埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。
  * 💤 [openai4j](https://github.com/lambdua/openai4j) - ⭐ 385 / OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
  * 💤 [json-translator](https://github.com/mololab/json-translator) - ⭐ 609 / Argosに対応
- * 🔥 [gptme](https://github.com/erikbjare/gptme) - ⭐ 4.3k / ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
  * ⚠️ [Apt](https://github.com/rnchg/apt) - ⭐ 775 / AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。
  * 🔥 [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ⭐ 379 / ChatGPT APIをベースにした効率的な翻訳ツール
  * 🔥 [tenere](https://github.com/pythops/tenere) - ⭐ 662 / Rustで書かれたLLMsのためのTUIインターフェースRustで書かれたLLMsのためのTUIインターフェース
@@ -1269,6 +1271,8 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - モバイルで簡単にアクセスできるように、TUIまたはWebから複数のClaude Code、OpenCodeエージェントを管理します。また、Mistral Vibe、Codex CLI、Gemini CLI、Pi.dev、Copilot CLI、Factory Droid Codingをサポートしています。
  * [Codex-Manager](https://github.com/qxcnm/codex-manager) - Codex cliのアカウント管理と切り替えツール。Codex cliにローカルゲートウェイ転送を提供します。
  * [cc-connect](https://github.com/chenhg5/cc-connect) - ローカルAIコーディングエージェント（Claude Code、Cursor、Gemini CLI、Codex）をメッセージングプラットフォーム（Feishu/Lark、DingTalk、Slack、Telegram、Discord、LINE、WeChat Work）に接続します。どこからでもAI開発アシスタントとチャットできます - 大抵のプラットフォームではパブリックIPは必要ありません。
+ * [gptme](https://github.com/erikbjare/gptme) - ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
+ * [TokenTracker](https://github.com/mm7894215/tokentracker) - 25のAIコーディングツール（Claude Code、Codex、Cursor、Gemini、Kiro、OpenCode、Antigravity、Copilot、Kimi、CodeBuddy、WorkBuddy、Grok、Kilo、Roo、Zed、Goose、Mimo、ZCodeなど）を横断してトークンの使用状況を追跡します。ローカルファースト、ゼロ構成、ダッシュボード、macOSメニューバーを備えています。
 
 
 ## Reimplementations
@@ -1761,6 +1765,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - スーパーハイウェイウェブ検索API用の実行可能な例 - 検索、ニュース、画像、スクレイプ、AIエージェントのための研究
  * [omnigent](https://github.com/omnigent-ai/omnigent) - OmnigentはオープンソースのAIエージェントフレームワークおよびメタハーネスです：Claude Code、Codex、Cursor、Pi、およびカスタムエージェントを統合し、書き換えることなくハーネスを交換し、ポリシーとサンドボックスを強制し、どのデバイスからでもリアルタイムで協力します。
  * [EverOS](https://github.com/evermind-ai/everos) - エージェントとプラットフォーム間で自己進化するメモリ。彼らが使用するすべてのエージェントに1つのポータブルメモリレイヤー - Claude Code、Codex、OpenClaw、Hermes、その他
+ * [agency-orchestrator](https://github.com/jnmetacode/agency-orchestrator) - 🚀 一文から複数のAI役割の協力 → 数分で完全な計画を作成。エージェンシー・エージェントの役割ライブラリ（216以上の専門家）に基づいて、ゼロコードのYAML、Webスタジオ＋デスクトップアプリ、10のLLMプロバイダー（7無料）を搭載。
 
 
 ## Langchain
@@ -2772,5 +2777,6 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [devspace](https://github.com/waishnav/devspace) - ChatGPTをCodexに変える！
  * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - クロードコード、コーデックス、カーソル、および他のAIコーディングエージェントを見守るピクセルデスクトップペット-あなたがしなくても。
  * [ping-island](https://github.com/erha19/ping-island) - macOS上ですべてのAIコーディングエージェントを管理するためのダイナミックなアイランドスタイルのコマンドセンター。
+ * [PriceAI](https://github.com/dimthink/priceai) - AI サブスクリプションカードネットワークチャネル価格比較ツール：ChatGPT、Claude、Gemini、Grokなど100以上のカードネットワークチャネルを集約し、在庫状況や元のサイトの購入リンクを表示する複数のチャネルの見積もりを表示します。
 
 

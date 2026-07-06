@@ -46,22 +46,24 @@ Run these two commands inside Claude Code:
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud
+**Prompts**
+ * [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
 
 **CLIs**
- * [cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
+ * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
+ * [TokenTracker](https://github.com/mm7894215/tokentracker) - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.
+
+
+**NLP**
+ * [agency-orchestrator](https://github.com/jnmetacode/agency-orchestrator) - 🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于 agency-agents 专家库，一句话调度多个 AI 专家自动协作，几分钟交付完整方案。
 
 
 **Others**
- * [codexpro](https://github.com/rebel0789/codexpro) - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
- * [devspace](https://github.com/waishnav/devspace) - Turn ChatGPT into Codex!
- * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
- * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
+ * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 
 
-_Updated on June 28, 2026_ (A total of 2640 repositories listed.)
+_Updated on July 06, 2026_ (A total of 2645 repositories listed.)
 
 ## Table of contents
 
@@ -370,6 +372,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [eval-harness](https://github.com/nano-step/eval-harness) - Behavior-regression testing for LLM agents. 4-class attribution, 6-field FAIL schema, $-cost gating, flaky detection. Bash + jq. Works with opencode today, runner-pluggable.
  * [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt, get an answer — and run the command it suggests
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools.
+ * [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
 
 ## Chatbots
@@ -1272,6 +1275,8 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
  * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
  * [cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
+ * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
+ * [TokenTracker](https://github.com/mm7894215/tokentracker) - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.
 
 
 ## Reimplementations
@@ -1764,6 +1769,7 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [superhighway-examples](https://github.com/patwalls/superhighway-examples) - Runnable examples for the Superhighway web search API — search, news, images, scrape, research for AI agents
  * [omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
  * [EverOS](https://github.com/evermind-ai/everos) - Self-evolving memory across Agent and platform. The one portable memory layer for every agent they use - Claude Code, Codex, OpenClaw, Hermes, and more
+ * [agency-orchestrator](https://github.com/jnmetacode/agency-orchestrator) - 🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于 agency-agents 专家库，一句话调度多个 AI 专家自动协作，几分钟交付完整方案。
 
 
 ## Langchain
@@ -2775,6 +2781,6 @@ _Updated on June 28, 2026_ (A total of 2640 repositories listed.)
  * [devspace](https://github.com/waishnav/devspace) - Turn ChatGPT into Codex!
  * [clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
+ * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 
 
- * [screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local screen and microphone recording that indexes OCR, accessibility, and transcripts so OpenAI, Codex, Claude, and Ollama agents can search and act on your past activity.

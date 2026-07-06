@@ -7457,6 +7457,41 @@
                     "zh-hans": "免费演示幻灯片设计.md，您可以粘贴到ChatGPT、Claude或您的任何AI工具中。",
                     "zh-hant": "免費演示幻燈片設計.md，您可以將其粘貼到ChatGPT、Claude或您的任何AI工具中。"
                 }
+            },
+            "https://github.com/headroomlabs-ai/headroom": {
+                "repository_name": "headroom",
+                "user_name": "headroomlabs-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "anthropic",
+                    "claude-code",
+                    "compression",
+                    "context-engineering",
+                    "context-window",
+                    "cursor",
+                    "fastapi",
+                    "langchain",
+                    "llm",
+                    "mcp",
+                    "openai",
+                    "prompt-engineering",
+                    "proxy",
+                    "python",
+                    "rag",
+                    "token-optimization",
+                    "tokens",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+                    "ja": "LLMに到達する前に、圧縮ツールの出力、ログ、ファイル、およびRAGチャンクを圧縮します。トークン数が60〜95％減少し、同じ回答が得られます。ライブラリ、プロキシ、MCPサーバー。",
+                    "zh-hans": "在输出到LLM之前，压缩工具会压缩输出、日志、文件和RAG块。减少60-95%的令牌数量，但答案保持不变。包括图书馆、代理和MCP服务器。",
+                    "zh-hant": "在這些資料到達LLM之前，將壓縮工具輸出、日誌、檔案和RAG塊。減少60-95%的令牌，但結果相同。圖書館、代理、MCP伺服器。"
+                }
             }
         },
         "Chatbots": {
@@ -26560,8 +26595,7 @@
                     "ja": "ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。",
                     "zh-hans": "与配备本地工具的LLMs聊天：执行Python和Bash，编辑本地文件，浏览网页。",
                     "zh-hant": "與配備本地工具的LLMs聊天：執行Python和Bash，編輯本地文件，瀏覽網頁。"
-                },
-                "star_count": 4300
+                }
             },
             "https://github.com/rnchg/apt": {
                 "repository_name": "Apt",
@@ -30315,6 +30349,41 @@
                     "ja": "ローカルAIコーディングエージェント（Claude Code、Cursor、Gemini CLI、Codex）をメッセージングプラットフォーム（Feishu/Lark、DingTalk、Slack、Telegram、Discord、LINE、WeChat Work）に接続します。どこからでもAI開発アシスタントとチャットできます - 大抵のプラットフォームではパブリックIPは必要ありません。",
                     "zh-hans": "将本地AI编码代理（Claude Code，Cursor，Gemini CLI，Codex）连接到消息平台（飞书/ Lark，钉钉，Slack，Telegram，Discord，LINE，企业微信）。 无需公共IP，您可以随时与您的AI开发助手聊天。",
                     "zh-hant": "將本地AI編碼代理（Claude Code、Cursor、Gemini CLI、Codex）連接到消息平台（飛書/百靈、釘釘、Slack、Telegram、Discord、LINE、企業微信）。隨時隨地與您的AI開發助手聊天 - 大多數平台無需公共IP。"
+                }
+            },
+            "https://github.com/mm7894215/tokentracker": {
+                "repository_name": "TokenTracker",
+                "user_name": "mm7894215",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.",
+                "topics": [
+                    "ai",
+                    "ai-agent",
+                    "ai-tools",
+                    "antigravity",
+                    "claude-code",
+                    "cli",
+                    "codex-cli",
+                    "cost-tracker",
+                    "cursor",
+                    "dashboard",
+                    "developer-tools",
+                    "gemini-cli",
+                    "llm",
+                    "local-first",
+                    "macos",
+                    "nodejs",
+                    "npm-package",
+                    "observability",
+                    "privacy-first",
+                    "token-tracker"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar",
+                    "ja": "25のAIコーディングツール（Claude Code、Codex、Cursor、Gemini、Kiro、OpenCode、Antigravity、Copilot、Kimi、CodeBuddy、WorkBuddy、Grok、Kilo、Roo、Zed、Goose、Mimo、ZCodeなど）を横断してトークンの使用状況を追跡します。ローカルファースト、ゼロ構成、ダッシュボード、macOSメニューバーを備えています。",
+                    "zh-hans": "跟踪25个AI编码工具的令牌使用情况 - Claude Code，Codex，Cursor，Gemini，Kiro，OpenCode，Antigravity，Copilot，Kimi，CodeBuddy，WorkBuddy，Grok，Kilo，Roo，Zed，Goose，Mimo，ZCode等等 - 本地优先，零配置，带有仪表板，macOS菜单栏",
+                    "zh-hant": "跟踪25个AI编码工具的令牌使用情况 - Claude Code，Codex，Cursor，Gemini，Kiro，OpenCode，Antigravity，Copilot，Kimi，CodeBuddy，WorkBuddy，Grok，Kilo，Roo，Zed，Goose，Mimo，ZCode等等 - 本地优先，零配置，带有仪表板，macOS菜单栏"
                 }
             }
         },
@@ -41838,6 +41907,41 @@
                     "ja": "エージェントとプラットフォーム間で自己進化するメモリ。彼らが使用するすべてのエージェントに1つのポータブルメモリレイヤー - Claude Code、Codex、OpenClaw、Hermes、その他",
                     "zh-hans": "自我进化的记忆跨代理和平台。每个代理使用的唯一可移植记忆层 - Claude Code，Codex，OpenClaw，Hermes等。",
                     "zh-hant": "跨代理和平台的自我演化記憶。每個代理使用的唯一可攜式記憶層 - Claude Code、Codex、OpenClaw、Hermes等。"
+                }
+            },
+            "https://github.com/jnmetacode/agency-orchestrator": {
+                "repository_name": "agency-orchestrator",
+                "user_name": "jnMetaCode",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于 agency-agents 专家库，一句话调度多个 AI 专家自动协作，几分钟交付完整方案。",
+                "topics": [
+                    "agency-agents",
+                    "agent-orchestration",
+                    "ai-agents",
+                    "autogen-alternative",
+                    "claude",
+                    "codex",
+                    "copilot",
+                    "crewai-alternative",
+                    "cursor",
+                    "deepseek",
+                    "gemini-cli",
+                    "langgraph-alternative",
+                    "mcp-server",
+                    "multi-agent",
+                    "no-api-key",
+                    "ollama",
+                    "openai",
+                    "orchestrator",
+                    "workflow",
+                    "yaml-workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于 agency-agents 专家库，一句话调度多个 AI 专家自动协作，几分钟交付完整方案。",
+                    "ja": "🚀 一文から複数のAI役割の協力 → 数分で完全な計画を作成。エージェンシー・エージェントの役割ライブラリ（216以上の専門家）に基づいて、ゼロコードのYAML、Webスタジオ＋デスクトップアプリ、10のLLMプロバイダー（7無料）を搭載。",
+                    "zh-hans": "🚀 一句话 → 多个 AI 角色协作 → 几分钟完成计划。基于 agency-agents 角色库（216+ 专家），零代码 YAML，Web Studio + 桌面应用程序，10 个 LLM 提供商（7 个免费）。",
+                    "zh-hant": "🚀 一句話 → 多個 AI 角色協作 → 幾分鐘完成計劃。建立在 agency-agents 角色庫（216+ 專家）、零代碼 YAML、Web Studio + 桌面應用程式、10 個 LLM 提供者（7 免費）的基礎上。基於 agency-agents 專家庫，一句話調度多個 AI 專家自動協作，幾分鐘交付完整方案。"
                 }
             }
         },
@@ -63801,6 +63905,31 @@
                     "ja": "macOS上ですべてのAIコーディングエージェントを管理するためのダイナミックなアイランドスタイルのコマンドセンター。",
                     "zh-hans": "一个动态的岛屿风格指挥中心，用于管理macOS上所有的AI编码代理。",
                     "zh-hant": "一個動態的島嶼風格指揮中心，用於管理macOS上所有AI編碼代理。"
+                }
+            },
+            "https://github.com/dimthink/priceai": {
+                "repository_name": "PriceAI",
+                "user_name": "dimthink",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。",
+                "topics": [
+                    "ai",
+                    "ai-subscription",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "grok",
+                    "nextjs",
+                    "price-comparison",
+                    "price-tracker",
+                    "supabase"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Subscription Card Network Channel Price Comparison Tool: Aggregates 100+ card network channels including ChatGPT, Claude, Gemini, Grok, and more to display the lowest price with available stock status and original site purchase link.",
+                    "ja": "AI サブスクリプションカードネットワークチャネル価格比較ツール：ChatGPT、Claude、Gemini、Grokなど100以上のカードネットワークチャネルを集約し、在庫状況や元のサイトの購入リンクを表示する複数のチャネルの見積もりを表示します。",
+                    "zh-hans": "AI订阅卡网渠道比价工具：汇集100多个卡网渠道，包括ChatGPT、Claude、Gemini、Grok等多个渠道的报价，展示有货的最低价、库存状态和原站购买链接。",
+                    "zh-hant": "AI 訂閱卡網渠道比價工具：聚合100+卡網渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道報價，展示有貨最低價、庫存狀態和原站購買鏈接。"
                 }
             }
         }
