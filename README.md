@@ -1355,6 +1355,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
  * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
  * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
+ * [ai-router-openai-compatible-examples](https://github.com/airouter-dev/ai-router-openai-compatible-examples) - OpenAI-compatible setup examples for cURL, Python, Node.js, Cursor, Continue, LiteLLM, Open WebUI, and BYOK smoke tests.
  * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
  * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
  * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
