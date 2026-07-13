@@ -1275,6 +1275,7 @@ _Updated on July 06, 2026_ (A total of 2645 repositories listed.)
  * [plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
  * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
  * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
+ * [codex-profiles](https://github.com/Ducksss/codex-profiles) - Named CODEX_HOME profiles and, on macOS, ChatGPT Desktop windows with separate local state, without copying tokens.
  * [cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
  * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
  * [TokenTracker](https://github.com/mm7894215/tokentracker) - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.
@@ -2786,4 +2787,3 @@ _Updated on July 06, 2026_ (A total of 2645 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
  * [Explyt](https://github.com/explyt/explyt) - AI agent for JetBrains IDEs that uses LLMs (Claude, GPT) and fixes code with the project facts your IDE already knows.
-
