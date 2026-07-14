@@ -1280,6 +1280,7 @@ _Updated on July 06, 2026_ (A total of 2645 repositories listed.)
  * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
  * [TokenTracker](https://github.com/mm7894215/tokentracker) - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.
  * [GoodMemory](https://github.com/hjqcan/GoodMemory) - Local-first, auditable memory for Codex and Claude Code, with one-command setup, scoped SQLite recall, read-only MCP, and reversible governed writeback.
+ * [ditto](https://github.com/ohad6k/ditto) - Mine local Claude Code and Codex session history into private, evidence-backed profiles that teach agents how you work.
 
 
 ## Reimplementations
