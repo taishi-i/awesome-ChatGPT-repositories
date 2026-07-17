@@ -1021,7 +1021,7 @@ _Updated on July 06, 2026_ (A total of 2645 repositories listed.)
 
 ## CLIs
 
- * [Tura](https://github.com/Tura-AI/tura) - Local-first open-source coding agent in Rust with CLI, TUI, desktop, and web interfaces; supports OpenAI-compatible endpoints and local model providers.
+ * [Tura](https://github.com/Tura-AI/tura) - Tura is a local, open-source coding agent for developers tired of vague claims, evidence-free token-saving tools, and agents that edit before understanding.
  * 💤 [ChatGPT](https://github.com/acheong08/chatgpt) - ⭐ 28k / Reverse engineered ChatGPT API
  * 🔥 [shell_gpt](https://github.com/ther1d/shell_gpt) - ⭐ 12k / A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * ⚠️ [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⭐ 4.2k / ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
