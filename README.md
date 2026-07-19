@@ -2788,3 +2788,4 @@ _Updated on July 06, 2026_ (A total of 2645 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
  * [Explyt](https://github.com/explyt/explyt) - AI agent for JetBrains IDEs that uses LLMs (Claude, GPT) and fixes code with the project facts your IDE already knows.
+ * [markstream-vue](https://github.com/Simon-He95/markstream-vue) - Multi-framework streaming Markdown renderer for AI chat interfaces, with Mermaid, KaTeX, code highlighting, safe HTML, and SSR.
