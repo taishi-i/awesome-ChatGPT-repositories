@@ -1,5 +1,16 @@
 # awesome-ChatGPT-repositories
 
+
+## 🔥 AI商业方案定制服务
+
+| 服务 | 价格 | 交付时间 | 详情 |
+|------|------|----------|------|
+| 📋 商业计划书 | ¥299起 | 24h | [立即咨询](https://huntai-bp-service.surge.sh) |
+| 🎤 路演PPT | ¥199起 | 48h | [立即咨询](https://huntai-ppt-service.surge.sh) |
+| 📈 数据报告 | ¥99起 | 24h | [立即咨询](https://huntai-report-service.surge.sh) |
+
+💬 微信：算力老谭（wxid_mljzy8vl2aod22）| 📱 18601986913
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
