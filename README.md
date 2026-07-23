@@ -2251,6 +2251,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton contains integrations between JAX and OpenAI Triton
  * [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.
  * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - OpenAI-compatible API server for Apple on-device models
+ * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
  * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
  * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management, including MongoDB integration and OpenAI embeddings for semantic search capabilities.
  * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK.
