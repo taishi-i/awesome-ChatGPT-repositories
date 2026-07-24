@@ -1287,6 +1287,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-profiles](https://github.com/ducksss/codex-profiles) - Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens
  * [shob](https://github.com/shobcoder/shob) - Shob – an AI agent that delivers high-quality coding & automation work
  * [nika](https://github.com/supernovae-st/nika) - Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
+ * [whatbroke](https://github.com/arthi-arumugam-git/whatbroke) - Diff an AI agent's behavior between two runs: tool calls added, dropped or reordered, argument changes, cost and latency deltas. Imports OTLP, Langfuse and LangSmith traces, runs entirely locally.
 
 
 ## Reimplementations
