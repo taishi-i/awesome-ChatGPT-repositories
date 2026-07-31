@@ -1358,6 +1358,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
  * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
  * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+ * [codex-howto](https://github.com/Phelan164/codex-howto) - Engineering-first OpenAI Codex guide covering setup, AGENTS.md, skills, testing, review, DevOps, orchestration, and a review-first Living Wiki.
 
 
 ## NLP
@@ -2797,5 +2798,4 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.
-
 
