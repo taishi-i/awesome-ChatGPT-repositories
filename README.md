@@ -764,6 +764,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [CrustAI](https://github.com/davesimoes/crustai) - Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud
+ * [Scowld](https://github.com/apoorvdarshan/scowld) - Native SwiftUI AI voice companion with animated characters, optional vision, saved conversations, and bring-your-own model and speech providers.
 
 
 ## Browser-extensions
@@ -2797,5 +2798,4 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.
-
 
