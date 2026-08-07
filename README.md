@@ -2797,5 +2797,6 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.
+ * [wenyan](https://github.com/moondrop12138/wenyan) - Wenyan (温言): an open-source Android relationship-decision assistant that connects to your own LLM API keys (OpenAI-compatible, BYOK) - four-section structured analysis (empathy, facts, advice, actions), screenshot analysis with multi-image support, built-in 40-doc offline knowledge base, crisis referral, fully local & private.
 
 
