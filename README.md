@@ -2318,6 +2318,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer
  * [Friday](https://github.com/thesongzhu/friday) - AI personal operations platform for supervised, evidence-backed automation.
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
+ * [dochost-mcp](https://github.com/zyli5313/dochost-mcp) - Remote MCP server that publishes Markdown or HTML from ChatGPT to a public shareable link, over Streamable HTTP with OAuth and no API keys.
 
 
 ## Others
