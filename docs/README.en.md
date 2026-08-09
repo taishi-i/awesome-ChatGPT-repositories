@@ -46,29 +46,35 @@ Run these two commands inside Claude Code:
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
+
+
+**Chatbots**
+ * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.
+
+
 **Browser-extensions**
- * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI workflow automation plugin for intelligent code generation with Claude/Codex
- * [explyt](https://github.com/explyt/explyt) - AI agent for JetBrains IDEs: debugger, refactorings, and symbol navigation via IDE — fewer tokens, more precision
+ * [voyager](https://github.com/nagi-ovo/voyager) - Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
 
 
 **CLIs**
- * [codex-profiles](https://github.com/ducksss/codex-profiles) - Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens
- * [shob](https://github.com/shobcoder/shob) - Shob – an AI agent that delivers high-quality coding & automation work
- * [nika](https://github.com/supernovae-st/nika) - Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
+ * [codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+ * [EchoBird](https://github.com/edison7009/echobird) - One-click install + model switch: Claude Code, Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot), Qwen Code, Aider, OpenCode, MiMo Code (Xiaomi), ZCode (Z.AI), OpenClaw, Pi, OpenScience, Vibe-Trading, Claude Desktop (3P profile), ChatGPT desktop, OpenCode Desk
+ * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
+ * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+ * [opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 
 
 **NLP**
- * [markstream-vue](https://github.com/simon-he95/markstream-vue) - Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, and low-jitter updates.
- * [screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
- * [imcodes](https://github.com/im4codes/imcodes) - The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.
- * [agent-qa](https://github.com/vostride/agent-qa) - The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.
+ * [Raven](https://github.com/evermind-ai/raven) - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
 
 
-**Others**
- * [GoodMemory](https://github.com/hjqcan/goodmemory) - Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.
+**Openai**
+ * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 
-_Updated on July 21, 2026_ (A total of 2654 repositories listed.)
+_Updated on August 10, 2026_ (A total of 2664 repositories listed.)
 
 ## Table of contents
 
@@ -378,6 +384,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ccline](https://github.com/jianshuo/ccline) - Type a thought at your zsh prompt, get an answer — and run the command it suggests
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools.
  * [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+ * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
 
 
 ## Chatbots
@@ -764,6 +771,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [CrustAI](https://github.com/davesimoes/crustai) - Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud
+ * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.
 
 
 ## Browser-extensions
@@ -1023,6 +1031,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [thClaws](https://github.com/thclaws/thclaws) - Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.
  * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI workflow automation plugin for intelligent code generation with Claude/Codex
  * [explyt](https://github.com/explyt/explyt) - AI agent for JetBrains IDEs: debugger, refactorings, and symbol navigation via IDE — fewer tokens, more precision
+ * [voyager](https://github.com/nagi-ovo/voyager) - 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
 
 
 ## CLIs
@@ -1287,6 +1296,11 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-profiles](https://github.com/ducksss/codex-profiles) - Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens
  * [shob](https://github.com/shobcoder/shob) - Shob – an AI agent that delivers high-quality coding & automation work
  * [nika](https://github.com/supernovae-st/nika) - Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
+ * [codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+ * [EchoBird](https://github.com/edison7009/echobird) - One-click install + model switch: Claude Code, Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot), Qwen Code, Aider, OpenCode, MiMo Code (Xiaomi), ZCode (Z.AI), OpenClaw, Pi, OpenScience, Vibe-Trading, Claude Desktop (3P profile), ChatGPT desktop, OpenCode Desk
+ * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
+ * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+ * [opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 
 
 ## Reimplementations
@@ -1784,6 +1798,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
  * [imcodes](https://github.com/im4codes/imcodes) - The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.
  * [agent-qa](https://github.com/vostride/agent-qa) - The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.
+ * [Raven](https://github.com/evermind-ai/raven) - The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.
 
 
 ## Langchain
@@ -2318,6 +2333,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer
  * [Friday](https://github.com/thesongzhu/friday) - AI personal operations platform for supervised, evidence-backed automation.
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - Image generation and editing tool based on OpenAI gpt-image-2 API
+ * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 
 ## Others
