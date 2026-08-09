@@ -46128,7 +46128,7 @@
                 "user_name": "WorkflowAI",
                 "language": "Python",
                 "license": "Apache License 2.0",
-                "description": "WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.",
+                "description": "WorkflowAI is an open-source platform where product and engineering teams collaborate to build and iterate on AI features.",
                 "topics": [
                     "agent",
                     "ai",
@@ -46142,7 +46142,7 @@
                     "python"
                 ],
                 "multilingual_descriptions": {
-                    "en": "WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.",
+                    "en": "WorkflowAI is an open-source platform where product and engineering teams collaborate to build and iterate on AI features.",
                     "ja": "WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。",
                     "zh-hans": "WorkflowAI是一个开源平台，产品和工程团队可以合作构建和迭代人工智能功能。",
                     "zh-hant": "WorkflowAI 是一個開源平台，產品和工程團隊可以合作建立和迭代人工智能功能。"
@@ -58225,66 +58225,6 @@
                     "zh-hant": "同時與ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIE等人聊天，發現最佳答案。"
                 },
                 "star_count": 16000
-            },
-            "https://github.com/anse-app/chatgpt-demo": {
-                "repository_name": "chatgpt-demo",
-                "user_name": "ddiu8081",
-                "language": "Typescript",
-                "license": {
-                    "key": "mit",
-                    "name": "MIT License",
-                    "spdx_id": "MIT",
-                    "url": "https://api.github.com/licenses/mit",
-                    "node_id": "MDc6TGljZW5zZTg="
-                },
-                "description": "Minimal web UI for ChatGPT..",
-                "topics": [
-                    "chatgpt",
-                    "chatgpt-plus",
-                    "gpt-35-burbo",
-                    "gpt-35-turbo-0301",
-                    "astro",
-                    "solidjs"
-                ],
-                "multilingual_descriptions": {
-                    "en": "Minimal web UI for ChatGPT. ",
-                    "ja": "ChatGPTの最小Web UI。",
-                    "zh-hans": "ChatGPT的最小Web用户界面。",
-                    "zh-hant": "ChatGPT的極簡網頁界面。"
-                },
-                "star_count": 8000
-            },
-            "https://github.com/anse-app/anse": {
-                "repository_name": "anse",
-                "user_name": "ddiu8081",
-                "language": "Typescript",
-                "license": {
-                    "key": "mit",
-                    "name": "MIT License",
-                    "spdx_id": "MIT",
-                    "url": "https://api.github.com/licenses/mit",
-                    "node_id": "MDc6TGljZW5zZTg="
-                },
-                "description": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
-                "topics": [
-                    "chatgpt",
-                    "chatgpt-plus",
-                    "gpt-35-burbo",
-                    "gpt-35-turbo-0301",
-                    "gpt-4",
-                    "openai",
-                    "DALL-E",
-                    "Stable Diffusion",
-                    "astro",
-                    "solidjs"
-                ],
-                "multilingual_descriptions": {
-                    "en": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
-                    "ja": "ChatGPT、DALL-E、Stable Diffusionのためのスーパーチャージド体験。",
-                    "zh-hans": "ChatGPT、DALL-E和Stable Diffusion的超级体验。",
-                    "zh-hant": "ChatGPT、DALL-E和Stable Diffusion的超級體驗。"
-                },
-                "star_count": 2000
             },
             "https://github.com/certik/fastgpt": {
                 "repository_name": "fastGPT",
