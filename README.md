@@ -1,8 +1,8 @@
+# awesome-ChatGPT-repositories
+
 <p align="center">
   <img src="assets/logo.png" alt="awesome-ChatGPT-repositories" width="640">
 </p>
-
-# awesome-ChatGPT-repositories
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
