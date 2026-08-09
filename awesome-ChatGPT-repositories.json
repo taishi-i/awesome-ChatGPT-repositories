@@ -23783,6 +23783,69 @@
                     "zh-hans": "开源AI代理程序在本机Rust中利用- GUI，CLI，无头和Web应用程序来自一个二进制文件。多提供商，MCP，技能，插件，代理团队。",
                     "zh-hant": "開源AI代理程式，使用原生Rust語言 — GUI、CLI、無頭模式和Web應用程式皆可從單一二進制檔案中操作。支援多個供應商、MCP、技能、插件和代理團隊。"
                 }
+            },
+            "https://github.com/dong90/oh-my-taiyiforge": {
+                "repository_name": "oh-my-taiyiforge",
+                "user_name": "Dong90",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+                "topics": [
+                    "ai",
+                    "automation",
+                    "claude",
+                    "code-generation",
+                    "codex",
+                    "developer-tools",
+                    "harness",
+                    "harness-engineering",
+                    "llm",
+                    "opencode",
+                    "plugin",
+                    "typescript",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI workflow automation plugin for intelligent code generation with Claude/Codex",
+                    "ja": "Claude/Codexを使用した知的コード生成のためのAIワークフロー自動化プラグイン",
+                    "zh-hans": "AI 工作流自动化插件，用于与 Claude/Codex 一起生成智能代码。",
+                    "zh-hant": "AI 工作流自動化插件，用於智能代碼生成，與 Claude/Codex 一起使用"
+                }
+            },
+            "https://github.com/explyt/explyt": {
+                "repository_name": "explyt",
+                "user_name": "explyt",
+                "language": null,
+                "license": null,
+                "description": "AI agent for JetBrains IDEs: debugger, refactorings, and symbol navigation via IDE — fewer tokens, more precision",
+                "topics": [
+                    "ai-agent",
+                    "ai-coding",
+                    "code-coverage",
+                    "code-review",
+                    "csharp",
+                    "debugging",
+                    "developer-tools",
+                    "intellij-idea",
+                    "java",
+                    "jetbrains",
+                    "jetbrains-plugin",
+                    "kotlin",
+                    "plugin",
+                    "python",
+                    "refactoring",
+                    "spring",
+                    "test-generation",
+                    "testing",
+                    "tests",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI agent for JetBrains IDEs: debugger, refactorings, and symbol navigation via IDE — fewer tokens, more precision",
+                    "ja": "JetBrains IDE用のAIエージェント：デバッガー、リファクタリング、およびIDE経由のシンボルナビゲーション - トークンが少なく、精度が高い",
+                    "zh-hans": "JetBrains IDE的AI代理：通过IDE进行调试器、重构和符号导航——更少的标记，更精确。",
+                    "zh-hant": "JetBrains IDE的AI代理：调试器，重构和符号导航通过IDE - 更少的令牌，更精确"
+                }
             }
         },
         "CLIs": {
@@ -30384,6 +30447,105 @@
                     "ja": "25のAIコーディングツール（Claude Code、Codex、Cursor、Gemini、Kiro、OpenCode、Antigravity、Copilot、Kimi、CodeBuddy、WorkBuddy、Grok、Kilo、Roo、Zed、Goose、Mimo、ZCodeなど）を横断してトークンの使用状況を追跡します。ローカルファースト、ゼロ構成、ダッシュボード、macOSメニューバーを備えています。",
                     "zh-hans": "跟踪25个AI编码工具的令牌使用情况 - Claude Code，Codex，Cursor，Gemini，Kiro，OpenCode，Antigravity，Copilot，Kimi，CodeBuddy，WorkBuddy，Grok，Kilo，Roo，Zed，Goose，Mimo，ZCode等等 - 本地优先，零配置，带有仪表板，macOS菜单栏",
                     "zh-hant": "跟踪25个AI编码工具的令牌使用情况 - Claude Code，Codex，Cursor，Gemini，Kiro，OpenCode，Antigravity，Copilot，Kimi，CodeBuddy，WorkBuddy，Grok，Kilo，Roo，Zed，Goose，Mimo，ZCode等等 - 本地优先，零配置，带有仪表板，macOS菜单栏"
+                }
+            },
+            "https://github.com/ducksss/codex-profiles": {
+                "repository_name": "codex-profiles",
+                "user_name": "Ducksss",
+                "language": "Shell",
+                "license": "MIT License",
+                "description": "Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens",
+                "topics": [
+                    "account-switcher",
+                    "ai-tools",
+                    "automation",
+                    "bash",
+                    "chatgpt",
+                    "chatgpt-desktop",
+                    "cli",
+                    "codex",
+                    "codex-cli",
+                    "codex-desktop",
+                    "codex-home",
+                    "codex-profiles",
+                    "developer-tools",
+                    "linux",
+                    "macos",
+                    "openai",
+                    "openai-codex",
+                    "productivity",
+                    "shell-script",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens",
+                    "ja": "CODEX_HOMEプロファイルとChatGPTデスクトップウィンドウは、トークンをコピーせずに個別のローカル状態を持っています。",
+                    "zh-hans": "命名为CODEX_HOME配置文件和ChatGPT桌面窗口具有单独的本地状态，不复制令牌。",
+                    "zh-hant": "命名為CODEX_HOME的配置文件和ChatGPT桌面窗口具有獨立的本地狀態，不複製令牌。"
+                }
+            },
+            "https://github.com/shobcoder/shob": {
+                "repository_name": "shob",
+                "user_name": "shobcoder",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Shob – an AI agent that delivers high-quality coding & automation work",
+                "topics": [
+                    "ai-agents",
+                    "anthropic",
+                    "antigravity",
+                    "antrygravitry",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "codex-cli",
+                    "cursor-ai",
+                    "mcp",
+                    "opencode",
+                    "shob",
+                    "shob-ai",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Shob – an AI agent that delivers high-quality coding & automation work",
+                    "ja": "Shob - 高品質なコーディングと自動化作業を提供するAIエージェント",
+                    "zh-hans": "Shob - 一个提供高质量编码和自动化工作的人工智能代理",
+                    "zh-hant": "Shob - 一個提供高質量編碼和自動化工作的人工智能代理"
+                }
+            },
+            "https://github.com/supernovae-st/nika": {
+                "repository_name": "nika",
+                "user_name": "supernovae-st",
+                "language": "Rust",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-agents",
+                    "ai-workflows",
+                    "automation",
+                    "cli",
+                    "dag",
+                    "developer-tools",
+                    "devops",
+                    "llm",
+                    "local-ai",
+                    "mcp",
+                    "ollama",
+                    "rust",
+                    "self-hosted",
+                    "structured-output",
+                    "workflow",
+                    "workflow-automation",
+                    "workflow-engine",
+                    "yaml"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋",
+                    "ja": "コードとしての意図 | AIのためのワークフロー言語。1つのファイル、4つの動詞、1つのRustバイナリ。ローカルファースト、どんなモデルでも、AGPL-3.0。🦋",
+                    "zh-hans": "意图作为代码 | 人工智能的工作流语言。一个文件，4个动词，一个Rust二进制文件。本地优先，任何模型，AGPL-3.0。🦋",
+                    "zh-hant": "代碼意圖 | 用於人工智慧的工作流程語言。一個文件，4個動詞，一個Rust二進制文件。本地優先，任何模型，AGPL-3.0。🦋"
                 }
             }
         },
@@ -41942,6 +42104,138 @@
                     "ja": "🚀 一文から複数のAI役割の協力 → 数分で完全な計画を作成。エージェンシー・エージェントの役割ライブラリ（216以上の専門家）に基づいて、ゼロコードのYAML、Webスタジオ＋デスクトップアプリ、10のLLMプロバイダー（7無料）を搭載。",
                     "zh-hans": "🚀 一句话 → 多个 AI 角色协作 → 几分钟完成计划。基于 agency-agents 角色库（216+ 专家），零代码 YAML，Web Studio + 桌面应用程序，10 个 LLM 提供商（7 个免费）。",
                     "zh-hant": "🚀 一句話 → 多個 AI 角色協作 → 幾分鐘完成計劃。建立在 agency-agents 角色庫（216+ 專家）、零代碼 YAML、Web Studio + 桌面應用程式、10 個 LLM 提供者（7 免費）的基礎上。基於 agency-agents 專家庫，一句話調度多個 AI 專家自動協作，幾分鐘交付完整方案。"
+                }
+            },
+            "https://github.com/simon-he95/markstream-vue": {
+                "repository_name": "markstream-vue",
+                "user_name": "Simon-He95",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, and low-jitter updates.",
+                "topics": [
+                    "ai",
+                    "ai-chat",
+                    "angular",
+                    "katex",
+                    "llm",
+                    "markdown",
+                    "markdown-renderer",
+                    "markstream",
+                    "mermaid",
+                    "monaco-editor",
+                    "nextjs",
+                    "nuxt",
+                    "react",
+                    "safe-html",
+                    "shiki",
+                    "stream-markdown",
+                    "streaming-markdown",
+                    "svelte",
+                    "vitepress",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, and low-jitter updates.",
+                    "ja": "AIアプリケーション向けのマルチフレームワークストリーミングMarkdownレンダラー：Vue/Nuxt、React/Next.js、Svelte、Angular、Mermaid、KaTeX、Shiki、Monaco、安全なHTML、および低ジッター更新。",
+                    "zh-hans": "为AI应用程序提供多框架流式Markdown渲染器：Vue/Nuxt、React/Next.js、Svelte和Angular，配备Mermaid、KaTeX、Shiki、Monaco、安全HTML和低抖动更新。",
+                    "zh-hant": "為AI應用程序提供多框架流式Markdown渲染器：Vue/Nuxt、React/Next.js、Svelte和Angular，配備Mermaid、KaTeX、Shiki、Monaco、安全HTML和低抖動更新。"
+                }
+            },
+            "https://github.com/screenpipe/screenpipe": {
+                "repository_name": "screenpipe",
+                "user_name": "screenpipe",
+                "language": "Rust",
+                "license": "Other",
+                "description": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
+                "topics": [
+                    "agents",
+                    "agi",
+                    "ai",
+                    "ai-memory",
+                    "audio-recording",
+                    "computer-vision",
+                    "hermes",
+                    "hermes-agent",
+                    "llm",
+                    "local-ai",
+                    "local-first",
+                    "machine-learning",
+                    "mcp",
+                    "multimodal",
+                    "openclaw",
+                    "privacy",
+                    "rewind",
+                    "screen-recording",
+                    "speech-to-text",
+                    "ycombinator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps",
+                    "ja": "YC（S26）| 24時間365日画面を記録し、エージェントに接続します。ローカル、プライベート、セキュア。OpenClaw、Hermesエージェント、100以上のアプリに接続します。",
+                    "zh-hans": "YC（S26）| 每天全天记录您的屏幕并连接到您的代理。本地、私密、安全。连接到OpenClaw、Hermes代理和100多个应用程序。",
+                    "zh-hant": "YC（S26）| 每天24小時記錄您的屏幕並連接到您的代理。本地、私密、安全。連接到OpenClaw、Hermes代理和100多個應用程式。"
+                }
+            },
+            "https://github.com/im4codes/imcodes": {
+                "repository_name": "imcodes",
+                "user_name": "im4codes",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "automation",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "codex-cli",
+                    "gemini",
+                    "gemini-cli",
+                    "instant-messaging",
+                    "openai",
+                    "openclaw"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The IM for agents. Shared Agent Context & Memory, supervised execution, and cross-agent audit across AI providers.",
+                    "ja": "エージェント向けのIM。共有エージェントコンテキスト＆メモリ、監督された実行、AIプロバイダー間でのクロスエージェント監査。",
+                    "zh-hans": "代理商的即时通讯。共享代理上下文和记忆，监督执行，并跨AI提供商进行代理审计。",
+                    "zh-hant": "代理人的即時通訊。共享代理人上下文和記憶，監督執行，跨AI提供商的代理人審計。"
+                }
+            },
+            "https://github.com/vostride/agent-qa": {
+                "repository_name": "agent-qa",
+                "user_name": "vostride",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-agents",
+                    "ai-testing",
+                    "appium",
+                    "chatgpt",
+                    "claude-code",
+                    "clawdbot",
+                    "codex",
+                    "developer-tools",
+                    "end-to-end-testing",
+                    "frontend",
+                    "llm",
+                    "mcp",
+                    "memory",
+                    "moltbot",
+                    "openclaw",
+                    "playwright",
+                    "testing",
+                    "webdriverio"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+                    "ja": "ソフトウェアチーム向けの自己改善型QAエージェント。メモリを持つテストハーネス。Webやモバイル向けに自然言語でテストを書く。agent-qaは毎回学習し、UIの変更に適応し、出荷前にリグレッションをキャッチします。",
+                    "zh-hans": "软件团队的自我改进QA代理。具有记忆的测试工具。用自然语言为Web和移动设备编写测试。代理QA从每次运行中学习，适应UI更改，并在您发布之前捕捉回归。",
+                    "zh-hant": "為軟體團隊打造的自我改進QA代理人。具有記憶的測試工具。使用自然語言編寫網頁和移動應用的測試。代理人QA從每次運行中學習，適應UI變化，並在發布之前捕捉回歸問題。"
                 }
             }
         },
@@ -63930,6 +64224,38 @@
                     "ja": "AI サブスクリプションカードネットワークチャネル価格比較ツール：ChatGPT、Claude、Gemini、Grokなど100以上のカードネットワークチャネルを集約し、在庫状況や元のサイトの購入リンクを表示する複数のチャネルの見積もりを表示します。",
                     "zh-hans": "AI订阅卡网渠道比价工具：汇集100多个卡网渠道，包括ChatGPT、Claude、Gemini、Grok等多个渠道的报价，展示有货的最低价、库存状态和原站购买链接。",
                     "zh-hant": "AI 訂閱卡網渠道比價工具：聚合100+卡網渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道報價，展示有貨最低價、庫存狀態和原站購買鏈接。"
+                }
+            },
+            "https://github.com/hjqcan/goodmemory": {
+                "repository_name": "GoodMemory",
+                "user_name": "hjqcan",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.",
+                "topics": [
+                    "agent-memory",
+                    "ai-agents",
+                    "claude-code",
+                    "codex",
+                    "coding-agents",
+                    "developer-tools",
+                    "hooks",
+                    "llm-memory",
+                    "local-first",
+                    "long-term-memory",
+                    "mcp",
+                    "mcp-server",
+                    "memory",
+                    "open-source",
+                    "postgres",
+                    "sqlite",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.",
+                    "ja": "AIアプリやコーディングエージェント向けのローカルファーストで監査可能なメモリレイヤー — Codex、Claude Code、MCP、HTTP、TypeScript、およびPython。",
+                    "zh-hans": "本地优先，可审计的内存层，适用于AI应用程序和编码代理 - Codex，Claude Code，MCP，HTTP，TypeScript和Python。",
+                    "zh-hant": "本地優先，可審計的記憶層，適用於AI應用程序和編碼代理 - Codex，Claude Code，MCP，HTTP，TypeScript和Python。"
                 }
             }
         }
