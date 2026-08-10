@@ -2322,7 +2322,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
 
 ## Others
 
- * [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Gemini, Grok, and Cursor with local session status, your-turn alerts, and provider usage views.
+ * [Agent Island](https://github.com/tristan666666/agent-island) - Free, MIT-licensed native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, your-turn alerts, and provider usage views.
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
