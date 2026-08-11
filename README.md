@@ -2338,6 +2338,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [Friday](https://github.com/thesongzhu/friday) - AI personal operations platform for supervised, evidence-backed automation.
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
  * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+ * [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for managing skills, tools, and context shared with ChatGPT and other MCP clients.
 
 
 ## Others
