@@ -1305,6 +1305,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
  * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
  * [opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
+ * [llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) - Agent-driven proactive memory CLI for Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and other AI agents, with source-grounded Wiki memory, citations, full-text retrieval, optional document/code graphs, and a read-only MCP server.
 
 
 ## Reimplementations
