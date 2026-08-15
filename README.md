@@ -1306,6 +1306,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
  * [opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
  * [llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) - Agent-driven proactive memory CLI for Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and other AI agents, with source-grounded Wiki memory, citations, full-text retrieval, optional document/code graphs, and a read-only MCP server.
+ * [SandBase CLI](https://github.com/sandbaseai/cli) - MCP onboarding CLI that connects Codex, Claude Code, Cursor, Gemini CLI, OpenCode, and other AI clients to 2,000+ AI models with OAuth, diagnostics, ownership-aware updates, and exact rollback.
 
 
 ## Reimplementations
@@ -2818,5 +2819,3 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.
-
-
