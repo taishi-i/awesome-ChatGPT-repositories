@@ -1036,6 +1036,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI workflow automation plugin for intelligent code generation with Claude/Codex
  * [explyt](https://github.com/explyt/explyt) - AI agent for JetBrains IDEs: debugger, refactorings, and symbol navigation via IDE — fewer tokens, more precision
  * [voyager](https://github.com/nagi-ovo/voyager) - 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
+ * [chat-threads](https://github.com/onyourmark/chat-threads) - Side panel that cleans a long ChatGPT or Claude conversation and splits it into separate topic conversations, working on a copy so the original is untouched.
 
 
 ## CLIs
