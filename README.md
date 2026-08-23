@@ -196,6 +196,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [ai-models](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587 AI models across 95 providers — pricing, context windows, modalities, capabilities. First-party data with TypeScript types and Zod validation.
  * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
  * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - Curated hub of Codex, Claude, and Cursor agent skills, notebooks, and papers for building with coding LLMs.
+ * [llm-api-pricing](https://github.com/xyzs996/llm-api-pricing) - Daily-refreshed coding-agent model price list as JSON and CSV, with a web table putting cost per million tokens next to benchmark rank.
 
 
 ## Prompts
@@ -2344,6 +2345,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
 
 ## Others
 
+ * [llm-cost-calculator](https://github.com/xyzs996/llm-cost-calculator) - Single-file LLM cost calculator that resolves DeepSeek peak/off-peak billing live, applies long-context price cliffs, and takes your own cache-hit share.
  * [UIZZE](https://github.com/uizze/uizze) - Anti-UI-slop skills and a free MCP preview for Codex, Claude Code, Cursor, and Copilot, grounded in 800,000+ real web and iOS screens.
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
