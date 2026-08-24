@@ -1378,6 +1378,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
  * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
  * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+ * [gpt-daichong](https://github.com/momochoog/gpt-daichong) - MIT-licensed Chinese guide to ChatGPT Plus and Pro plan selection, Codex usage tiers, domestic payment routes, order lookup, and credential-safety boundaries, maintained by AIXiamo.
 
 
 ## NLP
