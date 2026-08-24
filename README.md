@@ -2344,6 +2344,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
 
 ## Others
 
+ * [verified-memory-vault](https://github.com/secondbrainstarter/verified-memory-vault) - A self-checking Obsidian vault that gives AI coding agents persistent memory: `memory_check.py` scores the memory's health (dead links, bloat, protocol violations), and an optional git hook refuses commits that delete it.
  * [UIZZE](https://github.com/uizze/uizze) - Anti-UI-slop skills and a free MCP preview for Codex, Claude Code, Cursor, and Copilot, grounded in 800,000+ real web and iOS screens.
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
