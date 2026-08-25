@@ -1309,6 +1309,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [llm-wiki-cli](https://github.com/JanYork/llm-wiki-cli) - Agent-driven proactive memory CLI for Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and other AI agents, with source-grounded Wiki memory, citations, full-text retrieval, optional document/code graphs, and a read-only MCP server.
 
 
+- [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks, and AI chat over plain Markdown files. Connects to Ollama for free private AI.
 ## Reimplementations
 
  * [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
