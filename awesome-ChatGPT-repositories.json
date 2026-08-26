@@ -7492,6 +7492,40 @@
                     "zh-hans": "在输出到LLM之前，压缩工具会压缩输出、日志、文件和RAG块。减少60-95%的令牌数量，但答案保持不变。包括图书馆、代理和MCP服务器。",
                     "zh-hant": "在這些資料到達LLM之前，將壓縮工具輸出、日誌、檔案和RAG塊。減少60-95%的令牌，但結果相同。圖書館、代理、MCP伺服器。"
                 }
+            },
+            "https://github.com/raullenchai/rapid-mlx": {
+                "repository_name": "Rapid-MLX",
+                "user_name": "raullenchai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
+                "topics": [
+                    "apple-silicon",
+                    "claude-code",
+                    "cursor",
+                    "deepseek",
+                    "fastapi",
+                    "hacktoberfest",
+                    "inference",
+                    "llm",
+                    "local-llm",
+                    "m1",
+                    "m2",
+                    "m3",
+                    "macos",
+                    "mlx",
+                    "ollama-alternative",
+                    "openai-api",
+                    "python",
+                    "qwen",
+                    "tool-calling"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
+                    "ja": "Apple Silicon向けの最速のローカルAIエンジン。Ollamaよりも4.2倍高速で、0.08秒のキャッシュTTFT、100％のツール呼び出し。17のツールパーサー、プロンプトキャッシュ、推論分離、クラウドルーティング。OpenAIの代替として簡単に導入可能。Claude Code、Cursor、Aiderと連携可能。",
+                    "zh-hans": "适用于苹果芯片的最快本地AI引擎。比Ollama快4.2倍，缓存TTFT为0.08秒，100%工具调用。17个工具解析器，提示缓存，推理分离，云路由。可替代OpenAI。与Claude Code、Cursor、Aider兼容。",
+                    "zh-hant": "針對蘋果矽片設計的最快本地AI引擎。比Ollama快4.2倍，0.08秒的緩存TTFT，100％的工具調用。17個工具解析器，提示緩存，推理分離，雲路由。可直接替換OpenAI。與Claude Code、Cursor、Aider兼容。"
+                }
             }
         },
         "Chatbots": {
@@ -17524,6 +17558,34 @@
                     "zh-hans": "🦭跨设备传递、更了解你的桌面 AI 助手——也可在NAS或云端无头运行",
                     "zh-hant": "🦭跨端交接、越用越懂你的桌面 AI 助手——也能服務化常駐、跑在雲上 | 桌面 AI 跨越設備，更了解您 — 也可在 NAS 或雲端上無頭運行"
                 }
+            },
+            "https://github.com/chenxiachan/thoughtdag": {
+                "repository_name": "thoughtdag",
+                "user_name": "chenxiachan",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+                "topics": [
+                    "agentic-search",
+                    "ai-tools",
+                    "context-engineering",
+                    "dag",
+                    "human-in-the-loop",
+                    "infinite-canvas",
+                    "knowledge-graph",
+                    "llm",
+                    "mcp",
+                    "note-taking",
+                    "pkm",
+                    "react-flow",
+                    "research-tool"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+                    "ja": "あなたの考えは地図に値する：LLM会話が編集可能な思考グラフに成長する無限キャンバス。ワイヤーは文脈です。",
+                    "zh-hans": "您的思维值得一张地图：一个无限的画布，LLM对话可以在其中发展成可编辑的思维图。线条是上下文。",
+                    "zh-hant": "你的思維值得一張地圖：一個無限的畫布，LLM對話可以在其中成長為可編輯的思維圖。線條是上下文。"
+                }
             }
         },
         "Browser-extensions": {
@@ -23845,6 +23907,33 @@
                     "ja": "JetBrains IDE用のAIエージェント：デバッガー、リファクタリング、およびIDE経由のシンボルナビゲーション - トークンが少なく、精度が高い",
                     "zh-hans": "JetBrains IDE的AI代理：通过IDE进行调试器、重构和符号导航——更少的标记，更精确。",
                     "zh-hant": "JetBrains IDE的AI代理：调试器，重构和符号导航通过IDE - 更少的令牌，更精确"
+                }
+            },
+            "https://github.com/nagi-ovo/voyager": {
+                "repository_name": "voyager",
+                "user_name": "Nagi-ovo",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。",
+                "topics": [
+                    "ai-studio",
+                    "browser-extension",
+                    "bun",
+                    "chat-management",
+                    "chatgpt",
+                    "chrome-extension",
+                    "claude-ai",
+                    "edge-addon",
+                    "firefox-addons",
+                    "gemini",
+                    "safari-extension",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。",
+                    "ja": "Voyager — AI Studio、Gemini、Claude＆ChatGPT向けのオールインワンエンハンスメントスイート：タイムライン、フォルダ、プロンプト、使用状況の追跡、チャットのエクスポート、プラグインなど。",
+                    "zh-hans": "Voyager - 一个面向AI Studio、Gemini、Claude和ChatGPT的全能增强套件：时间轴、文件夹、提示、使用跟踪、聊天导出、插件等功能。",
+                    "zh-hant": "Voyager - 一個針對 AI Studio、Gemini、Claude 和 ChatGPT 的全能增強套件：時間軸、文件夾、提示、使用追蹤、聊天導出、插件等功能。"
                 }
             }
         },
@@ -30546,6 +30635,164 @@
                     "ja": "コードとしての意図 | AIのためのワークフロー言語。1つのファイル、4つの動詞、1つのRustバイナリ。ローカルファースト、どんなモデルでも、AGPL-3.0。🦋",
                     "zh-hans": "意图作为代码 | 人工智能的工作流语言。一个文件，4个动词，一个Rust二进制文件。本地优先，任何模型，AGPL-3.0。🦋",
                     "zh-hant": "代碼意圖 | 用於人工智慧的工作流程語言。一個文件，4個動詞，一個Rust二進制文件。本地優先，任何模型，AGPL-3.0。🦋"
+                }
+            },
+            "https://github.com/openai/codex-security": {
+                "repository_name": "codex-security",
+                "user_name": "openai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+                "topics": [
+                    "ai-security",
+                    "application-security",
+                    "cli",
+                    "code-scanning",
+                    "codex",
+                    "codex-security",
+                    "cybersecurity",
+                    "devsecops",
+                    "nodejs",
+                    "npm",
+                    "openai",
+                    "sdk",
+                    "security",
+                    "typescript",
+                    "vulnerability-scanning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+                    "ja": "OpenAIのCodex Security CLIおよびTypeScript SDKは、セキュリティの脆弱性を見つけて検証し修正するためのものです。npm: https://www.npmjs.com/package/@openai/codex-security",
+                    "zh-hans": "OpenAI的Codex安全CLI和TypeScript SDK用于查找、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security",
+                    "zh-hant": "OpenAI的Codex安全CLI和TypeScript SDK用於查找、驗證和修復安全漏洞。 npm: https://www.npmjs.com/package/@openai/codex-security"
+                }
+            },
+            "https://github.com/edison7009/echobird": {
+                "repository_name": "EchoBird",
+                "user_name": "edison7009",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,WorkBuddy (Tencent CodeBuddy).",
+                "topics": [
+                    "claude-code",
+                    "kimi-code",
+                    "model-switch",
+                    "one-click-install",
+                    "openclaw",
+                    "opencode",
+                    "qwen-code",
+                    "workbuddy",
+                    "zcode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "One-click install + model switch: Claude Code, Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot), Qwen Code, Aider, OpenCode, MiMo Code (Xiaomi), ZCode (Z.AI), OpenClaw, Pi, OpenScience, Vibe-Trading, Claude Desktop (3P profile), ChatGPT desktop, OpenCode Desk",
+                    "ja": "ワンクリックインストール+モデル切り替え：クロードコード、コーデックスCLI（OpenAI）、Grok Build（xAI）、キミコード（ムーンショット）、クエンコード、アイダー、オープンコード、ミモコード（シャオミ）、Zコード（Z.AI）、オープンクロー、Pi、オープンサイエンス、バイブトレーディング、クロードデスクトップ（3Pプロファイル）、ChatGPTデスクトップ、オープンコードデスク",
+                    "zh-hans": "一键安装+模型切换：克劳德代码，Codex CLI（OpenAI），Grok Build（xAI），Kimi Code（Moonshot），Qwen Code，Aider，OpenCode，MiMo Code（小米），ZCode（Z.AI），OpenClaw，Pi，OpenScience，Vibe-Trading，克劳德桌面（3P配置文件），ChatGPT桌面，OpenCode桌。",
+                    "zh-hant": "一键安装+模型切换：克劳德代码，Codex CLI（OpenAI），Grok Build（xAI），Kimi Code（Moonshot），Qwen Code，Aider，OpenCode，MiMo Code（小米），ZCode（Z.AI），OpenClaw，Pi，OpenScience，Vibe-Trading，克劳德桌面（3P配置文件），ChatGPT桌面，OpenCode桌面"
+                }
+            },
+            "https://github.com/taylorwilsdon/google_workspace_mcp": {
+                "repository_name": "google_workspace_mcp",
+                "user_name": "taylorwilsdon",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "claude-code",
+                    "claude-desktop",
+                    "gmail",
+                    "google-calendar",
+                    "google-chat",
+                    "google-docs",
+                    "google-drive",
+                    "google-forms",
+                    "google-sheets",
+                    "google-tasks",
+                    "google-workspace",
+                    "gsuite",
+                    "llm",
+                    "llm-tools",
+                    "mcp",
+                    "mcp-server",
+                    "model-context-protocol-server"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool",
+                    "ja": "AIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツールAIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツール",
+                    "zh-hans": "使用AI控制Gmail、Google日历、文档、表格、幻灯片、聊天、表单、任务、搜索和驱动器-全面的Google Workspace MCP服务器和CLI工具。",
+                    "zh-hant": "控制Gmail、Google日曆、文件、表格、幻燈片、聊天、表單、任務、搜索和驅動器與AI-全面的Google Workspace MCP服務器和CLI工具"
+                }
+            },
+            "https://github.com/ottermind/chat2db": {
+                "repository_name": "Chat2DB",
+                "user_name": "OtterMind",
+                "language": "Java",
+                "license": "Other",
+                "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+                "topics": [
+                    "ai",
+                    "bi",
+                    "chatgpt",
+                    "clickhouse",
+                    "clickhouse-client",
+                    "database",
+                    "datagrip",
+                    "db2",
+                    "dbeaver",
+                    "gpt",
+                    "hive",
+                    "mysql",
+                    "navicat",
+                    "oracle",
+                    "postgresql",
+                    "redis",
+                    "redis-client",
+                    "sqlserver",
+                    "text2sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+                    "ja": "🔥🔥🔥 AI駆動のデータベースツールとSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポートしています。",
+                    "zh-hans": "🔥🔥🔥 人工智能驱动的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等数据库。",
+                    "zh-hant": "🔥🔥🔥 由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。"
+                }
+            },
+            "https://github.com/lidge-jun/opencodex": {
+                "repository_name": "opencodex",
+                "user_name": "lidge-jun",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+                "topics": [
+                    "ai-gateway",
+                    "ai-tools",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "codex-cli",
+                    "deepseek",
+                    "developer-tools",
+                    "gemini",
+                    "grok",
+                    "kiro",
+                    "llm",
+                    "llm-proxy",
+                    "ollama",
+                    "openai",
+                    "openrouter",
+                    "proxy",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+                    "ja": "OpenAI Codex＆Claude Code用のユニバーサルプロバイダープロキシー- Codex CLI、App、SDK、およびClaude Codeと一緒にLLM（Claude、Gemini、Grok、DeepSeek、Ollamaなど）を使用します。",
+                    "zh-hans": "为OpenAI Codex和Claude Code提供的通用提供者代理 - 使用Codex CLI、App、SDK和Claude Code中的任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama...）",
+                    "zh-hant": "為OpenAI Codex和Claude Code提供的通用提供者代理 - 使用Codex CLI、App、SDK和Claude Code中的任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama...）。"
                 }
             }
         },
@@ -42237,6 +42484,38 @@
                     "zh-hans": "软件团队的自我改进QA代理。具有记忆的测试工具。用自然语言为Web和移动设备编写测试。代理QA从每次运行中学习，适应UI更改，并在您发布之前捕捉回归。",
                     "zh-hant": "為軟體團隊打造的自我改進QA代理人。具有記憶的測試工具。使用自然語言編寫網頁和移動應用的測試。代理人QA從每次運行中學習，適應UI變化，並在發布之前捕捉回歸問題。"
                 }
+            },
+            "https://github.com/evermind-ai/raven": {
+                "repository_name": "Raven",
+                "user_name": "EverMind-AI",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "codex",
+                    "deep-research",
+                    "deep-research-agent",
+                    "evermind",
+                    "hermes",
+                    "hermes-agent",
+                    "llm",
+                    "openai",
+                    "openclaw",
+                    "openhuman",
+                    "self-evolving",
+                    "self-improving"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The memory-first, self-improving agent harness built on EverOS, with MiroThinker-powered deep research and reasoning.",
+                    "ja": "EverOSをベースに構築されたメモリーファーストで自己改善するエージェントハーネス、MiroThinkerによる深い研究と推論を搭載。",
+                    "zh-hans": "基于EverOS构建的以记忆为先、自我改进的代理器，配备MiroThinker强大的深度研究和推理能力。",
+                    "zh-hant": "採用EverOS建立的以記憶為先、自我改進的代理器，搭載MiroThinker強大的深度研究和推理功能。"
+                }
             }
         },
         "Langchain": {
@@ -45849,7 +46128,7 @@
                 "user_name": "WorkflowAI",
                 "language": "Python",
                 "license": "Apache License 2.0",
-                "description": "WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.",
+                "description": "WorkflowAI is an open-source platform where product and engineering teams collaborate to build and iterate on AI features.",
                 "topics": [
                     "agent",
                     "ai",
@@ -45863,7 +46142,7 @@
                     "python"
                 ],
                 "multilingual_descriptions": {
-                    "en": "WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.",
+                    "en": "WorkflowAI is an open-source platform where product and engineering teams collaborate to build and iterate on AI features.",
                     "ja": "WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。",
                     "zh-hans": "WorkflowAI是一个开源平台，产品和工程团队可以合作构建和迭代人工智能功能。",
                     "zh-hant": "WorkflowAI 是一個開源平台，產品和工程團隊可以合作建立和迭代人工智能功能。"
@@ -54730,6 +55009,29 @@
                     "zh-hans": "基于OpenAI gpt-image-2 API的图片生成与编辑工具",
                     "zh-hant": "基於 OpenAI gpt-image-2 API 的圖片生成與編輯工具"
                 }
+            },
+            "https://github.com/the-pr-agent/pr-agent": {
+                "repository_name": "pr-agent",
+                "user_name": "The-PR-Agent",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+                "topics": [
+                    "code-review",
+                    "codereview",
+                    "coding-assistant",
+                    "devtools",
+                    "gpt-4",
+                    "openai",
+                    "pull-request",
+                    "pull-requests"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+                    "ja": "🚀 PRエージェント：オリジナルのオープンソースPRレビュアー。このプロジェクトはQodoの無料ティアではありません。",
+                    "zh-hans": "🚀 公关代理：原始开源公关评论员。这个项目不是Qodo的免费版。",
+                    "zh-hant": "🚀 公關代理：原始開源公關審查者。這個項目不是Qodo的免費版本。"
+                }
             }
         },
         "Others": {
@@ -57923,66 +58225,6 @@
                     "zh-hant": "同時與ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIE等人聊天，發現最佳答案。"
                 },
                 "star_count": 16000
-            },
-            "https://github.com/anse-app/chatgpt-demo": {
-                "repository_name": "chatgpt-demo",
-                "user_name": "ddiu8081",
-                "language": "Typescript",
-                "license": {
-                    "key": "mit",
-                    "name": "MIT License",
-                    "spdx_id": "MIT",
-                    "url": "https://api.github.com/licenses/mit",
-                    "node_id": "MDc6TGljZW5zZTg="
-                },
-                "description": "Minimal web UI for ChatGPT..",
-                "topics": [
-                    "chatgpt",
-                    "chatgpt-plus",
-                    "gpt-35-burbo",
-                    "gpt-35-turbo-0301",
-                    "astro",
-                    "solidjs"
-                ],
-                "multilingual_descriptions": {
-                    "en": "Minimal web UI for ChatGPT. ",
-                    "ja": "ChatGPTの最小Web UI。",
-                    "zh-hans": "ChatGPT的最小Web用户界面。",
-                    "zh-hant": "ChatGPT的極簡網頁界面。"
-                },
-                "star_count": 8000
-            },
-            "https://github.com/anse-app/anse": {
-                "repository_name": "anse",
-                "user_name": "ddiu8081",
-                "language": "Typescript",
-                "license": {
-                    "key": "mit",
-                    "name": "MIT License",
-                    "spdx_id": "MIT",
-                    "url": "https://api.github.com/licenses/mit",
-                    "node_id": "MDc6TGljZW5zZTg="
-                },
-                "description": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
-                "topics": [
-                    "chatgpt",
-                    "chatgpt-plus",
-                    "gpt-35-burbo",
-                    "gpt-35-turbo-0301",
-                    "gpt-4",
-                    "openai",
-                    "DALL-E",
-                    "Stable Diffusion",
-                    "astro",
-                    "solidjs"
-                ],
-                "multilingual_descriptions": {
-                    "en": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
-                    "ja": "ChatGPT、DALL-E、Stable Diffusionのためのスーパーチャージド体験。",
-                    "zh-hans": "ChatGPT、DALL-E和Stable Diffusion的超级体验。",
-                    "zh-hant": "ChatGPT、DALL-E和Stable Diffusion的超級體驗。"
-                },
-                "star_count": 2000
             },
             "https://github.com/certik/fastgpt": {
                 "repository_name": "fastGPT",

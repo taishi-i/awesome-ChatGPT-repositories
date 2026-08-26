@@ -1,5 +1,9 @@
 # awesome-ChatGPT-repositories
 
+<p align="center">
+  <img src="../assets/logo.png" alt="awesome-ChatGPT-repositories" width="640">
+</p>
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -42,29 +46,35 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - Apple Silicon向けの最速のローカルAIエンジン。Ollamaよりも4.2倍高速で、0.08秒のキャッシュTTFT、100％のツール呼び出し。17のツールパーサー、プロンプトキャッシュ、推論分離、クラウドルーティング。OpenAIの代替として簡単に導入可能。Claude Code、Cursor、Aiderと連携可能。
+
+
+**Chatbots**
+ * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - あなたの考えは地図に値する：LLM会話が編集可能な思考グラフに成長する無限キャンバス。ワイヤーは文脈です。
+
+
 **Browser-extensions**
- * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - Claude/Codexを使用した知的コード生成のためのAIワークフロー自動化プラグイン
- * [explyt](https://github.com/explyt/explyt) - JetBrains IDE用のAIエージェント：デバッガー、リファクタリング、およびIDE経由のシンボルナビゲーション - トークンが少なく、精度が高い
+ * [voyager](https://github.com/nagi-ovo/voyager) - Voyager — AI Studio、Gemini、Claude＆ChatGPT向けのオールインワンエンハンスメントスイート：タイムライン、フォルダ、プロンプト、使用状況の追跡、チャットのエクスポート、プラグインなど。
 
 
 **CLIs**
- * [codex-profiles](https://github.com/ducksss/codex-profiles) - CODEX_HOMEプロファイルとChatGPTデスクトップウィンドウは、トークンをコピーせずに個別のローカル状態を持っています。
- * [shob](https://github.com/shobcoder/shob) - Shob - 高品質なコーディングと自動化作業を提供するAIエージェント
- * [nika](https://github.com/supernovae-st/nika) - コードとしての意図 | AIのためのワークフロー言語。1つのファイル、4つの動詞、1つのRustバイナリ。ローカルファースト、どんなモデルでも、AGPL-3.0。🦋
+ * [codex-security](https://github.com/openai/codex-security) - OpenAIのCodex Security CLIおよびTypeScript SDKは、セキュリティの脆弱性を見つけて検証し修正するためのものです。npm: https://www.npmjs.com/package/@openai/codex-security
+ * [EchoBird](https://github.com/edison7009/echobird) - ワンクリックインストール+モデル切り替え：クロードコード、コーデックスCLI（OpenAI）、Grok Build（xAI）、キミコード（ムーンショット）、クエンコード、アイダー、オープンコード、ミモコード（シャオミ）、Zコード（Z.AI）、オープンクロー、Pi、オープンサイエンス、バイブトレーディング、クロードデスクトップ（3Pプロファイル）、ChatGPTデスクトップ、オープンコードデスク
+ * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - AIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツールAIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツール
+ * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI駆動のデータベースツールとSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポートしています。
+ * [opencodex](https://github.com/lidge-jun/opencodex) - OpenAI Codex＆Claude Code用のユニバーサルプロバイダープロキシー- Codex CLI、App、SDK、およびClaude Codeと一緒にLLM（Claude、Gemini、Grok、DeepSeek、Ollamaなど）を使用します。
 
 
 **NLP**
- * [markstream-vue](https://github.com/simon-he95/markstream-vue) - AIアプリケーション向けのマルチフレームワークストリーミングMarkdownレンダラー：Vue/Nuxt、React/Next.js、Svelte、Angular、Mermaid、KaTeX、Shiki、Monaco、安全なHTML、および低ジッター更新。
- * [screenpipe](https://github.com/screenpipe/screenpipe) - YC（S26）| 24時間365日画面を記録し、エージェントに接続します。ローカル、プライベート、セキュア。OpenClaw、Hermesエージェント、100以上のアプリに接続します。
- * [imcodes](https://github.com/im4codes/imcodes) - エージェント向けのIM。共有エージェントコンテキスト＆メモリ、監督された実行、AIプロバイダー間でのクロスエージェント監査。
- * [agent-qa](https://github.com/vostride/agent-qa) - ソフトウェアチーム向けの自己改善型QAエージェント。メモリを持つテストハーネス。Webやモバイル向けに自然言語でテストを書く。agent-qaは毎回学習し、UIの変更に適応し、出荷前にリグレッションをキャッチします。
+ * [Raven](https://github.com/evermind-ai/raven) - EverOSをベースに構築されたメモリーファーストで自己改善するエージェントハーネス、MiroThinkerによる深い研究と推論を搭載。
 
 
-**Others**
- * [GoodMemory](https://github.com/hjqcan/goodmemory) - AIアプリやコーディングエージェント向けのローカルファーストで監査可能なメモリレイヤー — Codex、Claude Code、MCP、HTTP、TypeScript、およびPython。
+**Openai**
+ * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PRエージェント：オリジナルのオープンソースPRレビュアー。このプロジェクトはQodoの無料ティアではありません。
 
 
-_Updated on July 21, 2026_ (A total of 2654 repositories listed.)
+_Updated on August 10, 2026_ (A total of 2664 repositories listed.)
 
 ## Table of contents
 
@@ -374,6 +384,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ccline](https://github.com/jianshuo/ccline) - zshプロンプトで考えを入力し、回答を得て、提案されたコマンドを実行します。
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - ChatGPT、Claude、または他のAIツールに貼り付けることができる無料のプレゼンテーションスライドデザイン.md。
  * [headroom](https://github.com/headroomlabs-ai/headroom) - LLMに到達する前に、圧縮ツールの出力、ログ、ファイル、およびRAGチャンクを圧縮します。トークン数が60〜95％減少し、同じ回答が得られます。ライブラリ、プロキシ、MCPサーバー。
+ * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - Apple Silicon向けの最速のローカルAIエンジン。Ollamaよりも4.2倍高速で、0.08秒のキャッシュTTFT、100％のツール呼び出し。17のツールパーサー、プロンプトキャッシュ、推論分離、クラウドルーティング。OpenAIの代替として簡単に導入可能。Claude Code、Cursor、Aiderと連携可能。
 
 
 ## Chatbots
@@ -760,6 +771,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [CrustAI](https://github.com/davesimoes/crustai) - Telegram、Discord、WhatsApp、Slackと連携したプライベートでローカルファーストのAIアシスタント
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 簡単にセットアップできるAIアシスタントは、24時間365日あなたの仕事を行い、あなたの好みを知り、時間とともにより良くなります。
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭デバイス間で手を渡すデスクトップAIは、あなたをよりよく理解し、NASやクラウド上でヘッドレスで実行されることもあります。
+ * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - あなたの考えは地図に値する：LLM会話が編集可能な思考グラフに成長する無限キャンバス。ワイヤーは文脈です。
 
 
 ## Browser-extensions
@@ -1019,6 +1031,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [thClaws](https://github.com/thclaws/thclaws) - ネイティブRustでのオープンソースAIエージェントハーネス- GUI、CLI、ヘッドレス、およびWebアプリを1つのバイナリから。マルチプロバイダー、MCP、スキル、プラグイン、エージェントチーム。
  * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - Claude/Codexを使用した知的コード生成のためのAIワークフロー自動化プラグイン
  * [explyt](https://github.com/explyt/explyt) - JetBrains IDE用のAIエージェント：デバッガー、リファクタリング、およびIDE経由のシンボルナビゲーション - トークンが少なく、精度が高い
+ * [voyager](https://github.com/nagi-ovo/voyager) - Voyager — AI Studio、Gemini、Claude＆ChatGPT向けのオールインワンエンハンスメントスイート：タイムライン、フォルダ、プロンプト、使用状況の追跡、チャットのエクスポート、プラグインなど。
 
 
 ## CLIs
@@ -1283,6 +1296,11 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-profiles](https://github.com/ducksss/codex-profiles) - CODEX_HOMEプロファイルとChatGPTデスクトップウィンドウは、トークンをコピーせずに個別のローカル状態を持っています。
  * [shob](https://github.com/shobcoder/shob) - Shob - 高品質なコーディングと自動化作業を提供するAIエージェント
  * [nika](https://github.com/supernovae-st/nika) - コードとしての意図 | AIのためのワークフロー言語。1つのファイル、4つの動詞、1つのRustバイナリ。ローカルファースト、どんなモデルでも、AGPL-3.0。🦋
+ * [codex-security](https://github.com/openai/codex-security) - OpenAIのCodex Security CLIおよびTypeScript SDKは、セキュリティの脆弱性を見つけて検証し修正するためのものです。npm: https://www.npmjs.com/package/@openai/codex-security
+ * [EchoBird](https://github.com/edison7009/echobird) - ワンクリックインストール+モデル切り替え：クロードコード、コーデックスCLI（OpenAI）、Grok Build（xAI）、キミコード（ムーンショット）、クエンコード、アイダー、オープンコード、ミモコード（シャオミ）、Zコード（Z.AI）、オープンクロー、Pi、オープンサイエンス、バイブトレーディング、クロードデスクトップ（3Pプロファイル）、ChatGPTデスクトップ、オープンコードデスク
+ * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - AIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツールAIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツール
+ * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI駆動のデータベースツールとSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポートしています。
+ * [opencodex](https://github.com/lidge-jun/opencodex) - OpenAI Codex＆Claude Code用のユニバーサルプロバイダープロキシー- Codex CLI、App、SDK、およびClaude Codeと一緒にLLM（Claude、Gemini、Grok、DeepSeek、Ollamaなど）を使用します。
 
 
 ## Reimplementations
@@ -1780,6 +1798,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [screenpipe](https://github.com/screenpipe/screenpipe) - YC（S26）| 24時間365日画面を記録し、エージェントに接続します。ローカル、プライベート、セキュア。OpenClaw、Hermesエージェント、100以上のアプリに接続します。
  * [imcodes](https://github.com/im4codes/imcodes) - エージェント向けのIM。共有エージェントコンテキスト＆メモリ、監督された実行、AIプロバイダー間でのクロスエージェント監査。
  * [agent-qa](https://github.com/vostride/agent-qa) - ソフトウェアチーム向けの自己改善型QAエージェント。メモリを持つテストハーネス。Webやモバイル向けに自然言語でテストを書く。agent-qaは毎回学習し、UIの変更に適応し、出荷前にリグレッションをキャッチします。
+ * [Raven](https://github.com/evermind-ai/raven) - EverOSをベースに構築されたメモリーファーストで自己改善するエージェントハーネス、MiroThinkerによる深い研究と推論を搭載。
 
 
 ## Langchain
@@ -2314,6 +2333,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - LinuxでOpenAI Codex Desktopを実行する - 自動インストーラ
  * [Friday](https://github.com/thesongzhu/friday) - 監督された、証拠に基づいた自動化のためのAIパーソナルオペレーションプラットフォーム。
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - OpenAIのgpt-image-2 APIを使用した画像生成および編集ツール
+ * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PRエージェント：オリジナルのオープンソースPRレビュアー。このプロジェクトはQodoの無料ティアではありません。
 
 
 ## Others

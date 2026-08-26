@@ -1,5 +1,9 @@
 # awesome-ChatGPT-repositories
 
+<p align="center">
+  <img src="../assets/logo.png" alt="awesome-ChatGPT-repositories" width="640">
+</p>
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -42,29 +46,35 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - 針對蘋果矽片設計的最快本地AI引擎。比Ollama快4.2倍，0.08秒的緩存TTFT，100％的工具調用。17個工具解析器，提示緩存，推理分離，雲路由。可直接替換OpenAI。與Claude Code、Cursor、Aider兼容。
+
+
+**Chatbots**
+ * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - 你的思維值得一張地圖：一個無限的畫布，LLM對話可以在其中成長為可編輯的思維圖。線條是上下文。
+
+
 **Browser-extensions**
- * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI 工作流自動化插件，用於智能代碼生成，與 Claude/Codex 一起使用
- * [explyt](https://github.com/explyt/explyt) - JetBrains IDE的AI代理：调试器，重构和符号导航通过IDE - 更少的令牌，更精确
+ * [voyager](https://github.com/nagi-ovo/voyager) - Voyager - 一個針對 AI Studio、Gemini、Claude 和 ChatGPT 的全能增強套件：時間軸、文件夾、提示、使用追蹤、聊天導出、插件等功能。
 
 
 **CLIs**
- * [codex-profiles](https://github.com/ducksss/codex-profiles) - 命名為CODEX_HOME的配置文件和ChatGPT桌面窗口具有獨立的本地狀態，不複製令牌。
- * [shob](https://github.com/shobcoder/shob) - Shob - 一個提供高質量編碼和自動化工作的人工智能代理
- * [nika](https://github.com/supernovae-st/nika) - 代碼意圖 | 用於人工智慧的工作流程語言。一個文件，4個動詞，一個Rust二進制文件。本地優先，任何模型，AGPL-3.0。🦋
+ * [codex-security](https://github.com/openai/codex-security) - OpenAI的Codex安全CLI和TypeScript SDK用於查找、驗證和修復安全漏洞。 npm: https://www.npmjs.com/package/@openai/codex-security
+ * [EchoBird](https://github.com/edison7009/echobird) - 一键安装+模型切换：克劳德代码，Codex CLI（OpenAI），Grok Build（xAI），Kimi Code（Moonshot），Qwen Code，Aider，OpenCode，MiMo Code（小米），ZCode（Z.AI），OpenClaw，Pi，OpenScience，Vibe-Trading，克劳德桌面（3P配置文件），ChatGPT桌面，OpenCode桌面
+ * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - 控制Gmail、Google日曆、文件、表格、幻燈片、聊天、表單、任務、搜索和驅動器與AI-全面的Google Workspace MCP服務器和CLI工具
+ * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
+ * [opencodex](https://github.com/lidge-jun/opencodex) - 為OpenAI Codex和Claude Code提供的通用提供者代理 - 使用Codex CLI、App、SDK和Claude Code中的任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama...）。
 
 
 **NLP**
- * [markstream-vue](https://github.com/simon-he95/markstream-vue) - 為AI應用程序提供多框架流式Markdown渲染器：Vue/Nuxt、React/Next.js、Svelte和Angular，配備Mermaid、KaTeX、Shiki、Monaco、安全HTML和低抖動更新。
- * [screenpipe](https://github.com/screenpipe/screenpipe) - YC（S26）| 每天24小時記錄您的屏幕並連接到您的代理。本地、私密、安全。連接到OpenClaw、Hermes代理和100多個應用程式。
- * [imcodes](https://github.com/im4codes/imcodes) - 代理人的即時通訊。共享代理人上下文和記憶，監督執行，跨AI提供商的代理人審計。
- * [agent-qa](https://github.com/vostride/agent-qa) - 為軟體團隊打造的自我改進QA代理人。具有記憶的測試工具。使用自然語言編寫網頁和移動應用的測試。代理人QA從每次運行中學習，適應UI變化，並在發布之前捕捉回歸問題。
+ * [Raven](https://github.com/evermind-ai/raven) - 採用EverOS建立的以記憶為先、自我改進的代理器，搭載MiroThinker強大的深度研究和推理功能。
 
 
-**Others**
- * [GoodMemory](https://github.com/hjqcan/goodmemory) - 本地優先，可審計的記憶層，適用於AI應用程序和編碼代理 - Codex，Claude Code，MCP，HTTP，TypeScript和Python。
+**Openai**
+ * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 公關代理：原始開源公關審查者。這個項目不是Qodo的免費版本。
 
 
-_Updated on July 21, 2026_ (A total of 2654 repositories listed.)
+_Updated on August 10, 2026_ (A total of 2664 repositories listed.)
 
 ## Table of contents
 
@@ -374,6 +384,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符處輸入一個想法，獲得一個答案 - 並運行它建議的命令。
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免費演示幻燈片設計.md，您可以將其粘貼到ChatGPT、Claude或您的任何AI工具中。
  * [headroom](https://github.com/headroomlabs-ai/headroom) - 在這些資料到達LLM之前，將壓縮工具輸出、日誌、檔案和RAG塊。減少60-95%的令牌，但結果相同。圖書館、代理、MCP伺服器。
+ * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - 針對蘋果矽片設計的最快本地AI引擎。比Ollama快4.2倍，0.08秒的緩存TTFT，100％的工具調用。17個工具解析器，提示緩存，推理分離，雲路由。可直接替換OpenAI。與Claude Code、Cursor、Aider兼容。
 
 
 ## Chatbots
@@ -760,6 +771,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地優先的AI助手，支援Telegram、Discord、WhatsApp和Slack
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一個易於設置的人工智能助手，全天候為您工作，了解您的喜好並隨著時間變得更好。
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨端交接、越用越懂你的桌面 AI 助手——也能服務化常駐、跑在雲上 | 桌面 AI 跨越設備，更了解您 — 也可在 NAS 或雲端上無頭運行
+ * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - 你的思維值得一張地圖：一個無限的畫布，LLM對話可以在其中成長為可編輯的思維圖。線條是上下文。
 
 
 ## Browser-extensions
@@ -1019,6 +1031,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [thClaws](https://github.com/thclaws/thclaws) - 開源AI代理程式，使用原生Rust語言 — GUI、CLI、無頭模式和Web應用程式皆可從單一二進制檔案中操作。支援多個供應商、MCP、技能、插件和代理團隊。
  * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI 工作流自動化插件，用於智能代碼生成，與 Claude/Codex 一起使用
  * [explyt](https://github.com/explyt/explyt) - JetBrains IDE的AI代理：调试器，重构和符号导航通过IDE - 更少的令牌，更精确
+ * [voyager](https://github.com/nagi-ovo/voyager) - Voyager - 一個針對 AI Studio、Gemini、Claude 和 ChatGPT 的全能增強套件：時間軸、文件夾、提示、使用追蹤、聊天導出、插件等功能。
 
 
 ## CLIs
@@ -1283,6 +1296,11 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-profiles](https://github.com/ducksss/codex-profiles) - 命名為CODEX_HOME的配置文件和ChatGPT桌面窗口具有獨立的本地狀態，不複製令牌。
  * [shob](https://github.com/shobcoder/shob) - Shob - 一個提供高質量編碼和自動化工作的人工智能代理
  * [nika](https://github.com/supernovae-st/nika) - 代碼意圖 | 用於人工智慧的工作流程語言。一個文件，4個動詞，一個Rust二進制文件。本地優先，任何模型，AGPL-3.0。🦋
+ * [codex-security](https://github.com/openai/codex-security) - OpenAI的Codex安全CLI和TypeScript SDK用於查找、驗證和修復安全漏洞。 npm: https://www.npmjs.com/package/@openai/codex-security
+ * [EchoBird](https://github.com/edison7009/echobird) - 一键安装+模型切换：克劳德代码，Codex CLI（OpenAI），Grok Build（xAI），Kimi Code（Moonshot），Qwen Code，Aider，OpenCode，MiMo Code（小米），ZCode（Z.AI），OpenClaw，Pi，OpenScience，Vibe-Trading，克劳德桌面（3P配置文件），ChatGPT桌面，OpenCode桌面
+ * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - 控制Gmail、Google日曆、文件、表格、幻燈片、聊天、表單、任務、搜索和驅動器與AI-全面的Google Workspace MCP服務器和CLI工具
+ * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
+ * [opencodex](https://github.com/lidge-jun/opencodex) - 為OpenAI Codex和Claude Code提供的通用提供者代理 - 使用Codex CLI、App、SDK和Claude Code中的任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama...）。
 
 
 ## Reimplementations
@@ -1780,6 +1798,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [screenpipe](https://github.com/screenpipe/screenpipe) - YC（S26）| 每天24小時記錄您的屏幕並連接到您的代理。本地、私密、安全。連接到OpenClaw、Hermes代理和100多個應用程式。
  * [imcodes](https://github.com/im4codes/imcodes) - 代理人的即時通訊。共享代理人上下文和記憶，監督執行，跨AI提供商的代理人審計。
  * [agent-qa](https://github.com/vostride/agent-qa) - 為軟體團隊打造的自我改進QA代理人。具有記憶的測試工具。使用自然語言編寫網頁和移動應用的測試。代理人QA從每次運行中學習，適應UI變化，並在發布之前捕捉回歸問題。
+ * [Raven](https://github.com/evermind-ai/raven) - 採用EverOS建立的以記憶為先、自我改進的代理器，搭載MiroThinker強大的深度研究和推理功能。
 
 
 ## Langchain
@@ -2314,6 +2333,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上運行OpenAI Codex桌面版-自動安裝程式
  * [Friday](https://github.com/thesongzhu/friday) - AI個人操作平台，用於監督、證據支持的自動化。
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基於 OpenAI gpt-image-2 API 的圖片生成與編輯工具
+ * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 公關代理：原始開源公關審查者。這個項目不是Qodo的免費版本。
 
 
 ## Others
