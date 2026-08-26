@@ -46,35 +46,36 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - Apple Silicon向けの最速のローカルAIエンジン。Ollamaよりも4.2倍高速で、0.08秒のキャッシュTTFT、100％のツール呼び出し。17のツールパーサー、プロンプトキャッシュ、推論分離、クラウドルーティング。OpenAIの代替として簡単に導入可能。Claude Code、Cursor、Aiderと連携可能。
+**Awesome-lists**
+ * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - 329エージェントスキル（カーソル、クロードコード＆コーデックス）、5,380のOpenClawスキル、201のMLノートブック、9冊の教科書、82本の研究論文、85のキュレーションされたプロジェクト、PM、デザイナー、開発者向けの18の業界レポート。
 
 
 **Chatbots**
- * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - あなたの考えは地図に値する：LLM会話が編集可能な思考グラフに成長する無限キャンバス。ワイヤーは文脈です。
-
-
-**Browser-extensions**
- * [voyager](https://github.com/nagi-ovo/voyager) - Voyager — AI Studio、Gemini、Claude＆ChatGPT向けのオールインワンエンハンスメントスイート：タイムライン、フォルダ、プロンプト、使用状況の追跡、チャットのエクスポート、プラグインなど。
+ * [ai](https://github.com/tanstack/ai) - 🤖 タイプセーフ、プロバイダに依存しないTypeScript AI SDKは、OpenAI、Anthropic、Gemini、React、Vue、Svelte、Solidを横断するストリーミングチャット、ツール呼び出し、エージェント、およびマルチモーダルアプリケーション向けです。
+ * [rakazo](https://github.com/elie222/rakazo) - オープンソースのGrok Botの代替品。自分自身のモデルとサンドボックスを選択してください。
+ * [Proma](https://github.com/proma-ai/proma) - プロマは、あなたのワークフローにシームレスな汎用エージェント体験をもたらします。100倍のプロフェッショナルと積極的なエージェント時代に向けて構築されています。
 
 
 **CLIs**
- * [codex-security](https://github.com/openai/codex-security) - OpenAIのCodex Security CLIおよびTypeScript SDKは、セキュリティの脆弱性を見つけて検証し修正するためのものです。npm: https://www.npmjs.com/package/@openai/codex-security
- * [EchoBird](https://github.com/edison7009/echobird) - ワンクリックインストール+モデル切り替え：クロードコード、コーデックスCLI（OpenAI）、Grok Build（xAI）、キミコード（ムーンショット）、クエンコード、アイダー、オープンコード、ミモコード（シャオミ）、Zコード（Z.AI）、オープンクロー、Pi、オープンサイエンス、バイブトレーディング、クロードデスクトップ（3Pプロファイル）、ChatGPTデスクトップ、オープンコードデスク
- * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - AIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツールAIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツール
- * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI駆動のデータベースツールとSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポートしています。
- * [opencodex](https://github.com/lidge-jun/opencodex) - OpenAI Codex＆Claude Code用のユニバーサルプロバイダープロキシー- Codex CLI、App、SDK、およびClaude Codeと一緒にLLM（Claude、Gemini、Grok、DeepSeek、Ollamaなど）を使用します。
+ * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - AI エージェント向けのエージェント駆動型のプロアクティブメモリCLI-セッション間で持続的でソースに根ざした知識を自律的に呼び出し、維持、進化させる。
 
 
 **NLP**
- * [Raven](https://github.com/evermind-ai/raven) - EverOSをベースに構築されたメモリーファーストで自己改善するエージェントハーネス、MiroThinkerによる深い研究と推論を搭載。
+ * [Switchyard](https://github.com/nvidia-nemo/switchyard) - Switchyardは、LLMアプリケーションがネイティブのOpenAIとAnthropic API互換性を保ちながら、モデルとプロバイダ間のトラフィックをルーティングできるようにします。これにより、柔軟なモデル選択、ベンチマーク、コスト/パフォーマンスの最適化が可能となります。
+ * [loushang](https://github.com/zhnt/loushang) - Pythonによるコーディングワークフロー用のAIネイティブエージェントハーネス：マルチモデルLLMオーケストレーション、状態保持セッション、ツールガバナンス、追跡可能な配信、およびGPT、Claude、DeepSeek、Qwen、Kimi、GLM、およびMiniMaxのプロバイダールーティング。
+ * [any-llm](https://github.com/mozilla-ai/any-llm) - 単一のインターフェースを使用してLLMプロバイダーと通信します。
+ * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - エージェント向けのローカルAIアプリと推論エンジン。オープンウェイトLLMsをローカルで実行 - プライベートで、コンピューター上で100％オフライン。Discordに参加してください：https://discord.com/invite/8wGSsvmg4V
 
 
 **Openai**
- * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PRエージェント：オリジナルのオープンソースPRレビュアー。このプロジェクトはQodoの無料ティアではありません。
+ * [FunASR](https://github.com/modelscope/funasr) - トレーニング、推論、ストリーミングASR、VAD、句読点、スピーカーダイアリゼーションパイプライン、およびOpenAI互換/MCPサービングのためのオープンソース音声認識ツールキット。
 
 
-_Updated on August 10, 2026_ (A total of 2664 repositories listed.)
+**Others**
+ * [uizze](https://github.com/uizze/uizze) - 無料のUIスキル4つ、重点を置いたUIZZE MCPの参照、コーディングエージェント向けの保守的なGitHubアクション。
+
+
+_Updated on August 27, 2026_ (A total of 2675 repositories listed.)
 
 ## Table of contents
 
@@ -191,6 +192,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - インディー製のAIスタートアップの厳選リスト - 自己資金調達、プリシード、エンジェルファンドの製品のみ。
  * [ai-models](https://github.com/i-need-token/ai-models) - 95のプロバイダーにわたる4,587のAIモデルの構造化されたYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。4,587のAIモデルを95のプロバイダーにわたって構造化したYAMLカタログ-価格、コンテキストウィンドウ、モダリティ、機能。 TypeScriptタイプとZod検証を備えたファーストパーティデータ。
  * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界最大のGPTイメージ2プロンプトライブラリ、毎日更新 - プレビュー画像付きの2000以上の厳選されたプロンプト、16言語。ピクセル完璧なテキストレンダリング、画像間の一貫性、商業用イラストを備えたOpenAIの次世代画像モデル。無料＆オープン
+ * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - 329エージェントスキル（カーソル、クロードコード＆コーデックス）、5,380のOpenClawスキル、201のMLノートブック、9冊の教科書、82本の研究論文、85のキュレーションされたプロジェクト、PM、デザイナー、開発者向けの18の業界レポート。
 
 
 ## Prompts
@@ -772,6 +774,9 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 簡単にセットアップできるAIアシスタントは、24時間365日あなたの仕事を行い、あなたの好みを知り、時間とともにより良くなります。
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭デバイス間で手を渡すデスクトップAIは、あなたをよりよく理解し、NASやクラウド上でヘッドレスで実行されることもあります。
  * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - あなたの考えは地図に値する：LLM会話が編集可能な思考グラフに成長する無限キャンバス。ワイヤーは文脈です。
+ * [ai](https://github.com/tanstack/ai) - 🤖 タイプセーフ、プロバイダに依存しないTypeScript AI SDKは、OpenAI、Anthropic、Gemini、React、Vue、Svelte、Solidを横断するストリーミングチャット、ツール呼び出し、エージェント、およびマルチモーダルアプリケーション向けです。
+ * [rakazo](https://github.com/elie222/rakazo) - オープンソースのGrok Botの代替品。自分自身のモデルとサンドボックスを選択してください。
+ * [Proma](https://github.com/proma-ai/proma) - プロマは、あなたのワークフローにシームレスな汎用エージェント体験をもたらします。100倍のプロフェッショナルと積極的なエージェント時代に向けて構築されています。
 
 
 ## Browser-extensions
@@ -1301,6 +1306,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - AIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツールAIを使用してGmail、Googleカレンダー、ドキュメント、シート、スライド、チャット、フォーム、タスク、検索＆ドライブを制御する -包括的なGoogle Workspace MCPサーバー＆CLIツール
  * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI駆動のデータベースツールとSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポートしています。
  * [opencodex](https://github.com/lidge-jun/opencodex) - OpenAI Codex＆Claude Code用のユニバーサルプロバイダープロキシー- Codex CLI、App、SDK、およびClaude Codeと一緒にLLM（Claude、Gemini、Grok、DeepSeek、Ollamaなど）を使用します。
+ * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - AI エージェント向けのエージェント駆動型のプロアクティブメモリCLI-セッション間で持続的でソースに根ざした知識を自律的に呼び出し、維持、進化させる。
 
 
 ## Reimplementations
@@ -1799,6 +1805,10 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [imcodes](https://github.com/im4codes/imcodes) - エージェント向けのIM。共有エージェントコンテキスト＆メモリ、監督された実行、AIプロバイダー間でのクロスエージェント監査。
  * [agent-qa](https://github.com/vostride/agent-qa) - ソフトウェアチーム向けの自己改善型QAエージェント。メモリを持つテストハーネス。Webやモバイル向けに自然言語でテストを書く。agent-qaは毎回学習し、UIの変更に適応し、出荷前にリグレッションをキャッチします。
  * [Raven](https://github.com/evermind-ai/raven) - EverOSをベースに構築されたメモリーファーストで自己改善するエージェントハーネス、MiroThinkerによる深い研究と推論を搭載。
+ * [Switchyard](https://github.com/nvidia-nemo/switchyard) - Switchyardは、LLMアプリケーションがネイティブのOpenAIとAnthropic API互換性を保ちながら、モデルとプロバイダ間のトラフィックをルーティングできるようにします。これにより、柔軟なモデル選択、ベンチマーク、コスト/パフォーマンスの最適化が可能となります。
+ * [loushang](https://github.com/zhnt/loushang) - Pythonによるコーディングワークフロー用のAIネイティブエージェントハーネス：マルチモデルLLMオーケストレーション、状態保持セッション、ツールガバナンス、追跡可能な配信、およびGPT、Claude、DeepSeek、Qwen、Kimi、GLM、およびMiniMaxのプロバイダールーティング。
+ * [any-llm](https://github.com/mozilla-ai/any-llm) - 単一のインターフェースを使用してLLMプロバイダーと通信します。
+ * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - エージェント向けのローカルAIアプリと推論エンジン。オープンウェイトLLMsをローカルで実行 - プライベートで、コンピューター上で100％オフライン。Discordに参加してください：https://discord.com/invite/8wGSsvmg4V
 
 
 ## Langchain
@@ -2334,6 +2344,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [Friday](https://github.com/thesongzhu/friday) - 監督された、証拠に基づいた自動化のためのAIパーソナルオペレーションプラットフォーム。
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - OpenAIのgpt-image-2 APIを使用した画像生成および編集ツール
  * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PRエージェント：オリジナルのオープンソースPRレビュアー。このプロジェクトはQodoの無料ティアではありません。
+ * [FunASR](https://github.com/modelscope/funasr) - トレーニング、推論、ストリーミングASR、VAD、句読点、スピーカーダイアリゼーションパイプライン、およびOpenAI互換/MCPサービングのためのオープンソース音声認識ツールキット。
 
 
 ## Others
@@ -2813,5 +2824,6 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - macOS上ですべてのAIコーディングエージェントを管理するためのダイナミックなアイランドスタイルのコマンドセンター。
  * [PriceAI](https://github.com/dimthink/priceai) - AI サブスクリプションカードネットワークチャネル価格比較ツール：ChatGPT、Claude、Gemini、Grokなど100以上のカードネットワークチャネルを集約し、在庫状況や元のサイトの購入リンクを表示する複数のチャネルの見積もりを表示します。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - AIアプリやコーディングエージェント向けのローカルファーストで監査可能なメモリレイヤー — Codex、Claude Code、MCP、HTTP、TypeScript、およびPython。
+ * [uizze](https://github.com/uizze/uizze) - 無料のUIスキル4つ、重点を置いたUIZZE MCPの参照、コーディングエージェント向けの保守的なGitHubアクション。
 
 
