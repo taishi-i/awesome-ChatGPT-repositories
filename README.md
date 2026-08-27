@@ -76,7 +76,7 @@ Run these two commands inside Claude Code:
 
 
 **Others**
- * [uizze](https://github.com/uizze/uizze) - Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.
+ * [uizze](https://github.com/uizze/uizze) - Three free UI skills and a remote MCP server for coding agents, grounded in 800,000+ real Web and iOS screens, plus a conservative GitHub Action.
 
 
 _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
@@ -2828,6 +2828,4 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - A Dynamic Island-style command center for managing all your AI coding agents on macOS.
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.
- * [uizze](https://github.com/uizze/uizze) - Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.
-
-
+ * [uizze](https://github.com/uizze/uizze) - Three free UI skills and a remote MCP server for coding agents, grounded in 800,000+ real Web and iOS screens, plus a conservative GitHub Action.
