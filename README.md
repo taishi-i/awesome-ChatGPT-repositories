@@ -79,6 +79,7 @@ Run these two commands inside Claude Code:
  * [uizze](https://github.com/uizze/uizze) - Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.
 
 
+
 _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
 
 ## Table of contents
@@ -1068,6 +1069,7 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [gptsh](https://github.com/shorwood/gptsh) - GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
  * [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
  * [ChatGPT-Next-Web](https://github.com/yidadaa/chatgpt-next-web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
+ * [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source TypeScript CLI and local MCP server that connects ChatGPT, Claude Code, Cursor, Codex, and other clients to 2,000+ AI models and APIs.
  * [ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
  * [chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
  * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Node.js client for Bing's new AI-powered search. It's like ChatGPT on steroids 🔥
@@ -2829,5 +2831,3 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [PriceAI](https://github.com/dimthink/priceai) - AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.
  * [uizze](https://github.com/uizze/uizze) - Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.
-
-
