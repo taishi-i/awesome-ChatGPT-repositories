@@ -46,35 +46,21 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - 适用于苹果芯片的最快本地AI引擎。比Ollama快4.2倍，缓存TTFT为0.08秒，100%工具调用。17个工具解析器，提示缓存，推理分离，云路由。可替代OpenAI。与Claude Code、Cursor、Aider兼容。
-
-
-**Chatbots**
- * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - 您的思维值得一张地图：一个无限的画布，LLM对话可以在其中发展成可编辑的思维图。线条是上下文。
-
-
-**Browser-extensions**
- * [voyager](https://github.com/nagi-ovo/voyager) - Voyager - 一个面向AI Studio、Gemini、Claude和ChatGPT的全能增强套件：时间轴、文件夹、提示、使用跟踪、聊天导出、插件等功能。
-
-
 **CLIs**
- * [codex-security](https://github.com/openai/codex-security) - OpenAI的Codex安全CLI和TypeScript SDK用于查找、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security
- * [EchoBird](https://github.com/edison7009/echobird) - 一键安装+模型切换：克劳德代码，Codex CLI（OpenAI），Grok Build（xAI），Kimi Code（Moonshot），Qwen Code，Aider，OpenCode，MiMo Code（小米），ZCode（Z.AI），OpenClaw，Pi，OpenScience，Vibe-Trading，克劳德桌面（3P配置文件），ChatGPT桌面，OpenCode桌。
- * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - 使用AI控制Gmail、Google日历、文档、表格、幻灯片、聊天、表单、任务、搜索和驱动器-全面的Google Workspace MCP服务器和CLI工具。
- * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 人工智能驱动的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等数据库。
- * [opencodex](https://github.com/lidge-jun/opencodex) - 为OpenAI Codex和Claude Code提供的通用提供者代理 - 使用Codex CLI、App、SDK和Claude Code中的任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama...）
-
-
-**NLP**
- * [Raven](https://github.com/evermind-ai/raven) - 基于EverOS构建的以记忆为先、自我改进的代理器，配备MiroThinker强大的深度研究和推理能力。
+ * [zero](https://github.com/gitlawb/zero) - 回答您的编码代理，您的模型，您的机器，您的规则。输出：回答您的编码代理，您的模型，您的机器，您的规则。
+ * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 演示] 保留格式的 PDF 科学论文翻译 - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 
 **Openai**
- * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 公关代理：原始开源公关评论员。这个项目不是Qodo的免费版。
+ * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - 一个以隐私为先的应用程序，可以去除您拥有内容上的AI水印。
 
 
-_Updated on August 10, 2026_ (A total of 2664 repositories listed.)
+**Others**
+ * [cccc](https://github.com/chesterra/cccc) - 将您的编码代理协调得像一个群聊一样——阅读回执、交付跟踪和远程操作都可以通过手机完成。只需一次pip安装，零基础设施。一个面向生产的24/7工作流编排器。
+ * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT思考。Codex工作。在保留Codex控制的同时，使用ChatGPT作为规划大脑。
+
+
+_Updated on August 31, 2026_ (A total of 2680 repositories listed.)
 
 ## Table of contents
 
@@ -191,6 +177,7 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - 一个由独立建立的人工智能初创公司组成的策划清单 - 仅包括自助、前种子和天使投资的产品。
  * [ai-models](https://github.com/i-need-token/ai-models) - 包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。输出：包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。
  * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界上最大的GPT图像2提示库，每天更新 - 2000多个精选提示与预览图像，支持16种语言。OpenAI的下一代图像模型具有像素完美的文本渲染，跨图像一致性和商业级插图。免费并开放。
+ * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - 329个代理技能（光标，克劳德代码和法典），5,380个OpenClaw技能，201个机器学习笔记本，9本教科书，82篇研究论文，85个策划项目，18份面向产品经理、设计师和开发人员的行业报告。
 
 
 ## Prompts
@@ -772,6 +759,9 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一个易于设置的AI助手，全天候为您工作，了解您的偏好，并随着时间的推移变得更加智能。
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨设备传递、更了解你的桌面 AI 助手——也可在NAS或云端无头运行
  * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - 您的思维值得一张地图：一个无限的画布，LLM对话可以在其中发展成可编辑的思维图。线条是上下文。
+ * [ai](https://github.com/tanstack/ai) - 🤖 适用于流式聊天、工具调用、代理和多模态应用的类型安全、提供者不可知的TypeScript AI SDK，可跨OpenAI、Anthropic、Gemini、React、Vue、Svelte和Solid。
+ * [rakazo](https://github.com/elie222/rakazo) - 开源的Grok Bot替代方案。选择您自己的模型和沙盒。
+ * [Proma](https://github.com/proma-ai/proma) - Proma为您的工作流程带来了无缝的通用代理体验。专为100×专业人士和主动代理时代而打造。
 
 
 ## Browser-extensions
@@ -1301,6 +1291,9 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - 使用AI控制Gmail、Google日历、文档、表格、幻灯片、聊天、表单、任务、搜索和驱动器-全面的Google Workspace MCP服务器和CLI工具。
  * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 人工智能驱动的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等数据库。
  * [opencodex](https://github.com/lidge-jun/opencodex) - 为OpenAI Codex和Claude Code提供的通用提供者代理 - 使用Codex CLI、App、SDK和Claude Code中的任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama...）
+ * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - 基于代理的主动记忆CLI用于AI代理-自主地在会话之间回忆、维护和演化持久的、源地知识。
+ * [zero](https://github.com/gitlawb/zero) - 回答您的编码代理，您的模型，您的机器，您的规则。输出：回答您的编码代理，您的模型，您的机器，您的规则。
+ * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 演示] 保留格式的 PDF 科学论文翻译 - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 
 ## Reimplementations
@@ -1799,6 +1792,10 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [imcodes](https://github.com/im4codes/imcodes) - 代理商的即时通讯。共享代理上下文和记忆，监督执行，并跨AI提供商进行代理审计。
  * [agent-qa](https://github.com/vostride/agent-qa) - 软件团队的自我改进QA代理。具有记忆的测试工具。用自然语言为Web和移动设备编写测试。代理QA从每次运行中学习，适应UI更改，并在您发布之前捕捉回归。
  * [Raven](https://github.com/evermind-ai/raven) - 基于EverOS构建的以记忆为先、自我改进的代理器，配备MiroThinker强大的深度研究和推理能力。
+ * [Switchyard](https://github.com/nvidia-nemo/switchyard) - Switchyard允许LLM应用程序在保留原生OpenAI和Anthropic API兼容性的同时，跨模型和提供商路由流量，从而实现灵活的模型选择、基准测试和成本/性能优化。
+ * [loushang](https://github.com/zhnt/loushang) - AI原生代理编码工作流的利用Python：多模型LLM编排、有状态会话、工具治理、可追溯交付，以及为GPT、Claude、DeepSeek、Qwen、Kimi、GLM和MiniMax提供路由。
+ * [any-llm](https://github.com/mozilla-ai/any-llm) - 使用单一界面与LLM提供商进行沟通
+ * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - 本地AI应用程序和推理引擎，用于代理商。在您的计算机上本地运行开放权重LLMs — 私人，100%离线。加入我们的Discord：https://discord.com/invite/8wGSsvmg4V
 
 
 ## Langchain
@@ -2334,6 +2331,8 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [Friday](https://github.com/thesongzhu/friday) - AI个人运营平台，监督、有证据支持的自动化。
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基于OpenAI gpt-image-2 API的图片生成与编辑工具
  * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 公关代理：原始开源公关评论员。这个项目不是Qodo的免费版。
+ * [FunASR](https://github.com/modelscope/funasr) - 开源语音识别工具包，用于训练、推断、流式ASR、VAD、标点符号、说话者分割管道，以及与OpenAI兼容/MCP服务。
+ * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - 一个以隐私为先的应用程序，可以去除您拥有内容上的AI水印。
 
 
 ## Others
@@ -2813,5 +2812,8 @@ _Updated on August 10, 2026_ (A total of 2664 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - 一个动态的岛屿风格指挥中心，用于管理macOS上所有的AI编码代理。
  * [PriceAI](https://github.com/dimthink/priceai) - AI订阅卡网渠道比价工具：汇集100多个卡网渠道，包括ChatGPT、Claude、Gemini、Grok等多个渠道的报价，展示有货的最低价、库存状态和原站购买链接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - 本地优先，可审计的内存层，适用于AI应用程序和编码代理 - Codex，Claude Code，MCP，HTTP，TypeScript和Python。
+ * [uizze](https://github.com/uizze/uizze) - 四种免费的UI技能，专注于UIZZE MCP参考资料，并为编码代理提供保守的GitHub操作。
+ * [cccc](https://github.com/chesterra/cccc) - 将您的编码代理协调得像一个群聊一样——阅读回执、交付跟踪和远程操作都可以通过手机完成。只需一次pip安装，零基础设施。一个面向生产的24/7工作流编排器。
+ * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT思考。Codex工作。在保留Codex控制的同时，使用ChatGPT作为规划大脑。
 
 
