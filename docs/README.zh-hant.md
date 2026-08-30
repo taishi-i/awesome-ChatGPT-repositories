@@ -46,36 +46,21 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - 329個代理技能（游標、克勞德代碼和代碼），5,380個OpenClaw技能，201個ML筆記本，9本教科書，82篇研究論文，85個精選項目，18份針對產品經理、設計師和開發人員的行業報告。
-
-
-**Chatbots**
- * [ai](https://github.com/tanstack/ai) - 🤖 針對流式聊天、工具呼叫、代理和多模應用程序的類型安全、提供者不可知的TypeScript AI SDK，跨越OpenAI、Anthropic、Gemini、React、Vue、Svelte和Solid。
- * [rakazo](https://github.com/elie222/rakazo) - 開源Grok Bot替代方案。選擇您自己的模型和沙盒。
- * [Proma](https://github.com/proma-ai/proma) - Proma 將無縫地將通用代理體驗帶入您的工作流程中。專為100×專業人士和積極主動的代理時代而打造。
-
-
 **CLIs**
- * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - 代理驅動的主動記憶CLI，用於AI代理——自主地在會話之間召回、維護和演進持久的、源自地的知識。
-
-
-**NLP**
- * [Switchyard](https://github.com/nvidia-nemo/switchyard) - Switchyard 讓 LLM 應用程式能夠在保留原生 OpenAI 和 Anthropic API 相容性的同時，跨模型和供應商路由流量 - 實現靈活的模型選擇、基準測試和成本/效能優化。
- * [loushang](https://github.com/zhnt/loushang) - AI原生代碼工作流程的代碼工具：多模型LLM協調、有狀態的會話、工具管理、可追踪的交付，以及GPT、Claude、DeepSeek、Qwen、Kimi、GLM和MiniMax的提供者路由。
- * [any-llm](https://github.com/mozilla-ai/any-llm) - 使用單一界面與LLM提供者溝通
- * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - 本地AI應用程式和推論引擎，適用於代理商。在您的計算機上本地運行開放權重LLMs — 私人、100%離線。加入我們的Discord：https://discord.com/invite/8wGSsvmg4V
+ * [zero](https://github.com/gitlawb/zero) - 回答您的编码代理，您的模型，您的机器，您的规则。
+ * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 Demo] 保留格式的 PDF 科學論文翻譯 - 基於 AI 完整保留排版的 PDF 文檔全文雙語翻譯，支持 Google/DeepL/Ollama/OpenAI 等服務，提供 CLI/GUI/MCP/Docker/Zotero
 
 
 **Openai**
- * [FunASR](https://github.com/modelscope/funasr) - 開源語音識別工具包，用於訓練、推斷、流式語音識別、語音活動檢測、標點符號、語者分割管道，以及與OpenAI兼容/MCP服務。
+ * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - 一個以隱私為先的應用程式，可以從您擁有的內容中去除AI水印。
 
 
 **Others**
- * [uizze](https://github.com/uizze/uizze) - 四種免費的UI技能，專注於UIZZE MCP參考資料，以及一個保守的GitHub Action用於編碼代理。
+ * [cccc](https://github.com/chesterra/cccc) - 將您的編碼代理協調得像一個群組聊天 - 閱讀回执、交付跟踪和遠程操作都可以從您的手機上進行。只需一個pip安裝，零基礎設施。一個針對生產的24/7工作流程設計的協調器。
+ * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT 思考。Codex 工作。在保持 Codex 控制的情况下，使用 ChatGPT 作为规划大脑。
 
 
-_Updated on August 27, 2026_ (A total of 2675 repositories listed.)
+_Updated on August 31, 2026_ (A total of 2680 repositories listed.)
 
 ## Table of contents
 
@@ -1307,6 +1292,8 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
  * [opencodex](https://github.com/lidge-jun/opencodex) - 為OpenAI Codex和Claude Code提供的通用提供者代理 - 使用Codex CLI、App、SDK和Claude Code中的任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama...）。
  * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - 代理驅動的主動記憶CLI，用於AI代理——自主地在會話之間召回、維護和演進持久的、源自地的知識。
+ * [zero](https://github.com/gitlawb/zero) - 回答您的编码代理，您的模型，您的机器，您的规则。
+ * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 Demo] 保留格式的 PDF 科學論文翻譯 - 基於 AI 完整保留排版的 PDF 文檔全文雙語翻譯，支持 Google/DeepL/Ollama/OpenAI 等服務，提供 CLI/GUI/MCP/Docker/Zotero
 
 
 ## Reimplementations
@@ -2345,6 +2332,7 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基於 OpenAI gpt-image-2 API 的圖片生成與編輯工具
  * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 公關代理：原始開源公關審查者。這個項目不是Qodo的免費版本。
  * [FunASR](https://github.com/modelscope/funasr) - 開源語音識別工具包，用於訓練、推斷、流式語音識別、語音活動檢測、標點符號、語者分割管道，以及與OpenAI兼容/MCP服務。
+ * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - 一個以隱私為先的應用程式，可以從您擁有的內容中去除AI水印。
 
 
 ## Others
@@ -2825,5 +2813,7 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [PriceAI](https://github.com/dimthink/priceai) - AI 訂閱卡網渠道比價工具：聚合100+卡網渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道報價，展示有貨最低價、庫存狀態和原站購買鏈接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - 本地優先，可審計的記憶層，適用於AI應用程序和編碼代理 - Codex，Claude Code，MCP，HTTP，TypeScript和Python。
  * [uizze](https://github.com/uizze/uizze) - 四種免費的UI技能，專注於UIZZE MCP參考資料，以及一個保守的GitHub Action用於編碼代理。
+ * [cccc](https://github.com/chesterra/cccc) - 將您的編碼代理協調得像一個群組聊天 - 閱讀回执、交付跟踪和遠程操作都可以從您的手機上進行。只需一個pip安裝，零基礎設施。一個針對生產的24/7工作流程設計的協調器。
+ * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT 思考。Codex 工作。在保持 Codex 控制的情况下，使用 ChatGPT 作为规划大脑。
 
 
