@@ -50,36 +50,21 @@ Run these two commands inside Claude Code:
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - 329 agent skills (Cursor, Claude Code & Codex), 5,380 OpenClaw skills, 201 ML notebooks, 9 textbooks, 82 research papers, 85 curated projects, 18 industry reports for PMs, Designers & Developers.
-
-
-**Chatbots**
- * [ai](https://github.com/tanstack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
- * [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
- * [Proma](https://github.com/proma-ai/proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
-
-
 **CLIs**
- * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - Agent-driven proactive memory CLI for AI agents — autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.
-
-
-**NLP**
- * [Switchyard](https://github.com/nvidia-nemo/switchyard) - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
- * [loushang](https://github.com/zhnt/loushang) - AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.
- * [any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
- * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
+ * [zero](https://github.com/gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
+ * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 
 **Openai**
- * [FunASR](https://github.com/modelscope/funasr) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
+ * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 
 
 **Others**
- * [uizze](https://github.com/uizze/uizze) - Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.
+ * [cccc](https://github.com/chesterra/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
+ * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
 
-_Updated on August 27, 2026_ (A total of 2675 repositories listed.)
+_Updated on August 31, 2026_ (A total of 2680 repositories listed.)
 
 ## Table of contents
 
@@ -1311,6 +1296,8 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
  * [opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
  * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - Agent-driven proactive memory CLI for AI agents — autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.
+ * [zero](https://github.com/gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
+ * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 
 ## Reimplementations
@@ -2349,6 +2336,7 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - Image generation and editing tool based on OpenAI gpt-image-2 API
  * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
  * [FunASR](https://github.com/modelscope/funasr) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
+ * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 
 
 ## Others
@@ -2829,5 +2817,7 @@ _Updated on August 27, 2026_ (A total of 2675 repositories listed.)
  * [PriceAI](https://github.com/dimthink/priceai) - AI Subscription Card Network Channel Price Comparison Tool: Aggregates 100+ card network channels including ChatGPT, Claude, Gemini, Grok, and more to display the lowest price with available stock status and original site purchase link.
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - Local-first, auditable memory layer for AI apps and coding agents — Codex, Claude Code, MCP, HTTP, TypeScript, and Python.
  * [uizze](https://github.com/uizze/uizze) - Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.
+ * [cccc](https://github.com/chesterra/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
+ * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
 

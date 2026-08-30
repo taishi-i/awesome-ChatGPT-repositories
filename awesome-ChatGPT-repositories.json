@@ -30942,6 +30942,68 @@
                     "zh-hans": "基于代理的主动记忆CLI用于AI代理-自主地在会话之间回忆、维护和演化持久的、源地知识。",
                     "zh-hant": "代理驅動的主動記憶CLI，用於AI代理——自主地在會話之間召回、維護和演進持久的、源自地的知識。"
                 }
+            },
+            "https://github.com/gitlawb/zero": {
+                "repository_name": "zero",
+                "user_name": "Gitlawb",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "The coding agent that answers to you, your model, your machine, your rules.",
+                "topics": [
+                    "ai",
+                    "ai-agent",
+                    "anthropic",
+                    "cli",
+                    "code-assistant",
+                    "coding-agent",
+                    "developer-tools",
+                    "gemini",
+                    "llm",
+                    "mcp",
+                    "ollama",
+                    "openai",
+                    "terminal"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The coding agent that answers to you, your model, your machine, your rules.",
+                    "ja": "あなたに答えるコーディングエージェント、あなたのモデル、あなたの機械、あなたのルール。あなたに答えるコーディングエージェント、あなたのモデル、あなたの機械、あなたのルール。",
+                    "zh-hans": "回答您的编码代理，您的模型，您的机器，您的规则。输出：回答您的编码代理，您的模型，您的机器，您的规则。",
+                    "zh-hant": "回答您的编码代理，您的模型，您的机器，您的规则。"
+                }
+            },
+            "https://github.com/pdfmathtranslate/pdfmathtranslate": {
+                "repository_name": "PDFMathTranslate",
+                "user_name": "PDFMathTranslate",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+                "topics": [
+                    "chinese",
+                    "document",
+                    "edit",
+                    "english",
+                    "japanese",
+                    "korean",
+                    "latex",
+                    "math",
+                    "mcp",
+                    "modify",
+                    "obsidian",
+                    "openai",
+                    "pdf",
+                    "pdf2zh",
+                    "python",
+                    "russian",
+                    "translate",
+                    "translation",
+                    "zotero"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+                    "ja": "[EMNLP 2025 デモ] PDF 科学論文の形式を保持した翻訳 - AI を使用して PDF ドキュメントの形式を保持した全文翻訳を行います。Google/DeepL/Ollama/OpenAI などのサービスをサポートし、CLI/GUI/MCP/Docker/Zotero を提供します。",
+                    "zh-hans": "[EMNLP 2025 演示] 保留格式的 PDF 科学论文翻译 - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+                    "zh-hant": "[EMNLP 2025 Demo] 保留格式的 PDF 科學論文翻譯 - 基於 AI 完整保留排版的 PDF 文檔全文雙語翻譯，支持 Google/DeepL/Ollama/OpenAI 等服務，提供 CLI/GUI/MCP/Docker/Zotero"
+                }
             }
         },
         "Reimplementations": {
@@ -55322,6 +55384,36 @@
                     "zh-hans": "开源语音识别工具包，用于训练、推断、流式ASR、VAD、标点符号、说话者分割管道，以及与OpenAI兼容/MCP服务。",
                     "zh-hant": "開源語音識別工具包，用於訓練、推斷、流式語音識別、語音活動檢測、標點符號、語者分割管道，以及與OpenAI兼容/MCP服務。"
                 }
+            },
+            "https://github.com/guillaumemeyer/watermarks-remover": {
+                "repository_name": "watermarks-remover",
+                "user_name": "guillaumemeyer",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A privacy-first app that strips AI watermarks from content you own.",
+                "topics": [
+                    "agent-skill",
+                    "ai",
+                    "anthropic",
+                    "c2pa",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "openai",
+                    "provenance",
+                    "synthid",
+                    "watermark",
+                    "watermark-detection",
+                    "watermark-tools",
+                    "watermarking",
+                    "watermarks"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A privacy-first app that strips AI watermarks from content you own.",
+                    "ja": "所有するコンテンツからAIウォーターマークを削除するプライバシー重視のアプリ。",
+                    "zh-hans": "一个以隐私为先的应用程序，可以去除您拥有内容上的AI水印。",
+                    "zh-hant": "一個以隱私為先的應用程式，可以從您擁有的內容中去除AI水印。"
+                }
             }
         },
         "Others": {
@@ -64823,6 +64915,53 @@
                     "ja": "無料のUIスキル4つ、重点を置いたUIZZE MCPの参照、コーディングエージェント向けの保守的なGitHubアクション。",
                     "zh-hans": "四种免费的UI技能，专注于UIZZE MCP参考资料，并为编码代理提供保守的GitHub操作。",
                     "zh-hant": "四種免費的UI技能，專注於UIZZE MCP參考資料，以及一個保守的GitHub Action用於編碼代理。"
+                }
+            },
+            "https://github.com/chesterra/cccc": {
+                "repository_name": "cccc",
+                "user_name": "ChesterRa",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow",
+                "topics": [
+                    "ai-agents",
+                    "chatgpt",
+                    "claude-code",
+                    "codex-cli",
+                    "gemini-cli",
+                    "group-chat",
+                    "llm-orchestration",
+                    "local-first",
+                    "multi-agent",
+                    "opencode",
+                    "zero-infra"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow",
+                    "ja": "コーディングエージェントをグループチャットのように調整 - 読み取り通知、配信追跡、および電話からのリモート操作。1つのpip install、ゼロインフラストラクチャ。24時間365日のワークフローのためのプロダクション志向のオーケストレータ。",
+                    "zh-hans": "将您的编码代理协调得像一个群聊一样——阅读回执、交付跟踪和远程操作都可以通过手机完成。只需一次pip安装，零基础设施。一个面向生产的24/7工作流编排器。",
+                    "zh-hant": "將您的編碼代理協調得像一個群組聊天 - 閱讀回执、交付跟踪和遠程操作都可以從您的手機上進行。只需一個pip安裝，零基礎設施。一個針對生產的24/7工作流程設計的協調器。"
+                }
+            },
+            "https://github.com/xiaoduoya/codex-with-chatgpt": {
+                "repository_name": "codex-with-chatgpt",
+                "user_name": "XiaoDuoYa",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+                "topics": [
+                    "ai-agents",
+                    "chatgpt",
+                    "codex",
+                    "mcp",
+                    "model-context-protocol",
+                    "oauth"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+                    "ja": "ChatGPTは考えます。Codexは動作します。Codexのハーネスを保持しながら、ChatGPTを計画の脳として使用します。",
+                    "zh-hans": "ChatGPT思考。Codex工作。在保留Codex控制的同时，使用ChatGPT作为规划大脑。",
+                    "zh-hant": "ChatGPT 思考。Codex 工作。在保持 Codex 控制的情况下，使用 ChatGPT 作为规划大脑。"
                 }
             }
         }
