@@ -1247,7 +1247,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [snow-cli](https://github.com/mayday-wpf/snow-cli) - Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
  * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - my curated agent skills library
  * [superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
- * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.
+ * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Open-source governance layer for AI agents. Deterministic scheduling, git worktree isolation, HMAC audit trail, MCP server mode.
  * [paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
  * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
  * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
