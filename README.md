@@ -1369,6 +1369,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
  * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
  * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+ * [codex-howto](https://github.com/Phelan164/codex-howto) - Engineering-first OpenAI Codex guide covering setup, AGENTS.md, skills, testing, review, DevOps, orchestration, and a review-first Living Wiki.
 
 
 ## NLP
@@ -2819,5 +2820,4 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [uizze](https://github.com/uizze/uizze) - Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.
  * [cccc](https://github.com/chesterra/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
  * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-
 
