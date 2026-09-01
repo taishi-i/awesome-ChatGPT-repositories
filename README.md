@@ -1030,6 +1030,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
 
 ## CLIs
 
+ * [Tura](https://github.com/Tura-AI/tura) - Build agent that uses 80% less token and delivers better results.
  * [ChatGPT](https://github.com/acheong08/chatgpt) - Reverse engineered ChatGPT API
  * [shell_gpt](https://github.com/ther1d/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
