@@ -762,6 +762,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [CrustAI](https://github.com/davesimoes/crustai) - Private, local-first AI assistant with Telegram, Discord, WhatsApp and Slack
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨端交接、越用越懂你的桌面 AI 助手——也能服务化常驻、跑在云上 | Desktop AI that hands off across your devices and gets to know you better — also runs headless on a NAS or in the cloud
+ * [Scowld](https://github.com/apoorvdarshan/scowld) - Native SwiftUI AI voice companion with animated characters, optional vision, saved conversations, and bring-your-own model and speech providers.
  * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.
  * [ai](https://github.com/tanstack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
  * [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
