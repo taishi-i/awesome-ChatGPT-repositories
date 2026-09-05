@@ -1032,6 +1032,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
 ## CLIs
 
  * [FutureOS](https://github.com/futuregene/future-os) - One AI agent everywhere: a single Rust backend drives terminal UI, desktop, mobile, CLI, and IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models, loop control plane for 24h+ runs.
+ * [codex-provider-switcher](https://github.com/RomaCredit/codex-provider-switcher) - Switch Codex Desktop provider profiles without losing project conversation history; repairs `model_provider` metadata in local session storage.
  * [ChatGPT](https://github.com/acheong08/chatgpt) - Reverse engineered ChatGPT API
  * [shell_gpt](https://github.com/ther1d/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
