@@ -51,6 +51,7 @@ Run these two commands inside Claude Code:
 ## The latest additions 🎉
 
 **CLIs**
+ * [YYLO CLI](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents with receipt-backed repository changes and typed validation, merge, and release boundaries. Runs Pi and Codex.
  * [FutureOS](https://github.com/futuregene/future-os) - One AI agent everywhere: terminal UI, desktop, mobile, CLI, and IM bots from one Rust backend. Approval-gated tools, 3,800+ models.
  * [zero](https://github.com/gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
  * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -1031,6 +1032,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
 
 ## CLIs
 
+ * [YYLO CLI](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. Typed task, validation, merge, and release-readiness boundaries in a dedicated branch/worktree, with a risk-based merge queue. Runs Pi and Codex subagents.
  * [FutureOS](https://github.com/futuregene/future-os) - One AI agent everywhere: a single Rust backend drives terminal UI, desktop, mobile, CLI, and IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models, loop control plane for 24h+ runs.
  * [ChatGPT](https://github.com/acheong08/chatgpt) - Reverse engineered ChatGPT API
  * [shell_gpt](https://github.com/ther1d/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
