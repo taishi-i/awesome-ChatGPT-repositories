@@ -46,21 +46,27 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - 使用技能审计和重写内容，以消除AI写作模式。与您喜爱的代理一起使用，包括克劳德代码、OpenClaw、Codex和Hermes。
+
+
 **CLIs**
- * [zero](https://github.com/gitlawb/zero) - 回答您的编码代理，您的模型，您的机器，您的规则。输出：回答您的编码代理，您的模型，您的机器，您的规则。
- * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 演示] 保留格式的 PDF 科学论文翻译 - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+ * [herdr](https://github.com/herdrdev/herdr) - 您的编码代理程序运行的时间输出：您的编码代理程序运行的时间
+ * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多代理实现全自动AI小说生成
+ * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ 从您的终端跟踪AI编码代理的令牌使用情况。🏅 全球排行榜，跟踪了数万亿个令牌。
 
 
-**Openai**
- * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - 一个以隐私为先的应用程序，可以去除您拥有内容上的AI水印。
+**NLP**
+ * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能代码智能MCP服务器。将代码库索引到持久知识图中 - 平均存储库在毫秒内。支持158种语言，子毫秒查询，减少99%的令牌。单一静态二进制文件，零依赖。
 
 
 **Others**
- * [cccc](https://github.com/chesterra/cccc) - 将您的编码代理协调得像一个群聊一样——阅读回执、交付跟踪和远程操作都可以通过手机完成。只需一次pip安装，零基础设施。一个面向生产的24/7工作流编排器。
- * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT思考。Codex工作。在保留Codex控制的同时，使用ChatGPT作为规划大脑。
+ * [loopx](https://github.com/huangruiteng/loopx) - 长期视角代理控制平面，用于在Codex、Claude Code和其他工具中进行持久、受控的工作。
+ * [atlas](https://github.com/pacifio/atlas) - 代理商的源代码控制。使用多个编码代理，跟踪他们的更改并在一个地方查询它们。
+ * [Maestro](https://github.com/runmaestro/maestro) - 代理编排命令中心
 
 
-_Updated on August 31, 2026_ (A total of 2680 repositories listed.)
+_Updated on September 07, 2026_ (A total of 2689 repositories listed.)
 
 ## Table of contents
 
@@ -372,6 +378,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免费演示幻灯片设计.md，您可以粘贴到ChatGPT、Claude或您的任何AI工具中。
  * [headroom](https://github.com/headroomlabs-ai/headroom) - 在输出到LLM之前，压缩工具会压缩输出、日志、文件和RAG块。减少60-95%的令牌数量，但答案保持不变。包括图书馆、代理和MCP服务器。
  * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - 适用于苹果芯片的最快本地AI引擎。比Ollama快4.2倍，缓存TTFT为0.08秒，100%工具调用。17个工具解析器，提示缓存，推理分离，云路由。可替代OpenAI。与Claude Code、Cursor、Aider兼容。
+ * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - 使用技能审计和重写内容，以消除AI写作模式。与您喜爱的代理一起使用，包括克劳德代码、OpenClaw、Codex和Hermes。
 
 
 ## Chatbots
@@ -1294,6 +1301,9 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - 基于代理的主动记忆CLI用于AI代理-自主地在会话之间回忆、维护和演化持久的、源地知识。
  * [zero](https://github.com/gitlawb/zero) - 回答您的编码代理，您的模型，您的机器，您的规则。输出：回答您的编码代理，您的模型，您的机器，您的规则。
  * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 演示] 保留格式的 PDF 科学论文翻译 - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+ * [herdr](https://github.com/herdrdev/herdr) - 您的编码代理程序运行的时间输出：您的编码代理程序运行的时间
+ * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多代理实现全自动AI小说生成
+ * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ 从您的终端跟踪AI编码代理的令牌使用情况。🏅 全球排行榜，跟踪了数万亿个令牌。
 
 
 ## Reimplementations
@@ -1796,6 +1806,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [loushang](https://github.com/zhnt/loushang) - AI原生代理编码工作流的利用Python：多模型LLM编排、有状态会话、工具治理、可追溯交付，以及为GPT、Claude、DeepSeek、Qwen、Kimi、GLM和MiniMax提供路由。
  * [any-llm](https://github.com/mozilla-ai/any-llm) - 使用单一界面与LLM提供商进行沟通
  * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - 本地AI应用程序和推理引擎，用于代理商。在您的计算机上本地运行开放权重LLMs — 私人，100%离线。加入我们的Discord：https://discord.com/invite/8wGSsvmg4V
+ * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能代码智能MCP服务器。将代码库索引到持久知识图中 - 平均存储库在毫秒内。支持158种语言，子毫秒查询，减少99%的令牌。单一静态二进制文件，零依赖。
 
 
 ## Langchain
@@ -2815,5 +2826,8 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [uizze](https://github.com/uizze/uizze) - 四种免费的UI技能，专注于UIZZE MCP参考资料，并为编码代理提供保守的GitHub操作。
  * [cccc](https://github.com/chesterra/cccc) - 将您的编码代理协调得像一个群聊一样——阅读回执、交付跟踪和远程操作都可以通过手机完成。只需一次pip安装，零基础设施。一个面向生产的24/7工作流编排器。
  * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT思考。Codex工作。在保留Codex控制的同时，使用ChatGPT作为规划大脑。
+ * [loopx](https://github.com/huangruiteng/loopx) - 长期视角代理控制平面，用于在Codex、Claude Code和其他工具中进行持久、受控的工作。
+ * [atlas](https://github.com/pacifio/atlas) - 代理商的源代码控制。使用多个编码代理，跟踪他们的更改并在一个地方查询它们。
+ * [Maestro](https://github.com/runmaestro/maestro) - 代理编排命令中心
 
 
