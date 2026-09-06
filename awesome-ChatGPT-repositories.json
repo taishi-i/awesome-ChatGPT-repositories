@@ -7557,6 +7557,28 @@
                     "zh-hans": "适用于苹果芯片的最快本地AI引擎。比Ollama快4.2倍，缓存TTFT为0.08秒，100%工具调用。17个工具解析器，提示缓存，推理分离，云路由。可替代OpenAI。与Claude Code、Cursor、Aider兼容。",
                     "zh-hant": "針對蘋果矽片設計的最快本地AI引擎。比Ollama快4.2倍，0.08秒的緩存TTFT，100％的工具調用。17個工具解析器，提示緩存，推理分離，雲路由。可直接替換OpenAI。與Claude Code、Cursor、Aider兼容。"
                 }
+            },
+            "https://github.com/conorbronsdon/avoid-ai-writing": {
+                "repository_name": "avoid-ai-writing",
+                "user_name": "conorbronsdon",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+                "topics": [
+                    "ai-writing",
+                    "claude",
+                    "claude-code",
+                    "llm",
+                    "prompt-engineering",
+                    "skill",
+                    "writing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+                    "ja": "AIライティングパターンを削除するためにコンテンツを監査および書き直すスキル。Claude Code、OpenClaw、Codex、Hermesなど、お気に入りのエージェントと一緒に使用してください。",
+                    "zh-hans": "使用技能审计和重写内容，以消除AI写作模式。与您喜爱的代理一起使用，包括克劳德代码、OpenClaw、Codex和Hermes。",
+                    "zh-hant": "使用技能來審核和重寫內容，以消除人工智慧寫作模式。與您喜歡的代理人一起使用，包括克勞德代碼、OpenClaw、Codex和Hermes。"
+                }
             }
         },
         "Chatbots": {
@@ -31004,6 +31026,96 @@
                     "zh-hans": "[EMNLP 2025 演示] 保留格式的 PDF 科学论文翻译 - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
                     "zh-hant": "[EMNLP 2025 Demo] 保留格式的 PDF 科學論文翻譯 - 基於 AI 完整保留排版的 PDF 文檔全文雙語翻譯，支持 Google/DeepL/Ollama/OpenAI 等服務，提供 CLI/GUI/MCP/Docker/Zotero"
                 }
+            },
+            "https://github.com/herdrdev/herdr": {
+                "repository_name": "herdr",
+                "user_name": "herdrdev",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "the runtime your coding agents live on",
+                "topics": [
+                    "agent",
+                    "agent-orchestration",
+                    "ai",
+                    "ai-agents",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "coding-agents",
+                    "developer-tools",
+                    "devtools",
+                    "multiplexer",
+                    "rust",
+                    "terminal",
+                    "terminal-multiplexer",
+                    "terminal-ui",
+                    "tmux",
+                    "tui",
+                    "workspace-manager"
+                ],
+                "multilingual_descriptions": {
+                    "en": "the runtime your coding agents live on",
+                    "ja": "コーディングエージェントが稼働する時間ランタイム",
+                    "zh-hans": "您的编码代理程序运行的时间输出：您的编码代理程序运行的时间",
+                    "zh-hant": "您的编码代理程序运行时间"
+                }
+            },
+            "https://github.com/voocel/ainovel-cli": {
+                "repository_name": "ainovel-cli",
+                "user_name": "voocel",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "✨多agent实现全自动AI小说生成",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-agents",
+                    "go",
+                    "llm",
+                    "novel",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "✨Multiple agents achieve fully automatic AI novel generation",
+                    "ja": "✨多エージェントによる完全自動AI小説生成",
+                    "zh-hans": "✨多代理实现全自动AI小说生成",
+                    "zh-hant": "✨多agent實現全自動AI小說生成"
+                }
+            },
+            "https://github.com/junhoyeo/tokscale": {
+                "repository_name": "tokscale",
+                "user_name": "junhoyeo",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ampcode",
+                    "claude",
+                    "claude-code",
+                    "clawdbot",
+                    "codex",
+                    "cursor",
+                    "cursor-ide",
+                    "droid",
+                    "gemini",
+                    "gemini-cli",
+                    "gpt",
+                    "hermes",
+                    "moltbot",
+                    "oh",
+                    "openclaw",
+                    "opencode",
+                    "opentui",
+                    "token-usage"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.",
+                    "ja": "🛰️ ターミナルからAIコーディングエージェントのトークン使用状況を追跡します。🏅 何兆ものトークンが追跡されたグローバルリーダーボード。",
+                    "zh-hans": "🛰️ 从您的终端跟踪AI编码代理的令牌使用情况。🏅 全球排行榜，跟踪了数万亿个令牌。",
+                    "zh-hant": "🛰️ 從您的終端機追蹤AI編碼代理的令牌使用情況。🏅 全球排行榜，追踪數以萬計的令牌。"
+                }
             }
         },
         "Reimplementations": {
@@ -42832,6 +42944,41 @@
                     "ja": "エージェント向けのローカルAIアプリと推論エンジン。オープンウェイトLLMsをローカルで実行 - プライベートで、コンピューター上で100％オフライン。Discordに参加してください：https://discord.com/invite/8wGSsvmg4V",
                     "zh-hans": "本地AI应用程序和推理引擎，用于代理商。在您的计算机上本地运行开放权重LLMs — 私人，100%离线。加入我们的Discord：https://discord.com/invite/8wGSsvmg4V",
                     "zh-hant": "本地AI應用程式和推論引擎，適用於代理商。在您的計算機上本地運行開放權重LLMs — 私人、100%離線。加入我們的Discord：https://discord.com/invite/8wGSsvmg4V"
+                }
+            },
+            "https://github.com/deusdata/codebase-memory-mcp": {
+                "repository_name": "codebase-memory-mcp",
+                "user_name": "DeusData",
+                "language": "C",
+                "license": "MIT License",
+                "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+                "topics": [
+                    "aider",
+                    "ast",
+                    "claude-code",
+                    "code-analysis",
+                    "code-intelligence",
+                    "codex",
+                    "cursor",
+                    "cypher",
+                    "developer-tools",
+                    "gemini-cli",
+                    "graph-visualization",
+                    "kilocode",
+                    "knowledge-graph",
+                    "mcp",
+                    "mcp-server",
+                    "model-context-protocol",
+                    "opencode",
+                    "sqlite",
+                    "tree-sitter",
+                    "windsurf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+                    "ja": "高性能なコードインテリジェンスMCPサーバー。コードベースを永続的な知識グラフにインデックス化します- 平均リポジトリはミリ秒単位です。158言語、サブミリ秒のクエリ、トークン数が99％減少します。単一の静的バイナリ、依存関係なし。",
+                    "zh-hans": "高性能代码智能MCP服务器。将代码库索引到持久知识图中 - 平均存储库在毫秒内。支持158种语言，子毫秒查询，减少99%的令牌。单一静态二进制文件，零依赖。",
+                    "zh-hant": "高性能代碼智能MCP服務器。將代碼庫索引到持久知識圖中 - 平均庫在毫秒內。支持158種語言，子毫秒查詢，減少99%的令牌。單一靜態二進制文件，零依賴性。"
                 }
             }
         },
@@ -64962,6 +65109,82 @@
                     "ja": "ChatGPTは考えます。Codexは動作します。Codexのハーネスを保持しながら、ChatGPTを計画の脳として使用します。",
                     "zh-hans": "ChatGPT思考。Codex工作。在保留Codex控制的同时，使用ChatGPT作为规划大脑。",
                     "zh-hant": "ChatGPT 思考。Codex 工作。在保持 Codex 控制的情况下，使用 ChatGPT 作为规划大脑。"
+                }
+            },
+            "https://github.com/huangruiteng/loopx": {
+                "repository_name": "loopx",
+                "user_name": "huangruiteng",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
+                "topics": [
+                    "agent-control-plane",
+                    "agent-harness",
+                    "agent-ops",
+                    "ai-agents",
+                    "codex",
+                    "dsh-plugin",
+                    "long-horizon",
+                    "long-horizon-agents",
+                    "loop-engineering",
+                    "loopx",
+                    "workflow-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.",
+                    "ja": "耐久性のある、統治された作業を行うための長期エージェント制御プレーン、Codex、Claude Code、および他のハーネスを横断する。",
+                    "zh-hans": "长期视角代理控制平面，用于在Codex、Claude Code和其他工具中进行持久、受控的工作。",
+                    "zh-hant": "長期代理控制平面，用於Codex、Claude Code和其他工具的持久、受管工作。"
+                }
+            },
+            "https://github.com/pacifio/atlas": {
+                "repository_name": "atlas",
+                "user_name": "pacifio",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+                "topics": [
+                    "ai",
+                    "ai-coding-assistant",
+                    "claude-code",
+                    "codex",
+                    "coding-agents",
+                    "git",
+                    "gitops",
+                    "kilo-code",
+                    "mcp",
+                    "mcp-client",
+                    "opencode",
+                    "opencode-ai",
+                    "opencode-skills",
+                    "self-hosted",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+                    "ja": "エージェントのためのソースコントロール。複数のコーディングエージェントを使用し、彼らの変更を追跡し、1か所でクエリする。",
+                    "zh-hans": "代理商的源代码控制。使用多个编码代理，跟踪他们的更改并在一个地方查询它们。",
+                    "zh-hant": "代理商的源代碼控制。使用多個編碼代理商，跟踪他們的更改並在一個地方查詢它們。"
+                }
+            },
+            "https://github.com/runmaestro/maestro": {
+                "repository_name": "Maestro",
+                "user_name": "RunMaestro",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Agent Orchestration Command Center",
+                "topics": [
+                    "ai-agents",
+                    "claude-code",
+                    "codex",
+                    "generative-ai",
+                    "opencode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Agent Orchestration Command Center",
+                    "ja": "エージェントオーケストレーションコマンドセンター",
+                    "zh-hans": "代理编排命令中心",
+                    "zh-hant": "代理人编排指挥中心"
                 }
             }
         }

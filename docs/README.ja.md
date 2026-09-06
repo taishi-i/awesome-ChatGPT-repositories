@@ -46,21 +46,27 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - AIライティングパターンを削除するためにコンテンツを監査および書き直すスキル。Claude Code、OpenClaw、Codex、Hermesなど、お気に入りのエージェントと一緒に使用してください。
+
+
 **CLIs**
- * [zero](https://github.com/gitlawb/zero) - あなたに答えるコーディングエージェント、あなたのモデル、あなたの機械、あなたのルール。あなたに答えるコーディングエージェント、あなたのモデル、あなたの機械、あなたのルール。
- * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 デモ] PDF 科学論文の形式を保持した翻訳 - AI を使用して PDF ドキュメントの形式を保持した全文翻訳を行います。Google/DeepL/Ollama/OpenAI などのサービスをサポートし、CLI/GUI/MCP/Docker/Zotero を提供します。
+ * [herdr](https://github.com/herdrdev/herdr) - コーディングエージェントが稼働する時間ランタイム
+ * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多エージェントによる完全自動AI小説生成
+ * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ ターミナルからAIコーディングエージェントのトークン使用状況を追跡します。🏅 何兆ものトークンが追跡されたグローバルリーダーボード。
 
 
-**Openai**
- * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - 所有するコンテンツからAIウォーターマークを削除するプライバシー重視のアプリ。
+**NLP**
+ * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能なコードインテリジェンスMCPサーバー。コードベースを永続的な知識グラフにインデックス化します- 平均リポジトリはミリ秒単位です。158言語、サブミリ秒のクエリ、トークン数が99％減少します。単一の静的バイナリ、依存関係なし。
 
 
 **Others**
- * [cccc](https://github.com/chesterra/cccc) - コーディングエージェントをグループチャットのように調整 - 読み取り通知、配信追跡、および電話からのリモート操作。1つのpip install、ゼロインフラストラクチャ。24時間365日のワークフローのためのプロダクション志向のオーケストレータ。
- * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPTは考えます。Codexは動作します。Codexのハーネスを保持しながら、ChatGPTを計画の脳として使用します。
+ * [loopx](https://github.com/huangruiteng/loopx) - 耐久性のある、統治された作業を行うための長期エージェント制御プレーン、Codex、Claude Code、および他のハーネスを横断する。
+ * [atlas](https://github.com/pacifio/atlas) - エージェントのためのソースコントロール。複数のコーディングエージェントを使用し、彼らの変更を追跡し、1か所でクエリする。
+ * [Maestro](https://github.com/runmaestro/maestro) - エージェントオーケストレーションコマンドセンター
 
 
-_Updated on August 31, 2026_ (A total of 2680 repositories listed.)
+_Updated on September 07, 2026_ (A total of 2689 repositories listed.)
 
 ## Table of contents
 
@@ -372,6 +378,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - ChatGPT、Claude、または他のAIツールに貼り付けることができる無料のプレゼンテーションスライドデザイン.md。
  * [headroom](https://github.com/headroomlabs-ai/headroom) - LLMに到達する前に、圧縮ツールの出力、ログ、ファイル、およびRAGチャンクを圧縮します。トークン数が60〜95％減少し、同じ回答が得られます。ライブラリ、プロキシ、MCPサーバー。
  * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - Apple Silicon向けの最速のローカルAIエンジン。Ollamaよりも4.2倍高速で、0.08秒のキャッシュTTFT、100％のツール呼び出し。17のツールパーサー、プロンプトキャッシュ、推論分離、クラウドルーティング。OpenAIの代替として簡単に導入可能。Claude Code、Cursor、Aiderと連携可能。
+ * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - AIライティングパターンを削除するためにコンテンツを監査および書き直すスキル。Claude Code、OpenClaw、Codex、Hermesなど、お気に入りのエージェントと一緒に使用してください。
 
 
 ## Chatbots
@@ -1294,6 +1301,9 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - AI エージェント向けのエージェント駆動型のプロアクティブメモリCLI-セッション間で持続的でソースに根ざした知識を自律的に呼び出し、維持、進化させる。
  * [zero](https://github.com/gitlawb/zero) - あなたに答えるコーディングエージェント、あなたのモデル、あなたの機械、あなたのルール。あなたに答えるコーディングエージェント、あなたのモデル、あなたの機械、あなたのルール。
  * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 デモ] PDF 科学論文の形式を保持した翻訳 - AI を使用して PDF ドキュメントの形式を保持した全文翻訳を行います。Google/DeepL/Ollama/OpenAI などのサービスをサポートし、CLI/GUI/MCP/Docker/Zotero を提供します。
+ * [herdr](https://github.com/herdrdev/herdr) - コーディングエージェントが稼働する時間ランタイム
+ * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多エージェントによる完全自動AI小説生成
+ * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ ターミナルからAIコーディングエージェントのトークン使用状況を追跡します。🏅 何兆ものトークンが追跡されたグローバルリーダーボード。
 
 
 ## Reimplementations
@@ -1796,6 +1806,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [loushang](https://github.com/zhnt/loushang) - Pythonによるコーディングワークフロー用のAIネイティブエージェントハーネス：マルチモデルLLMオーケストレーション、状態保持セッション、ツールガバナンス、追跡可能な配信、およびGPT、Claude、DeepSeek、Qwen、Kimi、GLM、およびMiniMaxのプロバイダールーティング。
  * [any-llm](https://github.com/mozilla-ai/any-llm) - 単一のインターフェースを使用してLLMプロバイダーと通信します。
  * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - エージェント向けのローカルAIアプリと推論エンジン。オープンウェイトLLMsをローカルで実行 - プライベートで、コンピューター上で100％オフライン。Discordに参加してください：https://discord.com/invite/8wGSsvmg4V
+ * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能なコードインテリジェンスMCPサーバー。コードベースを永続的な知識グラフにインデックス化します- 平均リポジトリはミリ秒単位です。158言語、サブミリ秒のクエリ、トークン数が99％減少します。単一の静的バイナリ、依存関係なし。
 
 
 ## Langchain
@@ -2815,5 +2826,8 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [uizze](https://github.com/uizze/uizze) - 無料のUIスキル4つ、重点を置いたUIZZE MCPの参照、コーディングエージェント向けの保守的なGitHubアクション。
  * [cccc](https://github.com/chesterra/cccc) - コーディングエージェントをグループチャットのように調整 - 読み取り通知、配信追跡、および電話からのリモート操作。1つのpip install、ゼロインフラストラクチャ。24時間365日のワークフローのためのプロダクション志向のオーケストレータ。
  * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPTは考えます。Codexは動作します。Codexのハーネスを保持しながら、ChatGPTを計画の脳として使用します。
+ * [loopx](https://github.com/huangruiteng/loopx) - 耐久性のある、統治された作業を行うための長期エージェント制御プレーン、Codex、Claude Code、および他のハーネスを横断する。
+ * [atlas](https://github.com/pacifio/atlas) - エージェントのためのソースコントロール。複数のコーディングエージェントを使用し、彼らの変更を追跡し、1か所でクエリする。
+ * [Maestro](https://github.com/runmaestro/maestro) - エージェントオーケストレーションコマンドセンター
 
 

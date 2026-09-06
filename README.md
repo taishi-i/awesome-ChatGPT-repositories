@@ -50,22 +50,27 @@ Run these two commands inside Claude Code:
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
+
+
 **CLIs**
- * [FutureOS](https://github.com/futuregene/future-os) - One AI agent everywhere: terminal UI, desktop, mobile, CLI, and IM bots from one Rust backend. Approval-gated tools, 3,800+ models.
- * [zero](https://github.com/gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
- * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+ * [herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+ * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent实现全自动AI小说生成
+ * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 
 
-**Openai**
- * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
+**NLP**
+ * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 
 **Others**
- * [cccc](https://github.com/chesterra/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
- * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+ * [loopx](https://github.com/huangruiteng/loopx) - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+ * [atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
+ * [Maestro](https://github.com/runmaestro/maestro) - Agent Orchestration Command Center
 
 
-_Updated on August 31, 2026_ (A total of 2680 repositories listed.)
+_Updated on September 07, 2026_ (A total of 2689 repositories listed.)
 
 ## Table of contents
 
@@ -377,6 +382,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - Free presentation slide design.md you can paste into ChatGPT, Claude or any of your AI tools.
  * [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
  * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
+ * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
 
 
 ## Chatbots
@@ -1031,7 +1037,6 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
 
 ## CLIs
 
- * [FutureOS](https://github.com/futuregene/future-os) - One AI agent everywhere: a single Rust backend drives terminal UI, desktop, mobile, CLI, and IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models, loop control plane for 24h+ runs.
  * [ChatGPT](https://github.com/acheong08/chatgpt) - Reverse engineered ChatGPT API
  * [shell_gpt](https://github.com/ther1d/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
@@ -1300,6 +1305,9 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - Agent-driven proactive memory CLI for AI agents — autonomously recall, maintain, and evolve persistent, source-grounded knowledge across sessions.
  * [zero](https://github.com/gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
  * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+ * [herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+ * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent实现全自动AI小说生成
+ * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 
 
 ## Reimplementations
@@ -1802,6 +1810,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [loushang](https://github.com/zhnt/loushang) - AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.
  * [any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
  * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
+ * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
 
 ## Langchain
@@ -2821,5 +2830,8 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
  * [uizze](https://github.com/uizze/uizze) - Four free UI skills, focused UIZZE MCP references, and a conservative GitHub Action for coding agents.
  * [cccc](https://github.com/chesterra/cccc) - Coordinate your coding agents like a group chat — read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow
  * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+ * [loopx](https://github.com/huangruiteng/loopx) - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+ * [atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
+ * [Maestro](https://github.com/runmaestro/maestro) - Agent Orchestration Command Center
 
 
