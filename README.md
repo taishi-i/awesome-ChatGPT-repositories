@@ -65,7 +65,7 @@ Run these two commands inside Claude Code:
  * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 
 
-_Updated on August 31, 2026_ (A total of 2680 repositories listed.)
+_Updated on August 31, 2026_ (A total of 2681 repositories listed.)
 
 ## Table of contents
 
@@ -381,6 +381,7 @@ _Updated on August 31, 2026_ (A total of 2680 repositories listed.)
 
 ## Chatbots
 
+ * [ENZO](https://github.com/theguysudo/ENZO) - Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK).
  * [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
  * [Open-Assistant](https://github.com/laion-ai/open-assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
  * [FastChat](https://github.com/lm-sys/fastchat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
