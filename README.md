@@ -1038,7 +1038,6 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
 ## CLIs
 
  * [ChatGPT](https://github.com/acheong08/chatgpt) - Reverse engineered ChatGPT API
-* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source developer tool with an amazing desktop & web UI that handles parallel Git worktrees, programmatic verifications, and agent review loops
  * [shell_gpt](https://github.com/ther1d/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
  * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
@@ -1311,6 +1310,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 
 
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source developer tool with an amazing desktop & web UI that handles parallel Git worktrees, programmatic verifications, and agent review loops
 ## Reimplementations
 
  * [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
