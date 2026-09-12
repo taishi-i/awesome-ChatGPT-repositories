@@ -1310,6 +1310,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
 
 
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source developer tool with an amazing desktop & web UI that handles parallel Git worktrees, programmatic verifications, and agent review loops
 ## Reimplementations
 
  * [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
