@@ -1038,6 +1038,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
 ## CLIs
 
  * [ChatGPT](https://github.com/acheong08/chatgpt) - Reverse engineered ChatGPT API
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source developer tool with an amazing desktop & web UI that handles parallel Git worktrees, programmatic verifications, and agent review loops
  * [shell_gpt](https://github.com/ther1d/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
  * [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
  * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
@@ -1957,7 +1958,8 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [autoview](https://github.com/wrtnlabs/autoview) - Automatic view component renderer by AI agent
  * [helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
  * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
- * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.
+ * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI is an open-source platform where product and engineering teams 
+collaborate to build and iterate on AI features.
  * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
  * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - All Of The Above] working as one.
  * [llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
