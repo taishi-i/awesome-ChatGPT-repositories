@@ -2349,6 +2349,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
  * [FunASR](https://github.com/modelscope/funasr) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
  * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
+ * [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a Codex CLI or other coding-agent run below the harness and replays it offline, or forks it onto another model.
 
 
 ## Others
