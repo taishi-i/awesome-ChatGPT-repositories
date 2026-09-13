@@ -47,26 +47,28 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 ## The latest additions 🎉
 
 **Prompts**
- * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - AIライティングパターンを削除するためにコンテンツを監査および書き直すスキル。Claude Code、OpenClaw、Codex、Hermesなど、お気に入りのエージェントと一緒に使用してください。
+ * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 入門からマスターへのチュートリアル｜AI ペアプログラミングワークフロー｜Prompt、Skill、Workflow、コンテキスト管理、codex実戦ガイド
+
+
+**Browser-extensions**
+ * [agents](https://github.com/wshobson/agents) - クロードコード、コーデックス、カーソル、オープンコード、GitHub Copilot、およびGoogle Antigravity向けのマルチハーネスエージェンティックプラグインマーケットプレイス
 
 
 **CLIs**
- * [herdr](https://github.com/herdrdev/herdr) - コーディングエージェントが稼働する時間ランタイム
- * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多エージェントによる完全自動AI小説生成
- * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ ターミナルからAIコーディングエージェントのトークン使用状況を追跡します。🏅 何兆ものトークンが追跡されたグローバルリーダーボード。
+ * [future-os](https://github.com/futuregene/future-os) - どこでも働く1つのAIエージェント-端末、デスクトップ、モバイル、およびチャットアプリ。ラストコア。
 
 
 **NLP**
- * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能なコードインテリジェンスMCPサーバー。コードベースを永続的な知識グラフにインデックス化します- 平均リポジトリはミリ秒単位です。158言語、サブミリ秒のクエリ、トークン数が99％減少します。単一の静的バイナリ、依存関係なし。
+ * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AIは、すでに使用しているAIコーディングエージェントであるClaude Code、Cursor、OpenCode、Codex、Piなどを構成します。永続的なメモリ、Spec-Driven Development、キュレーションされたスキル、MCPサーバー、ペルソナ、オプションのバウンデッドレビューを選択してください。オープンソースで、エージェントのロックはありません。
 
 
 **Others**
- * [loopx](https://github.com/huangruiteng/loopx) - 耐久性のある、統治された作業を行うための長期エージェント制御プレーン、Codex、Claude Code、および他のハーネスを横断する。
- * [atlas](https://github.com/pacifio/atlas) - エージェントのためのソースコントロール。複数のコーディングエージェントを使用し、彼らの変更を追跡し、1か所でクエリする。
- * [Maestro](https://github.com/runmaestro/maestro) - エージェントオーケストレーションコマンドセンター
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 計画からマージまでのコーディングエージェントチームを運営および監督します。任意のハーネス（クロードコード、コーデックス、その他25種類以上）。デスクトップ、Web、モバイル、クラウドエージェント。
+ * [bb](https://github.com/get-bb/bb) - 自分自身を構築するエージェントIDE
+ * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AIエージェントは今やコードの99%を書くことができます。これにより、開発者であることの意味が変わります。私たちの役割は、「良いものがどのように見えるか」を知ることにシフトします。そのためには、完全に新しい開発者ツールが必要です。Tendrilは、エージェントの時代においてあなたのIDEを置き換えるものです。
 
 
-_Updated on September 07, 2026_ (A total of 2689 repositories listed.)
+_Updated on September 14, 2026_ (A total of 2695 repositories listed.)
 
 ## Table of contents
 
@@ -379,6 +381,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [headroom](https://github.com/headroomlabs-ai/headroom) - LLMに到達する前に、圧縮ツールの出力、ログ、ファイル、およびRAGチャンクを圧縮します。トークン数が60〜95％減少し、同じ回答が得られます。ライブラリ、プロキシ、MCPサーバー。
  * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - Apple Silicon向けの最速のローカルAIエンジン。Ollamaよりも4.2倍高速で、0.08秒のキャッシュTTFT、100％のツール呼び出し。17のツールパーサー、プロンプトキャッシュ、推論分離、クラウドルーティング。OpenAIの代替として簡単に導入可能。Claude Code、Cursor、Aiderと連携可能。
  * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - AIライティングパターンを削除するためにコンテンツを監査および書き直すスキル。Claude Code、OpenClaw、Codex、Hermesなど、お気に入りのエージェントと一緒に使用してください。
+ * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 入門からマスターへのチュートリアル｜AI ペアプログラミングワークフロー｜Prompt、Skill、Workflow、コンテキスト管理、codex実戦ガイド
 
 
 ## Chatbots
@@ -1029,6 +1032,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - Claude/Codexを使用した知的コード生成のためのAIワークフロー自動化プラグイン
  * [explyt](https://github.com/explyt/explyt) - JetBrains IDE用のAIエージェント：デバッガー、リファクタリング、およびIDE経由のシンボルナビゲーション - トークンが少なく、精度が高い
  * [voyager](https://github.com/nagi-ovo/voyager) - Voyager — AI Studio、Gemini、Claude＆ChatGPT向けのオールインワンエンハンスメントスイート：タイムライン、フォルダ、プロンプト、使用状況の追跡、チャットのエクスポート、プラグインなど。
+ * [agents](https://github.com/wshobson/agents) - クロードコード、コーデックス、カーソル、オープンコード、GitHub Copilot、およびGoogle Antigravity向けのマルチハーネスエージェンティックプラグインマーケットプレイス
 
 
 ## CLIs
@@ -1304,6 +1308,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [herdr](https://github.com/herdrdev/herdr) - コーディングエージェントが稼働する時間ランタイム
  * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多エージェントによる完全自動AI小説生成
  * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ ターミナルからAIコーディングエージェントのトークン使用状況を追跡します。🏅 何兆ものトークンが追跡されたグローバルリーダーボード。
+ * [future-os](https://github.com/futuregene/future-os) - どこでも働く1つのAIエージェント-端末、デスクトップ、モバイル、およびチャットアプリ。ラストコア。
 
 
 ## Reimplementations
@@ -1807,6 +1812,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [any-llm](https://github.com/mozilla-ai/any-llm) - 単一のインターフェースを使用してLLMプロバイダーと通信します。
  * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - エージェント向けのローカルAIアプリと推論エンジン。オープンウェイトLLMsをローカルで実行 - プライベートで、コンピューター上で100％オフライン。Discordに参加してください：https://discord.com/invite/8wGSsvmg4V
  * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能なコードインテリジェンスMCPサーバー。コードベースを永続的な知識グラフにインデックス化します- 平均リポジトリはミリ秒単位です。158言語、サブミリ秒のクエリ、トークン数が99％減少します。単一の静的バイナリ、依存関係なし。
+ * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AIは、すでに使用しているAIコーディングエージェントであるClaude Code、Cursor、OpenCode、Codex、Piなどを構成します。永続的なメモリ、Spec-Driven Development、キュレーションされたスキル、MCPサーバー、ペルソナ、オプションのバウンデッドレビューを選択してください。オープンソースで、エージェントのロックはありません。
 
 
 ## Langchain
@@ -2829,5 +2835,8 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [loopx](https://github.com/huangruiteng/loopx) - 耐久性のある、統治された作業を行うための長期エージェント制御プレーン、Codex、Claude Code、および他のハーネスを横断する。
  * [atlas](https://github.com/pacifio/atlas) - エージェントのためのソースコントロール。複数のコーディングエージェントを使用し、彼らの変更を追跡し、1か所でクエリする。
  * [Maestro](https://github.com/runmaestro/maestro) - エージェントオーケストレーションコマンドセンター
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 計画からマージまでのコーディングエージェントチームを運営および監督します。任意のハーネス（クロードコード、コーデックス、その他25種類以上）。デスクトップ、Web、モバイル、クラウドエージェント。
+ * [bb](https://github.com/get-bb/bb) - 自分自身を構築するエージェントIDE
+ * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AIエージェントは今やコードの99%を書くことができます。これにより、開発者であることの意味が変わります。私たちの役割は、「良いものがどのように見えるか」を知ることにシフトします。そのためには、完全に新しい開発者ツールが必要です。Tendrilは、エージェントの時代においてあなたのIDEを置き換えるものです。
 
 

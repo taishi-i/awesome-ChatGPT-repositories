@@ -7579,6 +7579,39 @@
                     "zh-hans": "使用技能审计和重写内容，以消除AI写作模式。与您喜爱的代理一起使用，包括克劳德代码、OpenClaw、Codex和Hermes。",
                     "zh-hant": "使用技能來審核和重寫內容，以消除人工智慧寫作模式。與您喜歡的代理人一起使用，包括克勞德代碼、OpenClaw、Codex和Hermes。"
                 }
+            },
+            "https://github.com/tradecatlabs/vibe-coding-cn": {
+                "repository_name": "vibe-coding-cn",
+                "user_name": "tradecatlabs",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南",
+                "topics": [
+                    "ai",
+                    "ai-agent",
+                    "ai-agents",
+                    "ai-coding",
+                    "ai-programming",
+                    "chinese",
+                    "claude-code",
+                    "codex",
+                    "cursor",
+                    "developer-tools",
+                    "gemini-cli",
+                    "glue-coding",
+                    "prompt-engineering",
+                    "prompts",
+                    "skills",
+                    "tutorial",
+                    "vibe-coding",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Vibe Coding from entry to mastery tutorial | AI paired programming workflow | Prompt, Skill, Workflow, Context Management, Codex practical guide",
+                    "ja": "Vibe Coding 入門からマスターへのチュートリアル｜AI ペアプログラミングワークフロー｜Prompt、Skill、Workflow、コンテキスト管理、codex実戦ガイド",
+                    "zh-hans": "Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南",
+                    "zh-hant": "Vibe Coding 從入門到精通教程｜AI 結對編程工作流｜Prompt、Skill、Workflow、上下文管理、codex實戰指南"
+                }
             }
         },
         "Chatbots": {
@@ -24070,6 +24103,41 @@
                     "zh-hans": "Voyager - 一个面向AI Studio、Gemini、Claude和ChatGPT的全能增强套件：时间轴、文件夹、提示、使用跟踪、聊天导出、插件等功能。",
                     "zh-hant": "Voyager - 一個針對 AI Studio、Gemini、Claude 和 ChatGPT 的全能增強套件：時間軸、文件夾、提示、使用追蹤、聊天導出、插件等功能。"
                 }
+            },
+            "https://github.com/wshobson/agents": {
+                "repository_name": "agents",
+                "user_name": "wshobson",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity",
+                "topics": [
+                    "agent-skills",
+                    "agentic-ai",
+                    "agents",
+                    "ai-agents",
+                    "anthropic",
+                    "antigravity",
+                    "claude",
+                    "claude-code",
+                    "claude-code-plugins",
+                    "claude-skills",
+                    "codex",
+                    "copilot",
+                    "cursor",
+                    "cursor-rules",
+                    "developer-tools",
+                    "mcp",
+                    "multi-agent",
+                    "opencode",
+                    "prompt-engineering",
+                    "subagents"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity",
+                    "ja": "クロードコード、コーデックス、カーソル、オープンコード、GitHub Copilot、およびGoogle Antigravity向けのマルチハーネスエージェンティックプラグインマーケットプレイス",
+                    "zh-hans": "Claude Code、Codex、Cursor、OpenCode、GitHub Copilot和Google Antigravity的多线束代理插件市场",
+                    "zh-hant": "Claude Code、Codex、Cursor、OpenCode、GitHub Copilot 和 Google Antigravity 的多束代理插件市場"
+                }
             }
         },
         "CLIs": {
@@ -31115,6 +31183,31 @@
                     "ja": "🛰️ ターミナルからAIコーディングエージェントのトークン使用状況を追跡します。🏅 何兆ものトークンが追跡されたグローバルリーダーボード。",
                     "zh-hans": "🛰️ 从您的终端跟踪AI编码代理的令牌使用情况。🏅 全球排行榜，跟踪了数万亿个令牌。",
                     "zh-hant": "🛰️ 從您的終端機追蹤AI編碼代理的令牌使用情況。🏅 全球排行榜，追踪數以萬計的令牌。"
+                }
+            },
+            "https://github.com/futuregene/future-os": {
+                "repository_name": "future-os",
+                "user_name": "futuregene",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+                "topics": [
+                    "agent-framework",
+                    "ai-agents",
+                    "ai-assistants",
+                    "developer-tools",
+                    "llm",
+                    "openclaw-alternative",
+                    "personal-ai",
+                    "productivity",
+                    "rust",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
+                    "ja": "どこでも働く1つのAIエージェント-端末、デスクトップ、モバイル、およびチャットアプリ。ラストコア。",
+                    "zh-hans": "一个AI代理，无论你在哪里工作——终端、桌面、移动设备和聊天应用程序。Rust核心。",
+                    "zh-hant": "一個人工智慧代理，無論您在哪裡工作 - 終端、桌面、手機和您的聊天應用程式。Rust核心。"
                 }
             }
         },
@@ -42979,6 +43072,37 @@
                     "ja": "高性能なコードインテリジェンスMCPサーバー。コードベースを永続的な知識グラフにインデックス化します- 平均リポジトリはミリ秒単位です。158言語、サブミリ秒のクエリ、トークン数が99％減少します。単一の静的バイナリ、依存関係なし。",
                     "zh-hans": "高性能代码智能MCP服务器。将代码库索引到持久知识图中 - 平均存储库在毫秒内。支持158种语言，子毫秒查询，减少99%的令牌。单一静态二进制文件，零依赖。",
                     "zh-hant": "高性能代碼智能MCP服務器。將代碼庫索引到持久知識圖中 - 平均庫在毫秒內。支持158種語言，子毫秒查詢，減少99%的令牌。單一靜態二進制文件，零依賴性。"
+                }
+            },
+            "https://github.com/gentleman-programming/gentle-ai": {
+                "repository_name": "gentle-ai",
+                "user_name": "Gentleman-Programming",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
+                "topics": [
+                    "agent-skills",
+                    "ai-agents",
+                    "ai-coding",
+                    "claude-code",
+                    "code-review",
+                    "codex",
+                    "coding-agents",
+                    "copilot",
+                    "cursor",
+                    "developer-tools",
+                    "golang",
+                    "llm",
+                    "mcp",
+                    "opencode",
+                    "persistent-memory",
+                    "spec-driven-development"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock",
+                    "ja": "Gentle-AIは、すでに使用しているAIコーディングエージェントであるClaude Code、Cursor、OpenCode、Codex、Piなどを構成します。永続的なメモリ、Spec-Driven Development、キュレーションされたスキル、MCPサーバー、ペルソナ、オプションのバウンデッドレビューを選択してください。オープンソースで、エージェントのロックはありません。",
+                    "zh-hans": "Gentle-AI配置您已经使用的AI编码代理：Claude Code，Cursor，OpenCode，Codex，Pi等。选择持久内存，基于规范的开发，精心策划的技能，MCP服务器，人物角色和可选的有限审查。开源，无代理锁。",
+                    "zh-hant": "Gentle-AI 配置您已使用的 AI 編碼代理：Claude Code、Cursor、OpenCode、Codex、Pi 等等。選擇持久記憶、基於規範的開發、精心挑選的技能、MCP 伺服器、角色、以及可選的有限審查。開放原始碼，無代理鎖。"
                 }
             }
         },
@@ -65185,6 +65309,79 @@
                     "ja": "エージェントオーケストレーションコマンドセンター",
                     "zh-hans": "代理编排命令中心",
                     "zh-hant": "代理人编排指挥中心"
+                }
+            },
+            "https://github.com/untrivial-ai/agent-orchestrator": {
+                "repository_name": "agent-orchestrator",
+                "user_name": "Untrivial-ai",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+                "topics": [
+                    "agent-fleet",
+                    "agent-ide",
+                    "agent-orchestration",
+                    "agent-swarm",
+                    "claude-code",
+                    "codex-cli",
+                    "git-worktrees",
+                    "multi-agent",
+                    "orchestration",
+                    "orchestrator",
+                    "parallel-agents",
+                    "parallel-coding",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+                    "ja": "計画からマージまでのコーディングエージェントチームを運営および監督します。任意のハーネス（クロードコード、コーデックス、その他25種類以上）。デスクトップ、Web、モバイル、クラウドエージェント。",
+                    "zh-hans": "从规划到合并，运行和监督编码代理团队。任何工具（克劳德代码，密码本，+25种其他工具）。桌面，网络，移动和云代理。",
+                    "zh-hant": "運行和監督編碼代理團隊從計劃到合併。任何工具（Claude代碼，代碼書，+25個以上）。桌面，網頁，移動和雲代理。"
+                }
+            },
+            "https://github.com/get-bb/bb": {
+                "repository_name": "bb",
+                "user_name": "get-bb",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The agent IDE that builds itself",
+                "topics": [
+                    "ade",
+                    "agent-ide",
+                    "claude-code",
+                    "codex",
+                    "devtools",
+                    "ide"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The agent IDE that builds itself",
+                    "ja": "自分自身を構築するエージェントIDE",
+                    "zh-hans": "构建自身的代理IDE",
+                    "zh-hant": "自我构建的代理IDE"
+                }
+            },
+            "https://github.com/ivy-interactive/ivy-tendril": {
+                "repository_name": "Ivy-Tendril",
+                "user_name": "Ivy-Interactive",
+                "language": "C#",
+                "license": "Other",
+                "description": "AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing \"what good looks like\". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era. ",
+                "topics": [
+                    "agentic-coding",
+                    "agentic-workflow",
+                    "chatgpt",
+                    "claude-code",
+                    "codex",
+                    "gemini",
+                    "git",
+                    "opencode",
+                    "software-factory"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing \"what good looks like\". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era.",
+                    "ja": "AIエージェントは今やコードの99%を書くことができます。これにより、開発者であることの意味が変わります。私たちの役割は、「良いものがどのように見えるか」を知ることにシフトします。そのためには、完全に新しい開発者ツールが必要です。Tendrilは、エージェントの時代においてあなたのIDEを置き換えるものです。",
+                    "zh-hans": "AI代理现在可以编写99%的代码。这改变了开发者的含义。我们的角色转变为知道“好的代码是什么样的”。为了做到这一点，我们需要全新的开发者工具。Tendril是在代理时代取代您的IDE的工具。",
+                    "zh-hant": "AI代理現在可以撰寫99%的程式碼。這改變了開發者的定義。我們的角色轉變為知道\"好的程式碼是什麼\"。為了做到這一點，我們需要全新的開發者工具。Tendril是在代理時代取代您的IDE的工具。"
                 }
             }
         }
