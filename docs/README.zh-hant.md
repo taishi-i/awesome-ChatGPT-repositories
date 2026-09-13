@@ -47,26 +47,28 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - 使用技能來審核和重寫內容，以消除人工智慧寫作模式。與您喜歡的代理人一起使用，包括克勞德代碼、OpenClaw、Codex和Hermes。
+ * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 從入門到精通教程｜AI 結對編程工作流｜Prompt、Skill、Workflow、上下文管理、codex實戰指南
+
+
+**Browser-extensions**
+ * [agents](https://github.com/wshobson/agents) - Claude Code、Codex、Cursor、OpenCode、GitHub Copilot 和 Google Antigravity 的多束代理插件市場
 
 
 **CLIs**
- * [herdr](https://github.com/herdrdev/herdr) - 您的编码代理程序运行时间
- * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent實現全自動AI小說生成
- * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ 從您的終端機追蹤AI編碼代理的令牌使用情況。🏅 全球排行榜，追踪數以萬計的令牌。
+ * [future-os](https://github.com/futuregene/future-os) - 一個人工智慧代理，無論您在哪裡工作 - 終端、桌面、手機和您的聊天應用程式。Rust核心。
 
 
 **NLP**
- * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能代碼智能MCP服務器。將代碼庫索引到持久知識圖中 - 平均庫在毫秒內。支持158種語言，子毫秒查詢，減少99%的令牌。單一靜態二進制文件，零依賴性。
+ * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AI 配置您已使用的 AI 編碼代理：Claude Code、Cursor、OpenCode、Codex、Pi 等等。選擇持久記憶、基於規範的開發、精心挑選的技能、MCP 伺服器、角色、以及可選的有限審查。開放原始碼，無代理鎖。
 
 
 **Others**
- * [loopx](https://github.com/huangruiteng/loopx) - 長期代理控制平面，用於Codex、Claude Code和其他工具的持久、受管工作。
- * [atlas](https://github.com/pacifio/atlas) - 代理商的源代碼控制。使用多個編碼代理商，跟踪他們的更改並在一個地方查詢它們。
- * [Maestro](https://github.com/runmaestro/maestro) - 代理人编排指挥中心
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 運行和監督編碼代理團隊從計劃到合併。任何工具（Claude代碼，代碼書，+25個以上）。桌面，網頁，移動和雲代理。
+ * [bb](https://github.com/get-bb/bb) - 自我构建的代理IDE
+ * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI代理現在可以撰寫99%的程式碼。這改變了開發者的定義。我們的角色轉變為知道"好的程式碼是什麼"。為了做到這一點，我們需要全新的開發者工具。Tendril是在代理時代取代您的IDE的工具。
 
 
-_Updated on September 07, 2026_ (A total of 2689 repositories listed.)
+_Updated on September 14, 2026_ (A total of 2695 repositories listed.)
 
 ## Table of contents
 
@@ -379,6 +381,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [headroom](https://github.com/headroomlabs-ai/headroom) - 在這些資料到達LLM之前，將壓縮工具輸出、日誌、檔案和RAG塊。減少60-95%的令牌，但結果相同。圖書館、代理、MCP伺服器。
  * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - 針對蘋果矽片設計的最快本地AI引擎。比Ollama快4.2倍，0.08秒的緩存TTFT，100％的工具調用。17個工具解析器，提示緩存，推理分離，雲路由。可直接替換OpenAI。與Claude Code、Cursor、Aider兼容。
  * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - 使用技能來審核和重寫內容，以消除人工智慧寫作模式。與您喜歡的代理人一起使用，包括克勞德代碼、OpenClaw、Codex和Hermes。
+ * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 從入門到精通教程｜AI 結對編程工作流｜Prompt、Skill、Workflow、上下文管理、codex實戰指南
 
 
 ## Chatbots
@@ -1029,6 +1032,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI 工作流自動化插件，用於智能代碼生成，與 Claude/Codex 一起使用
  * [explyt](https://github.com/explyt/explyt) - JetBrains IDE的AI代理：调试器，重构和符号导航通过IDE - 更少的令牌，更精确
  * [voyager](https://github.com/nagi-ovo/voyager) - Voyager - 一個針對 AI Studio、Gemini、Claude 和 ChatGPT 的全能增強套件：時間軸、文件夾、提示、使用追蹤、聊天導出、插件等功能。
+ * [agents](https://github.com/wshobson/agents) - Claude Code、Codex、Cursor、OpenCode、GitHub Copilot 和 Google Antigravity 的多束代理插件市場
 
 
 ## CLIs
@@ -1304,6 +1308,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [herdr](https://github.com/herdrdev/herdr) - 您的编码代理程序运行时间
  * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent實現全自動AI小說生成
  * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ 從您的終端機追蹤AI編碼代理的令牌使用情況。🏅 全球排行榜，追踪數以萬計的令牌。
+ * [future-os](https://github.com/futuregene/future-os) - 一個人工智慧代理，無論您在哪裡工作 - 終端、桌面、手機和您的聊天應用程式。Rust核心。
 
 
 ## Reimplementations
@@ -1807,6 +1812,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [any-llm](https://github.com/mozilla-ai/any-llm) - 使用單一界面與LLM提供者溝通
  * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - 本地AI應用程式和推論引擎，適用於代理商。在您的計算機上本地運行開放權重LLMs — 私人、100%離線。加入我們的Discord：https://discord.com/invite/8wGSsvmg4V
  * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能代碼智能MCP服務器。將代碼庫索引到持久知識圖中 - 平均庫在毫秒內。支持158種語言，子毫秒查詢，減少99%的令牌。單一靜態二進制文件，零依賴性。
+ * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AI 配置您已使用的 AI 編碼代理：Claude Code、Cursor、OpenCode、Codex、Pi 等等。選擇持久記憶、基於規範的開發、精心挑選的技能、MCP 伺服器、角色、以及可選的有限審查。開放原始碼，無代理鎖。
 
 
 ## Langchain
@@ -2829,5 +2835,8 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [loopx](https://github.com/huangruiteng/loopx) - 長期代理控制平面，用於Codex、Claude Code和其他工具的持久、受管工作。
  * [atlas](https://github.com/pacifio/atlas) - 代理商的源代碼控制。使用多個編碼代理商，跟踪他們的更改並在一個地方查詢它們。
  * [Maestro](https://github.com/runmaestro/maestro) - 代理人编排指挥中心
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 運行和監督編碼代理團隊從計劃到合併。任何工具（Claude代碼，代碼書，+25個以上）。桌面，網頁，移動和雲代理。
+ * [bb](https://github.com/get-bb/bb) - 自我构建的代理IDE
+ * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI代理現在可以撰寫99%的程式碼。這改變了開發者的定義。我們的角色轉變為知道"好的程式碼是什麼"。為了做到這一點，我們需要全新的開發者工具。Tendril是在代理時代取代您的IDE的工具。
 
 

@@ -51,26 +51,28 @@ Run these two commands inside Claude Code:
 ## The latest additions 🎉
 
 **Prompts**
- * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
+ * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding from entry to mastery tutorial | AI paired programming workflow | Prompt, Skill, Workflow, Context Management, Codex practical guide
+
+
+**Browser-extensions**
+ * [agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 
 
 **CLIs**
- * [herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
- * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨Multiple agents achieve fully automatic AI novel generation
- * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
+ * [future-os](https://github.com/futuregene/future-os) - One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.
 
 
 **NLP**
- * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+ * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock
 
 
 **Others**
- * [loopx](https://github.com/huangruiteng/loopx) - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
- * [atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
- * [Maestro](https://github.com/runmaestro/maestro) - Agent Orchestration Command Center
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
+ * [bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
+ * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing "what good looks like". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era.
 
 
-_Updated on September 07, 2026_ (A total of 2689 repositories listed.)
+_Updated on September 14, 2026_ (A total of 2695 repositories listed.)
 
 ## Table of contents
 
@@ -383,6 +385,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
  * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
  * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
+ * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding from entry to mastery tutorial | AI paired programming workflow | Prompt, Skill, Workflow, Context Management, Codex practical guide
 
 
 ## Chatbots
@@ -1033,6 +1036,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI workflow automation plugin for intelligent code generation with Claude/Codex
  * [explyt](https://github.com/explyt/explyt) - AI agent for JetBrains IDEs: debugger, refactorings, and symbol navigation via IDE — fewer tokens, more precision
  * [voyager](https://github.com/nagi-ovo/voyager) - Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。
+ * [agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 
 
 ## CLIs
@@ -1308,6 +1312,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
  * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨Multiple agents achieve fully automatic AI novel generation
  * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
+ * [future-os](https://github.com/futuregene/future-os) - One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.
 
 
 ## Reimplementations
@@ -1811,6 +1816,7 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
  * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V
  * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+ * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock
 
 
 ## Langchain
@@ -2833,5 +2839,8 @@ _Updated on September 07, 2026_ (A total of 2689 repositories listed.)
  * [loopx](https://github.com/huangruiteng/loopx) - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
  * [atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
  * [Maestro](https://github.com/runmaestro/maestro) - Agent Orchestration Command Center
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
+ * [bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
+ * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing "what good looks like". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era.
 
 
