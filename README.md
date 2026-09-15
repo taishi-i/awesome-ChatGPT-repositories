@@ -1313,6 +1313,7 @@ _Updated on September 14, 2026_ (A total of 2695 repositories listed.)
  * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent实现全自动AI小说生成
  * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
  * [future-os](https://github.com/futuregene/future-os) - One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.
+ * [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code and Codex sessions, each cell a real PTY with colour-coded status, tmux persistence, and a git worktree
 
 
 ## Reimplementations
