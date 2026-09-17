@@ -46,29 +46,21 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
-
-
 **Browser-extensions**
- * [agents](https://github.com/wshobson/agents) - Claude Code、Codex、Cursor、OpenCode、GitHub Copilot和Google Antigravity的多线束代理插件市场
+ * [mulmoterminal](https://github.com/receptron/mulmoterminal) - 同时运行多个克劳德代码和密码本会话 - 一个浏览器终端网格显示哪个代理需要您。本地，tmux支持，麻省理工学院。
 
 
 **CLIs**
- * [future-os](https://github.com/futuregene/future-os) - 一个AI代理，无论你在哪里工作——终端、桌面、移动设备和聊天应用程序。Rust核心。
+ * [Graft](https://github.com/trailhq/graft) - 涡轮克劳德代码，光标，密码本，双子座和每个编码代理：更快，更便宜，具有针对您代码库的上下文理解。
+ * [career-ops](https://github.com/career-ops-hq/career-ops) - 开源人工智能求职：扫描工作门户网站，将列表评估为结构化的A-H报告，得出全球1-5分数，定制您的简历，跟踪申请——在您的人工智能编码CLI（Claude Code，Codex，OpenCode，Antigravity…）本地运行。
 
 
 **NLP**
- * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AI配置您已经使用的AI编码代理：Claude Code，Cursor，OpenCode，Codex，Pi等。选择持久内存，基于规范的开发，精心策划的技能，MCP服务器，人物角色和可选的有限审查。开源，无代理锁。
+ * [open-code-review](https://github.com/alibaba/open-code-review) - 快速、高效，在阿里巴巴规模上经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。
+ * [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - 使用自托管的TypeScript代理运行时，具有持久的批准和可验证的运行记录。拥有它，批准它，审计它。
 
 
-**Others**
- * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 从规划到合并，运行和监督编码代理团队。任何工具（克劳德代码，密码本，+25种其他工具）。桌面，网络，移动和云代理。
- * [bb](https://github.com/get-bb/bb) - 构建自身的代理IDE
- * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI代理现在可以编写99%的代码。这改变了开发者的含义。我们的角色转变为知道“好的代码是什么样的”。为了做到这一点，我们需要全新的开发者工具。Tendril是在代理时代取代您的IDE的工具。
-
-
-_Updated on September 14, 2026_ (A total of 2695 repositories listed.)
+_Updated on September 18, 2026_ (A total of 2700 repositories listed.)
 
 ## Table of contents
 
@@ -1033,6 +1025,7 @@ _Updated on September 14, 2026_ (A total of 2695 repositories listed.)
  * [explyt](https://github.com/explyt/explyt) - JetBrains IDE的AI代理：通过IDE进行调试器、重构和符号导航——更少的标记，更精确。
  * [voyager](https://github.com/nagi-ovo/voyager) - Voyager - 一个面向AI Studio、Gemini、Claude和ChatGPT的全能增强套件：时间轴、文件夹、提示、使用跟踪、聊天导出、插件等功能。
  * [agents](https://github.com/wshobson/agents) - Claude Code、Codex、Cursor、OpenCode、GitHub Copilot和Google Antigravity的多线束代理插件市场
+ * [mulmoterminal](https://github.com/receptron/mulmoterminal) - 同时运行多个克劳德代码和密码本会话 - 一个浏览器终端网格显示哪个代理需要您。本地，tmux支持，麻省理工学院。
 
 
 ## CLIs
@@ -1309,6 +1302,8 @@ _Updated on September 14, 2026_ (A total of 2695 repositories listed.)
  * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多代理实现全自动AI小说生成
  * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ 从您的终端跟踪AI编码代理的令牌使用情况。🏅 全球排行榜，跟踪了数万亿个令牌。
  * [future-os](https://github.com/futuregene/future-os) - 一个AI代理，无论你在哪里工作——终端、桌面、移动设备和聊天应用程序。Rust核心。
+ * [Graft](https://github.com/trailhq/graft) - 涡轮克劳德代码，光标，密码本，双子座和每个编码代理：更快，更便宜，具有针对您代码库的上下文理解。
+ * [career-ops](https://github.com/career-ops-hq/career-ops) - 开源人工智能求职：扫描工作门户网站，将列表评估为结构化的A-H报告，得出全球1-5分数，定制您的简历，跟踪申请——在您的人工智能编码CLI（Claude Code，Codex，OpenCode，Antigravity…）本地运行。
 
 
 ## Reimplementations
@@ -1813,6 +1808,8 @@ _Updated on September 14, 2026_ (A total of 2695 repositories listed.)
  * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - 本地AI应用程序和推理引擎，用于代理商。在您的计算机上本地运行开放权重LLMs — 私人，100%离线。加入我们的Discord：https://discord.com/invite/8wGSsvmg4V
  * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能代码智能MCP服务器。将代码库索引到持久知识图中 - 平均存储库在毫秒内。支持158种语言，子毫秒查询，减少99%的令牌。单一静态二进制文件，零依赖。
  * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AI配置您已经使用的AI编码代理：Claude Code，Cursor，OpenCode，Codex，Pi等。选择持久内存，基于规范的开发，精心策划的技能，MCP服务器，人物角色和可选的有限审查。开源，无代理锁。
+ * [open-code-review](https://github.com/alibaba/open-code-review) - 快速、高效，在阿里巴巴规模上经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。
+ * [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - 使用自托管的TypeScript代理运行时，具有持久的批准和可验证的运行记录。拥有它，批准它，审计它。
 
 
 ## Langchain

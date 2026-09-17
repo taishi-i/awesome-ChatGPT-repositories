@@ -24138,6 +24138,41 @@
                     "zh-hans": "Claude Code、Codex、Cursor、OpenCode、GitHub Copilot和Google Antigravity的多线束代理插件市场",
                     "zh-hant": "Claude Code、Codex、Cursor、OpenCode、GitHub Copilot 和 Google Antigravity 的多束代理插件市場"
                 }
+            },
+            "https://github.com/receptron/mulmoterminal": {
+                "repository_name": "mulmoterminal",
+                "user_name": "receptron",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.",
+                "topics": [
+                    "agent-orchestration",
+                    "agentic-coding",
+                    "ai-agents",
+                    "ai-coding",
+                    "claude-code",
+                    "codex",
+                    "developer-tools",
+                    "git-worktree",
+                    "grok",
+                    "local-first",
+                    "multi-agent",
+                    "parallel-agents",
+                    "pty",
+                    "self-hosted",
+                    "terminal",
+                    "tmux",
+                    "typescript",
+                    "vibe-coding",
+                    "web-push",
+                    "xterm-js"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT.",
+                    "ja": "複数のクロードコードとコーデックスセッションを並行して実行します - どのエージェントが必要かを示すブラウザーターミナルグリッド。ローカル、tmuxバックアップ、MIT。",
+                    "zh-hans": "同时运行多个克劳德代码和密码本会话 - 一个浏览器终端网格显示哪个代理需要您。本地，tmux支持，麻省理工学院。",
+                    "zh-hant": "在平行運行多個Claude Code和Codex會話 - 一個瀏覽器終端格網，顯示哪個代理需要您。本地，tmux支持，MIT。"
+                }
             }
         },
         "CLIs": {
@@ -31208,6 +31243,73 @@
                     "ja": "どこでも働く1つのAIエージェント-端末、デスクトップ、モバイル、およびチャットアプリ。ラストコア。",
                     "zh-hans": "一个AI代理，无论你在哪里工作——终端、桌面、移动设备和聊天应用程序。Rust核心。",
                     "zh-hant": "一個人工智慧代理，無論您在哪裡工作 - 終端、桌面、手機和您的聊天應用程式。Rust核心。"
+                }
+            },
+            "https://github.com/trailhq/graft": {
+                "repository_name": "Graft",
+                "user_name": "trailhq",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+                "topics": [
+                    "ai-agents",
+                    "anthropic",
+                    "claude-code",
+                    "cli",
+                    "code-graph",
+                    "codex",
+                    "context-engineering",
+                    "cursor",
+                    "developer-tools",
+                    "gemini",
+                    "knowledge-graph",
+                    "llm",
+                    "mcp",
+                    "mcp-server",
+                    "open-source",
+                    "openai",
+                    "tree-sitter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+                    "ja": "ターボチャージクロードコード、カーソル、コーデックス、ジェミニ＆すべてのコーディングエージェント：コードベースに特化した文脈理解を持ち、より速く、より安く。",
+                    "zh-hans": "涡轮克劳德代码，光标，密码本，双子座和每个编码代理：更快，更便宜，具有针对您代码库的上下文理解。",
+                    "zh-hant": "Turbocharge Claude代碼，游標，Codex，雙子座和每個編碼代理：更快，更便宜，具有特定於您的代碼庫的上下文理解。"
+                }
+            },
+            "https://github.com/career-ops-hq/career-ops": {
+                "repository_name": "career-ops",
+                "user_name": "career-ops-hq",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+                "topics": [
+                    "ai-agent",
+                    "ai-job-search",
+                    "ats",
+                    "career",
+                    "careerops",
+                    "claude-code",
+                    "cli",
+                    "cover-letter",
+                    "cv",
+                    "interview-prep",
+                    "job-application",
+                    "job-hunting",
+                    "job-search",
+                    "job-tracker",
+                    "jobsearch",
+                    "jobseekers",
+                    "local-first",
+                    "open-source",
+                    "resume",
+                    "resume-builder"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+                    "ja": "オープンソースのAIジョブ検索：ジョブポータルをスキャンし、リストを構造化されたA-Hレポートに評価し、グローバルな1-5のスコアで評価し、CVをカスタマイズし、応募を追跡します。AIコーディングCLI（Claude Code、Codex、OpenCode、Antigravityなど）でローカルで実行されます。",
+                    "zh-hans": "开源人工智能求职：扫描工作门户网站，将列表评估为结构化的A-H报告，得出全球1-5分数，定制您的简历，跟踪申请——在您的人工智能编码CLI（Claude Code，Codex，OpenCode，Antigravity…）本地运行。",
+                    "zh-hant": "開源人工智慧求職：掃描工作門戶網站，將列表評估為結構化的A-H報告，並給出全球1-5分的評分，定制您的簡歷，跟踪應聘情況 - 在您的人工智慧編碼CLI（Claude Code，Codex，OpenCode，Antigravity...）中本地運行。"
                 }
             }
         },
@@ -43103,6 +43205,61 @@
                     "ja": "Gentle-AIは、すでに使用しているAIコーディングエージェントであるClaude Code、Cursor、OpenCode、Codex、Piなどを構成します。永続的なメモリ、Spec-Driven Development、キュレーションされたスキル、MCPサーバー、ペルソナ、オプションのバウンデッドレビューを選択してください。オープンソースで、エージェントのロックはありません。",
                     "zh-hans": "Gentle-AI配置您已经使用的AI编码代理：Claude Code，Cursor，OpenCode，Codex，Pi等。选择持久内存，基于规范的开发，精心策划的技能，MCP服务器，人物角色和可选的有限审查。开源，无代理锁。",
                     "zh-hant": "Gentle-AI 配置您已使用的 AI 編碼代理：Claude Code、Cursor、OpenCode、Codex、Pi 等等。選擇持久記憶、基於規範的開發、精心挑選的技能、MCP 伺服器、角色、以及可選的有限審查。開放原始碼，無代理鎖。"
+                }
+            },
+            "https://github.com/alibaba/open-code-review": {
+                "repository_name": "open-code-review",
+                "user_name": "alibaba",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+                "topics": [
+                    "agent",
+                    "agent-skills",
+                    "code-review",
+                    "code-review-assistant",
+                    "harness",
+                    "repository-level-context"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatib",
+                    "ja": "高速で効率的、アリババのスケールで実証済みの戦闘テスト済み。ハイブリッドアーキテクチャコードレビューツール：決定論的パイプライン+LLMエージェント、正確な行レベルのコメント、組み込みの多言語ルールセット（NPE、スレッドセーフティ、XSS、SQLインジェクション）、OpenAI＆Anthropic互換。",
+                    "zh-hans": "快速、高效，在阿里巴巴规模上经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。",
+                    "zh-hant": "快速、高效，在阿里巴巴规模上经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。"
+                }
+            },
+            "https://github.com/open-multi-agent/open-multi-agent": {
+                "repository_name": "open-multi-agent",
+                "user_name": "open-multi-agent",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
+                "topics": [
+                    "agent-framework",
+                    "agent-orchestration",
+                    "agentic-ai",
+                    "ai-agents",
+                    "ai-governance",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "deepseek",
+                    "gemini",
+                    "llm",
+                    "local-llm",
+                    "mcp",
+                    "multi-agent",
+                    "observability",
+                    "ollama",
+                    "openai",
+                    "self-hosted",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
+                    "ja": "自己ホスト型のTypeScriptエージェントランタイムで、耐久性のある承認と検証可能な実行記録を持っています。所有し、承認し、監査してください。",
+                    "zh-hans": "使用自托管的TypeScript代理运行时，具有持久的批准和可验证的运行记录。拥有它，批准它，审计它。",
+                    "zh-hant": "使用自託管的TypeScript代理運行時，具有持久的批准和可驗證的運行記錄。擁有它，批准它，審核它。"
                 }
             }
         },
