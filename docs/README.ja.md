@@ -46,29 +46,21 @@ Claude Code 内で以下の2つのコマンドを実行してください：
 
 ## The latest additions 🎉
 
-**Prompts**
- * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 入門からマスターへのチュートリアル｜AI ペアプログラミングワークフロー｜Prompt、Skill、Workflow、コンテキスト管理、codex実戦ガイド
-
-
 **Browser-extensions**
- * [agents](https://github.com/wshobson/agents) - クロードコード、コーデックス、カーソル、オープンコード、GitHub Copilot、およびGoogle Antigravity向けのマルチハーネスエージェンティックプラグインマーケットプレイス
+ * [mulmoterminal](https://github.com/receptron/mulmoterminal) - 複数のクロードコードとコーデックスセッションを並行して実行します - どのエージェントが必要かを示すブラウザーターミナルグリッド。ローカル、tmuxバックアップ、MIT。
 
 
 **CLIs**
- * [future-os](https://github.com/futuregene/future-os) - どこでも働く1つのAIエージェント-端末、デスクトップ、モバイル、およびチャットアプリ。ラストコア。
+ * [Graft](https://github.com/trailhq/graft) - ターボチャージクロードコード、カーソル、コーデックス、ジェミニ＆すべてのコーディングエージェント：コードベースに特化した文脈理解を持ち、より速く、より安く。
+ * [career-ops](https://github.com/career-ops-hq/career-ops) - オープンソースのAIジョブ検索：ジョブポータルをスキャンし、リストを構造化されたA-Hレポートに評価し、グローバルな1-5のスコアで評価し、CVをカスタマイズし、応募を追跡します。AIコーディングCLI（Claude Code、Codex、OpenCode、Antigravityなど）でローカルで実行されます。
 
 
 **NLP**
- * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AIは、すでに使用しているAIコーディングエージェントであるClaude Code、Cursor、OpenCode、Codex、Piなどを構成します。永続的なメモリ、Spec-Driven Development、キュレーションされたスキル、MCPサーバー、ペルソナ、オプションのバウンデッドレビューを選択してください。オープンソースで、エージェントのロックはありません。
+ * [open-code-review](https://github.com/alibaba/open-code-review) - 高速で効率的、アリババのスケールで実証済みの戦闘テスト済み。ハイブリッドアーキテクチャコードレビューツール：決定論的パイプライン+LLMエージェント、正確な行レベルのコメント、組み込みの多言語ルールセット（NPE、スレッドセーフティ、XSS、SQLインジェクション）、OpenAI＆Anthropic互換。
+ * [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - 自己ホスト型のTypeScriptエージェントランタイムで、耐久性のある承認と検証可能な実行記録を持っています。所有し、承認し、監査してください。
 
 
-**Others**
- * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 計画からマージまでのコーディングエージェントチームを運営および監督します。任意のハーネス（クロードコード、コーデックス、その他25種類以上）。デスクトップ、Web、モバイル、クラウドエージェント。
- * [bb](https://github.com/get-bb/bb) - 自分自身を構築するエージェントIDE
- * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AIエージェントは今やコードの99%を書くことができます。これにより、開発者であることの意味が変わります。私たちの役割は、「良いものがどのように見えるか」を知ることにシフトします。そのためには、完全に新しい開発者ツールが必要です。Tendrilは、エージェントの時代においてあなたのIDEを置き換えるものです。
-
-
-_Updated on September 14, 2026_ (A total of 2695 repositories listed.)
+_Updated on September 18, 2026_ (A total of 2700 repositories listed.)
 
 ## Table of contents
 
@@ -1033,6 +1025,7 @@ _Updated on September 14, 2026_ (A total of 2695 repositories listed.)
  * [explyt](https://github.com/explyt/explyt) - JetBrains IDE用のAIエージェント：デバッガー、リファクタリング、およびIDE経由のシンボルナビゲーション - トークンが少なく、精度が高い
  * [voyager](https://github.com/nagi-ovo/voyager) - Voyager — AI Studio、Gemini、Claude＆ChatGPT向けのオールインワンエンハンスメントスイート：タイムライン、フォルダ、プロンプト、使用状況の追跡、チャットのエクスポート、プラグインなど。
  * [agents](https://github.com/wshobson/agents) - クロードコード、コーデックス、カーソル、オープンコード、GitHub Copilot、およびGoogle Antigravity向けのマルチハーネスエージェンティックプラグインマーケットプレイス
+ * [mulmoterminal](https://github.com/receptron/mulmoterminal) - 複数のクロードコードとコーデックスセッションを並行して実行します - どのエージェントが必要かを示すブラウザーターミナルグリッド。ローカル、tmuxバックアップ、MIT。
 
 
 ## CLIs
@@ -1309,6 +1302,8 @@ _Updated on September 14, 2026_ (A total of 2695 repositories listed.)
  * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多エージェントによる完全自動AI小説生成
  * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ ターミナルからAIコーディングエージェントのトークン使用状況を追跡します。🏅 何兆ものトークンが追跡されたグローバルリーダーボード。
  * [future-os](https://github.com/futuregene/future-os) - どこでも働く1つのAIエージェント-端末、デスクトップ、モバイル、およびチャットアプリ。ラストコア。
+ * [Graft](https://github.com/trailhq/graft) - ターボチャージクロードコード、カーソル、コーデックス、ジェミニ＆すべてのコーディングエージェント：コードベースに特化した文脈理解を持ち、より速く、より安く。
+ * [career-ops](https://github.com/career-ops-hq/career-ops) - オープンソースのAIジョブ検索：ジョブポータルをスキャンし、リストを構造化されたA-Hレポートに評価し、グローバルな1-5のスコアで評価し、CVをカスタマイズし、応募を追跡します。AIコーディングCLI（Claude Code、Codex、OpenCode、Antigravityなど）でローカルで実行されます。
 
 
 ## Reimplementations
@@ -1813,6 +1808,8 @@ _Updated on September 14, 2026_ (A total of 2695 repositories listed.)
  * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - エージェント向けのローカルAIアプリと推論エンジン。オープンウェイトLLMsをローカルで実行 - プライベートで、コンピューター上で100％オフライン。Discordに参加してください：https://discord.com/invite/8wGSsvmg4V
  * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能なコードインテリジェンスMCPサーバー。コードベースを永続的な知識グラフにインデックス化します- 平均リポジトリはミリ秒単位です。158言語、サブミリ秒のクエリ、トークン数が99％減少します。単一の静的バイナリ、依存関係なし。
  * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AIは、すでに使用しているAIコーディングエージェントであるClaude Code、Cursor、OpenCode、Codex、Piなどを構成します。永続的なメモリ、Spec-Driven Development、キュレーションされたスキル、MCPサーバー、ペルソナ、オプションのバウンデッドレビューを選択してください。オープンソースで、エージェントのロックはありません。
+ * [open-code-review](https://github.com/alibaba/open-code-review) - 高速で効率的、アリババのスケールで実証済みの戦闘テスト済み。ハイブリッドアーキテクチャコードレビューツール：決定論的パイプライン+LLMエージェント、正確な行レベルのコメント、組み込みの多言語ルールセット（NPE、スレッドセーフティ、XSS、SQLインジェクション）、OpenAI＆Anthropic互換。
+ * [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - 自己ホスト型のTypeScriptエージェントランタイムで、耐久性のある承認と検証可能な実行記録を持っています。所有し、承認し、監査してください。
 
 
 ## Langchain

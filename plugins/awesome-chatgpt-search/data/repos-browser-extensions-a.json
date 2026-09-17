@@ -127,5 +127,6 @@
 {"u":"https://github.com/ryuseisan/auto-chatgpt","n":"auto-chatgpt","d":"Automate interaction with the browser version of ChatGPT.","c":"Browser-extensions","sc":5.5,"l":"Python","t":"chatgpt,openai,selenium","st":57,"ns":3.5},
 {"u":"https://github.com/rgbkrk/chatlab","n":"chatlab","d":"Bringing ChatGPT Plugins to your notebooks","c":"Browser-extensions","sc":5.5,"l":"Jupyter Notebook","t":"chatbot,chatgpt,interpreter,jupyter,jupyter-lab,jupyter-notebooks,noteable,openai","st":163,"ns":4.4},
 {"u":"https://github.com/forward-operators/paperchat","n":"paperchat","d":"PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset","c":"Browser-extensions","sc":6.5,"l":"HCL","t":"arxiv,chatgpt,chatgpt-plugin,gpt,huggingface,openai","st":37,"ns":3.2},
-{"u":"https://github.com/davidmvenegas/chatgpt-microphone","n":"chatgpt-microphone","d":"Add voice-to-text and shortcut snippets to ChatGPT","c":"Browser-extensions","sc":4.5,"l":"JavaScript","t":"chatgpt,chrome-extension,openai","st":23,"ns":2.8}
+{"u":"https://github.com/davidmvenegas/chatgpt-microphone","n":"chatgpt-microphone","d":"Add voice-to-text and shortcut snippets to ChatGPT","c":"Browser-extensions","sc":4.5,"l":"JavaScript","t":"chatgpt,chrome-extension,openai","st":23,"ns":2.8},
+{"u":"https://github.com/aavetis/github-chatgpt-plugin","n":"github-chatgpt-plugin","d":"ChatGPT plugin to interact with anything in GitHub. Install “Chat With Code” from the ChatGPT plugin store.","c":"Browser-extensions","sc":3.5,"l":"TypeScript","st":25,"ns":2.8}
 ]
