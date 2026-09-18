@@ -1,0 +1,20 @@
+{
+  "name": "awesome-chatgpt-repositories",
+  "interface": {
+    "displayName": "awesome-ChatGPT-repositories"
+  },
+  "plugins": [
+    {
+      "name": "awesome-chatgpt-search",
+      "source": {
+        "source": "local",
+        "path": "./plugins/awesome-chatgpt-search"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "awesome-chatgpt-search",
+  "version": "1.1.0",
+  "description": "Search 2500+ curated ChatGPT and LLM repositories from Codex",
+  "author": {
+    "name": "taishi-i"
+  },
+  "homepage": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+  "repository": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+  "license": "CC0-1.0",
+  "keywords": ["chatgpt", "llm", "search", "awesome-list", "nlp", "langchain"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Awesome ChatGPT Search",
+    "shortDescription": "Search 2,500+ curated ChatGPT and LLM repositories",
+    "longDescription": "Find open-source GitHub repositories related to ChatGPT and LLMs from the curated awesome-ChatGPT-repositories list: RAG frameworks, agents, chatbots, CLIs, prompts, browser extensions, tutorials, and more. Filter by category or programming language, and ask in any language.",
+    "developerName": "taishi-i",
+    "category": "Productivity",
+    "capabilities": ["Read"],
+    "websiteURL": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+    "defaultPrompt": [
+      "Find RAG frameworks in awesome-ChatGPT-repositories",
+      "Search awesome-ChatGPT-repositories for agent CLIs",
+      "List the awesome-ChatGPT-repositories categories"
+    ]
+  }
+}

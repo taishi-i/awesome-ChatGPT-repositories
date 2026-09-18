@@ -1,20 +1,28 @@
 # awesome-ChatGPT-repositories — Claude Code Guide
 
-This repository is a curated list of 2500+ open-source GitHub repositories related to ChatGPT and LLMs. It includes a searchable skill for Claude Code.
+This repository is a curated list of 2500+ open-source GitHub repositories related to ChatGPT and LLMs. It includes a searchable skill that Claude Code and Codex share.
 
 ## Repository structure
 
 ```
 awesome-ChatGPT-repositories.json   ← main data (all 2500+ repos, verbose format)
-plugins/awesome-chatgpt-search/
+plugins/awesome-chatgpt-search/     ← one plugin directory for both Claude Code and Codex
   README.md                         ← plugin documentation
-  data/repos-<category>.json        ← compact search data split by category (12 files)
-  skills/search/SKILL.md            ← markdown-only skill (no Python required)
-.claude/commands/awesome-chatgpt.md ← slash command for local (unnamespaced) use
+  build_data.py                     ← regenerates data/ from the main JSON
+  .claude-plugin/plugin.json        ← Claude Code plugin manifest
+  .codex-plugin/plugin.json         ← Codex plugin manifest
+  data/repos-<category>.json        ← compact search data split by category (18 files), shared
+  skills/search/SKILL.md            ← markdown-only skill shared by both tools (no Python required)
+  skills/search/agents/openai.yaml  ← Codex UI metadata for the skill
+.claude/commands/awesome-chatgpt.md ← Claude Code slash command for local (unnamespaced) use
+.agents/skills/awesome-chatgpt/SKILL.md ← Codex skill for local use (delegates to the shared SKILL.md)
 .claude-plugin/
-  plugin.json                       ← plugin manifest
-  marketplace.json                  ← marketplace catalog (git-subdir source)
+  plugin.json                       ← legacy root manifest (not referenced by the marketplace)
+  marketplace.json                  ← Claude Code marketplace catalog (git-subdir source)
+.agents/plugins/marketplace.json    ← Codex marketplace catalog (local source)
 ```
+
+`skills/search/SKILL.md` is read by both tools, so keep it agent-neutral: don't rely on `$ARGUMENTS` (Claude Code appends `ARGUMENTS: …` on its own), and keep the per-tool lines for locating `data/` (`${CLAUDE_PLUGIN_ROOT}/data` for Claude Code, relative to the SKILL.md for Codex). Keep the version in both plugin manifests in sync.
 
 ## Plugin skill (when installed via /plugin)
 
@@ -26,12 +34,16 @@ After installation, invoke as:
 /awesome-chatgpt-search:search list categories
 ```
 
+In Codex (installed with `codex plugin marketplace add taishi-i/awesome-ChatGPT-repositories` and `codex plugin add awesome-chatgpt-search@awesome-chatgpt-repositories`), use the same queries with `$awesome-chatgpt-search:search`.
+
 ## Local standalone command (when repo is cloned)
 
 ```
 /awesome-chatgpt RAG retrieval
 /awesome-chatgpt category:CLIs agent
 ```
+
+In Codex, the repo-local skill is `$awesome-chatgpt`.
 
 ## Compact data format (`plugins/awesome-chatgpt-search/data/`)
 
