@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome ChatGPT Search"
+  short_description: "Search curated ChatGPT and LLM GitHub repositories"
+  default_prompt: "Use $awesome-chatgpt-search:search to find open-source RAG frameworks."

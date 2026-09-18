@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Generate compact search data files for the awesome-chatgpt-search plugin.
+The same files are used by the Claude Code and Codex versions of the skill.
 
 Usage:
     python3 plugins/awesome-chatgpt-search/build_data.py
@@ -161,8 +162,8 @@ def main() -> None:
 
     print("\nDone.")
 
-    # Category-count table — copy into README.md, SKILL.md and awesome-chatgpt.md
-    # whenever the data is regenerated, so the `list categories` numbers stay accurate.
+    # Category-count table — copy into the plugin README.md and awesome-chatgpt.md
+    # whenever the data is regenerated. (SKILL.md counts the data files directly.)
     print("\nCategory counts (sync into the docs' count tables):")
     print("| Category | Count |")
     print("|----------|-------|")

@@ -1,14 +1,25 @@
 ---
+name: search
 description: Search 2500+ curated ChatGPT and LLM open-source repositories. Use when the user asks to find tools, libraries, or repos related to ChatGPT, LLMs, RAG, agents, langchain, NLP, AI development, or any open-source AI tooling.
 ---
 
-Search the awesome-ChatGPT-repositories database for: "$ARGUMENTS"
+Search the awesome-ChatGPT-repositories database for the user's query.
 
 ## Instructions
 
+Ground rules — they apply whether this skill was invoked explicitly or picked automatically:
+- Present only repositories from the bundled data files, even when the list has just a few matches — then say so and suggest other keywords rather than filling the gap from elsewhere.
+- Don't search the web or open repository pages to add or verify details (setup, license, activity) unless the user explicitly asks for that: the curated list is the source of truth here, and its star counts and descriptions are snapshots. Copy names, URLs, and star counts exactly as they appear in the records.
+- The output templates in Steps 5b–7 are fixed: keep their Markdown headings (`##`, `###`), field labels, and order, and don't restyle them (for example, turning the result list into a table or a prose summary).
+- If the data files can't be read (for example, shell commands are blocked), say so and link https://github.com/taishi-i/awesome-ChatGPT-repositories instead of substituting other sources.
+
 ### Step 1 — Interpret the query
 
-The user's query is: "$ARGUMENTS"
+The query is the text the user passed to this skill (the same skill runs in Claude Code and Codex):
+- **Claude Code:** the arguments of `/awesome-chatgpt-search:search`, appended at the end as `ARGUMENTS: …`.
+- **Codex:** the user's message that invoked `$awesome-chatgpt-search:search`, minus the `$…` mention itself.
+
+If there is no explicit query text, use the user's latest request.
 
 Supported query modifiers:
 - `category:<name>` — filter to one category
@@ -75,7 +86,7 @@ Data is split into per-category files. Each file is a JSON array with **one repo
 Match the category name **case-insensitively** and accept common variants:
 `cli`/`clis`/`command-line` → CLIs · `chatbot`/`bot`/`chatbots` → Chatbots · `browser`/`extension`/`browser-extension` → Browser-extensions · `prompt`/`prompts` → Prompts · `tutorial`/`tutorials` → Tutorials · `reimpl`/`reimplementation` → Reimplementations · `awesome`/`lists` → Awesome-lists · `open ai`/`openai` → Openai. If the value matches no category, fall back to keyword routing (Rule C).
 
-**Rule B — list categories:** skip all file reads, jump to Step 5b.
+**Rule B — list categories:** skip the keyword search, jump to Step 5b.
 
 **Rule C — keyword routing for general queries:**
 
@@ -106,18 +117,24 @@ If **no rows match**, use the default: `repos-chatbots-a.json`, `repos-nlp-a.jso
 | image, vision, multimodal, DALL-E, Stable Diffusion, drawing | repos-others-a.json, repos-nlp-a.json |
 | voice, speech, audio, TTS, ASR, Whisper | repos-others-a.json, repos-nlp-b.json |
 
-**Then grep those files for the keywords — do NOT open whole files with the Read tool.** Locate the data directory once:
+**Then grep those files for the keywords — do NOT read whole files into context (no Read tool, `cat`, or full-file dumps).** Locate the data directory once — it is the plugin's `data/` folder, two levels above this SKILL.md:
+- **Claude Code:** `${CLAUDE_PLUGIN_ROOT}/data`
+- **Codex:** `<directory of this SKILL.md>/../../data`, built from the absolute path you loaded this SKILL.md from.
+
+If that directory does not exist (unusual install), find it — the data directory is the folder that contains the printed file:
 ```
-DATA="$(find "${HOME}/.claude/plugins" "${PWD}" -type d -name data -path "*awesome-chatgpt-search*" 2>/dev/null | head -1)"
+find "${CODEX_HOME:-$HOME/.codex}/plugins" "$HOME/.claude/plugins" "$PWD" -type f -name repos-unity.json -path "*awesome-chatgpt-search*" 2>/dev/null | head -1
 ```
+Shell variables may not persist between commands, so write the resolved absolute path in place of `$DATA` in the commands below.
+
 Then grep the selected files for your Step 1 keywords and cap the output. Use `-F` (literal substring match — same semantics as the scoring step, and safe for keywords like `c++` or `.net`) with one `-e` per keyword:
 ```
 grep -ihF -e keyword1 -e keyword2 -e keyword3 "$DATA"/repos-nlp-a.json "$DATA"/repos-nlp-b.json | head -120
 ```
 Each line of output is one repo record (a JSON object) that matched at least one keyword — score those lines directly in Step 4. This reads only the matching repos, not the whole files. Notes:
-- If grep returns **fewer than ~8 lines**, broaden the keywords (add stems/tool names from Step 1) and re-run.
+- If grep returns **fewer than ~8 lines**, broaden the keywords (add more general single-word stems or tool names from Step 1 — multi-word phrases rarely match) and re-run.
 - If it returns the full `head` cap, your keywords are good; proceed.
-- Only fall back to the Read tool on individual files if `grep` is unavailable.
+- Only fall back to reading individual files if `grep` is unavailable.
 
 ### Step 3 — Filter by language (if `language:<lang>` was given)
 
@@ -149,7 +166,7 @@ Exclude items with **text_match < 5** (catches only accidental partial hits). Co
 
 ### Step 5a — Re-rank with your judgment
 
-Apply semantic judgment to produce the final ordered list of up to **10** results.
+Apply semantic judgment to produce the final ordered list of **10** results — fewer only when fewer candidates actually fit the query.
 
 Re-rank by evaluating each candidate on:
 1. **Semantic centrality** — how directly does this repo address the query's core intent?
@@ -166,32 +183,36 @@ Re-rank by evaluating each candidate on:
 
 ### Step 5b — List categories (only if query was `list categories` / `categories`)
 
-Skip scoring. Present:
+Skip scoring. Count the repositories per category from the data (one cheap command, so the numbers always match the bundled data):
+```
+grep -ho '"c":"[^"]*"' "$DATA"/repos-*.json | sort | uniq -c
+```
+Present the counts in this order, followed by the total:
 
 ```
 ## Available categories
 
 | Category | Count |
 |----------|-------|
-| Awesome-lists | 98 |
-| Prompts | 190 |
-| Chatbots | 383 |
-| Browser-extensions | 257 |
-| CLIs | 268 |
-| Reimplementations | 42 |
-| Tutorials | 21 |
-| NLP | 425 |
-| Langchain | 180 |
-| Unity | 17 |
-| Openai | 329 |
-| Others | 477 |
-| **Total** | **2,687** |
+| Awesome-lists | N |
+| Prompts | N |
+| Chatbots | N |
+| Browser-extensions | N |
+| CLIs | N |
+| Reimplementations | N |
+| Tutorials | N |
+| NLP | N |
+| Langchain | N |
+| Unity | N |
+| Openai | N |
+| Others | N |
+| **Total** | **N** |
 ```
 
 ### Step 6 — Format the output
 
 ```
-## Search results for "$ARGUMENTS"
+## Search results for "<query>"
 
 *(Searched for: keyword1, keyword2, ...)*
 
@@ -204,6 +225,8 @@ Description text here.
 
 ### 2. ...
 ```
+
+Fill every field from the record: link text `n`, URL `u`, category `c`, language `l`, stars `st` as-is, the description `d` verbatim (you may drop `:emoji:` shortcodes), and topics from `t` (trim long lists to about 8). The results stay in English like the data; only the Step 7 guide follows the query language.
 
 Omit the Language line if `l` is absent. Omit `⭐ stars` if `st` is absent. Omit the Topics line if `t` is absent.
 

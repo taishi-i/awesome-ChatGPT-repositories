@@ -15,18 +15,18 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
-## Claude Code Skill
+## Claude Code & Codex Skill
 
-Search 2,500+ curated repositories directly from Claude Code — no browser needed, just describe what you're looking for.
+Search 2,500+ curated repositories directly from Claude Code or Codex — no browser needed, just describe what you're looking for. Both tools use the same skill and the same bundled data.
 
 - **Find tools by topic** — RAG frameworks, agent libraries, chatbot UIs, CLI tools, and more
 - **Filter by category or language** — narrow results to a specific category (e.g. `CLIs`, `NLP`) or programming language
 - **Multilingual queries** — search in Japanese, Chinese, Korean, or any language
 - **Scored results** — ranked by relevance, star count, and project quality
 
-### Install
+### Claude Code
 
-Run these two commands inside Claude Code:
+Run these commands inside Claude Code:
 
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
@@ -34,7 +34,7 @@ Run these two commands inside Claude Code:
 /reload-plugins
 ```
 
-### Usage
+Usage:
 
 ```
 /awesome-chatgpt-search:search RAG retrieval
@@ -42,6 +42,25 @@ Run these two commands inside Claude Code:
 /awesome-chatgpt-search:search language:Python langchain
 /awesome-chatgpt-search:search fine-tuning lora peft
 /awesome-chatgpt-search:search list categories
+```
+
+### Codex
+
+Run these commands in your terminal, then start a new Codex session:
+
+```
+codex plugin marketplace add taishi-i/awesome-ChatGPT-repositories
+codex plugin add awesome-chatgpt-search@awesome-chatgpt-repositories
+```
+
+Usage — mention the skill with `$` (Codex can also pick it up on its own when you ask for repositories):
+
+```
+$awesome-chatgpt-search:search RAG retrieval
+$awesome-chatgpt-search:search category:CLIs agent
+$awesome-chatgpt-search:search language:Python langchain
+$awesome-chatgpt-search:search fine-tuning lora peft
+$awesome-chatgpt-search:search list categories
 ```
 
 
