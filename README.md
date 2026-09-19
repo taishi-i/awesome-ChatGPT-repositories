@@ -1327,6 +1327,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [future-os](https://github.com/futuregene/future-os) - One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.
  * [Graft](https://github.com/trailhq/graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
  * [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+ * [jev-use](https://github.com/shitianfang/jev-use) - Claude Code, Codex and pi plugin that hands the agent steps needing no text output to a typed judgment model, with typed escalation back to the LLM.
 
 
 ## Reimplementations
