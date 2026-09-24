@@ -1329,6 +1329,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [Graft](https://github.com/trailhq/graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
  * [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
  * [cortex](https://github.com/cortex-docs/cortex) - Generate typed SDKs, interactive API documentation, and MCP servers from API specifications and Markdown.
+ * [Jev Social](https://github.com/socai-io/jev-social) - Codex-compatible Agent Skill that routes read-only Instagram, TikTok, and LinkedIn research through Jev and the local socai CLI.
 
 
 ## Reimplementations
