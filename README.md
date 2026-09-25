@@ -1329,6 +1329,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [Graft](https://github.com/trailhq/graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
  * [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
  * [cortex](https://github.com/cortex-docs/cortex) - Generate typed SDKs, interactive API documentation, and MCP servers from API specifications and Markdown.
+ * [5dive](https://github.com/5dive-ai/5dive) - Runs Claude Code, Codex and other agent CLIs as systemd services, each as its own Linux user. You assign their work and approve decisions from your phone.
 
 
 ## Reimplementations
