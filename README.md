@@ -2862,4 +2862,5 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
  * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing "what good looks like". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era.
  * [one-switch](https://github.com/yinxulai/one-switch) - A cross-platform local LLM gateway desktop app (macOS, Windows and Linux) that exposes an OpenAI/Anthropic-compatible API on localhost, routes requests across multiple LLM channels with automatic failover, and records request logs.
+ * [mcp-memory-server](https://github.com/mnemoverse/mcp-memory-server) - Persistent memory for AI agents over MCP. Tell it a recalled memory helped or misled and it re-ranks what comes back next. One key across Claude Code, Cursor, VS Code and ChatGPT.
 
