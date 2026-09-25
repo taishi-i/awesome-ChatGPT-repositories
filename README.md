@@ -1330,6 +1330,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
  * [cortex](https://github.com/cortex-docs/cortex) - Generate typed SDKs, interactive API documentation, and MCP servers from API specifications and Markdown.
  * [Jev Social](https://github.com/socai-io/jev-social) - Codex-compatible Agent Skill that routes read-only Instagram, TikTok, and LinkedIn research through Jev and the local socai CLI.
+ * [Lunavect](https://github.com/lovach/Lunavect) - Mac menu bar app that shows which Claude Code or Codex session is working, waiting for you, or done, plus both tools' weekly and five-hour usage limits.
 
 
 ## Reimplementations
