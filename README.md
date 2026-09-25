@@ -1266,6 +1266,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [openagent](https://github.com/haohao-end/openagent) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
  * [forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
  * [ccpocket](https://github.com/k9i-0/ccpocket) - Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
+ * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Local-first macOS companion that monitors and steers existing Codex Desktop tasks from a phone browser over a trusted LAN, without a cloud relay.
  * [openrelay](https://github.com/romgx/openrelay) - 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
  * [snow-cli](https://github.com/mayday-wpf/snow-cli) - Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
  * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - my curated agent skills library
@@ -1327,6 +1328,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [future-os](https://github.com/futuregene/future-os) - One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.
  * [Graft](https://github.com/trailhq/graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
  * [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
+ * [cortex](https://github.com/cortex-docs/cortex) - Generate typed SDKs, interactive API documentation, and MCP servers from API specifications and Markdown.
  * [5dive](https://github.com/5dive-ai/5dive) - Runs Claude Code, Codex and other agent CLIs as systemd services, each as its own Linux user. You assign their work and approve decisions from your phone.
 
 
@@ -2860,5 +2862,4 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
  * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing "what good looks like". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era.
  * [one-switch](https://github.com/yinxulai/one-switch) - A cross-platform local LLM gateway desktop app (macOS, Windows and Linux) that exposes an OpenAI/Anthropic-compatible API on localhost, routes requests across multiple LLM channels with automatic failover, and records request logs.
-
 
