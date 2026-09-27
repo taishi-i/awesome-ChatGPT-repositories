@@ -787,6 +787,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [ai](https://github.com/tanstack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
  * [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
  * [Proma](https://github.com/proma-ai/proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
+ * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - Android chat copilot: reads the open QQ, X or Feishu/Lark conversation through the accessibility service, suggests three replies with LLM APIs you configure (OpenRouter, DeepSeek and others), and fills the chosen one into the input box; sending stays manual.
 
 
 ## Browser-extensions
