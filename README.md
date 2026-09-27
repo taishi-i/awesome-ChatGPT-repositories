@@ -2376,6 +2376,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
 
 
 ## Others
+* [ChatGPT Workflows](https://github.com/RongNianXin/ChatGPT-Workflows) - ChatGPT and Codex workflows, web enhancements, troubleshooting and recovery notes, reusable prompts, and local Windows tools for session handoff and long-running tasks.
 
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
