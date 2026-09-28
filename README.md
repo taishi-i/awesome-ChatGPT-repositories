@@ -2046,6 +2046,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
 
 ## Openai
 
+ * [thursday](https://github.com/cgoinglove/thursday) - Open-source voice agent that runs on a ChatGPT sign-in or an OpenAI key; you talk on GPT-Live 1 while background bots work in a real browser, a shell and your files.
  * [Auto-GPT](https://github.com/torantulino/auto-gpt) - An experimental open-source attempt to make GPT-4 fully autonomous.
  * [BlenderGPT](https://github.com/gd3kr/blendergpt) - Use commands in English to control Blender with OpenAI's GPT-4
  * [evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
