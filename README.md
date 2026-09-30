@@ -1308,6 +1308,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
  * [plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
  * [agent-of-empires](https://github.com/agent-of-empires/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding.
+ * [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs Codex, Claude Code, and other coding-agent CLIs side by side in persistent tmux sessions, with live status and diff review.
  * [Codex-Manager](https://github.com/qxcnm/codex-manager) - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
  * [cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
  * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
