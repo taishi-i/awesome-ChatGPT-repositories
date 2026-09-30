@@ -2868,3 +2868,5 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing "what good looks like". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era.
  * [one-switch](https://github.com/yinxulai/one-switch) - A cross-platform local LLM gateway desktop app (macOS, Windows and Linux) that exposes an OpenAI/Anthropic-compatible API on localhost, routes requests across multiple LLM channels with automatic failover, and records request logs.
 
+
+ * [APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible AI API for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM models, with plans from $19/month.
