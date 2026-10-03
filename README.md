@@ -1360,6 +1360,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [skillshare](https://github.com/runkids/skillshare) - 📚 Your AI coding setup, everywhere. Manage skills, agents, rules, MCP connections and hooks in one place and simplify team sharing with the desktop app or CLI.
  * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
  * [openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+ * [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin) - Backend services that Codex, Claude Code and other coding agents provision themselves: Postgres, hosting, auth, storage, email and OpenAI API access through MCP or one HTTP API, with no signup.
 
 
 ## Reimplementations
