@@ -17,21 +17,21 @@
 
 ## 繁體中文 (Traditional Chinese)
 
-## Claude Code 技能
-直接從 Claude Code 搜尋 2,500 多個精選儲存庫——無需瀏覽器，只需描述您要找的內容。
+## Claude Code 與 Codex 技能
+直接從 Claude Code 或 Codex 搜尋 2,500 多個精選儲存庫——無需瀏覽器，只需描述您要找的內容。兩種工具使用同一個技能與同一份內建資料。
 - **依主題尋找工具** — RAG 框架、代理程式庫、聊天機器人 UI、CLI 工具等
 - **依類別或語言篩選** — 縮小至特定類別（例如 `CLIs`、`NLP`）或程式語言
 - **多語言查詢** — 支援以日語、中文、韓語或任何語言搜尋
 - **評分結果** — 依相關性、星數及專案品質排序
 
-### 安裝
-在 Claude Code 中執行以下兩個指令：
+### Claude Code
+在 Claude Code 中執行以下指令：
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
 /plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
 /reload-plugins
 ```
-### 使用方式
+使用方式：
 ```
 /awesome-chatgpt-search:search RAG retrieval
 /awesome-chatgpt-search:search category:CLIs agent
@@ -40,27 +40,65 @@
 /awesome-chatgpt-search:search list categories
 ```
 
+### Codex
+在終端機中執行以下指令，然後啟動新的 Codex 工作階段：
+```
+codex plugin marketplace add taishi-i/awesome-ChatGPT-repositories
+codex plugin add awesome-chatgpt-search@awesome-chatgpt-repositories
+```
+使用方式——以 `$` 指定該技能（當您請求尋找儲存庫時，Codex 也可能自動選用）：
+```
+$awesome-chatgpt-search:search RAG retrieval
+$awesome-chatgpt-search:search category:CLIs agent
+$awesome-chatgpt-search:search language:Python langchain
+$awesome-chatgpt-search:search fine-tuning lora peft
+$awesome-chatgpt-search:search list categories
+```
+
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [agent-manager](https://github.com/yoanwai/agent-manager) - 為每個AI編碼代理提供最快速的開發工作流程。從一個tmux TUI中查看即時狀態、快速提示、工作樹和差異檢查。
+ * [ChatGPT-Workflows](https://github.com/rongnianxin/chatgpt-workflows) - ChatGPT 與 Codex 的可驗證工作流、斷點交接、網頁增強和本地工具
+
+
 **Browser-extensions**
- * [mulmoterminal](https://github.com/receptron/mulmoterminal) - 在平行運行多個Claude Code和Codex會話 - 一個瀏覽器終端格網，顯示哪個代理需要您。本地，tmux支持，MIT。
+ * [thursday](https://github.com/cgoinglove/thursday) - 下一個網頁瀏覽器的開源文件上傳工具 :dog:
+ * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - 跨平台本地MCP功能，與Chrome整合，目標，緊湊和恢復，以及耐用的多代理工作流程。
+ * [jev-social](https://github.com/socai-io/jev-social) - 開源、本地優先的社交媒體研究代理人，可用於Instagram、TikTok和LinkedIn。Jev路由只讀步驟；socai CLI捕獲引用的瀏覽器證據。
 
 
 **CLIs**
- * [Graft](https://github.com/trailhq/graft) - Turbocharge Claude代碼，游標，Codex，雙子座和每個編碼代理：更快，更便宜，具有特定於您的代碼庫的上下文理解。
- * [career-ops](https://github.com/career-ops-hq/career-ops) - 開源人工智慧求職：掃描工作門戶網站，將列表評估為結構化的A-H報告，並給出全球1-5分的評分，定制您的簡歷，跟踪應聘情況 - 在您的人工智慧編碼CLI（Claude Code，Codex，OpenCode，Antigravity...）中本地運行。
+ * [coucou](https://github.com/louis-cfm/coucou) - 一個小小的朋友，住在您的凹槽（macOS）或屏幕頂部（Windows、Linux），監視您的編碼代理：Claude Code、Codex、Cursor、Gemini CLI、Antigravity等等。
+ * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - 一個自託管的CPA / CLIProxyAPI管理面板和AI閘道可觀察性儀表板，用於請求、使用情況、成本、配額、失敗和帳戶健康。
+ * [skillshare](https://github.com/runkids/skillshare) - 📚 您的AI編碼設置，無處不在。在一個地方管理技能、代理、規則、MCP連接和鉤子，並通過桌面應用程序或CLI簡化團隊共享。
+ * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 現代化可靈活嵌入的任務面板，支持 Codex、DeepSeek Harness
+ * [openrig](https://github.com/mvschwarz/openrig) - 從Claude Code、Codex和Pi建立您自己的代理人網絡：具有角色、共享上下文和擁有工作的持久團隊。
 
 
 **NLP**
- * [open-code-review](https://github.com/alibaba/open-code-review) - 快速、高效，在阿里巴巴规模上经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。
- * [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - 使用自託管的TypeScript代理運行時，具有持久的批准和可驗證的運行記錄。擁有它，批准它，審核它。
+ * [Auto-Company](https://github.com/maxmiksa/auto-company) - 一家汽車公司在您自己的個人電腦上全天候工作- Windows/Linux/macOS。
+ * [cindy](https://github.com/makecindy/cindy) - 想到，就能做到。開源、開箱即用的 AI Agent。
+ * [magpie](https://github.com/yetone/magpie) - 每個代理商的模型。一個地方。DeepSeek上的Codex，Kimi上的Claude Code，從菜單欄。
+ * [cortex](https://github.com/cortex-docs/cortex) - Cortex - 從OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC和Markdown生成互動式API文檔、類型化SDK和MCP服務器。
+ * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 裝在手機上的對話副駕：在 QQ / X / 飛書裡讀懂對方、給出候選回覆、一鍵填入輸入框，發不發由你。非侵入，只讀屏幕，不 hook 不改包。
 
 
-_Updated on September 18, 2026_ (A total of 2700 repositories listed.)
+**Openai**
+ * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - 在您的 macOS 菜单栏中，Claude、ChatGPT、Cursor 和 Copilot 的使用限制：重置倒计时、速度警告、零设置
+
+
+**Others**
+ * [one-switch](https://github.com/yinxulai/one-switch) - TRON區塊鏈的Solidity智能合約 https://tron.network
+ * [openusage](https://github.com/robinebers/openusage) - 您的訂閱速度過快嗎？支付您從未使用過的東西？停止猜測。OpenUsage 是免費且開源的。
+ * [codex-local-hub](https://github.com/makorise/codex-local-hub) - 密碼本監視器-通過您的手機在本地網絡上監視、繼續和審查密碼本任務。
+
+
+_Updated on October 03, 2026_ (A total of 2719 repositories listed.)
 
 ## Table of contents
 
@@ -374,6 +412,8 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - 針對蘋果矽片設計的最快本地AI引擎。比Ollama快4.2倍，0.08秒的緩存TTFT，100％的工具調用。17個工具解析器，提示緩存，推理分離，雲路由。可直接替換OpenAI。與Claude Code、Cursor、Aider兼容。
  * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - 使用技能來審核和重寫內容，以消除人工智慧寫作模式。與您喜歡的代理人一起使用，包括克勞德代碼、OpenClaw、Codex和Hermes。
  * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 從入門到精通教程｜AI 結對編程工作流｜Prompt、Skill、Workflow、上下文管理、codex實戰指南
+ * [agent-manager](https://github.com/yoanwai/agent-manager) - 為每個AI編碼代理提供最快速的開發工作流程。從一個tmux TUI中查看即時狀態、快速提示、工作樹和差異檢查。
+ * [ChatGPT-Workflows](https://github.com/rongnianxin/chatgpt-workflows) - ChatGPT 與 Codex 的可驗證工作流、斷點交接、網頁增強和本地工具
 
 
 ## Chatbots
@@ -1026,6 +1066,9 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [voyager](https://github.com/nagi-ovo/voyager) - Voyager - 一個針對 AI Studio、Gemini、Claude 和 ChatGPT 的全能增強套件：時間軸、文件夾、提示、使用追蹤、聊天導出、插件等功能。
  * [agents](https://github.com/wshobson/agents) - Claude Code、Codex、Cursor、OpenCode、GitHub Copilot 和 Google Antigravity 的多束代理插件市場
  * [mulmoterminal](https://github.com/receptron/mulmoterminal) - 在平行運行多個Claude Code和Codex會話 - 一個瀏覽器終端格網，顯示哪個代理需要您。本地，tmux支持，MIT。
+ * [thursday](https://github.com/cgoinglove/thursday) - 下一個網頁瀏覽器的開源文件上傳工具 :dog:
+ * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - 跨平台本地MCP功能，與Chrome整合，目標，緊湊和恢復，以及耐用的多代理工作流程。
+ * [jev-social](https://github.com/socai-io/jev-social) - 開源、本地優先的社交媒體研究代理人，可用於Instagram、TikTok和LinkedIn。Jev路由只讀步驟；socai CLI捕獲引用的瀏覽器證據。
 
 
 ## CLIs
@@ -1304,6 +1347,11 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [future-os](https://github.com/futuregene/future-os) - 一個人工智慧代理，無論您在哪裡工作 - 終端、桌面、手機和您的聊天應用程式。Rust核心。
  * [Graft](https://github.com/trailhq/graft) - Turbocharge Claude代碼，游標，Codex，雙子座和每個編碼代理：更快，更便宜，具有特定於您的代碼庫的上下文理解。
  * [career-ops](https://github.com/career-ops-hq/career-ops) - 開源人工智慧求職：掃描工作門戶網站，將列表評估為結構化的A-H報告，並給出全球1-5分的評分，定制您的簡歷，跟踪應聘情況 - 在您的人工智慧編碼CLI（Claude Code，Codex，OpenCode，Antigravity...）中本地運行。
+ * [coucou](https://github.com/louis-cfm/coucou) - 一個小小的朋友，住在您的凹槽（macOS）或屏幕頂部（Windows、Linux），監視您的編碼代理：Claude Code、Codex、Cursor、Gemini CLI、Antigravity等等。
+ * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - CLIProxyAPI管理面板和AI閘道可觀察性儀表板，用於請求、使用情況、成本、配額、失敗和帳戶健康。
+ * [skillshare](https://github.com/runkids/skillshare) - 📚 您的AI編碼設置，無處不在。在一個地方管理技能、代理、規則、MCP連接和鉤子，並通過桌面應用程序或CLI簡化團隊共享。
+ * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 現代化可靈活嵌入的任務面板，支持 Codex、DeepSeek Harness
+ * [openrig](https://github.com/mvschwarz/openrig) - 從Claude Code、Codex和Pi建立您自己的代理人網絡：具有角色、共享上下文和擁有工作的持久團隊。
 
 
 ## Reimplementations
@@ -1810,6 +1858,11 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AI 配置您已使用的 AI 編碼代理：Claude Code、Cursor、OpenCode、Codex、Pi 等等。選擇持久記憶、基於規範的開發、精心挑選的技能、MCP 伺服器、角色、以及可選的有限審查。開放原始碼，無代理鎖。
  * [open-code-review](https://github.com/alibaba/open-code-review) - 快速、高效，在阿里巴巴规模上经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。
  * [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - 使用自託管的TypeScript代理運行時，具有持久的批准和可驗證的運行記錄。擁有它，批准它，審核它。
+ * [Auto-Company](https://github.com/maxmiksa/auto-company) - 一家汽車公司在您自己的個人電腦上全天候工作- Windows/Linux/macOS。
+ * [cindy](https://github.com/makecindy/cindy) - 想到，就能做到。開源、開箱即用的 AI Agent。
+ * [magpie](https://github.com/yetone/magpie) - 每個代理商的模型。一個地方。DeepSeek上的Codex，Kimi上的Claude Code，從菜單欄。
+ * [cortex](https://github.com/cortex-docs/cortex) - Cortex - 從OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC和Markdown生成互動式API文檔、類型化SDK和MCP服務器。
+ * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 飛書裡讀懂對方、給出候選回覆、一鍵填入輸入框，發不發由你。非侵入，只讀屏幕，不 hook 不改包。
 
 
 ## Langchain
@@ -2347,6 +2400,7 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 公關代理：原始開源公關審查者。這個項目不是Qodo的免費版本。
  * [FunASR](https://github.com/modelscope/funasr) - 開源語音識別工具包，用於訓練、推斷、流式語音識別、語音活動檢測、標點符號、語者分割管道，以及與OpenAI兼容/MCP服務。
  * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - 一個以隱私為先的應用程式，可以從您擁有的內容中去除AI水印。
+ * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - 在您的 macOS 菜单栏中，Claude、ChatGPT、Cursor 和 Copilot 的使用限制：重置倒计时、速度警告、零设置
 
 
 ## Others
@@ -2835,5 +2889,8 @@ _Updated on September 18, 2026_ (A total of 2700 repositories listed.)
  * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 運行和監督編碼代理團隊從計劃到合併。任何工具（Claude代碼，代碼書，+25個以上）。桌面，網頁，移動和雲代理。
  * [bb](https://github.com/get-bb/bb) - 自我构建的代理IDE
  * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI代理現在可以撰寫99%的程式碼。這改變了開發者的定義。我們的角色轉變為知道"好的程式碼是什麼"。為了做到這一點，我們需要全新的開發者工具。Tendril是在代理時代取代您的IDE的工具。
+ * [one-switch](https://github.com/yinxulai/one-switch) - TRON區塊鏈的Solidity智能合約 https://tron.network
+ * [openusage](https://github.com/robinebers/openusage) - 您的訂閱速度過快嗎？支付您從未使用過的東西？停止猜測。OpenUsage 是免費且開源的。
+ * [codex-local-hub](https://github.com/makorise/codex-local-hub) - 密碼本監視器-通過您的手機在本地網絡上監視、繼續和審查密碼本任務。
 
 
