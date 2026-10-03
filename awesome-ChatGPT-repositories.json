@@ -7612,6 +7612,69 @@
                     "zh-hans": "Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南",
                     "zh-hant": "Vibe Coding 從入門到精通教程｜AI 結對編程工作流｜Prompt、Skill、Workflow、上下文管理、codex實戰指南"
                 }
+            },
+            "https://github.com/yoanwai/agent-manager": {
+                "repository_name": "agent-manager",
+                "user_name": "YoanWai",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+                "topics": [
+                    "ai-agents",
+                    "bubbletea",
+                    "claude-code",
+                    "cli",
+                    "code-review",
+                    "codex",
+                    "command-code",
+                    "developer-tools",
+                    "gemini-cli",
+                    "golang",
+                    "grok",
+                    "hermes-agent",
+                    "mcp-server",
+                    "model-context-protocol",
+                    "opencode",
+                    "pi",
+                    "terminal",
+                    "tmux",
+                    "tui",
+                    "wsl"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+                    "ja": "すべてのAIコーディングエージェントに最速の開発者ワークフロー。ライブステータス、迅速なプロンプト、ワークツリー、およびtmux TUIからの差分レビュー。",
+                    "zh-hans": "为每个AI编码代理提供最快的开发工作流程。通过一个tmux TUI实时状态、快速提示、工作树和差异审查。",
+                    "zh-hant": "為每個AI編碼代理提供最快速的開發工作流程。從一個tmux TUI中查看即時狀態、快速提示、工作樹和差異檢查。"
+                }
+            },
+            "https://github.com/rongnianxin/chatgpt-workflows": {
+                "repository_name": "ChatGPT-Workflows",
+                "user_name": "RongNianXin",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具",
+                "topics": [
+                    "ai-coding",
+                    "ai-workflow",
+                    "chatgpt",
+                    "chatgpt-workflows",
+                    "codex-cli",
+                    "codex-desktop",
+                    "codex-workflows",
+                    "developer-tools",
+                    "openai-codex",
+                    "powershell",
+                    "prompt-engineering",
+                    "windows-tools",
+                    "workflow-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT's verifiable workflow, breakpoint handover, web enhancement, and local tools with Codex.",
+                    "ja": "ChatGPT とCodexの検証可能なワークフロー、ブレークポイントの引き継ぎ、ウェブページの強化、およびローカルツール",
+                    "zh-hans": "ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具",
+                    "zh-hant": "ChatGPT 與 Codex 的可驗證工作流、斷點交接、網頁增強和本地工具"
+                }
             }
         },
         "Chatbots": {
@@ -24173,6 +24236,80 @@
                     "zh-hans": "同时运行多个克劳德代码和密码本会话 - 一个浏览器终端网格显示哪个代理需要您。本地，tmux支持，麻省理工学院。",
                     "zh-hant": "在平行運行多個Claude Code和Codex會話 - 一個瀏覽器終端格網，顯示哪個代理需要您。本地，tmux支持，MIT。"
                 }
+            },
+            "https://github.com/cgoinglove/thursday": {
+                "repository_name": "thursday",
+                "user_name": "cgoinglove",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "The next open source file uploader for web browsers :dog: ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The next open source file uploader for web browsers :dog:",
+                    "ja": "次のWebブラウザ用のオープンソースファイルアップローダー :dog:",
+                    "zh-hans": "下一个用于网络浏览器的开源文件上传器🐶",
+                    "zh-hant": "下一個網頁瀏覽器的開源文件上傳工具 :dog:"
+                }
+            },
+            "https://github.com/totec448-spec/chat-on-steroids": {
+                "repository_name": "chat-on-steroids",
+                "user_name": "totec448-spec",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+                "topics": [
+                    "automation",
+                    "chatgpt",
+                    "chrome-extension",
+                    "electron",
+                    "linux",
+                    "local-first",
+                    "macos",
+                    "mcp",
+                    "multi-agent",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+                    "ja": "ChatGPTのクロスプラットフォームローカルMCP機能とChrome統合、目標、コンパクト＆再開、耐久性のあるマルチエージェントワークフロー。",
+                    "zh-hans": "跨平台本地MCP功能，与Chrome集成，目标，紧凑和恢复，以及耐用的多代理工作流程。",
+                    "zh-hant": "跨平台本地MCP功能，與Chrome整合，目標，緊湊和恢復，以及耐用的多代理工作流程。"
+                }
+            },
+            "https://github.com/socai-io/jev-social": {
+                "repository_name": "jev-social",
+                "user_name": "socai-io",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence.",
+                "topics": [
+                    "agent-skills",
+                    "ai-agents",
+                    "browser-agent",
+                    "browser-automation",
+                    "decision-model",
+                    "deep-research",
+                    "instagram",
+                    "jev",
+                    "linkedin",
+                    "local-first",
+                    "open-source",
+                    "osint",
+                    "research-agent",
+                    "socai",
+                    "social-listening",
+                    "social-media",
+                    "social-media-research",
+                    "socmint",
+                    "system-one",
+                    "tiktok"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence.",
+                    "ja": "オープンソースで、ローカルファーストのソーシャルメディア調査エージェント。Instagram、TikTok、LinkedIn向け。Jevは読み取り専用のステップをルーティングし、socai CLIは引用されたブラウザの証拠をキャプチャします。",
+                    "zh-hans": "开源、本地优先的社交媒体研究代理，适用于Instagram、TikTok和LinkedIn。Jev路由只读步骤；socai CLI捕获引用的浏览器证据。",
+                    "zh-hant": "開源、本地優先的社交媒體研究代理人，可用於Instagram、TikTok和LinkedIn。Jev路由只讀步驟；socai CLI捕獲引用的瀏覽器證據。"
+                }
             }
         },
         "CLIs": {
@@ -31310,6 +31447,152 @@
                     "ja": "オープンソースのAIジョブ検索：ジョブポータルをスキャンし、リストを構造化されたA-Hレポートに評価し、グローバルな1-5のスコアで評価し、CVをカスタマイズし、応募を追跡します。AIコーディングCLI（Claude Code、Codex、OpenCode、Antigravityなど）でローカルで実行されます。",
                     "zh-hans": "开源人工智能求职：扫描工作门户网站，将列表评估为结构化的A-H报告，得出全球1-5分数，定制您的简历，跟踪申请——在您的人工智能编码CLI（Claude Code，Codex，OpenCode，Antigravity…）本地运行。",
                     "zh-hant": "開源人工智慧求職：掃描工作門戶網站，將列表評估為結構化的A-H報告，並給出全球1-5分的評分，定制您的簡歷，跟踪應聘情況 - 在您的人工智慧編碼CLI（Claude Code，Codex，OpenCode，Antigravity...）中本地運行。"
+                }
+            },
+            "https://github.com/louis-cfm/coucou": {
+                "repository_name": "coucou",
+                "user_name": "Louis-CFM",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+                "topics": [
+                    "ai-agents",
+                    "anthropic",
+                    "antigravity",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "cursor",
+                    "dynamic-island",
+                    "gemini-cli",
+                    "linux",
+                    "macos",
+                    "macos-app",
+                    "menubar-app",
+                    "notch",
+                    "open-source",
+                    "swift",
+                    "swiftui",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+                    "ja": "あなたの切り欠き（macOS）や画面の上部（Windows、Linux）に住む小さな友達で、あなたのコーディングエージェント、クロードコード、コーデックス、カーソル、ジェミニCLI、アンチグラビティなどを見守ります。",
+                    "zh-hans": "一个小伙伴，住在你的缺口（macOS）或屏幕顶部（Windows，Linux），时刻关注着你的编码代理：Claude Code，Codex，Cursor，Gemini CLI，Antigravity等等。",
+                    "zh-hant": "一個小小的朋友，住在您的凹槽（macOS）或屏幕頂部（Windows、Linux），監視您的編碼代理：Claude Code、Codex、Cursor、Gemini CLI、Antigravity等等。"
+                }
+            },
+            "https://github.com/seakee/cpa-manager-plus": {
+                "repository_name": "CPA-Manager-Plus",
+                "user_name": "seakee",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
+                "topics": [
+                    "ai-gateway",
+                    "claude-code",
+                    "cliproxyapi",
+                    "codex",
+                    "cost-analysis",
+                    "cpa",
+                    "gateway-monitoring",
+                    "observability",
+                    "openai",
+                    "openai-compatible",
+                    "quota-management",
+                    "request-monitoring",
+                    "usage-tracking"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
+                    "ja": "リクエスト、使用状況、コスト、クォータ、失敗、アカウントの健康状態に対する自己ホスト型のCPA / CLIProxyAPI管理パネルおよびAIゲートウェイ監視ダッシュボード。リクエスト、使用状況、コスト、クォータ、失敗、アカウントの健康状態に対する自己ホスト型のCPA / CLIProxyAPI管理パネルおよびAIゲートウェイ監視ダッシュボード。",
+                    "zh-hans": "一个自托管的CPA / CLIProxyAPI管理面板和AI网关可观察性仪表板，用于请求、使用情况、成本、配额、故障和账户健康。",
+                    "zh-hant": "一個自託管的CPA / CLIProxyAPI管理面板和AI閘道可觀察性儀表板，用於請求、使用情況、成本、配額、失敗和帳戶健康。"
+                }
+            },
+            "https://github.com/runkids/skillshare": {
+                "repository_name": "skillshare",
+                "user_name": "runkids",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "📚 Your AI coding setup, everywhere. Manage skills, agents, rules, MCP connections and hooks in one place and simplify team sharing with the desktop app or CLI.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "copilot",
+                    "cross-machine-sync",
+                    "cursor",
+                    "desktop-app",
+                    "gemini",
+                    "go",
+                    "hooks",
+                    "mcp",
+                    "openclaw",
+                    "opencode",
+                    "skills",
+                    "skills-audit",
+                    "skills-manager",
+                    "skillshare",
+                    "team-collaboration"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📚 Your AI coding setup, everywhere. Manage skills, agents, rules, MCP connections and hooks in one place and simplify team sharing with the desktop app or CLI.",
+                    "ja": "📚 どこでも使えるAIコーディングセットアップ。スキル、エージェント、ルール、MCP接続、フックを1か所で管理し、デスクトップアプリやCLIでチーム共有を簡素化します。",
+                    "zh-hans": "📚 您的AI编码设置，无处不在。在一个地方管理技能、代理、规则、MCP连接和钩子，并通过桌面应用程序或CLI简化团队共享。",
+                    "zh-hant": "📚 您的AI編碼設置，無處不在。在一個地方管理技能、代理、規則、MCP連接和鉤子，並通過桌面應用程序或CLI簡化團隊共享。"
+                }
+            },
+            "https://github.com/chuspeeism/dashi-taskboard": {
+                "repository_name": "dashi-taskboard",
+                "user_name": "chuspeeism",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
+                "topics": [
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "codex-app",
+                    "codex-desktop",
+                    "codex-plugin",
+                    "dsh",
+                    "dsh-plugin",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Modern task panel that can be flexibly embedded, supporting Codex and DeepSeek Harness.",
+                    "ja": "現代化で柔軟に組み込むことができるタスクパネルで、Codex、DeepSeek Harnessをサポートします。",
+                    "zh-hans": "现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
+                    "zh-hant": "現代化可靈活嵌入的任務面板，支持 Codex、DeepSeek Harness"
+                }
+            },
+            "https://github.com/mvschwarz/openrig": {
+                "repository_name": "openrig",
+                "user_name": "mvschwarz",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+                "topics": [
+                    "agent-harness",
+                    "agent-orchestration",
+                    "agent-skills",
+                    "ai-coding",
+                    "claude-code",
+                    "cli",
+                    "codex-cli",
+                    "multi-agent",
+                    "multi-agent-systems",
+                    "tmux",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+                    "ja": "クロードコード、コーデックス、およびPiからエージェントのネットワークを構築してください：役割、共有コンテキスト、および所有された作業を持つ持続的なチーム。",
+                    "zh-hans": "从Claude Code、Codex和Pi建立自己的代理网络：具有角色、共享背景和自有工作的持久团队。",
+                    "zh-hant": "從Claude Code、Codex和Pi建立您自己的代理人網絡：具有角色、共享上下文和擁有工作的持久團隊。"
                 }
             }
         },
@@ -43260,6 +43543,137 @@
                     "ja": "自己ホスト型のTypeScriptエージェントランタイムで、耐久性のある承認と検証可能な実行記録を持っています。所有し、承認し、監査してください。",
                     "zh-hans": "使用自托管的TypeScript代理运行时，具有持久的批准和可验证的运行记录。拥有它，批准它，审计它。",
                     "zh-hant": "使用自託管的TypeScript代理運行時，具有持久的批准和可驗證的運行記錄。擁有它，批准它，審核它。"
+                }
+            },
+            "https://github.com/maxmiksa/auto-company": {
+                "repository_name": "Auto-Company",
+                "user_name": "MaxMiksa",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.",
+                "topics": [
+                    "agentic-workflows",
+                    "ai-agents",
+                    "autonomous-agents",
+                    "claude-code",
+                    "codex",
+                    "dashboard",
+                    "llm",
+                    "multi-agent",
+                    "self-hosted",
+                    "workflow-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.",
+                    "ja": "自動車会社が24時間365日、あなたのPC（Windows/Linux/macOS）で動作します。",
+                    "zh-hans": "一个汽车公司在您自己的PC上24/7工作- Windows/Linux/macOS。",
+                    "zh-hant": "一家汽車公司在您自己的個人電腦上全天候工作- Windows/Linux/macOS。"
+                }
+            },
+            "https://github.com/makecindy/cindy": {
+                "repository_name": "cindy",
+                "user_name": "makecindy",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+                "topics": [
+                    "agent",
+                    "ai-agent",
+                    "ai-assistant",
+                    "android",
+                    "claude-code",
+                    "codex",
+                    "electron",
+                    "ios",
+                    "llm",
+                    "macos",
+                    "react-native",
+                    "typescript",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+                    "ja": "考えております。開封してすぐに使えるオープンソースのAIエージェント。",
+                    "zh-hans": "想到，就能做到。开源、开箱即用的 AI 代理。",
+                    "zh-hant": "想到，就能做到。開源、開箱即用的 AI Agent。"
+                }
+            },
+            "https://github.com/yetone/magpie": {
+                "repository_name": "magpie",
+                "user_name": "yetone",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+                "topics": [
+                    "claude-code",
+                    "codex",
+                    "deepseek",
+                    "gemini-cli",
+                    "llm",
+                    "macos"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+                    "ja": "すべてのエージェントのモデル。 1つの場所。 DeepSeekのコーデックス、KimiのClaudeコード、メニューバーから。",
+                    "zh-hans": "每个代理商的模型。一个地方。DeepSeek上的Codex，Kimi上的Claude Code，从菜单栏。",
+                    "zh-hant": "每個代理商的模型。一個地方。DeepSeek上的Codex，Kimi上的Claude Code，從菜單欄。"
+                }
+            },
+            "https://github.com/cortex-docs/cortex": {
+                "repository_name": "cortex",
+                "user_name": "cortex-docs",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.",
+                "topics": [
+                    "api-client",
+                    "api-documentation",
+                    "api-reference",
+                    "asyncapi",
+                    "code-generation",
+                    "docs",
+                    "documentation-generator",
+                    "graphql",
+                    "grpc",
+                    "markdown",
+                    "mcp",
+                    "mcp-server",
+                    "mode-context-protocol",
+                    "openapi",
+                    "openapi-generator",
+                    "openrpc",
+                    "protobuf",
+                    "sdk-generator",
+                    "swagger"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.",
+                    "ja": "Cortex - OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC、およびMarkdownからインタラクティブなAPIドキュメント、型付きSDK、およびMCPサーバーを生成します。",
+                    "zh-hans": "Cortex - 从OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC和Markdown生成交互式API文档、类型化SDK和MCP服务器。",
+                    "zh-hant": "Cortex - 從OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC和Markdown生成互動式API文檔、類型化SDK和MCP服務器。"
+                }
+            },
+            "https://github.com/jev-chat/jev-chat-jarvis": {
+                "repository_name": "jev-chat-jarvis",
+                "user_name": "jev-chat",
+                "language": "Kotlin",
+                "license": "MIT License",
+                "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+                "topics": [
+                    "accessibility-service",
+                    "ai-assistant",
+                    "android",
+                    "chat-assistant",
+                    "chat-copilot",
+                    "llm",
+                    "ocr",
+                    "qq"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Conversation copilot installed on your phone: Understand the other party in QQ / X / Feishu, provide candidate replies, fill in the input box with one click, whether to send or not is up to you. Non-intrusive, only read the screen, do not hook, do not modify the package.",
+                    "ja": "スマートフォンに装着された会話の副運転手：QQ / X / フェイシューで相手を理解し、候補の返信を提供し、ワンクリックで入力欄に入力し、送信するかどうかはあなた次第です。侵入せず、画面を読み取り、フックやパッケージの変更はしません。",
+                    "zh-hans": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+                    "zh-hant": "裝在手機上的對話副駕：在 QQ / X / 飛書裡讀懂對方、給出候選回覆、一鍵填入輸入框，發不發由你。非侵入，只讀屏幕，不 hook 不改包。"
                 }
             }
         },
@@ -55842,6 +56256,41 @@
                     "zh-hans": "一个以隐私为先的应用程序，可以去除您拥有内容上的AI水印。",
                     "zh-hant": "一個以隱私為先的應用程式，可以從您擁有的內容中去除AI水印。"
                 }
+            },
+            "https://github.com/yagcioglutoprak/aiquotabar": {
+                "repository_name": "AIQuotaBar",
+                "user_name": "yagcioglutoprak",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Claude, ChatGPT, Cursor & Copilot usage limits in your macOS menu bar: reset countdowns, pace warnings, zero setup",
+                "topics": [
+                    "ai-tools",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "claude-ai",
+                    "claude-code",
+                    "codex",
+                    "copilot",
+                    "cursor",
+                    "developer-tools",
+                    "github-copilot",
+                    "hacktoberfest",
+                    "macos",
+                    "menu-bar",
+                    "menubar-app",
+                    "openai",
+                    "quota-monitor",
+                    "rate-limit",
+                    "usage-monitor",
+                    "usage-tracker"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Claude, ChatGPT, Cursor & Copilot usage limits in your macOS menu bar: reset countdowns, pace warnings, zero setup",
+                    "ja": "macOSメニューバーでのClaude、ChatGPT、Cursor＆Copilotの使用制限：カウントダウンのリセット、ペースの警告、セットアップ不要",
+                    "zh-hans": "在您的 macOS 菜单栏中，Claude、ChatGPT、Cursor 和 Copilot 的使用限制：重置倒计时、节奏警告、零设置",
+                    "zh-hant": "在您的 macOS 菜单栏中，Claude、ChatGPT、Cursor 和 Copilot 的使用限制：重置倒计时、速度警告、零设置"
+                }
             }
         },
         "Others": {
@@ -65539,6 +65988,65 @@
                     "ja": "AIエージェントは今やコードの99%を書くことができます。これにより、開発者であることの意味が変わります。私たちの役割は、「良いものがどのように見えるか」を知ることにシフトします。そのためには、完全に新しい開発者ツールが必要です。Tendrilは、エージェントの時代においてあなたのIDEを置き換えるものです。",
                     "zh-hans": "AI代理现在可以编写99%的代码。这改变了开发者的含义。我们的角色转变为知道“好的代码是什么样的”。为了做到这一点，我们需要全新的开发者工具。Tendril是在代理时代取代您的IDE的工具。",
                     "zh-hant": "AI代理現在可以撰寫99%的程式碼。這改變了開發者的定義。我們的角色轉變為知道\"好的程式碼是什麼\"。為了做到這一點，我們需要全新的開發者工具。Tendril是在代理時代取代您的IDE的工具。"
+                }
+            },
+            "https://github.com/yinxulai/one-switch": {
+                "repository_name": "one-switch",
+                "user_name": "yinxulai",
+                "language": null,
+                "license": "MIT License",
+                "description": "Solidity smart contracts for the TRON blockchain https://tron.network",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Solidity smart contracts for the TRON blockchain https://tron.network",
+                    "ja": "TRONブロックチェーン用のSolidityスマートコントラクト https://tron.network",
+                    "zh-hans": "TRON区块链的Solidity智能合约 https://tron.network",
+                    "zh-hant": "TRON區塊鏈的Solidity智能合約 https://tron.network"
+                }
+            },
+            "https://github.com/robinebers/openusage": {
+                "repository_name": "openusage",
+                "user_name": "robinebers",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
+                "topics": [
+                    "claude",
+                    "codex",
+                    "copilot",
+                    "cursor",
+                    "subscription"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
+                    "ja": "サブスクリプションをあまり早く使い果たしていませんか？使わないものにお金を払っていませんか？推測をやめてください。OpenUsageは無料でオープンソースです。",
+                    "zh-hans": "您的订阅速度太快了吗？支付您从未使用过的东西？停止猜测。OpenUsage是免费且开源的。",
+                    "zh-hant": "您的訂閱速度過快嗎？支付您從未使用過的東西？停止猜測。OpenUsage 是免費且開源的。"
+                }
+            },
+            "https://github.com/makorise/codex-local-hub": {
+                "repository_name": "codex-local-hub",
+                "user_name": "makorise",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.",
+                "topics": [
+                    "codex",
+                    "codex-desktop",
+                    "codex-mobile",
+                    "local-first",
+                    "lookout",
+                    "macos",
+                    "mobile-dashboard",
+                    "openai-codex",
+                    "pwa",
+                    "task-monitor"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.",
+                    "ja": "コーデックスルックアウト-あなたの携帯電話からローカルネットワークを介してコーデックスタスクを監視、継続、およびレビューします。",
+                    "zh-hans": "Codex Lookout - 通过手机在本地网络上监视、继续和审查Codex任务。",
+                    "zh-hant": "密碼本監視器-通過您的手機在本地網絡上監視、繼續和審查密碼本任務。"
                 }
             }
         }
