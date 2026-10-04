@@ -55,6 +55,19 @@ $awesome-chatgpt-search:search fine-tuning lora peft
 $awesome-chatgpt-search:search list categories
 ```
 
+### その他のエージェント（npx skills）
+ターミナルで以下のコマンドを実行してください。Cursor、Gemini CLI、GitHub Copilot など [skills CLI が対応するエージェント](https://github.com/vercel-labs/skills#supported-agents)のほか、Claude Code と Codex でも使えます：
+```
+npx skills add taishi-i/awesome-ChatGPT-repositories
+```
+使い方（Codex では `$awesome-chatgpt-search` を使います）：
+```
+/awesome-chatgpt-search RAG retrieval
+/awesome-chatgpt-search category:CLIs agent
+/awesome-chatgpt-search list categories
+```
+更新するときは `npx skills update awesome-chatgpt-search` を実行してください。プラグインをインストール済みの場合、こちらは不要です。
+
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
