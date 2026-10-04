@@ -2900,5 +2900,6 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [one-switch](https://github.com/yinxulai/one-switch) - Solidity smart contracts for the TRON blockchain https://tron.network
  * [openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.
+ * [aicostcalc](https://github.com/Leolionel221/aicostcalc) - Calculator and free JSON API for 40+ LLM API prices, including cache and Batch discounts, reconciled daily against LiteLLM.
 
 
