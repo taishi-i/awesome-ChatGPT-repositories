@@ -2920,3 +2920,5 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.
 
 
+
+ * [APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible AI API for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM models, with plans from $19/month.
