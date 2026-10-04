@@ -63,6 +63,24 @@ $awesome-chatgpt-search:search fine-tuning lora peft
 $awesome-chatgpt-search:search list categories
 ```
 
+### Other agents (npx skills)
+
+Run this command in your terminal. It works with Cursor, Gemini CLI, GitHub Copilot, and [other agents supported by the skills CLI](https://github.com/vercel-labs/skills#supported-agents), as well as Claude Code and Codex:
+
+```
+npx skills add taishi-i/awesome-ChatGPT-repositories
+```
+
+Usage (in Codex, use `$awesome-chatgpt-search` instead):
+
+```
+/awesome-chatgpt-search RAG retrieval
+/awesome-chatgpt-search category:CLIs agent
+/awesome-chatgpt-search list categories
+```
+
+To update, run `npx skills update awesome-chatgpt-search`. You don't need this if you have already installed the plugin.
+
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 

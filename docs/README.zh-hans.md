@@ -55,6 +55,19 @@ $awesome-chatgpt-search:search fine-tuning lora peft
 $awesome-chatgpt-search:search list categories
 ```
 
+### 其他智能体（npx skills）
+在终端中运行以下命令。除 Claude Code 和 Codex 外，还可用于 Cursor、Gemini CLI、GitHub Copilot 等 [skills CLI 支持的智能体](https://github.com/vercel-labs/skills#supported-agents)：
+```
+npx skills add taishi-i/awesome-ChatGPT-repositories
+```
+使用方法（在 Codex 中改用 `$awesome-chatgpt-search`）：
+```
+/awesome-chatgpt-search RAG retrieval
+/awesome-chatgpt-search category:CLIs agent
+/awesome-chatgpt-search list categories
+```
+更新时运行 `npx skills update awesome-chatgpt-search`。如果已安装插件，则无需此步骤。
+
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 

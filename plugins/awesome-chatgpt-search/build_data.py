@@ -9,10 +9,15 @@ Usage:
 Reads:  awesome-ChatGPT-repositories.json  (repo root)
 Writes: plugins/awesome-chatgpt-search/data/repos-<category>.json
         Large categories (>200 entries) are split into -a and -b halves.
+        skills/awesome-chatgpt-search/  (repo root): the standalone copy of the
+        search skill that `npx skills add taishi-i/awesome-ChatGPT-repositories`
+        installs: SKILL.md and agents/openai.yaml derived from skills/search/,
+        plus a copy of data/. Don't edit that directory by hand.
 """
 
 import json
 import math
+import shutil
 from pathlib import Path
 
 
@@ -27,6 +32,45 @@ def normalize_stars(stars: int) -> float:
 REPO_ROOT = Path(__file__).parent.parent.parent
 SOURCE = REPO_ROOT / "awesome-ChatGPT-repositories.json"
 OUT_DIR = Path(__file__).parent / "data"
+
+# The plugin's search skill, and its standalone copy for `npx skills`
+# (https://github.com/vercel-labs/skills). That installer copies only the skill's
+# own directory, so the copy bundles data/ and looks for it next to its SKILL.md.
+SKILL_DIR = Path(__file__).parent / "skills" / "search"
+STANDALONE_DIR = REPO_ROOT / "skills" / "awesome-chatgpt-search"
+
+# (plugin text, standalone text) pairs applied to skills/search/SKILL.md.
+# Each plugin text must appear exactly once. When you reword one of these
+# passages in the plugin SKILL.md, update its pair here as well.
+STANDALONE_SKILL_MD_EDITS = [
+    ("name: search\n", "name: awesome-chatgpt-search\n"),
+    (
+        "(the same skill runs in Claude Code and Codex):\n"
+        "- **Claude Code:** the arguments of `/awesome-chatgpt-search:search`, appended at the end as `ARGUMENTS: …`.\n"
+        "- **Codex:** the user's message that invoked `$awesome-chatgpt-search:search`, minus the `$…` mention itself.\n",
+        "(the same skill runs in Claude Code, Codex, and other agents):\n"
+        "- **Claude Code:** the arguments of `/awesome-chatgpt-search`, appended at the end as `ARGUMENTS: …`.\n"
+        "- **Codex and other agents:** the user's message that invoked this skill (`$awesome-chatgpt-search` in Codex), minus the skill mention itself.\n",
+    ),
+    ("relative to this plugin", "next to this SKILL.md"),
+    (
+        "it is the plugin's `data/` folder, two levels above this SKILL.md:\n"
+        "- **Claude Code:** `${CLAUDE_PLUGIN_ROOT}/data`\n"
+        "- **Codex:** `<directory of this SKILL.md>/../../data`, built from the absolute path you loaded this SKILL.md from.\n",
+        "it is the `data/` folder next to this SKILL.md:\n"
+        "- **Claude Code:** `${CLAUDE_SKILL_DIR}/data`\n"
+        "- **Codex and other agents:** `<directory of this SKILL.md>/data`, built from the absolute path you loaded this SKILL.md from.\n",
+    ),
+    (
+        'find "${CODEX_HOME:-$HOME/.codex}/plugins" "$HOME/.claude/plugins" "$PWD" ',
+        'find "$PWD" "$HOME/.agents/skills" "$HOME/.claude/skills" "${CODEX_HOME:-$HOME/.codex}/skills" ',
+    ),
+]
+
+# Same for skills/search/agents/openai.yaml (Codex UI metadata).
+STANDALONE_OPENAI_YAML_EDITS = [
+    ("$awesome-chatgpt-search:search", "$awesome-chatgpt-search"),
+]
 
 # Categories with more than ~200 entries are split into -a / -b.
 # This includes Browser-extensions (~250) and CLIs (~230).
@@ -134,6 +178,43 @@ def write_json(path: Path, records: list) -> None:
     print(f"  {path.name}: {len(records)} entries  ({kb:.0f} KB)")
 
 
+def apply_edits(text: str, edits: list[tuple[str, str]], name: str) -> str:
+    for old, new in edits:
+        if text.count(old) != 1:
+            raise SystemExit(
+                f"\nCannot build the standalone skill: {name} no longer contains "
+                f"exactly one copy of:\n{old}\n"
+                "Update the matching STANDALONE_*_EDITS pair in build_data.py."
+            )
+        text = text.replace(old, new)
+    return text
+
+
+def build_standalone_skill() -> None:
+    """Refresh skills/awesome-chatgpt-search/ from the plugin's search skill and data."""
+    data_dir = STANDALONE_DIR / "data"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    for stale in data_dir.glob("repos-*.json"):
+        stale.unlink()
+    for src in sorted(OUT_DIR.glob("repos-*.json")):
+        shutil.copyfile(src, data_dir / src.name)
+
+    skill_md = apply_edits(
+        (SKILL_DIR / "SKILL.md").read_text(encoding="utf-8"),
+        STANDALONE_SKILL_MD_EDITS,
+        "skills/search/SKILL.md",
+    )
+    openai_yaml = apply_edits(
+        (SKILL_DIR / "agents" / "openai.yaml").read_text(encoding="utf-8"),
+        STANDALONE_OPENAI_YAML_EDITS,
+        "skills/search/agents/openai.yaml",
+    )
+    (STANDALONE_DIR / "SKILL.md").write_text(skill_md, encoding="utf-8")
+    (STANDALONE_DIR / "agents").mkdir(exist_ok=True)
+    (STANDALONE_DIR / "agents" / "openai.yaml").write_text(openai_yaml, encoding="utf-8")
+    print("\nStandalone skill (npx skills) refreshed: skills/awesome-chatgpt-search/")
+
+
 def main() -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -159,6 +240,8 @@ def main() -> None:
             write_json(OUT_DIR / f"{slug}-b.json", records[mid:])
         else:
             write_json(OUT_DIR / f"{slug}.json", records)
+
+    build_standalone_skill()
 
     print("\nDone.")
 

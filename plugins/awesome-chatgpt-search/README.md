@@ -6,6 +6,8 @@ This plugin provides a single skill that searches across all categories of [awes
 
 Claude Code and Codex share the same skill (`skills/search/SKILL.md`) and the same bundled data (`data/`). Each tool reads its own manifest: `.claude-plugin/plugin.json` for Claude Code and `.codex-plugin/plugin.json` for Codex.
 
+`build_data.py` also copies the skill and its data to `skills/awesome-chatgpt-search/` at the repository root. The [skills CLI](https://github.com/vercel-labs/skills) (`npx skills`) installs the skill from there.
+
 ## Install
 
 ### Claude Code
@@ -47,6 +49,16 @@ codex plugin marketplace add .
 codex plugin add awesome-chatgpt-search@awesome-chatgpt-repositories
 ```
 
+### Other agents (npx skills)
+
+Works with Cursor, Gemini CLI, GitHub Copilot, and [other agents supported by the skills CLI](https://github.com/vercel-labs/skills#supported-agents), as well as Claude Code and Codex:
+
+```bash
+npx skills add taishi-i/awesome-ChatGPT-repositories
+```
+
+Add `-g` to install it for all projects. You don't need this if you have already installed the plugin.
+
 ## Update
 
 **Claude Code:**
@@ -58,6 +70,11 @@ codex plugin add awesome-chatgpt-search@awesome-chatgpt-repositories
 ```bash
 codex plugin marketplace upgrade awesome-chatgpt-repositories
 codex plugin add awesome-chatgpt-search@awesome-chatgpt-repositories
+```
+
+**npx skills:**
+```bash
+npx skills update awesome-chatgpt-search
 ```
 
 ## Usage
@@ -73,6 +90,13 @@ $awesome-chatgpt-search:search <query>
 ```
 
 Codex also picks the skill up on its own for requests such as "find open-source RAG frameworks", but mentioning it with `$` gives the most consistent output.
+
+**npx skills:**
+```shell
+/awesome-chatgpt-search <query>
+```
+
+In Codex, use `$awesome-chatgpt-search <query>`.
 
 ### Examples
 
@@ -103,7 +127,7 @@ Search results are ranked by a combined score:
 
 ## Data coverage
 
-All data is bundled in the plugin and generated from `awesome-ChatGPT-repositories.json` by `build_data.py`. `list categories` counts the bundled data directly, so its numbers always match the installed version.
+All data is bundled in the plugin and generated from `awesome-ChatGPT-repositories.json` by `build_data.py`, which also copies the skill and data to `skills/awesome-chatgpt-search/`. `list categories` counts the bundled data directly, so its numbers always match the installed version.
 
 | Category | Count |
 |----------|-------|

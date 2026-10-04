@@ -1,6 +1,8 @@
 ---
 name: awesome-chatgpt
 description: Search this repository's awesome-ChatGPT-repositories list for open-source ChatGPT and LLM projects such as RAG frameworks, agents, chatbots, CLIs, prompts, and browser extensions. Use when the user asks to find tools, libraries, or repos related to ChatGPT, LLMs, or AI development; not for editing or adding list entries.
+metadata:
+  internal: true
 ---
 
 Repository-local Codex entry point for the awesome-chatgpt-search skill (the counterpart of the Claude Code command `.claude/commands/awesome-chatgpt.md`).
