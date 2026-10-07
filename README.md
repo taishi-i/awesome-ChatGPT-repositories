@@ -2427,6 +2427,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [FunASR](https://github.com/modelscope/funasr) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
  * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
  * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - Claude, ChatGPT, Cursor & Copilot usage limits in your macOS menu bar: reset countdowns, pace warnings, zero setup
+ * [MakeAIVideo MCP](https://github.com/makeaivideo-ai/mcp) - MCP server for makeaivideo.ai that lets ChatGPT, Claude and other MCP clients create short-form AI videos with voiceover, captions and music, and post them.
 
 
 ## Others
