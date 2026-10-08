@@ -74,44 +74,24 @@ npx skills add taishi-i/awesome-ChatGPT-repositories
 
 ## The latest additions 🎉
 
-**Prompts**
- * [agent-manager](https://github.com/yoanwai/agent-manager) - すべてのAIコーディングエージェントに最速の開発者ワークフロー。ライブステータス、迅速なプロンプト、ワークツリー、およびtmux TUIからの差分レビュー。
- * [ChatGPT-Workflows](https://github.com/rongnianxin/chatgpt-workflows) - ChatGPT とCodexの検証可能なワークフロー、ブレークポイントの引き継ぎ、ウェブページの強化、およびローカルツール
-
-
 **Browser-extensions**
- * [thursday](https://github.com/cgoinglove/thursday) - 次のWebブラウザ用のオープンソースファイルアップローダー :dog:
- * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - ChatGPTのクロスプラットフォームローカルMCP機能とChrome統合、目標、コンパクト＆再開、耐久性のあるマルチエージェントワークフロー。
- * [jev-social](https://github.com/socai-io/jev-social) - オープンソースで、ローカルファーストのソーシャルメディア調査エージェント。Instagram、TikTok、LinkedIn向け。Jevは読み取り専用のステップをルーティングし、socai CLIは引用されたブラウザの証拠をキャプチャします。
+ * [quivr](https://github.com/the-vibe-company/quivr) - 連続したコンテンツストリームを検索および監視に変換するオープンソースエンジン。耐久性のある取り込み、ハイブリッド検索、アラート、およびフォーマット、モデル、およびビジネスルール用のプラグインがあります。
 
 
 **CLIs**
- * [coucou](https://github.com/louis-cfm/coucou) - あなたの切り欠き（macOS）や画面の上部（Windows、Linux）に住む小さな友達で、あなたのコーディングエージェント、クロードコード、コーデックス、カーソル、ジェミニCLI、アンチグラビティなどを見守ります。
- * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - リクエスト、使用状況、コスト、クォータ、失敗、アカウントの健康状態に対する自己ホスト型のCPA / CLIProxyAPI管理パネルおよびAIゲートウェイ監視ダッシュボード。リクエスト、使用状況、コスト、クォータ、失敗、アカウントの健康状態に対する自己ホスト型のCPA / CLIProxyAPI管理パネルおよびAIゲートウェイ監視ダッシュボード。
- * [skillshare](https://github.com/runkids/skillshare) - 📚 どこでも使えるAIコーディングセットアップ。スキル、エージェント、ルール、MCP接続、フックを1か所で管理し、デスクトップアプリやCLIでチーム共有を簡素化します。
- * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 現代化で柔軟に組み込むことができるタスクパネルで、Codex、DeepSeek Harnessをサポートします。
- * [openrig](https://github.com/mvschwarz/openrig) - クロードコード、コーデックス、およびPiからエージェントのネットワークを構築してください：役割、共有コンテキスト、および所有された作業を持つ持続的なチーム。
+ * [rea](https://github.com/morluto/rea) - エージェントを使用して、アプリの動作からネイティブバイナリまで、何でもリバースエンジニアリングできます。
 
 
-**NLP**
- * [Auto-Company](https://github.com/maxmiksa/auto-company) - 自動車会社が24時間365日、あなたのPC（Windows/Linux/macOS）で動作します。
- * [cindy](https://github.com/makecindy/cindy) - 考えております。開封してすぐに使えるオープンソースのAIエージェント。
- * [magpie](https://github.com/yetone/magpie) - すべてのエージェントのモデル。 1つの場所。 DeepSeekのコーデックス、KimiのClaudeコード、メニューバーから。
- * [cortex](https://github.com/cortex-docs/cortex) - Cortex - OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC、およびMarkdownからインタラクティブなAPIドキュメント、型付きSDK、およびMCPサーバーを生成します。
- * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - スマートフォンに装着された会話の副運転手：QQ / X / フェイシューで相手を理解し、候補の返信を提供し、ワンクリックで入力欄に入力し、送信するかどうかはあなた次第です。侵入せず、画面を読み取り、フックやパッケージの変更はしません。
-
-
-**Openai**
- * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - macOSメニューバーでのClaude、ChatGPT、Cursor＆Copilotの使用制限：カウントダウンのリセット、ペースの警告、セットアップ不要
+**Langchain**
+ * [LibreChat](https://github.com/librechat-ai/librechat) - 強化されたChatGPTクローン：機能エージェント、MCP、スキル、DeepSeek、Anthropic、AWS、OpenAI、Responses API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini、Artifacts、AIモデル切り替え、メッセージ検索、コードインタプリタ、langchain、DALL-E-3、Ope
 
 
 **Others**
- * [one-switch](https://github.com/yinxulai/one-switch) - TRONブロックチェーン用のSolidityスマートコントラクト https://tron.network
- * [openusage](https://github.com/robinebers/openusage) - サブスクリプションをあまり早く使い果たしていませんか？使わないものにお金を払っていませんか？推測をやめてください。OpenUsageは無料でオープンソースです。
- * [codex-local-hub](https://github.com/makorise/codex-local-hub) - コーデックスルックアウト-あなたの携帯電話からローカルネットワークを介してコーデックスタスクを監視、継続、およびレビューします。
+ * [loopx](https://github.com/loopx-project/loopx) - 耐久性のある状態カーネルを持つ制御プレーンは、長期的なエージェントやチームのために設計されています。セッション間で作業を進め、改善を続けるために、人間の注意を必要とせずに動作します。
+ * [letta-code](https://github.com/letta-ai/letta-code) - 人間のような記憶、アイデンティティ、学習能力、適応能力を持つ状態を保持するエージェント
 
 
-_Updated on October 03, 2026_ (A total of 2719 repositories listed.)
+_Updated on October 09, 2026_ (A total of 2724 repositories listed.)
 
 ## Table of contents
 
@@ -1082,6 +1062,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [thursday](https://github.com/cgoinglove/thursday) - 次のWebブラウザ用のオープンソースファイルアップローダー :dog:
  * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - ChatGPTのクロスプラットフォームローカルMCP機能とChrome統合、目標、コンパクト＆再開、耐久性のあるマルチエージェントワークフロー。
  * [jev-social](https://github.com/socai-io/jev-social) - オープンソースで、ローカルファーストのソーシャルメディア調査エージェント。Instagram、TikTok、LinkedIn向け。Jevは読み取り専用のステップをルーティングし、socai CLIは引用されたブラウザの証拠をキャプチャします。
+ * [quivr](https://github.com/the-vibe-company/quivr) - 連続したコンテンツストリームを検索および監視に変換するオープンソースエンジン。耐久性のある取り込み、ハイブリッド検索、アラート、およびフォーマット、モデル、およびビジネスルール用のプラグインがあります。
 
 
 ## CLIs
@@ -1361,10 +1342,11 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [Graft](https://github.com/trailhq/graft) - ターボチャージクロードコード、カーソル、コーデックス、ジェミニ＆すべてのコーディングエージェント：コードベースに特化した文脈理解を持ち、より速く、より安く。
  * [career-ops](https://github.com/career-ops-hq/career-ops) - オープンソースのAIジョブ検索：ジョブポータルをスキャンし、リストを構造化されたA-Hレポートに評価し、グローバルな1-5のスコアで評価し、CVをカスタマイズし、応募を追跡します。AIコーディングCLI（Claude Code、Codex、OpenCode、Antigravityなど）でローカルで実行されます。
  * [coucou](https://github.com/louis-cfm/coucou) - あなたの切り欠き（macOS）や画面の上部（Windows、Linux）に住む小さな友達で、あなたのコーディングエージェント、クロードコード、コーデックス、カーソル、ジェミニCLI、アンチグラビティなどを見守ります。
- * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - CLIProxyAPI管理パネルおよびAIゲートウェイ監視ダッシュボード。
+ * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - リクエスト、使用状況、コスト、クォータ、失敗、アカウントの健康状態に対する自己ホスト型のCPA / CLIProxyAPI管理パネルおよびAIゲートウェイ監視ダッシュボード。リクエスト、使用状況、コスト、クォータ、失敗、アカウントの健康状態に対する自己ホスト型のCPA / CLIProxyAPI管理パネルおよびAIゲートウェイ監視ダッシュボード。
  * [skillshare](https://github.com/runkids/skillshare) - 📚 どこでも使えるAIコーディングセットアップ。スキル、エージェント、ルール、MCP接続、フックを1か所で管理し、デスクトップアプリやCLIでチーム共有を簡素化します。
  * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 現代化で柔軟に組み込むことができるタスクパネルで、Codex、DeepSeek Harnessをサポートします。
  * [openrig](https://github.com/mvschwarz/openrig) - クロードコード、コーデックス、およびPiからエージェントのネットワークを構築してください：役割、共有コンテキスト、および所有された作業を持つ持続的なチーム。
+ * [rea](https://github.com/morluto/rea) - エージェントを使用して、アプリの動作からネイティブバイナリまで、何でもリバースエンジニアリングできます。
 
 
 ## Reimplementations
@@ -1875,7 +1857,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [cindy](https://github.com/makecindy/cindy) - 考えております。開封してすぐに使えるオープンソースのAIエージェント。
  * [magpie](https://github.com/yetone/magpie) - すべてのエージェントのモデル。 1つの場所。 DeepSeekのコーデックス、KimiのClaudeコード、メニューバーから。
  * [cortex](https://github.com/cortex-docs/cortex) - Cortex - OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC、およびMarkdownからインタラクティブなAPIドキュメント、型付きSDK、およびMCPサーバーを生成します。
- * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - フェイシューで相手を理解し、候補の返信を提供し、ワンクリックで入力欄に入力し、送信するかどうかはあなた次第です。侵入せず、画面を読み取り、フックやパッケージの変更はしません。
+ * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - スマートフォンに装着された会話の副運転手：QQ / X / フェイシューで相手を理解し、候補の返信を提供し、ワンクリックで入力欄に入力し、送信するかどうかはあなた次第です。侵入せず、画面を読み取り、フックやパッケージの変更はしません。
 
 
 ## Langchain
@@ -2060,6 +2042,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [openyak](https://github.com/openyak/openyak) - Input: OpenYak — Windows、macOS、およびLinux向けのオープンソースのローカルAIエージェント。Claude Code、Claude for Work、およびOpenAI CodexのプライベートでBYOKの代替手段であり、OpenRouter、MCP、およびOllamaを介して20以上のツール、100以上のモデルを提供しています。無料で、MITライセンスで、テレメトリーはありません。
  * [GoModel](https://github.com/enterpilot/gomodel) - Goで書かれたAIゲートウェイ。OpenAI、Anthropic、Gemini、Groq、xAI＆Ollamaに対応した軽量統合API。観測可能性、ガードレール、ストリーミング、コストおよび使用状況の追跡を備えたLiteLLMの代替手段。
  * [harness-sdk](https://github.com/strands-agents/harness-sdk) - わずか数行のコードでAIエージェントを構築するモデル駆動アプローチ。
+ * [LibreChat](https://github.com/librechat-ai/librechat) - 強化されたChatGPTクローン：機能エージェント、MCP、スキル、DeepSeek、Anthropic、AWS、OpenAI、Responses API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini、Artifacts、AIモデル切り替え、メッセージ検索、コードインタプリタ、langchain、DALL-E-3、Ope
 
 
 ## Unity
@@ -2905,5 +2888,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [one-switch](https://github.com/yinxulai/one-switch) - TRONブロックチェーン用のSolidityスマートコントラクト https://tron.network
  * [openusage](https://github.com/robinebers/openusage) - サブスクリプションをあまり早く使い果たしていませんか？使わないものにお金を払っていませんか？推測をやめてください。OpenUsageは無料でオープンソースです。
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - コーデックスルックアウト-あなたの携帯電話からローカルネットワークを介してコーデックスタスクを監視、継続、およびレビューします。
+ * [loopx](https://github.com/loopx-project/loopx) - 耐久性のある状態カーネルを持つ制御プレーンは、長期的なエージェントやチームのために設計されています。セッション間で作業を進め、改善を続けるために、人間の注意を必要とせずに動作します。
+ * [letta-code](https://github.com/letta-ai/letta-code) - 人間のような記憶、アイデンティティ、学習能力、適応能力を持つ状態を保持するエージェント
 
 

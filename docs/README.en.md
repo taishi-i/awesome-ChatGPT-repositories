@@ -87,44 +87,24 @@ To update, run `npx skills update awesome-chatgpt-search`. You don't need this i
 
 ## The latest additions 🎉
 
-**Prompts**
- * [agent-manager](https://github.com/yoanwai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
- * [ChatGPT-Workflows](https://github.com/rongnianxin/chatgpt-workflows) - ChatGPT's verifiable workflow, breakpoint handover, web enhancement, and local tools with Codex.
-
-
 **Browser-extensions**
- * [thursday](https://github.com/cgoinglove/thursday) - The next open source file uploader for web browsers :dog:
- * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
- * [jev-social](https://github.com/socai-io/jev-social) - Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence.
+ * [quivr](https://github.com/the-vibe-company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 
 
 **CLIs**
- * [coucou](https://github.com/louis-cfm/coucou) - A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.
- * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
- * [skillshare](https://github.com/runkids/skillshare) - 📚 Your AI coding setup, everywhere. Manage skills, agents, rules, MCP connections and hooks in one place and simplify team sharing with the desktop app or CLI.
- * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - Modern task panel that can be flexibly embedded, supporting Codex and DeepSeek Harness.
- * [openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+ * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 
-**NLP**
- * [Auto-Company](https://github.com/maxmiksa/auto-company) - An auto-company works for 24/7 on your own PC - Windows/Linux/macOS.
- * [cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
- * [magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
- * [cortex](https://github.com/cortex-docs/cortex) - Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.
- * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - Conversation copilot installed on your phone: Understand the other party in QQ / X / Feishu, provide candidate replies, fill in the input box with one click, whether to send or not is up to you. Non-intrusive, only read the screen, do not hook, do not modify the package.
-
-
-**Openai**
- * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - Claude, ChatGPT, Cursor & Copilot usage limits in your macOS menu bar: reset countdowns, pace warnings, zero setup
+**Langchain**
+ * [LibreChat](https://github.com/librechat-ai/librechat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, Ope
 
 
 **Others**
- * [one-switch](https://github.com/yinxulai/one-switch) - Solidity smart contracts for the TRON blockchain https://tron.network
- * [openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
- * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.
+ * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
+ * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 
 
-_Updated on October 03, 2026_ (A total of 2719 repositories listed.)
+_Updated on October 09, 2026_ (A total of 2724 repositories listed.)
 
 ## Table of contents
 
@@ -1095,6 +1075,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [thursday](https://github.com/cgoinglove/thursday) - The next open source file uploader for web browsers :dog:
  * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
  * [jev-social](https://github.com/socai-io/jev-social) - Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence.
+ * [quivr](https://github.com/the-vibe-company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 
 
 ## CLIs
@@ -1374,10 +1355,11 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [Graft](https://github.com/trailhq/graft) - Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.
  * [career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
  * [coucou](https://github.com/louis-cfm/coucou) - A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.
- * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
+ * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
  * [skillshare](https://github.com/runkids/skillshare) - 📚 Your AI coding setup, everywhere. Manage skills, agents, rules, MCP connections and hooks in one place and simplify team sharing with the desktop app or CLI.
  * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - Modern task panel that can be flexibly embedded, supporting Codex and DeepSeek Harness.
  * [openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
+ * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
 
 ## Reimplementations
@@ -1888,7 +1870,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
  * [magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
  * [cortex](https://github.com/cortex-docs/cortex) - Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.
- * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - Feishu, provide candidate replies, fill in the input box with one click, whether to send or not is up to you. Non-intrusive, only read the screen, do not hook, do not modify the package.
+ * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - Conversation copilot installed on your phone: Understand the other party in QQ / X / Feishu, provide candidate replies, fill in the input box with one click, whether to send or not is up to you. Non-intrusive, only read the screen, do not hook, do not modify the package.
 
 
 ## Langchain
@@ -2073,6 +2055,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [openyak](https://github.com/openyak/openyak) - OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.
  * [GoModel](https://github.com/enterpilot/gomodel) - AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.
  * [harness-sdk](https://github.com/strands-agents/harness-sdk) - A model-driven approach to building AI agents in just a few lines of code.
+ * [LibreChat](https://github.com/librechat-ai/librechat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, Ope
 
 
 ## Unity
@@ -2918,5 +2901,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [one-switch](https://github.com/yinxulai/one-switch) - Solidity smart contracts for the TRON blockchain https://tron.network
  * [openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.
+ * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
+ * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 
 
