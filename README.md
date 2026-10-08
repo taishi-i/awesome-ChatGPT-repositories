@@ -2410,6 +2410,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [FunASR](https://github.com/modelscope/funasr) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
  * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
  * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - Claude, ChatGPT, Cursor & Copilot usage limits in your macOS menu bar: reset countdowns, pace warnings, zero setup
+ * [threadlines](https://github.com/Threadlines/threadlines) - An open-source desktop workspace for Codex and Claude Code with a live browser, project files, and real source control.
 
 
 ## Others
