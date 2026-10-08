@@ -24310,6 +24310,41 @@
                     "zh-hans": "开源、本地优先的社交媒体研究代理，适用于Instagram、TikTok和LinkedIn。Jev路由只读步骤；socai CLI捕获引用的浏览器证据。",
                     "zh-hant": "開源、本地優先的社交媒體研究代理人，可用於Instagram、TikTok和LinkedIn。Jev路由只讀步驟；socai CLI捕獲引用的瀏覽器證據。"
                 }
+            },
+            "https://github.com/the-vibe-company/quivr": {
+                "repository_name": "quivr",
+                "user_name": "The-Vibe-Company",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.",
+                "topics": [
+                    "ai",
+                    "api",
+                    "chatbot",
+                    "chatgpt",
+                    "database",
+                    "docker",
+                    "framework",
+                    "frontend",
+                    "groq",
+                    "html",
+                    "javascript",
+                    "llm",
+                    "openai",
+                    "postgresql",
+                    "privacy",
+                    "rag",
+                    "react",
+                    "security",
+                    "typescript",
+                    "vector"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.",
+                    "ja": "連続したコンテンツストリームを検索および監視に変換するオープンソースエンジン。耐久性のある取り込み、ハイブリッド検索、アラート、およびフォーマット、モデル、およびビジネスルール用のプラグインがあります。",
+                    "zh-hans": "一个开源引擎，可以将连续的内容流转换为搜索和监控。持久的摄入，混合搜索，警报以及用于格式，模型和业务规则的插件。",
+                    "zh-hant": "一個開源引擎，將連續的內容流轉換為搜索和監控。持久的摄入，混合搜索，警報以及用於格式，模型和業務規則的插件。"
+                }
             }
         },
         "CLIs": {
@@ -31593,6 +31628,41 @@
                     "ja": "クロードコード、コーデックス、およびPiからエージェントのネットワークを構築してください：役割、共有コンテキスト、および所有された作業を持つ持続的なチーム。",
                     "zh-hans": "从Claude Code、Codex和Pi建立自己的代理网络：具有角色、共享背景和自有工作的持久团队。",
                     "zh-hant": "從Claude Code、Codex和Pi建立您自己的代理人網絡：具有角色、共享上下文和擁有工作的持久團隊。"
+                }
+            },
+            "https://github.com/morluto/rea": {
+                "repository_name": "rea",
+                "user_name": "morluto",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+                "topics": [
+                    "agent-skills",
+                    "ai-agents",
+                    "binary-analysis",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "cordis",
+                    "ctf",
+                    "decompiler",
+                    "developer-tools",
+                    "disassembler",
+                    "dsh",
+                    "dsh-plugin",
+                    "ghidra",
+                    "hopper",
+                    "llm",
+                    "mcp",
+                    "model-context-protocol",
+                    "reverse-engineering",
+                    "static-analysis"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+                    "ja": "エージェントを使用して、アプリの動作からネイティブバイナリまで、何でもリバースエンジニアリングできます。",
+                    "zh-hans": "使用代理人逆向工程任何东西，从应用程序行为到本机二进制文件。",
+                    "zh-hant": "使用代理進行任何東西的逆向工程，從應用程式行為到本機二進制文件。"
                 }
             }
         },
@@ -48420,6 +48490,41 @@
                     "ja": "わずか数行のコードでAIエージェントを構築するモデル駆動アプローチ。",
                     "zh-hans": "一种基于模型驱动的方法，仅需几行代码即可构建AI代理。",
                     "zh-hant": "一種以模型驅動的方法，在僅需幾行代碼中建立AI代理。"
+                }
+            },
+            "https://github.com/librechat-ai/librechat": {
+                "repository_name": "LibreChat",
+                "user_name": "LibreChat-AI",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "artifacts",
+                    "aws",
+                    "azure",
+                    "chatgpt",
+                    "chatgpt-clone",
+                    "claude",
+                    "clone",
+                    "deepseek",
+                    "gemini",
+                    "google",
+                    "gpt-5",
+                    "librechat",
+                    "mcp",
+                    "o1",
+                    "openai",
+                    "responses-api",
+                    "vision",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, Ope",
+                    "ja": "強化されたChatGPTクローン：機能エージェント、MCP、スキル、DeepSeek、Anthropic、AWS、OpenAI、Responses API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini、Artifacts、AIモデル切り替え、メッセージ検索、コードインタプリタ、langchain、DALL-E-3、Ope",
+                    "zh-hans": "增强版ChatGPT克隆：功能代理，MCP，技能，DeepSeek，人类，AWS，OpenAI，响应API，Azure，Groq，o1，GPT-5，Mistral，OpenRouter，Vertex AI，Gemini，工件，AI模型切换，消息搜索，代码解释器，langchain，DALL-E-3，Ope",
+                    "zh-hant": "強化版 ChatGPT 克隆：功能代理、MCP、技能、DeepSeek、Anthropic、AWS、OpenAI、回應 API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini、Artifacts、AI 模型切換、消息搜索、代碼解釋器、langchain、DALL-E-3、Ope"
                 }
             }
         },
@@ -66047,6 +66152,57 @@
                     "ja": "コーデックスルックアウト-あなたの携帯電話からローカルネットワークを介してコーデックスタスクを監視、継続、およびレビューします。",
                     "zh-hans": "Codex Lookout - 通过手机在本地网络上监视、继续和审查Codex任务。",
                     "zh-hant": "密碼本監視器-通過您的手機在本地網絡上監視、繼續和審查密碼本任務。"
+                }
+            },
+            "https://github.com/loopx-project/loopx": {
+                "repository_name": "loopx",
+                "user_name": "loopx-project",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
+                "topics": [
+                    "agent-control-plane",
+                    "agent-harness",
+                    "ai-agents",
+                    "claude-code",
+                    "codex",
+                    "dsh-plugin",
+                    "local-first",
+                    "long-horizon-agents",
+                    "loop-engineering",
+                    "multi-agent",
+                    "personal-agent",
+                    "rsi",
+                    "workflow-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
+                    "ja": "耐久性のある状態カーネルを持つ制御プレーンは、長期的なエージェントやチームのために設計されています。セッション間で作業を進め、改善を続けるために、人間の注意を必要とせずに動作します。",
+                    "zh-hans": "一个具有耐用状态内核的控制平面，适用于长期计划的代理人和团队。在会话之间保持工作的进行和改进，减少人工干预。",
+                    "zh-hant": "具有耐久状态内核的控制平面，适用于长期代理和团队。在会话之间保持工作的持续改进，减少人为干预。"
+                }
+            },
+            "https://github.com/letta-ai/letta-code": {
+                "repository_name": "letta-code",
+                "user_name": "letta-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Stateful agents that are like people, with memory, identity, and the ability to learn and adapt",
+                "topics": [
+                    "agent-memory",
+                    "ai",
+                    "claude",
+                    "codex",
+                    "continual-learning",
+                    "letta",
+                    "memgpt",
+                    "stateful-agents"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Stateful agents that are like people, with memory, identity, and the ability to learn and adapt",
+                    "ja": "人間のような記憶、アイデンティティ、学習能力、適応能力を持つ状態を保持するエージェント",
+                    "zh-hans": "有记忆、身份和学习适应能力的有状态代理，就像人一样。",
+                    "zh-hant": "具有記憶、身份和學習適應能力的有狀態的代理人，就像人一樣。"
                 }
             }
         }

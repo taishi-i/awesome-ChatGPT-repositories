@@ -243,5 +243,6 @@
 {"u":"https://github.com/cuishuang/explain-source-code-by-chatgpt","n":"explain-source-code-by-chatgpt","d":"👂🏻 ChatGPT explains the source code of a well-known Go project.","c":"Others","sc":2.5,"st":405,"ns":5.2},
 {"u":"https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper","n":"ChatGPT_principle_fine-tuning_code_paper","d":"The initial version of this \"ChatGPT Resource Library (Principles/Fine-tuning/Code/Papers)\" comes from the highly popular ChatGPT series on July's CSDN blog, with a reading count of up to 500,000. ...","c":"Others","sc":3.5},
 {"u":"https://github.com/azure-samples/spring-chatgpt-sample","n":"spring-chatgpt-sample","d":"A ChatGPT like sample using Spring / Java Stack","c":"Others","sc":2.5,"l":"Java","st":28,"ns":2.9},
-{"u":"https://github.com/microsoft/azurechatgpt","n":"azurechatgpt","d":"🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 ","c":"Others","sc":3.5,"l":"TypeScript","st":1400,"ns":6.3}
+{"u":"https://github.com/microsoft/azurechatgpt","n":"azurechatgpt","d":"🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 ","c":"Others","sc":3.5,"l":"TypeScript","st":1400,"ns":6.3},
+{"u":"https://github.com/dreamergrow/chatgpt-nine-ai","n":"ChatGPT-Nine-Ai","d":"A commercial ChatGPT website built using Nestjs and Vue3.","c":"Others","sc":2.5,"st":168,"ns":4.5}
 ]

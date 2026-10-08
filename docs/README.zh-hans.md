@@ -74,44 +74,24 @@ npx skills add taishi-i/awesome-ChatGPT-repositories
 
 ## The latest additions 🎉
 
-**Prompts**
- * [agent-manager](https://github.com/yoanwai/agent-manager) - 为每个AI编码代理提供最快的开发工作流程。通过一个tmux TUI实时状态、快速提示、工作树和差异审查。
- * [ChatGPT-Workflows](https://github.com/rongnianxin/chatgpt-workflows) - ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具
-
-
 **Browser-extensions**
- * [thursday](https://github.com/cgoinglove/thursday) - 下一个用于网络浏览器的开源文件上传器🐶
- * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - 跨平台本地MCP功能，与Chrome集成，目标，紧凑和恢复，以及耐用的多代理工作流程。
- * [jev-social](https://github.com/socai-io/jev-social) - 开源、本地优先的社交媒体研究代理，适用于Instagram、TikTok和LinkedIn。Jev路由只读步骤；socai CLI捕获引用的浏览器证据。
+ * [quivr](https://github.com/the-vibe-company/quivr) - 一个开源引擎，可以将连续的内容流转换为搜索和监控。持久的摄入，混合搜索，警报以及用于格式，模型和业务规则的插件。
 
 
 **CLIs**
- * [coucou](https://github.com/louis-cfm/coucou) - 一个小伙伴，住在你的缺口（macOS）或屏幕顶部（Windows，Linux），时刻关注着你的编码代理：Claude Code，Codex，Cursor，Gemini CLI，Antigravity等等。
- * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - 一个自托管的CPA / CLIProxyAPI管理面板和AI网关可观察性仪表板，用于请求、使用情况、成本、配额、故障和账户健康。
- * [skillshare](https://github.com/runkids/skillshare) - 📚 您的AI编码设置，无处不在。在一个地方管理技能、代理、规则、MCP连接和钩子，并通过桌面应用程序或CLI简化团队共享。
- * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
- * [openrig](https://github.com/mvschwarz/openrig) - 从Claude Code、Codex和Pi建立自己的代理网络：具有角色、共享背景和自有工作的持久团队。
+ * [rea](https://github.com/morluto/rea) - 使用代理人逆向工程任何东西，从应用程序行为到本机二进制文件。
 
 
-**NLP**
- * [Auto-Company](https://github.com/maxmiksa/auto-company) - 一个汽车公司在您自己的PC上24/7工作- Windows/Linux/macOS。
- * [cindy](https://github.com/makecindy/cindy) - 想到，就能做到。开源、开箱即用的 AI 代理。
- * [magpie](https://github.com/yetone/magpie) - 每个代理商的模型。一个地方。DeepSeek上的Codex，Kimi上的Claude Code，从菜单栏。
- * [cortex](https://github.com/cortex-docs/cortex) - Cortex - 从OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC和Markdown生成交互式API文档、类型化SDK和MCP服务器。
- * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
-
-
-**Openai**
- * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - 在您的 macOS 菜单栏中，Claude、ChatGPT、Cursor 和 Copilot 的使用限制：重置倒计时、节奏警告、零设置
+**Langchain**
+ * [LibreChat](https://github.com/librechat-ai/librechat) - 增强版ChatGPT克隆：功能代理，MCP，技能，DeepSeek，人类，AWS，OpenAI，响应API，Azure，Groq，o1，GPT-5，Mistral，OpenRouter，Vertex AI，Gemini，工件，AI模型切换，消息搜索，代码解释器，langchain，DALL-E-3，Ope
 
 
 **Others**
- * [one-switch](https://github.com/yinxulai/one-switch) - TRON区块链的Solidity智能合约 https://tron.network
- * [openusage](https://github.com/robinebers/openusage) - 您的订阅速度太快了吗？支付您从未使用过的东西？停止猜测。OpenUsage是免费且开源的。
- * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout - 通过手机在本地网络上监视、继续和审查Codex任务。
+ * [loopx](https://github.com/loopx-project/loopx) - 一个具有耐用状态内核的控制平面，适用于长期计划的代理人和团队。在会话之间保持工作的进行和改进，减少人工干预。
+ * [letta-code](https://github.com/letta-ai/letta-code) - 有记忆、身份和学习适应能力的有状态代理，就像人一样。
 
 
-_Updated on October 03, 2026_ (A total of 2719 repositories listed.)
+_Updated on October 09, 2026_ (A total of 2724 repositories listed.)
 
 ## Table of contents
 
@@ -1082,6 +1062,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [thursday](https://github.com/cgoinglove/thursday) - 下一个用于网络浏览器的开源文件上传器🐶
  * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - 跨平台本地MCP功能，与Chrome集成，目标，紧凑和恢复，以及耐用的多代理工作流程。
  * [jev-social](https://github.com/socai-io/jev-social) - 开源、本地优先的社交媒体研究代理，适用于Instagram、TikTok和LinkedIn。Jev路由只读步骤；socai CLI捕获引用的浏览器证据。
+ * [quivr](https://github.com/the-vibe-company/quivr) - 一个开源引擎，可以将连续的内容流转换为搜索和监控。持久的摄入，混合搜索，警报以及用于格式，模型和业务规则的插件。
 
 
 ## CLIs
@@ -1361,10 +1342,11 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [Graft](https://github.com/trailhq/graft) - 涡轮克劳德代码，光标，密码本，双子座和每个编码代理：更快，更便宜，具有针对您代码库的上下文理解。
  * [career-ops](https://github.com/career-ops-hq/career-ops) - 开源人工智能求职：扫描工作门户网站，将列表评估为结构化的A-H报告，得出全球1-5分数，定制您的简历，跟踪申请——在您的人工智能编码CLI（Claude Code，Codex，OpenCode，Antigravity…）本地运行。
  * [coucou](https://github.com/louis-cfm/coucou) - 一个小伙伴，住在你的缺口（macOS）或屏幕顶部（Windows，Linux），时刻关注着你的编码代理：Claude Code，Codex，Cursor，Gemini CLI，Antigravity等等。
- * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - CLIProxyAPI管理面板和AI网关可观察性仪表板，用于请求、使用情况、成本、配额、故障和账户健康。
+ * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - 一个自托管的CPA / CLIProxyAPI管理面板和AI网关可观察性仪表板，用于请求、使用情况、成本、配额、故障和账户健康。
  * [skillshare](https://github.com/runkids/skillshare) - 📚 您的AI编码设置，无处不在。在一个地方管理技能、代理、规则、MCP连接和钩子，并通过桌面应用程序或CLI简化团队共享。
  * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
  * [openrig](https://github.com/mvschwarz/openrig) - 从Claude Code、Codex和Pi建立自己的代理网络：具有角色、共享背景和自有工作的持久团队。
+ * [rea](https://github.com/morluto/rea) - 使用代理人逆向工程任何东西，从应用程序行为到本机二进制文件。
 
 
 ## Reimplementations
@@ -1875,7 +1857,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [cindy](https://github.com/makecindy/cindy) - 想到，就能做到。开源、开箱即用的 AI 代理。
  * [magpie](https://github.com/yetone/magpie) - 每个代理商的模型。一个地方。DeepSeek上的Codex，Kimi上的Claude Code，从菜单栏。
  * [cortex](https://github.com/cortex-docs/cortex) - Cortex - 从OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC和Markdown生成交互式API文档、类型化SDK和MCP服务器。
- * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+ * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
 
 
 ## Langchain
@@ -2060,6 +2042,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [openyak](https://github.com/openyak/openyak) - OpenYak - 适用于Windows，macOS和Linux的开源本地AI代理。是Claude Code，Claude for Work和OpenAI Codex的私人BYOK替代方案，具有20多种工具，通过OpenRouter，MCP和Ollama提供100多种模型。免费，MIT许可，无遥测。
  * [GoModel](https://github.com/enterpilot/gomodel) - 用Go编写的AI网关。轻量级统一的OpenAI兼容API，适用于OpenAI、Anthropic、Gemini、Groq、xAI和Ollama。具有可观察性、防护栏、流式传输、成本和使用跟踪的LiteLLM替代方案。
  * [harness-sdk](https://github.com/strands-agents/harness-sdk) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
+ * [LibreChat](https://github.com/librechat-ai/librechat) - 增强版ChatGPT克隆：功能代理，MCP，技能，DeepSeek，人类，AWS，OpenAI，响应API，Azure，Groq，o1，GPT-5，Mistral，OpenRouter，Vertex AI，Gemini，工件，AI模型切换，消息搜索，代码解释器，langchain，DALL-E-3，Ope
 
 
 ## Unity
@@ -2905,5 +2888,7 @@ _Updated on October 03, 2026_ (A total of 2719 repositories listed.)
  * [one-switch](https://github.com/yinxulai/one-switch) - TRON区块链的Solidity智能合约 https://tron.network
  * [openusage](https://github.com/robinebers/openusage) - 您的订阅速度太快了吗？支付您从未使用过的东西？停止猜测。OpenUsage是免费且开源的。
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout - 通过手机在本地网络上监视、继续和审查Codex任务。
+ * [loopx](https://github.com/loopx-project/loopx) - 一个具有耐用状态内核的控制平面，适用于长期计划的代理人和团队。在会话之间保持工作的进行和改进，减少人工干预。
+ * [letta-code](https://github.com/letta-ai/letta-code) - 有记忆、身份和学习适应能力的有状态代理，就像人一样。
 
 
