@@ -2903,5 +2903,6 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.
  * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+ * [Markus](https://github.com/markus-global/markus) - Open-source AI workforce platform for building and running complete teams of AI agents with persistent memory, inter-agent communication, and governance.
 
 
