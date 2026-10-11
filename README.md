@@ -2903,5 +2903,9 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.
  * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+ * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for AI agents via Parallel's hosted MCP server, with no account or API key required.
 
+|Name|Language|License|Stars|
+|-|-|-|-|
+|[search-mcp](https://github.com/parallel-web/search-mcp)|Markdown / JSON|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/parallel-web/search-mcp?style=social)|
 
