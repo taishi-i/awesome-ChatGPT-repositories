@@ -1360,6 +1360,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
  * [openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
  * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+ * [Archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for AI coding agents.
 
 
 ## Reimplementations
