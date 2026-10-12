@@ -1338,6 +1338,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
  * [TokenTracker](https://github.com/mm7894215/tokentracker) - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.
  * [codex-profiles](https://github.com/ducksss/codex-profiles) - Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens
+ * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch isolated ChatGPT account and workspace profiles for the native Codex CLI with separate CODEX_HOME directories, without copying auth files.
  * [shob](https://github.com/shobcoder/shob) - Shob – an AI agent that delivers high-quality coding & automation work
  * [nika](https://github.com/supernovae-st/nika) - Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
  * [codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
@@ -2909,5 +2910,6 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
 
 |Name|Language|License|Stars|
 |-|-|-|-|
+|[codex-multiple-env](https://github.com/masakaai/codex-multiple-env)|JavaScript|Apache-2.0|![GitHub Repo stars](https://img.shields.io/github/stars/masakaai/codex-multiple-env?style=social)|
 |[search-mcp](https://github.com/parallel-web/search-mcp)|Markdown / JSON|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/parallel-web/search-mcp?style=social)|
 
