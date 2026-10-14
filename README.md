@@ -2423,6 +2423,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
  * [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
  * [IATelligence](https://github.com/fr0gger/iatelligence) - IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
+ * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Lets any OpenAI-compatible vision model use a real iPhone through AirPlay mirroring and an ESP32-S3 acting as a USB mouse and keyboard.
  * [ColossalAI](https://github.com/hpcaitech/colossalai) - Making large AI models cheaper, faster and more accessible
  * [aoc-gpt](https://github.com/max-sixty/aoc-gpt) - Solve Advent of Code puzzles with GPT-3
  * [EdgeGPT](https://github.com/acheong08/edgegpt) - Reverse engineered API of Microsoft's Bing Chat AI
@@ -2912,4 +2913,4 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
 |-|-|-|-|
 |[codex-multiple-env](https://github.com/masakaai/codex-multiple-env)|JavaScript|Apache-2.0|![GitHub Repo stars](https://img.shields.io/github/stars/masakaai/codex-multiple-env?style=social)|
 |[search-mcp](https://github.com/parallel-web/search-mcp)|Markdown / JSON|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/parallel-web/search-mcp?style=social)|
-
+|[esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)|Python|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=social)|
