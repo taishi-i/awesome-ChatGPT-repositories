@@ -2908,9 +2908,13 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for AI agents via Parallel's hosted MCP server, with no account or API key required.
+ * [sem](https://github.com/Ataraxy-Labs/sem) - Local structural code search, caller navigation, impact analysis, and entity-level diffs for coding agents via MCP and CLI.
+ * [weave](https://github.com/Ataraxy-Labs/weave) - Syntax-aware source merging and branch previews for overlapping coding-agent changes.
 
 |Name|Language|License|Stars|
 |-|-|-|-|
+|[sem](https://github.com/Ataraxy-Labs/sem)|Rust|Apache-2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Ataraxy-Labs/sem?style=social)|
+|[weave](https://github.com/Ataraxy-Labs/weave)|Rust|Apache-2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Ataraxy-Labs/weave?style=social)|
 |[codex-multiple-env](https://github.com/masakaai/codex-multiple-env)|JavaScript|Apache-2.0|![GitHub Repo stars](https://img.shields.io/github/stars/masakaai/codex-multiple-env?style=social)|
 |[search-mcp](https://github.com/parallel-web/search-mcp)|Markdown / JSON|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/parallel-web/search-mcp?style=social)|
 |[esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)|Python|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=social)|
