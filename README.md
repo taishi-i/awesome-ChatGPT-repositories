@@ -87,24 +87,31 @@ To update, run `npx skills update awesome-chatgpt-search`. You don't need this i
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [open-dots](https://github.com/anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
+
+
 **Browser-extensions**
- * [quivr](https://github.com/the-vibe-company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
+ * [archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
+ * [voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
 
 
 **CLIs**
- * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+ * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
+ * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
 
 
-**Langchain**
- * [LibreChat](https://github.com/librechat-ai/librechat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active
+**NLP**
+ * [bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
+ * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
 
 **Others**
- * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
- * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+ * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
+ * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
 
 
-_Updated on October 09, 2026_ (A total of 2724 repositories listed.)
+_Updated on October 16, 2026_ (A total of 2733 repositories listed.)
 
 ## Table of contents
 
@@ -810,6 +817,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [ai](https://github.com/tanstack/ai) - 🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.
  * [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
  * [Proma](https://github.com/proma-ai/proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
+ * [open-dots](https://github.com/anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
 
 
 ## Browser-extensions
@@ -1076,6 +1084,8 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.
  * [jev-social](https://github.com/socai-io/jev-social) - Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence.
  * [quivr](https://github.com/the-vibe-company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
+ * [archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
+ * [voyager](https://github.com/voyager-crew/voyager) - 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
 
 
 ## CLIs
@@ -1338,7 +1348,6 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
  * [TokenTracker](https://github.com/mm7894215/tokentracker) - Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode & more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.
  * [codex-profiles](https://github.com/ducksss/codex-profiles) - Named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens
- * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch isolated ChatGPT account and workspace profiles for the native Codex CLI with separate CODEX_HOME directories, without copying auth files.
  * [shob](https://github.com/shobcoder/shob) - Shob – an AI agent that delivers high-quality coding & automation work
  * [nika](https://github.com/supernovae-st/nika) - Intent as Code | the workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0. 🦋
  * [codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
@@ -1361,8 +1370,8 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
  * [openrig](https://github.com/mvschwarz/openrig) - Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.
  * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
- * [Archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for AI coding agents.
- * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents.
+ * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
+ * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
 
 
 ## Reimplementations
@@ -1874,6 +1883,8 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
  * [cortex](https://github.com/cortex-docs/cortex) - Cortex - Generates interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, OpenRPC, and Markdown.
  * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+ * [bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
+ * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
 
 
 ## Langchain
@@ -2423,7 +2434,6 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
  * [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
  * [IATelligence](https://github.com/fr0gger/iatelligence) - IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
- * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Lets any OpenAI-compatible vision model use a real iPhone through AirPlay mirroring and an ESP32-S3 acting as a USB mouse and keyboard.
  * [ColossalAI](https://github.com/hpcaitech/colossalai) - Making large AI models cheaper, faster and more accessible
  * [aoc-gpt](https://github.com/max-sixty/aoc-gpt) - Solve Advent of Code puzzles with GPT-3
  * [EdgeGPT](https://github.com/acheong08/edgegpt) - Reverse engineered API of Microsoft's Bing Chat AI
@@ -2907,10 +2917,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.
  * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
- * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for AI agents via Parallel's hosted MCP server, with no account or API key required.
+ * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
+ * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
 
-|Name|Language|License|Stars|
-|-|-|-|-|
-|[codex-multiple-env](https://github.com/masakaai/codex-multiple-env)|JavaScript|Apache-2.0|![GitHub Repo stars](https://img.shields.io/github/stars/masakaai/codex-multiple-env?style=social)|
-|[search-mcp](https://github.com/parallel-web/search-mcp)|Markdown / JSON|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/parallel-web/search-mcp?style=social)|
-|[esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)|Python|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=social)|
+
