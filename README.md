@@ -2923,5 +2923,8 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
+ * [curlshot-mcp](https://github.com/SergiuPogor/curlshot-mcp) - Setup docs, server.json and an agent skill for the CurlShot hosted MCP server, which returns website screenshots, PDFs and videos to agents. Free tier, API key required.
 
-
+|Name|Language|License|Stars|
+|-|-|-|-|
+|[curlshot-mcp](https://github.com/SergiuPogor/curlshot-mcp)|Markdown / JSON|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/SergiuPogor/curlshot-mcp?style=social)|
