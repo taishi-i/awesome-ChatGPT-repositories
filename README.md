@@ -2903,5 +2903,10 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout — monitor, continue, and review Codex tasks from your phone over your local network.
  * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+ * [takeout-coupon](https://github.com/moooai/takeout-coupon) - Claude Code skill that fetches Meituan, Ele.me/Taobao Shangou and JD food-delivery coupon codes and claim links from a public no-auth API and returns them verbatim.
+ * [trip-coupon](https://github.com/moooai/trip-coupon) - Claude Code skill that fetches Didi ride-hailing bundles and Meituan, Tongcheng and Fliggy hotel coupon codes from a public no-auth API and returns them verbatim.
+ * [movie-coupon](https://github.com/moooai/movie-coupon) - Claude Code skill that fetches Taopiaopiao and Maoyan movie-ticket coupon codes, claim links and QR codes from a public no-auth API and returns them verbatim.
+ * [parcel-coupon](https://github.com/moooai/parcel-coupon) - Claude Code skill that fetches courier coupon codes for SF Express, ZTO, YTO, Yunda, STO and Cainiao from a public no-auth API and returns them verbatim.
+ * [obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) - Claude Code skill that aggregates the takeout, travel, movie and parcel coupon APIs into one call and returns every coupon code verbatim.
 
 
