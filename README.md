@@ -1363,6 +1363,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
  * [Archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for AI coding agents.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents.
+ * [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin) - cohesivity.ai offers free agent native backend services for Codex and other coding agents. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
 
 
 ## Reimplementations
