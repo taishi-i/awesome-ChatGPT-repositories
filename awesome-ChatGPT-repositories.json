@@ -17817,6 +17817,41 @@
                     "zh-hans": "Proma为您的工作流程带来了无缝的通用代理体验。专为100×专业人士和主动代理时代而打造。",
                     "zh-hant": "Proma 將無縫地將通用代理體驗帶入您的工作流程中。專為100×專業人士和積極主動的代理時代而打造。"
                 }
+            },
+            "https://github.com/anil-matcha/open-dots": {
+                "repository_name": "open-dots",
+                "user_name": "Anil-matcha",
+                "language": "Python",
+                "license": null,
+                "description": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.",
+                "topics": [
+                    "agentic-ai",
+                    "ai-agent",
+                    "ai-assistant",
+                    "ai-workspace",
+                    "chatgpt-agent",
+                    "claude-cowork",
+                    "computer-use",
+                    "computer-use-agent",
+                    "grok-bot",
+                    "grok-bot-alternative",
+                    "instinct",
+                    "manus-cue",
+                    "meta-muse",
+                    "open-source",
+                    "open-source-alternative",
+                    "openai-dots",
+                    "openclaw",
+                    "personal-ai-agent",
+                    "self-hosted",
+                    "self-hosted-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.",
+                    "ja": "オープンソース、自己ホスト型のAIエージェントワークスペースであり、OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork、およびChatGPTエージェントの代替となるもの。MITライセンス付与済み；チャット、コネクタ、承認、およびオプションのコンピュータ利用を含む。初期プロトタイプ。",
+                    "zh-hans": "开源、自托管的AI代理工作空间，是OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork和ChatGPT代理的替代品。MIT许可证；包括聊天、连接器、批准和可选的计算机使用。早期原型。",
+                    "zh-hant": "開源、自託管的AI代理工作空間，是OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork和ChatGPT代理的替代方案。採用MIT許可證；包括聊天、連接器、批准和可選的電腦使用。早期原型。"
+                }
             }
         },
         "Browser-extensions": {
@@ -24344,6 +24379,69 @@
                     "ja": "連続したコンテンツストリームを検索および監視に変換するオープンソースエンジン。耐久性のある取り込み、ハイブリッド検索、アラート、およびフォーマット、モデル、およびビジネスルール用のプラグインがあります。",
                     "zh-hans": "一个开源引擎，可以将连续的内容流转换为搜索和监控。持久的摄入，混合搜索，警报以及用于格式，模型和业务规则的插件。",
                     "zh-hant": "一個開源引擎，將連續的內容流轉換為搜索和監控。持久的摄入，混合搜索，警報以及用於格式，模型和業務規則的插件。"
+                }
+            },
+            "https://github.com/archcore-ai/archcore": {
+                "repository_name": "archcore",
+                "user_name": "archcore-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.",
+                "topics": [
+                    "agent-skills",
+                    "ai-agents",
+                    "ai-coding",
+                    "architecture",
+                    "claude-code",
+                    "claude-code-plugin",
+                    "codex",
+                    "codex-cli",
+                    "coding-agents",
+                    "context-engineering",
+                    "cursor",
+                    "developer-tools",
+                    "github-copilot",
+                    "harness",
+                    "harness-engineering",
+                    "mcp",
+                    "plugin",
+                    "project-context",
+                    "spec-driven-development",
+                    "subagents"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.",
+                    "ja": "Claude Code、Cursor、Codex、およびGitHub Copilotのための仕様駆動開発とコンテキストエンジニアリング- Git内のプロジェクトコンテキストに支えられています。",
+                    "zh-hans": "为Claude Code、Cursor、Codex和GitHub Copilot进行基于规范驱动的开发和上下文工程，支持Git中的项目上下文。",
+                    "zh-hant": "基於Git中的項目上下文，為Claude Code、Cursor、Codex和GitHub Copilot進行基於規範的開發和上下文工程。"
+                }
+            },
+            "https://github.com/voyager-crew/voyager": {
+                "repository_name": "voyager",
+                "user_name": "voyager-crew",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。",
+                "topics": [
+                    "ai-studio",
+                    "browser-extension",
+                    "bun",
+                    "chat-management",
+                    "chatgpt",
+                    "chrome-extension",
+                    "claude-ai",
+                    "deepseek",
+                    "dsh",
+                    "edge-addon",
+                    "firefox-addons",
+                    "gemini",
+                    "safari-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。",
+                    "ja": "ジェミニ、AIスタジオ、クロード、ChatGPT＆DeepSeek向けの拡張スイート、プラス、任意のウェブサイト用のプロンプトマネージャー、DeepSeek Harnessが含まれています。",
+                    "zh-hans": "针对 Gemini、AI Studio、Claude、ChatGPT 和 DeepSeek 的增强套件，以及任何网站的提示词管理器，包括 DeepSeek Harness。",
+                    "zh-hant": "針對 Gemini、AI Studio、Claude、ChatGPT 和 DeepSeek 的增強套件，以及任何網站的提示詞管理器，包括 DeepSeek Harness。"
                 }
             }
         },
@@ -31663,6 +31761,75 @@
                     "ja": "エージェントを使用して、アプリの動作からネイティブバイナリまで、何でもリバースエンジニアリングできます。",
                     "zh-hans": "使用代理人逆向工程任何东西，从应用程序行为到本机二进制文件。",
                     "zh-hant": "使用代理進行任何東西的逆向工程，從應用程式行為到本機二進制文件。"
+                }
+            },
+            "https://github.com/masakaai/codex-multiple-env": {
+                "repository_name": "codex-multiple-env",
+                "user_name": "masakaai",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.",
+                "topics": [
+                    "account-management",
+                    "account-switcher",
+                    "chatgpt",
+                    "chatgpt-workspace",
+                    "cli",
+                    "codex",
+                    "codex-accounts",
+                    "codex-cli",
+                    "developer-productivity",
+                    "developer-tools",
+                    "linux",
+                    "macos",
+                    "multi-account",
+                    "oauth",
+                    "openai",
+                    "profile-manager",
+                    "terminal",
+                    "usage-monitoring",
+                    "workspace",
+                    "workspace-switcher"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.",
+                    "ja": "複数の独立したCodexアカウントとChatGPTワークスペースを繰り返しログアウト/ログインすることなく切り替える。",
+                    "zh-hans": "在多个独立的Codex账户和ChatGPT工作区之间切换，无需重复登出/登录。",
+                    "zh-hant": "在多個獨立的Codex帳戶和ChatGPT工作區之間切換，無需重複登出/登入。"
+                }
+            },
+            "https://github.com/q00/ouroboros": {
+                "repository_name": "ouroboros",
+                "user_name": "Q00",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+                "topics": [
+                    "agent-os",
+                    "agentic-ai",
+                    "ai-agent",
+                    "ai-coding-agent",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "coding-agent",
+                    "deepseek",
+                    "developer-tools",
+                    "dsh",
+                    "dsh-plugin",
+                    "llm-evaluation",
+                    "llm-orchestration",
+                    "loop-engineering",
+                    "mcp",
+                    "opencode",
+                    "skill",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+                    "ja": "エージェントOS：エージェントは自己学習します。私たちはただラインを守るだけです：インタビューゲート、段階的評価、予算化された進化ループ。MCPサーバー、14ランタイム：クロードコード、コーデックスCLI、ジェミニCLI、オープンコード、コパイロット、キロなど。",
+                    "zh-hans": "代理操作系统：代理会自我学习变得更加智能。我们只需守住阵地：面试门槛、分阶段评估、预算演化循环。MCP服务器，14个运行时：克劳德代码、Codex命令行界面、Gemini命令行界面、OpenCode、Copilot、Kiro等等。",
+                    "zh-hant": "代理人OS：代理人自行變得更聰明。我們只需守住這條線：面試閘門、分階段評估、預算進化迴圈。MCP伺服器，14個運行時：克勞德代碼、Codex CLI、Gemini CLI、OpenCode、Copilot、Kiro等等。"
                 }
             }
         },
@@ -43744,6 +43911,65 @@
                     "ja": "スマートフォンに装着された会話の副運転手：QQ / X / フェイシューで相手を理解し、候補の返信を提供し、ワンクリックで入力欄に入力し、送信するかどうかはあなた次第です。侵入せず、画面を読み取り、フックやパッケージの変更はしません。",
                     "zh-hans": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
                     "zh-hant": "裝在手機上的對話副駕：在 QQ / X / 飛書裡讀懂對方、給出候選回覆、一鍵填入輸入框，發不發由你。非侵入，只讀屏幕，不 hook 不改包。"
+                }
+            },
+            "https://github.com/maximhq/bifrost": {
+                "repository_name": "bifrost",
+                "user_name": "maximhq",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.",
+                "topics": [
+                    "agent-gateway",
+                    "ai-gateway",
+                    "ai-governance",
+                    "api-gateway",
+                    "claude-code",
+                    "coding-agents",
+                    "failover",
+                    "gateway",
+                    "guardrails",
+                    "llm-cost",
+                    "llm-gateway",
+                    "llm-observability",
+                    "llm-proxy",
+                    "llm-router",
+                    "load-balancing",
+                    "mcp-gateway",
+                    "model-context-protocol",
+                    "model-router",
+                    "openai-compatible",
+                    "semantic-cache"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any S",
+                    "ja": "オープンソースで高性能なAIゲートウェイは、LLMゲートウェイ、MCPゲートウェイ、エージェントゲートウェイとして機能します。1つのOpenAI互換APIで10,000以上のモデルを使用でき、フェイルオーバー、負荷分散、意味キャッシュ、仮想キー、予算、MCPコードモードが備わっています。どんなSとも連携可能です。",
+                    "zh-hans": "开源、高性能的AI网关，可作为您的LLM网关、MCP网关和代理网关。一个兼容OpenAI的API，支持10,000多个模型，具有故障转移、负载均衡、语义缓存、虚拟密钥、预算和MCP代码模式。与任何S兼容。",
+                    "zh-hant": "開源、高性能的人工智慧閘道，可作為您的LLM閘道、MCP閘道和代理閘道。一個兼容OpenAI的API，支持10,000多個模型，具有故障切換、負載平衡、語義緩存、虛擬密鑰、預算和MCP代碼模式。可與任何S配合使用。"
+                }
+            },
+            "https://github.com/onehumanbeing/esp32-iphone-agent": {
+                "repository_name": "esp32-iphone-agent",
+                "user_name": "onehumanbeing",
+                "language": "C",
+                "license": "MIT License",
+                "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+                "topics": [
+                    "ai-agent",
+                    "airplay",
+                    "automation",
+                    "computer-use",
+                    "esp32",
+                    "esp32-s3",
+                    "iphone",
+                    "llm",
+                    "usb-hid"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+                    "ja": "AIモデルに実際のiPhoneと$7のESP32を使用させる：AirPlayの目、USB HIDの手、どんなOpenAI互換のビジョンモデルでも。Macも開発者アカウントもジェイルブレイクも必要ありません。",
+                    "zh-hans": "让一个AI模型使用一部真实的iPhone和一个7美元的ESP32：AirPlay眼睛，USB HID手，任何兼容OpenAI的视觉模型。无需Mac，无需开发者账户，无需越狱。",
+                    "zh-hant": "讓一個AI模型使用一部真實的iPhone和一個價值7美元的ESP32：AirPlay眼睛，USB HID手，任何與OpenAI兼容的視覺模型。無需Mac，無需開發者帳戶，無需越獄。"
                 }
             }
         },
@@ -66203,6 +66429,64 @@
                     "ja": "人間のような記憶、アイデンティティ、学習能力、適応能力を持つ状態を保持するエージェント",
                     "zh-hans": "有记忆、身份和学习适应能力的有状态代理，就像人一样。",
                     "zh-hant": "具有記憶、身份和學習適應能力的有狀態的代理人，就像人一樣。"
+                }
+            },
+            "https://github.com/parallel-web/search-mcp": {
+                "repository_name": "search-mcp",
+                "user_name": "parallel-web",
+                "language": null,
+                "license": "MIT License",
+                "description": "Free web search and page fetching for agents. Hosted MCP, no API key required.",
+                "topics": [
+                    "ai-agents",
+                    "coding-agents",
+                    "content-extraction",
+                    "mcp",
+                    "mcp-server",
+                    "model-context-protocol",
+                    "web-search",
+                    "websearch"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free web search and page fetching for agents. Hosted MCP, no API key required.",
+                    "ja": "エージェント向けの無料ウェブ検索とページ取得。ホストされたMCP、APIキーは必要ありません。",
+                    "zh-hans": "免费网络搜索和页面获取服务供代理商使用。托管MCP，无需API密钥。",
+                    "zh-hant": "免費網頁搜索和頁面提取代理。托管MCP，無需API密鑰。"
+                }
+            },
+            "https://github.com/supercorp-ai/supercov": {
+                "repository_name": "supercov",
+                "user_name": "supercorp-ai",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "Coverage, security and code quality for coding agents",
+                "topics": [
+                    "agent-skills",
+                    "claude-code",
+                    "code-coverage",
+                    "code-quality",
+                    "codex",
+                    "coding-agents",
+                    "coverage",
+                    "gemini-cli-extension",
+                    "go",
+                    "javascript",
+                    "jev",
+                    "mcdc",
+                    "python",
+                    "ruby",
+                    "rust",
+                    "security",
+                    "test-coverage",
+                    "testing",
+                    "typesafe",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Coverage, security and code quality for coding agents",
+                    "ja": "コーディングエージェントのカバレッジ、セキュリティ、およびコード品質",
+                    "zh-hans": "编码代理的覆盖范围、安全性和代码质量",
+                    "zh-hant": "代碼代理的覆蓋範圍、安全性和代碼質量"
                 }
             }
         }

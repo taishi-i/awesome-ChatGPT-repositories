@@ -74,24 +74,31 @@ npx skills add taishi-i/awesome-ChatGPT-repositories
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [open-dots](https://github.com/anil-matcha/open-dots) - 开源、自托管的AI代理工作空间，是OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork和ChatGPT代理的替代品。MIT许可证；包括聊天、连接器、批准和可选的计算机使用。早期原型。
+
+
 **Browser-extensions**
- * [quivr](https://github.com/the-vibe-company/quivr) - 一个开源引擎，可以将连续的内容流转换为搜索和监控。持久的摄入，混合搜索，警报以及用于格式，模型和业务规则的插件。
+ * [archcore](https://github.com/archcore-ai/archcore) - 为Claude Code、Cursor、Codex和GitHub Copilot进行基于规范驱动的开发和上下文工程，支持Git中的项目上下文。
+ * [voyager](https://github.com/voyager-crew/voyager) - 针对 Gemini、AI Studio、Claude、ChatGPT 和 DeepSeek 的增强套件，以及任何网站的提示词管理器，包括 DeepSeek Harness。
 
 
 **CLIs**
- * [rea](https://github.com/morluto/rea) - 使用代理人逆向工程任何东西，从应用程序行为到本机二进制文件。
+ * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - 在多个独立的Codex账户和ChatGPT工作区之间切换，无需重复登出/登录。
+ * [ouroboros](https://github.com/q00/ouroboros) - 代理操作系统：代理会自我学习变得更加智能。我们只需守住阵地：面试门槛、分阶段评估、预算演化循环。MCP服务器，14个运行时：克劳德代码、Codex命令行界面、Gemini命令行界面、OpenCode、Copilot、Kiro等等。
 
 
-**Langchain**
- * [LibreChat](https://github.com/librechat-ai/librechat) - 增强版ChatGPT克隆：功能代理，MCP，技能，DeepSeek，人类，AWS，OpenAI，响应API，Azure，Groq，o1，GPT-5，Mistral，OpenRouter，Vertex AI，Gemini，工件，AI模型切换，消息搜索，代码解释器，langchain，DALL-E-3，Ope
+**NLP**
+ * [bifrost](https://github.com/maximhq/bifrost) - 开源、高性能的AI网关，可作为您的LLM网关、MCP网关和代理网关。一个兼容OpenAI的API，支持10,000多个模型，具有故障转移、负载均衡、语义缓存、虚拟密钥、预算和MCP代码模式。与任何S兼容。
+ * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - 让一个AI模型使用一部真实的iPhone和一个7美元的ESP32：AirPlay眼睛，USB HID手，任何兼容OpenAI的视觉模型。无需Mac，无需开发者账户，无需越狱。
 
 
 **Others**
- * [loopx](https://github.com/loopx-project/loopx) - 一个具有耐用状态内核的控制平面，适用于长期计划的代理人和团队。在会话之间保持工作的进行和改进，减少人工干预。
- * [letta-code](https://github.com/letta-ai/letta-code) - 有记忆、身份和学习适应能力的有状态代理，就像人一样。
+ * [search-mcp](https://github.com/parallel-web/search-mcp) - 免费网络搜索和页面获取服务供代理商使用。托管MCP，无需API密钥。
+ * [supercov](https://github.com/supercorp-ai/supercov) - 编码代理的覆盖范围、安全性和代码质量
 
 
-_Updated on October 09, 2026_ (A total of 2724 repositories listed.)
+_Updated on October 16, 2026_ (A total of 2733 repositories listed.)
 
 ## Table of contents
 
@@ -797,6 +804,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [ai](https://github.com/tanstack/ai) - 🤖 适用于流式聊天、工具调用、代理和多模态应用的类型安全、提供者不可知的TypeScript AI SDK，可跨OpenAI、Anthropic、Gemini、React、Vue、Svelte和Solid。
  * [rakazo](https://github.com/elie222/rakazo) - 开源的Grok Bot替代方案。选择您自己的模型和沙盒。
  * [Proma](https://github.com/proma-ai/proma) - Proma为您的工作流程带来了无缝的通用代理体验。专为100×专业人士和主动代理时代而打造。
+ * [open-dots](https://github.com/anil-matcha/open-dots) - 开源、自托管的AI代理工作空间，是OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork和ChatGPT代理的替代品。MIT许可证；包括聊天、连接器、批准和可选的计算机使用。早期原型。
 
 
 ## Browser-extensions
@@ -1063,6 +1071,8 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - 跨平台本地MCP功能，与Chrome集成，目标，紧凑和恢复，以及耐用的多代理工作流程。
  * [jev-social](https://github.com/socai-io/jev-social) - 开源、本地优先的社交媒体研究代理，适用于Instagram、TikTok和LinkedIn。Jev路由只读步骤；socai CLI捕获引用的浏览器证据。
  * [quivr](https://github.com/the-vibe-company/quivr) - 一个开源引擎，可以将连续的内容流转换为搜索和监控。持久的摄入，混合搜索，警报以及用于格式，模型和业务规则的插件。
+ * [archcore](https://github.com/archcore-ai/archcore) - 为Claude Code、Cursor、Codex和GitHub Copilot进行基于规范驱动的开发和上下文工程，支持Git中的项目上下文。
+ * [voyager](https://github.com/voyager-crew/voyager) - 针对 Gemini、AI Studio、Claude、ChatGPT 和 DeepSeek 的增强套件，以及任何网站的提示词管理器，包括 DeepSeek Harness。
 
 
 ## CLIs
@@ -1347,6 +1357,8 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
  * [openrig](https://github.com/mvschwarz/openrig) - 从Claude Code、Codex和Pi建立自己的代理网络：具有角色、共享背景和自有工作的持久团队。
  * [rea](https://github.com/morluto/rea) - 使用代理人逆向工程任何东西，从应用程序行为到本机二进制文件。
+ * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - 在多个独立的Codex账户和ChatGPT工作区之间切换，无需重复登出/登录。
+ * [ouroboros](https://github.com/q00/ouroboros) - 代理操作系统：代理会自我学习变得更加智能。我们只需守住阵地：面试门槛、分阶段评估、预算演化循环。MCP服务器，14个运行时：克劳德代码、Codex命令行界面、Gemini命令行界面、OpenCode、Copilot、Kiro等等。
 
 
 ## Reimplementations
@@ -1858,6 +1870,8 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [magpie](https://github.com/yetone/magpie) - 每个代理商的模型。一个地方。DeepSeek上的Codex，Kimi上的Claude Code，从菜单栏。
  * [cortex](https://github.com/cortex-docs/cortex) - Cortex - 从OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC和Markdown生成交互式API文档、类型化SDK和MCP服务器。
  * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+ * [bifrost](https://github.com/maximhq/bifrost) - 开源、高性能的AI网关，可作为您的LLM网关、MCP网关和代理网关。一个兼容OpenAI的API，支持10,000多个模型，具有故障转移、负载均衡、语义缓存、虚拟密钥、预算和MCP代码模式。与任何S兼容。
+ * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - 让一个AI模型使用一部真实的iPhone和一个7美元的ESP32：AirPlay眼睛，USB HID手，任何兼容OpenAI的视觉模型。无需Mac，无需开发者账户，无需越狱。
 
 
 ## Langchain
@@ -2890,5 +2904,7 @@ _Updated on October 09, 2026_ (A total of 2724 repositories listed.)
  * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout - 通过手机在本地网络上监视、继续和审查Codex任务。
  * [loopx](https://github.com/loopx-project/loopx) - 一个具有耐用状态内核的控制平面，适用于长期计划的代理人和团队。在会话之间保持工作的进行和改进，减少人工干预。
  * [letta-code](https://github.com/letta-ai/letta-code) - 有记忆、身份和学习适应能力的有状态代理，就像人一样。
+ * [search-mcp](https://github.com/parallel-web/search-mcp) - 免费网络搜索和页面获取服务供代理商使用。托管MCP，无需API密钥。
+ * [supercov](https://github.com/supercorp-ai/supercov) - 编码代理的覆盖范围、安全性和代码质量
 
 
