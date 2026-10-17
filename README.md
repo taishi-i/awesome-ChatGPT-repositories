@@ -2921,3 +2921,9 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
 
 
+
+ * [doc2x-mcp](https://github.com/NoEdgeAI/doc2x-mcp) - MIT-licensed TypeScript stdio MCP server exposing Doc2X cloud document parsing and export tools to AI agents; Node.js >=18 and your own DOC2X_API_KEY are required, and cloud API usage is billed separately.
+
+|Name|Language|License|Stars|
+|-|-|-|-|
+|[doc2x-mcp](https://github.com/NoEdgeAI/doc2x-mcp)|TypeScript|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/NoEdgeAI/doc2x-mcp?style=social)|
