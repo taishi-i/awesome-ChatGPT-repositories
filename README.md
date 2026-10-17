@@ -1372,6 +1372,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
  * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+ * [cjh](https://atomgit.com/qq8864/cjh) - 仓颉语言从零实现的终端编码代理（Coding Agent Harness）：单二进制零依赖，TUI + 内置 Web 界面，工具调用审批层与插件信任链。
 
 
 ## Reimplementations
