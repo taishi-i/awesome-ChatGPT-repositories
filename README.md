@@ -2427,6 +2427,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
 
 
 ## Others
+  * [url-to-markdown](https://github.com/replynodes/replynodes-agent-skills/tree/main/skills/url-to-markdown) - Convert public webpages to clean Markdown for LLM context.
 
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
