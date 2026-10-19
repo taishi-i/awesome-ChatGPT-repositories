@@ -2919,5 +2919,8 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
+ * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required.
 
-
+|Name|Language|License|Stars|
+|-|-|-|-|
+|[keenable-mcp](https://github.com/keenableai/keenable-mcp)|JavaScript|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/keenableai/keenable-mcp?style=social)|
