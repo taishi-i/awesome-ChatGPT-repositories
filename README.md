@@ -2919,5 +2919,10 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
+ * [protocol](https://github.com/taasky/protocol) - Open protocol for two AI agents to negotiate terms (times, prices, dates) that their humans confirm. Spec, TypeScript reference implementation and test vectors behind the Taasky hosted MCP server, which needs no API key.
+
+|Name|Language|License|Stars|
+|-|-|-|-|
+|[protocol](https://github.com/taasky/protocol)|TypeScript|Apache-2.0|![GitHub Repo stars](https://img.shields.io/github/stars/taasky/protocol?style=social)|
 
 
