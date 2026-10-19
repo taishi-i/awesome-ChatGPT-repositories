@@ -1885,6 +1885,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
  * [bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
  * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+ * [router](https://github.com/weave-os/router) - Weave Router, a self-hostable drop-in proxy for the Anthropic, OpenAI and Gemini APIs that picks a model for each request with an on-box embedder, for coding agents like Claude Code, Codex, opencode and pi.
 
 
 ## Langchain
