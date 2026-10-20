@@ -1086,6 +1086,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [quivr](https://github.com/the-vibe-company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
  * [archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
  * [voyager](https://github.com/voyager-crew/voyager) - 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+ * [Onhand](https://github.com/Phineas1500/Onhand) - Chrome extension that answers questions about the webpage or PDF you're reading and highlights the passages it used; works with a ChatGPT plan or OpenAI API key.
 
 
 ## CLIs
