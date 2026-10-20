@@ -2920,5 +2920,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
+ * [Serply Agent Skills](https://github.com/serply-inc/skills) - Agent skill and Claude Code / Codex plugins for the Serply API and hosted MCP server: Google web, News, Scholar, Maps and Jobs search, Bing, Amazon, Reddit and URL scraping.
 
 
