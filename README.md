@@ -229,6 +229,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [ai-models](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587 AI models across 95 providers — pricing, context windows, modalities, capabilities. First-party data with TypeScript types and Zod validation.
  * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
  * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - 329 agent skills (Cursor, Claude Code & Codex), 5,380 OpenClaw skills, 201 ML notebooks, 9 textbooks, 82 research papers, 85 curated projects, 18 industry reports for PMs, Designers & Developers.
+ * [awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) - A curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research.
 
 
 ## Prompts
@@ -1086,6 +1087,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [quivr](https://github.com/the-vibe-company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
  * [archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
  * [voyager](https://github.com/voyager-crew/voyager) - 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+ * [Onhand](https://github.com/Phineas1500/Onhand) - Chrome extension that answers questions about the webpage or PDF you're reading and highlights the passages it used; works with a ChatGPT plan or OpenAI API key.
 
 
 ## CLIs
@@ -1885,6 +1887,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
  * [bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
  * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+ * [router](https://github.com/weave-os/router) - Weave Router, a self-hostable drop-in proxy for the Anthropic, OpenAI and Gemini APIs that picks a model for each request with an on-box embedder, for coding agents like Claude Code, Codex, opencode and pi.
 
 
 ## Langchain
@@ -2919,6 +2922,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
+ * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
  * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required.
 
 |Name|Language|License|Stars|
