@@ -2923,5 +2923,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
+ * [deed-page-skill](https://github.com/f-o-x11/deed-page-skill) - Agent skill for Codex, Claude Code and other agents that publishes HTML or a static folder to a permanent public URL on deed.page with one curl request, no account needed.
 
 
