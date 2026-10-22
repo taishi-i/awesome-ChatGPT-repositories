@@ -1420,6 +1420,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [TokenDagger](https://github.com/m4thyou/tokendagger) - High-Performance Implementation of OpenAI's TikToken.
  * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
  * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - An implementation of iterative deep research using the OpenAI Agents SDK
+ * [jarvis](https://github.com/lubenkov/jarvis) - Educational from-scratch GPT model (112M params) in PyTorch: custom BPE tokenizer, two-stage training pipeline, open weights on Hugging Face
 
 
 ## Tutorials
