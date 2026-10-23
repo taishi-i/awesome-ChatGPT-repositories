@@ -2925,3 +2925,4 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
 
 
+ * [orbi](https://orbi.build/?ref=dir-awesome-chatgpt-repositories) - Open-source AI agent that turns GitHub issues into reviewed pull requests; self-host free or Orbi Cloud.
