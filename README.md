@@ -2923,5 +2923,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
+ * [codex-claude-muse-boot](https://github.com/chenyi6758-source/codex-claude-muse-boot) - Boot/startup splash animations for Codex, Claude and Muse: character-splash editions in one dependency-free HTML file, with a live demo and a built-in poster generator.
 
 
