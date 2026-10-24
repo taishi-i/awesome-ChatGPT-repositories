@@ -2923,5 +2923,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
+ * [llmslim](https://github.com/Thanatos9404/llmslim) - MCP server and Claude Code plugin that gives AI agents long-term memory with no LLM call, storing messages word for word in local SQLite and recalling them within a token budget.
 
 
