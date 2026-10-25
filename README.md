@@ -1374,6 +1374,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
  * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+ * [scalekit-sdk-python](https://github.com/scalekit-inc/scalekit-sdk-python) - Python SDK for Scalekit, an AI agent integration platform: per-user OAuth, API key, and RSA key-pair credentials in a token vault (bring your own KMS key), 500+ connectors and 20,000+ tools, admin-configured virtual MCP servers, and an audit log of every tool call (SOC 2 Type II, HIPAA BAA).
 
 
 ## Reimplementations
