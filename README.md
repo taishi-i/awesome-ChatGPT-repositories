@@ -1888,6 +1888,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
  * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
  * [router](https://github.com/weave-os/router) - Weave Router, a self-hostable drop-in proxy for the Anthropic, OpenAI and Gemini APIs that picks a model for each request with an on-box embedder, for coding agents like Claude Code, Codex, opencode and pi.
+ * [future-agi](https://github.com/future-agi/future-agi) - Self-hostable platform to evaluate, trace and guard AI agents: code-based tool-call and trajectory evals, OpenTelemetry tracing, and an OpenAI-compatible gateway with PII and prompt-injection guardrails.
 
 
 ## Langchain
