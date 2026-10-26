@@ -2923,6 +2923,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
+ * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
  * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required.
 
 |Name|Language|License|Stars|
