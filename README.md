@@ -2924,5 +2924,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
+ * [mcp-memory-server](https://github.com/mnemoverse/mcp-memory-server) - Persistent memory for AI agents over MCP. Tell it a recalled memory helped or misled and it re-ranks what comes back next. Shared across Claude Code, Cursor, VS Code and ChatGPT: a hosted endpoint with OAuth, or a local package with a free API key.
 
 
