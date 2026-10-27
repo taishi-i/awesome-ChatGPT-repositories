@@ -2924,5 +2924,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
+ * [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) - Self-hosted web studio where an LLM (any OpenAI-compatible API, e.g. DeepSeek) turns a one-line idea into a short drama, short video or product ad through script, characters, scenes, props, storyboard shots, voice and edit.
 
 
