@@ -1374,6 +1374,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
  * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+ * [ai-chat-share-export](https://github.com/xiaobin7060/ai-chat-share-export) - Convert public ChatGPT share links to Markdown or JSON. Zero-dependency Node.js CLI and library.
 
 
 ## Reimplementations
