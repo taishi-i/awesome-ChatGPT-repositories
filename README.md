@@ -2925,5 +2925,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
  * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
+ * [recommerce](https://github.com/budna-marketplace/recommerce) - Agent skills that help Claude Code, Codex and other agents research second-hand purchases.
 
 
