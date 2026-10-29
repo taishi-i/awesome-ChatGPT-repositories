@@ -2924,5 +2924,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
+ * [alchemist-coder](https://github.com/Alekla0126/alchemist-coder) - Desktop app for macOS, Windows and Linux that runs Claude Code and Codex agents over ACP; the free edition runs them only on local models (Ollama or LM Studio).
 
 
