@@ -816,6 +816,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [open-dots](https://github.com/anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
  * [next-vibe](https://github.com/techfreaque/next-vibe) - Open-source chat app and framework behind unbottled.ai: 100+ models, user-chosen filter level, image, video, music and voice generation.
  * [Quock](https://github.com/matteocelani/quock) - Free open-source iPhone chat app for Ollama Cloud models, with streaming replies, images and files, and chat history kept on the phone.
+ * [Pomelu](https://github.com/ateymoori/pomelu) - Open-source Android and iOS chat client for a self-hosted Hermes Agent, with voice, file sharing and tool approvals.
 
 
 ## Browser-extensions
