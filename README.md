@@ -2927,3 +2927,4 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
 
 
+ * [orbi](https://orbi.build/?ref=dir-awesome-chatgpt-repositories) - Open-source AI agent that turns GitHub issues into reviewed pull requests; self-host free or Orbi Cloud.
