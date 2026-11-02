@@ -2927,5 +2927,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
  * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
  * [model-salt](https://github.com/modelsalt/model-salt) - MCP server with one tool: before a creative task the model gets a few choices drawn from outside randomness (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
+ * [ponder](https://github.com/Quinnod345/ponder) - Coverage-gated multi-pass review CLI, Codex plugin, and agent skill that runs four adversarial perspectives (skeptic, builder, dreamer, empath) and blocks early stopping until 100% of files are graded and churn converges.
 
 
