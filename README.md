@@ -234,6 +234,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
 
 ## Prompts
 
+ * [Satori](https://github.com/MetcalfSolutions/Satori) - Open-source wisdom companion skill and reflective dialogue system for ChatGPT and coding agents, built to be outgrown.
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice.
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
