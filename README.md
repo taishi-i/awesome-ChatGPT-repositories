@@ -2927,5 +2927,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
  * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
  * [model-salt](https://github.com/modelsalt/model-salt) - MCP server with one tool: before a creative task the model gets a few choices drawn from outside randomness (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
+ * [PromptPilot](https://github.com/navasshereef1/PromptPilot) - Free Windows app that rewrites your prompt in place inside ChatGPT, Claude and Gemini with one click.
 
 
