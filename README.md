@@ -2927,5 +2927,8 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
  * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
  * [model-salt](https://github.com/modelsalt/model-salt) - MCP server with one tool: before a creative task the model gets a few choices drawn from outside randomness (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
+ * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required.
 
-
+|Name|Language|License|Stars|
+|-|-|-|-|
+|[keenable-mcp](https://github.com/keenableai/keenable-mcp)|JavaScript|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/keenableai/keenable-mcp?style=social)|
