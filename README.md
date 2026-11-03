@@ -1374,6 +1374,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
  * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+ * [oaiprobe](https://github.com/Yi-111-a/oaiprobe) - Check how OpenAI-compatible an LLM endpoint really is: streaming, usage, tool calls, JSON mode, structured outputs and silent model substitution.
 
 
 ## Reimplementations
@@ -2928,4 +2929,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
  * [model-salt](https://github.com/modelsalt/model-salt) - MCP server with one tool: before a creative task the model gets a few choices drawn from outside randomness (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
 
-
+|Name|Language|License|Stars|
+|-|-|-|-|
+|[oaiprobe](https://github.com/Yi-111-a/oaiprobe)|Python|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/Yi-111-a/oaiprobe?style=social)|
