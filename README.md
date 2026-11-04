@@ -99,6 +99,7 @@ To update, run `npx skills update awesome-chatgpt-search`. You don't need this i
 **CLIs**
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
  * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+ * [deja-vu](https://github.com/vshulcz/deja-vu) - Local cross-agent memory and session search over the transcripts Claude Code, Codex, Cursor, OpenCode, Gemini CLI and 39 more coding agents already write to disk, served over CLI, TUI, MCP and hooks with zero LLM calls.
 
 
 **NLP**
