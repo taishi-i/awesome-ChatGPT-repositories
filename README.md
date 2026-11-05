@@ -2926,3 +2926,4 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
 
 
+ * [OpenMontage](https://github.com/charliewwdev/OpenMontage) - Self-hosted AI short-drama studio: an LLM (any OpenAI-compatible API) drafts the script, characters and storyboard, then images, video, voice and edit follow, with reference assets reused across shots for character consistency. AGPL-3.0.
