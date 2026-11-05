@@ -2929,3 +2929,4 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [model-salt](https://github.com/modelsalt/model-salt) - MCP server with one tool: before a creative task the model gets a few choices drawn from outside randomness (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
  * [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Agent skill for Codex and Claude Code that replies to hard questions with one self-contained HTML page instead of a long chat answer.
  * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required.
+ * [bowmark-mcp](https://github.com/bowmark-ai/mcp) - MCP server that gives agents typed, tested functions for live websites like LinkedIn, YouTube and Amazon, with structured results.
