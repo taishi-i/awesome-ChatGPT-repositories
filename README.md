@@ -99,6 +99,7 @@ To update, run `npx skills update awesome-chatgpt-search`. You don't need this i
 **CLIs**
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
  * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+ * [deja-vu](https://github.com/vshulcz/deja-vu) - Local cross-agent memory and session search over the transcripts Claude Code, Codex, Cursor, OpenCode, Gemini CLI and 39 more coding agents already write to disk, served over CLI, TUI, MCP and hooks with zero LLM calls.
 
 
 **NLP**
@@ -819,6 +820,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
  * [Proma](https://github.com/proma-ai/proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
  * [open-dots](https://github.com/anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
+ * [ThreadShelf](https://github.com/ChrystianSchutz/ThreadShelf) - Local-first archive with semantic and exact search for ChatGPT, Claude, Google AI Studio, OpenRouter, LM Studio and Grok chat exports, with a web UI, CLI, HTTP API, MCP server and optional thread continuation via llama.cpp or OpenRouter.
 
 
 ## Browser-extensions
@@ -2927,5 +2929,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
  * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
  * [model-salt](https://github.com/modelsalt/model-salt) - MCP server with one tool: before a creative task the model gets a few choices drawn from outside randomness (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
+ * [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Agent skill for Codex and Claude Code that replies to hard questions with one self-contained HTML page instead of a long chat answer.
  * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required.
  * [bulkpublish-ai-toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) - Agent skills, plugin configs and MCP server setup for scheduling and publishing social media posts to 15 platforms from Claude Code, Cursor, Codex and other AI agents through BulkPublish.
