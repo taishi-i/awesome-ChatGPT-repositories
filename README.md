@@ -2915,7 +2915,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [loopx](https://github.com/huangruiteng/loopx) - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
  * [atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
  * [Maestro](https://github.com/runmaestro/maestro) - Agent Orchestration Command Center
- * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
+ * [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude Code, Codex, +35 more). Desktop, web, mobile, and cloud agents.
  * [bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
  * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing "what good looks like". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era.
  * [one-switch](https://github.com/yinxulai/one-switch) - Solidity smart contracts for the TRON blockchain https://tron.network
