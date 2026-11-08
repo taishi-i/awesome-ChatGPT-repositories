@@ -2431,7 +2431,11 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
  * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - Claude, ChatGPT, Cursor & Copilot usage limits in your macOS menu bar: reset countdowns, pace warnings, zero setup
  * [console](https://github.com/cognipeer/console) - Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and agent tracing for multi-tenant teams.
+ * [LLMBrake](https://github.com/llmbrake/llmbrake) - TypeScript library for per-customer monthly USD budgets on OpenAI-compatible and Anthropic API calls, with model downgrades and hard spending caps.
 
+|Name|Language|License|Stars|
+|-|-|-|-|
+|[LLMBrake](https://github.com/llmbrake/llmbrake)|TypeScript|MIT|![GitHub Repo stars](https://img.shields.io/github/stars/llmbrake/llmbrake?style=social)|
 
 ## Others
 
