@@ -110,6 +110,7 @@ To update, run `npx skills update awesome-chatgpt-search`. You don't need this i
 **Others**
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
+ * [brewpage-openapi](https://github.com/kochetkov-ma/brewpage-openapi) - MCP server and OpenAPI spec for BrewPage: free hosting where ChatGPT, Claude, Codex and other agents publish HTML, Markdown, files and JSON to a public link, no signup.
 
 
 _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
