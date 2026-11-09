@@ -2931,4 +2931,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
  * [model-salt](https://github.com/modelsalt/model-salt) - MCP server with one tool: before a creative task the model gets a few choices drawn from outside randomness (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
  * [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Agent skill for Codex and Claude Code that replies to hard questions with one self-contained HTML page instead of a long chat answer.
- * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required.
+ * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required
+ * [onetagai](https://github.com/fengyiqicoder/onetagai) - Add AI to any static site with one script tag: call onetag.ask(prompt, input) from the browser to summarize, answer from the page, translate or extract JSON, with no backend and no API key in the page. MIT SDK, free 1M tokens.
+.
