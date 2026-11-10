@@ -1090,6 +1090,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
  * [voyager](https://github.com/voyager-crew/voyager) - 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
  * [Onhand](https://github.com/Phineas1500/Onhand) - Chrome extension that answers questions about the webpage or PDF you're reading and highlights the passages it used; works with a ChatGPT plan or OpenAI API key.
+ * [ChatOutline Pro](https://github.com/SamLu574/chatoutline-pro) - Floating table of contents, 1-click Markdown exporter, and Code Hub for ChatGPT, Claude, Gemini, and DeepSeek ([Edge Store](https://microsoftedge.microsoft.com/addons/detail/mmnmfeljpmjdpmpbelhnebldimmoaokb)).
 
 
 ## CLIs
