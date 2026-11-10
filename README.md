@@ -429,6 +429,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
  * [agent-manager](https://github.com/yoanwai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
  * [ChatGPT-Workflows](https://github.com/rongnianxin/chatgpt-workflows) - ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具
+ * [internal-tool-blueprints](https://github.com/samclaassen/internal-tool-blueprints) - Free, build-tested specs (data model, rules, phased prompts, acceptance checks) you can paste into ChatGPT, Claude Code, Cursor or Lovable to build internal tools such as a CRM, help desk or PTO tracker.
 
 
 ## Chatbots
