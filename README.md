@@ -1377,6 +1377,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
  * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
  * [Kapitsa](https://github.com/nace-ai/kapitsa) - Native LLM inference engine for Apple silicon Macs (Metal kernels and the Neural Engine) with OpenAI- and Anthropic-compatible APIs, which starts Claude Code, Codex, opencode or pi on a local model in one command.
+ * [claude-bulkhead](https://github.com/dooly6276/claude-bulkhead) - Pre-tool-use hooks for Claude Code, Codex, Gemini CLI, Cursor and OpenCode that stop one agent session from killing another session's processes or ports, or stashing, resetting or checking out over its uncommitted work.
 
 
 ## Reimplementations
