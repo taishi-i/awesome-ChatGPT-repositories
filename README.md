@@ -87,32 +87,27 @@ To update, run `npx skills update awesome-chatgpt-search`. You don't need this i
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [open-dots](https://github.com/anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
-
-
 **Browser-extensions**
- * [archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
- * [voyager](https://github.com/voyager-crew/voyager) - Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+ * [holaOS](https://github.com/holaboss-ai/holaos) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.
 
 
 **CLIs**
- * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
- * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
- * [deja-vu](https://github.com/vshulcz/deja-vu) - Local cross-agent memory and session search over the transcripts Claude Code, Codex, Cursor, OpenCode, Gemini CLI and 39 more coding agents already write to disk, served over CLI, TUI, MCP and hooks with zero LLM calls.
+ * [OmniRoute](https://github.com/cheaper-inference/omniroute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
+ * [paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 
 **NLP**
- * [bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
- * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+ * [claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 
 **Others**
- * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
- * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
+ * [t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
+ * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
+ * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 
 
-_Updated on October 16, 2026_ (A total of 2733 repositories listed.)
+_Updated on November 14, 2026_ (A total of 2753 repositories listed.)
 
 ## Table of contents
 
@@ -230,7 +225,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [ai-models](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587 AI models across 95 providers — pricing, context windows, modalities, capabilities. First-party data with TypeScript types and Zod validation.
  * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
  * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - 329 agent skills (Cursor, Claude Code & Codex), 5,380 OpenClaw skills, 201 ML notebooks, 9 textbooks, 82 research papers, 85 curated projects, 18 industry reports for PMs, Designers & Developers.
- * [awesome-ai-agents](https://github.com/ianwieds/awesome-ai-agents) - A curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research.
 
 
 ## Prompts
@@ -820,7 +814,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
  * [Proma](https://github.com/proma-ai/proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
  * [open-dots](https://github.com/anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
- * [ThreadShelf](https://github.com/ChrystianSchutz/ThreadShelf) - Local-first archive with semantic and exact search for ChatGPT, Claude, Google AI Studio, OpenRouter, LM Studio and Grok chat exports, with a web UI, CLI, HTTP API, MCP server and optional thread continuation via llama.cpp or OpenRouter.
 
 
 ## Browser-extensions
@@ -1089,7 +1082,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [quivr](https://github.com/the-vibe-company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
  * [archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
  * [voyager](https://github.com/voyager-crew/voyager) - 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
- * [Onhand](https://github.com/Phineas1500/Onhand) - Chrome extension that answers questions about the webpage or PDF you're reading and highlights the passages it used; works with a ChatGPT plan or OpenAI API key.
+ * [holaOS](https://github.com/holaboss-ai/holaos) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.
 
 
 ## CLIs
@@ -1376,7 +1369,8 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - Switch between multiple isolated Codex accounts and ChatGPT workspaces without repeated logout/login.
  * [ouroboros](https://github.com/q00/ouroboros) - Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
- * [Kapitsa](https://github.com/nace-ai/kapitsa) - Native LLM inference engine for Apple silicon Macs (Metal kernels and the Neural Engine) with OpenAI- and Anthropic-compatible APIs, which starts Claude Code, Codex, opencode or pi on a local model in one command.
+ * [OmniRoute](https://github.com/cheaper-inference/omniroute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
+ * [paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 
 ## Reimplementations
@@ -1890,7 +1884,7 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
  * [bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, virtual keys, budgets and MCP Code Mode. Works with any SDK or agent and adds under 200µs of overhead at 5k RPS.
  * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
- * [router](https://github.com/weave-os/router) - Weave Router, a self-hostable drop-in proxy for the Anthropic, OpenAI and Gemini APIs that picks a model for each request with an on-box embedder, for coding agents like Claude Code, Codex, opencode and pi.
+ * [claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
 
 
 ## Langchain
@@ -2430,7 +2424,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [FunASR](https://github.com/modelscope/funasr) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
  * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
  * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - Claude, ChatGPT, Cursor & Copilot usage limits in your macOS menu bar: reset countdowns, pace warnings, zero setup
- * [console](https://github.com/cognipeer/console) - Open-source, self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, RAG, an MCP hub, guardrails and agent tracing for multi-tenant teams.
 
 
 ## Others
@@ -2916,7 +2909,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [loopx](https://github.com/huangruiteng/loopx) - Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
  * [atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
  * [Maestro](https://github.com/runmaestro/maestro) - Agent Orchestration Command Center
- * [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude Code, Codex, +35 more). Desktop, web, mobile, and cloud agents.
  * [bb](https://github.com/get-bb/bb) - The agent IDE that builds itself
  * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing "what good looks like". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era.
  * [one-switch](https://github.com/yinxulai/one-switch) - Solidity smart contracts for the TRON blockchain https://tron.network
@@ -2926,9 +2918,9 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
- * [placecall](https://github.com/voygr-tech/placecall) - Agent skill, Codex plugin and remote MCP server that let Codex and other AI agents place real outbound phone calls to US businesses and get back the outcome and transcript.
- * [spyhop](https://github.com/leeleelee3264/spyhop) - Board of running Claude Code, Codex and OMP sessions with per-session progress steps.
- * [Heym](https://github.com/heymrun/heym) - Self-hosted runtime for LLM agent workflows with human approval checkpoints, MCP tools, execution traces, and evaluations.
- * [model-salt](https://github.com/modelsalt/model-salt) - MCP server with one tool: before a creative task the model gets a few choices drawn from outside randomness (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
- * [answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) - Agent skill for Codex and Claude Code that replies to hard questions with one self-contained HTML page instead of a long chat answer.
- * [keenable-mcp](https://github.com/keenableai/keenable-mcp) - Live web search and clean-markdown page fetching for AI agents via Keenable's hosted MCP server, no API key required.
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
+ * [t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
+ * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
+ * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
+
+

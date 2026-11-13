@@ -24443,6 +24443,41 @@
                     "zh-hans": "针对 Gemini、AI Studio、Claude、ChatGPT 和 DeepSeek 的增强套件，以及任何网站的提示词管理器，包括 DeepSeek Harness。",
                     "zh-hant": "針對 Gemini、AI Studio、Claude、ChatGPT 和 DeepSeek 的增強套件，以及任何網站的提示詞管理器，包括 DeepSeek Harness。"
                 }
+            },
+            "https://github.com/holaboss-ai/holaos": {
+                "repository_name": "holaOS",
+                "user_name": "holaboss-ai",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.",
+                "topics": [
+                    "agent",
+                    "agent-harness",
+                    "agent-os",
+                    "agentic",
+                    "ai",
+                    "ai-agent",
+                    "ai-agents",
+                    "artificial-intelligence",
+                    "claude-code",
+                    "codex",
+                    "electron",
+                    "holaboss",
+                    "holaos",
+                    "llm",
+                    "mcp",
+                    "memory",
+                    "model-context-protocol",
+                    "runtime",
+                    "typescript",
+                    "workspace"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, n",
+                    "ja": "企業が独自に構築できる、オープンソースのエージェント型ワークスペース。すでに利用しているシステム（100以上の連携機能、MCP、チャットツール、アプリ、ブラウザー、ローカルファイル）を、共有メモリでつなげます。エージェント（Claude Code、Codex）は何でも、モデルも何でも、BYOKにも対応。数クリックでセットアップ。n…",
+                    "zh-hans": "企业可自行打造的开源智能体工作空间。将你现有的系统连接起来——100 多种集成、MCP、聊天工具、应用、浏览器和本地文件，并共享记忆。支持任意智能体（Claude Code、Codex）、任意模型，也支持自带密钥（BYOK）。点击几下即可完成设置，n",
+                    "zh-hant": "開源的代理式工作空間，企業可自行打造。串接你現有的系統——100 多種整合、MCP、聊天工具、應用程式、瀏覽器與本機檔案——並共享記憶。支援任何代理程式（Claude Code、Codex）、任何模型，或自備 API 金鑰（BYOK）。只需點擊幾下即可完成設定，n"
+                }
             }
         },
         "CLIs": {
@@ -31830,6 +31865,76 @@
                     "ja": "エージェントOS：エージェントは自己学習します。私たちはただラインを守るだけです：インタビューゲート、段階的評価、予算化された進化ループ。MCPサーバー、14ランタイム：クロードコード、コーデックスCLI、ジェミニCLI、オープンコード、コパイロット、キロなど。",
                     "zh-hans": "代理操作系统：代理会自我学习变得更加智能。我们只需守住阵地：面试门槛、分阶段评估、预算演化循环。MCP服务器，14个运行时：克劳德代码、Codex命令行界面、Gemini命令行界面、OpenCode、Copilot、Kiro等等。",
                     "zh-hant": "代理人OS：代理人自行變得更聰明。我們只需守住這條線：面試閘門、分階段評估、預算進化迴圈。MCP伺服器，14個運行時：克勞德代碼、Codex CLI、Gemini CLI、OpenCode、Copilot、Kiro等等。"
+                }
+            },
+            "https://github.com/cheaper-inference/omniroute": {
+                "repository_name": "OmniRoute",
+                "user_name": "cheaper-inference",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+                "topics": [
+                    "a2a",
+                    "ai-agents",
+                    "ai-gateway",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "cline",
+                    "codex",
+                    "copilot",
+                    "cursor",
+                    "deepseek",
+                    "free-ai",
+                    "gemini",
+                    "kimi",
+                    "llm-gateway",
+                    "mcp",
+                    "openai",
+                    "openai-proxy",
+                    "qwen",
+                    "token-saver"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compr",
+                    "ja": "コーディングを止めるな。無料のMITライセンスAIゲートウェイ。1つのエンドポイントで375のプロバイダー（うち150以上は無料）、1,400以上のモデルに対応。Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。Claude Code、Codex、Cursor、OpenCode、Cline、Copilotで利用可能。クォータに応じた自動フォールバック、RTK＋Caveman圧縮…",
+                    "zh-hans": "永不停止编码。免费的 MIT AI 网关：一个端点，接入 375 家服务商（150 多家免费），提供 1,400 多个模型，包括 Kimi、Claude、GPT、Gemini、GLM、DeepSeek 和 MiniMax。兼容 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。支持配额感知自动回退，以及 RTK+Caveman 压缩】【。",
+                    "zh-hant": "永不停止寫程式。免費的 MIT AI 閘道：單一端點、375 家供應商（150 家以上免費）、1,400 多種模型，涵蓋 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。相容於 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。具備配額感知的自動備援切換、RTK+Caveman 壓縮……"
+                }
+            },
+            "https://github.com/paperclipai/paperclip": {
+                "repository_name": "paperclip",
+                "user_name": "paperclipai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The open-source app everyone uses to manage agents at work",
+                "topics": [
+                    "acpx",
+                    "agent-orchestration",
+                    "agent-skills",
+                    "agentic-ai",
+                    "ai-agents",
+                    "ai-engineering",
+                    "ai-governance",
+                    "ai-tools",
+                    "autonomous-agents",
+                    "claude",
+                    "claude-code",
+                    "claude-skills",
+                    "codex",
+                    "hermes",
+                    "llm",
+                    "mcp",
+                    "multi-agent",
+                    "openclaw",
+                    "project-management",
+                    "workflow-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The open-source app everyone uses to manage agents at work",
+                    "ja": "誰もが仕事でエージェントを管理するために使うオープンソースアプリ。",
+                    "zh-hans": "人人都在工作中用来管理智能体的开源应用",
+                    "zh-hant": "人人都在工作中用來管理 AI 代理的開源應用程式"
                 }
             }
         },
@@ -43970,6 +44075,41 @@
                     "ja": "AIモデルに実際のiPhoneと$7のESP32を使用させる：AirPlayの目、USB HIDの手、どんなOpenAI互換のビジョンモデルでも。Macも開発者アカウントもジェイルブレイクも必要ありません。",
                     "zh-hans": "让一个AI模型使用一部真实的iPhone和一个7美元的ESP32：AirPlay眼睛，USB HID手，任何兼容OpenAI的视觉模型。无需Mac，无需开发者账户，无需越狱。",
                     "zh-hant": "讓一個AI模型使用一部真實的iPhone和一個價值7美元的ESP32：AirPlay眼睛，USB HID手，任何與OpenAI兼容的視覺模型。無需Mac，無需開發者帳戶，無需越獄。"
+                }
+            },
+            "https://github.com/thedotmack/claude-mem": {
+                "repository_name": "claude-mem",
+                "user_name": "thedotmack",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-memory",
+                    "anthropic",
+                    "artificial-intelligence",
+                    "chromadb",
+                    "claude",
+                    "claude-agent-sdk",
+                    "claude-agents",
+                    "claude-code",
+                    "claude-code-plugin",
+                    "claude-skills",
+                    "embeddings",
+                    "long-term-memory",
+                    "mem0",
+                    "memory-engine",
+                    "openmemory",
+                    "rag",
+                    "sqlite",
+                    "supermemory"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, Open",
+                    "ja": "すべてのエージェントで、セッションをまたいでコンテキストを保持。エージェントがセッション中に行うすべての作業を記録し、AIで圧縮して、関連するコンテキストを今後のセッションに反映します。Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open に対応。",
+                    "zh-hans": "为每个智能体提供跨会话持久上下文——记录智能体在会话期间所做的一切，利用 AI 进行压缩，并将相关上下文注入未来的会话。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open。",
+                    "zh-hant": "為每個代理程式跨工作階段保留持續上下文——記錄代理程式在工作階段中的所有操作，運用 AI 壓縮內容，並在未來的工作階段中注入相關上下文。支援 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open】【。"
                 }
             }
         },
@@ -66487,6 +66627,67 @@
                     "ja": "コーディングエージェントのカバレッジ、セキュリティ、およびコード品質",
                     "zh-hans": "编码代理的覆盖范围、安全性和代码质量",
                     "zh-hant": "代碼代理的覆蓋範圍、安全性和代碼質量"
+                }
+            },
+            "https://github.com/pingdotgg/t3code": {
+                "repository_name": "t3code",
+                "user_name": "pingdotgg",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+                "topics": [
+                    "agent-orchestration",
+                    "agents",
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "claude-code",
+                    "code",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The best way to control Claude Code, Codex and more from any computer or phone",
+                    "ja": "あらゆるパソコンやスマートフォンからClaude CodeやCodexなどを操作する最適な方法",
+                    "zh-hans": "从任何电脑或手机上控制 Claude Code、Codex 等工具的最佳方式",
+                    "zh-hant": "從任何電腦或手機控制 Claude Code、Codex 等工具的最佳方式"
+                }
+            },
+            "https://github.com/bigpizzav3/codexplusplus": {
+                "repository_name": "CodexPlusPlus",
+                "user_name": "BigPizzaV3",
+                "language": "Rust",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服",
+                    "ja": "CodexAppを強化し、Codexやその他のAIエージェントをより使いやすく、快適に利用できるようにするツールです。",
+                    "zh-hans": "一款面向 CodexApp 的增强工具，致力于让 Codex 和其他 AI Agent 更好用、更舒适。",
+                    "zh-hant": "一款 CodexApp 增強工具，致力於讓 Codex 和其他 AI Agent 更好用、更舒適。"
+                }
+            },
+            "https://github.com/eigent-ai/eigent": {
+                "repository_name": "eigent",
+                "user_name": "eigent-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+                "topics": [
+                    "agent-framework",
+                    "agent-skills",
+                    "agentic-ai",
+                    "agentic-workflow",
+                    "claude-cowork",
+                    "claude-cowork-alternative",
+                    "claude-cowork-free",
+                    "desktop-agent",
+                    "multi-agent-systems"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+                    "ja": "Eigent：オープンソースのCoworkデスクトップ — Claude CoworkやCodexに代わる、ローカルで使える無料の選択肢",
+                    "zh-hans": "Eigent：开源 Cowork 桌面应用——Claude Cowork 和 Codex 的本地免费替代方案",
+                    "zh-hant": "Eigent：開源 Cowork 桌面應用程式——Claude Cowork 和 Codex 的免費本機替代方案"
                 }
             }
         }
