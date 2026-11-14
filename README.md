@@ -2922,5 +2922,6 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
  * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
+ * [cloud-alter-ego](https://github.com/SebastiaanBoon/cloud-alter-ego) - Template for the Cloud Alter Ego remote MCP connector, which gives AI chats shared memory, working rules and journals as plain Markdown files synced through Git.
 
 
