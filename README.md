@@ -2924,3 +2924,4 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
 
 
+ * [OpenMontage](https://github.com/charliewwdev/OpenMontage) - Self-hosted AI short-drama studio: an LLM (any OpenAI-compatible API) drafts the script, characters and storyboard, then images, video, voice and edit follow, with reference assets reused across shots for character consistency. AGPL-3.0.
