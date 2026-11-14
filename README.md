@@ -2444,6 +2444,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
  * [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - This repository contains code to parse various site
  * [babyagi](https://github.com/yoheinakajima/babyagi) - 3 cool projects to play around with autonomous agents:- auto-gpt:  babyagi:  camel:  one is your favorite?
+* [ponder](https://github.com/Quinnod345/ponder) - zero-dependency CLI, Codex plugin, Claude Code plugin, and Agent Skill for coverage-gated multi-pass review and deliberation
  * [metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
  * [ThreatResearch](https://github.com/securityjoes/threatresearch) - during our latest incident response, @charleslomboni implemented #chatgpt into #ghidra.we've released the code so you could use it too: called it askjoe 🤠enjoy &amp; share
  * [stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) - Stable Diffusion web UI
