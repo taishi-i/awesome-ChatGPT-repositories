@@ -105,9 +105,10 @@ To update, run `npx skills update awesome-chatgpt-search`. You don't need this i
  * [t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
  * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
+ * [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Windows overlay for OpenAI Codex Desktop showing remaining quota, reset times, and reset credits.
 
 
-_Updated on November 14, 2026_ (A total of 2753 repositories listed.)
+_Updated on November 16, 2026_ (A total of 2754 repositories listed.)
 
 ## Table of contents
 
@@ -2424,6 +2425,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [FunASR](https://github.com/modelscope/funasr) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
  * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
  * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - Claude, ChatGPT, Cursor & Copilot usage limits in your macOS menu bar: reset countdowns, pace warnings, zero setup
+ * [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Windows overlay for OpenAI Codex Desktop showing remaining quota, reset times, and reset credits.
 
 
 ## Others
