@@ -2917,6 +2917,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
  * [letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
  * [search-mcp](https://github.com/parallel-web/search-mcp) - Free web search and page fetching for agents. Hosted MCP, no API key required.
+ * [nostairsplease-mcp](https://github.com/ratacat/nostairsplease-mcp) - Remote MCP server (`https://nostairsplease.com/mcp`) for searching 7,000+ live-music venues, load-in stairs, and booking contacts.
  * [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents
  * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
  * [t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
