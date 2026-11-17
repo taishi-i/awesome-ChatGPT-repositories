@@ -815,6 +815,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [Proma](https://github.com/proma-ai/proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
  * [open-dots](https://github.com/anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
  * [next-vibe](https://github.com/techfreaque/next-vibe) - Open-source chat app and framework behind unbottled.ai: 100+ models, user-chosen filter level, image, video, music and voice generation.
+ * [Quock](https://github.com/matteocelani/quock) - Free open-source iPhone chat app for Ollama Cloud models, with streaming replies, images and files, and chat history kept on the phone.
 
 
 ## Browser-extensions
@@ -2923,5 +2924,6 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [t3code](https://github.com/pingdotgg/t3code) - The best way to control Claude Code, Codex and more from any computer or phone
  * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
+ * [ClickHouse Loom](https://github.com/ClickHouse/loom) - Self-hosted MCP server that gives AI agents shared long-term memory, document search with citations and a code index, stored in ClickHouse.
 
 
