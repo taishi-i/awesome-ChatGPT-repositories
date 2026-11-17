@@ -814,6 +814,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
  * [Proma](https://github.com/proma-ai/proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
  * [open-dots](https://github.com/anil-matcha/open-dots) - Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.
+ * [next-vibe](https://github.com/techfreaque/next-vibe) - Open-source chat app and framework behind unbottled.ai: 100+ models, user-chosen filter level, image, video, music and voice generation.
 
 
 ## Browser-extensions
