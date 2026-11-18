@@ -2925,5 +2925,6 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
  * [ClickHouse Loom](https://github.com/ClickHouse/loom) - Self-hosted MCP server that gives AI agents shared long-term memory, document search with citations and a code index, stored in ClickHouse.
+ * [SightRadar Face Recognition API MCP](https://github.com/sightradar-hq/sightradar-mcp) - Official MCP server for the SightRadar face recognition API: index photos, find every photo of a person from one selfie, and compare or detect faces from ChatGPT, Claude, Cursor or VS Code.
 
 
