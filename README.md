@@ -1374,6 +1374,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [OmniRoute](https://github.com/cheaper-inference/omniroute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
  * [paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
+ * [catude](https://github.com/catude/catude) - Terminal UI and CLI for Claude Code and Claude Desktop that shows where the tokens went, switches MCP servers and skills off per project, maps subagent runs and audits local settings.
 
 ## Reimplementations
 
