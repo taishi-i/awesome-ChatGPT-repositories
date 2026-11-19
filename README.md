@@ -2925,5 +2925,6 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
  * [ClickHouse Loom](https://github.com/ClickHouse/loom) - Self-hosted MCP server that gives AI agents shared long-term memory, document search with citations and a code index, stored in ClickHouse.
+ * [Clips Kitty](https://github.com/ColinGPT9/clips-studio) - Free Windows app that turns Twitch, Kick and YouTube streams into captioned Shorts, Reels and TikToks, using local LLMs (Ollama), faster-whisper or OpenRouter, with an MCP server.
 
 
