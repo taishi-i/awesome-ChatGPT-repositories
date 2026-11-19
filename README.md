@@ -2925,6 +2925,6 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
  * [ClickHouse Loom](https://github.com/ClickHouse/loom) - Self-hosted MCP server that gives AI agents shared long-term memory, document search with citations and a code index, stored in ClickHouse.
- * [brewpage-openapi](https://github.com/kochetkov-ma/brewpage-openapi) - MCP server and OpenAPI spec for BrewPage: free hosting where ChatGPT, Claude, Codex and other agents publish HTML, Markdown, files and JSON to a public link, no signup.
+ * [brewpage-openapi](https://github.com/kochetkov-ma/brewpage-openapi) - Connect ChatGPT, Claude or Codex to `https://brewpage.app/mcp` over Streamable HTTP to publish HTML, Markdown, files and JSON as shareable links. The 13 tools support anonymous publishing and optional OAuth. Includes the OpenAPI spec.
 
 
