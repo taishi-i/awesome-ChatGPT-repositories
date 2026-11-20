@@ -2928,3 +2928,4 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [ClickHouse Loom](https://github.com/ClickHouse/loom) - Self-hosted MCP server that gives AI agents shared long-term memory, document search with citations and a code index, stored in ClickHouse.
 
 
+ * [orbi](https://orbi.build/?ref=dir-awesome-chatgpt-repositories) - Open-source AI agent that turns GitHub issues into reviewed pull requests; self-host free or Orbi Cloud.
