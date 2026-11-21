@@ -1374,6 +1374,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [OmniRoute](https://github.com/cheaper-inference/omniroute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
  * [paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
  * [SpineCodex](https://github.com/GhabiX/SpineCodex) - Open-source OpenAI Codex CLI distribution powered by Spine that compiles subtask trees into prefix-cache-friendly context to cut long-horizon coding token costs by 32%–74%.
+ * [Folkbench](https://github.com/Folkbench/folkbench) - Folkbench Switch: open-source desktop app (macOS/Windows) that saves multiple OpenAI/Anthropic-compatible endpoints and keys and writes the selected one into Claude Code, Codex and Gemini CLI configs, with a diff preview before writing.
 
 
 ## Reimplementations
