@@ -147,19 +147,19 @@ For `list categories`, present:
 
 | Category | Count |
 |----------|-------|
-| Awesome-lists | 96 |
-| Prompts | 184 |
-| Chatbots | 379 |
-| Browser-extensions | 252 |
-| CLIs | 240 |
+| Awesome-lists | 98 |
+| Prompts | 190 |
+| Chatbots | 383 |
+| Browser-extensions | 257 |
+| CLIs | 268 |
 | Reimplementations | 42 |
 | Tutorials | 21 |
-| NLP | 412 |
-| Langchain | 178 |
+| NLP | 425 |
+| Langchain | 180 |
 | Unity | 17 |
-| Openai | 325 |
-| Others | 461 |
-| **Total** | **2,607** |
+| Openai | 329 |
+| Others | 477 |
+| **Total** | **2,687** |
 ```
 
 If no results, suggest alternate keywords and link to https://github.com/taishi-i/awesome-ChatGPT-repositories

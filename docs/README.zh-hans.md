@@ -1,5 +1,9 @@
 # awesome-ChatGPT-repositories
 
+<p align="center">
+  <img src="../assets/logo.png" alt="awesome-ChatGPT-repositories" width="640">
+</p>
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -13,21 +17,21 @@
 
 ## 简体中文 (Simplified Chinese)
 
-## Claude Code 技能
-直接从 Claude Code 搜索 2,500 多个精选仓库——无需浏览器，只需描述您要找的内容。
+## Claude Code 与 Codex 技能
+直接从 Claude Code 或 Codex 搜索 2,500 多个精选仓库——无需浏览器，只需描述您要找的内容。两种工具使用同一个技能和同一份内置数据。
 - **按主题查找工具** — RAG 框架、智能体库、聊天机器人 UI、CLI 工具等
 - **按类别或语言筛选** — 缩小至特定类别（例如 `CLIs`、`NLP`）或编程语言
 - **多语言查询** — 支持以日语、中文、韩语或任何语言搜索
 - **评分结果** — 按相关性、星标数及项目质量排序
 
-### 安装
-在 Claude Code 中运行以下两条命令：
+### Claude Code
+在 Claude Code 中运行以下命令：
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
 /plugin install awesome-chatgpt-search@awesome-chatgpt-repositories
 /reload-plugins
 ```
-### 使用方法
+使用方法：
 ```
 /awesome-chatgpt-search:search RAG retrieval
 /awesome-chatgpt-search:search category:CLIs agent
@@ -36,6 +40,34 @@
 /awesome-chatgpt-search:search list categories
 ```
 
+### Codex
+在终端中运行以下命令，然后启动新的 Codex 会话：
+```
+codex plugin marketplace add taishi-i/awesome-ChatGPT-repositories
+codex plugin add awesome-chatgpt-search@awesome-chatgpt-repositories
+```
+使用方法——用 `$` 指定该技能（当您请求查找仓库时，Codex 也可能自动选用它）：
+```
+$awesome-chatgpt-search:search RAG retrieval
+$awesome-chatgpt-search:search category:CLIs agent
+$awesome-chatgpt-search:search language:Python langchain
+$awesome-chatgpt-search:search fine-tuning lora peft
+$awesome-chatgpt-search:search list categories
+```
+
+### 其他智能体（npx skills）
+在终端中运行以下命令。除 Claude Code 和 Codex 外，还可用于 Cursor、Gemini CLI、GitHub Copilot 等 [skills CLI 支持的智能体](https://github.com/vercel-labs/skills#supported-agents)：
+```
+npx skills add taishi-i/awesome-ChatGPT-repositories
+```
+使用方法（在 Codex 中改用 `$awesome-chatgpt-search`）：
+```
+/awesome-chatgpt-search RAG retrieval
+/awesome-chatgpt-search category:CLIs agent
+/awesome-chatgpt-search list categories
+```
+更新时运行 `npx skills update awesome-chatgpt-search`。如果已安装插件，则无需此步骤。
+
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
@@ -43,28 +75,26 @@
 ## The latest additions 🎉
 
 **Browser-extensions**
- * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI 工作流自动化插件，用于与 Claude/Codex 一起生成智能代码。
- * [explyt](https://github.com/explyt/explyt) - JetBrains IDE的AI代理：通过IDE进行调试器、重构和符号导航——更少的标记，更精确。
+ * [holaOS](https://github.com/holaboss-ai/holaos) - 企业可自行打造的开源智能体工作空间。将你现有的系统连接起来——100 多种集成、MCP、聊天工具、应用、浏览器和本地文件，并共享记忆。支持任意智能体（Claude Code、Codex）、任意模型，也支持自带密钥（BYOK）。点击几下即可完成设置，n
 
 
 **CLIs**
- * [codex-profiles](https://github.com/ducksss/codex-profiles) - 命名为CODEX_HOME配置文件和ChatGPT桌面窗口具有单独的本地状态，不复制令牌。
- * [shob](https://github.com/shobcoder/shob) - Shob - 一个提供高质量编码和自动化工作的人工智能代理
- * [nika](https://github.com/supernovae-st/nika) - 意图作为代码 | 人工智能的工作流语言。一个文件，4个动词，一个Rust二进制文件。本地优先，任何模型，AGPL-3.0。🦋
+ * [OmniRoute](https://github.com/cheaper-inference/omniroute) - 永不停止编码。免费的 MIT AI 网关：一个端点，接入 375 家服务商（150 多家免费），提供 1,400 多个模型，包括 Kimi、Claude、GPT、Gemini、GLM、DeepSeek 和 MiniMax。兼容 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。支持配额感知自动回退，以及 RTK+Caveman 压缩】【。
+ * [paperclip](https://github.com/paperclipai/paperclip) - 人人都在工作中用来管理智能体的开源应用
 
 
 **NLP**
- * [markstream-vue](https://github.com/simon-he95/markstream-vue) - 为AI应用程序提供多框架流式Markdown渲染器：Vue/Nuxt、React/Next.js、Svelte和Angular，配备Mermaid、KaTeX、Shiki、Monaco、安全HTML和低抖动更新。
- * [screenpipe](https://github.com/screenpipe/screenpipe) - YC（S26）| 每天全天记录您的屏幕并连接到您的代理。本地、私密、安全。连接到OpenClaw、Hermes代理和100多个应用程序。
- * [imcodes](https://github.com/im4codes/imcodes) - 代理商的即时通讯。共享代理上下文和记忆，监督执行，并跨AI提供商进行代理审计。
- * [agent-qa](https://github.com/vostride/agent-qa) - 软件团队的自我改进QA代理。具有记忆的测试工具。用自然语言为Web和移动设备编写测试。代理QA从每次运行中学习，适应UI更改，并在您发布之前捕捉回归。
+ * [claude-mem](https://github.com/thedotmack/claude-mem) - 为每个智能体提供跨会话持久上下文——记录智能体在会话期间所做的一切，利用 AI 进行压缩，并将相关上下文注入未来的会话。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open。
 
 
 **Others**
- * [GoodMemory](https://github.com/hjqcan/goodmemory) - 本地优先，可审计的内存层，适用于AI应用程序和编码代理 - Codex，Claude Code，MCP，HTTP，TypeScript和Python。
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 从规划到合并，运行和监督编码代理团队。任何工具（克劳德代码，密码本，+25种其他工具）。桌面，网络，移动和云代理。
+ * [t3code](https://github.com/pingdotgg/t3code) - 从任何电脑或手机上控制 Claude Code、Codex 等工具的最佳方式
+ * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - 一款面向 CodexApp 的增强工具，致力于让 Codex 和其他 AI Agent 更好用、更舒适。
+ * [eigent](https://github.com/eigent-ai/eigent) - Eigent：开源 Cowork 桌面应用——Claude Cowork 和 Codex 的本地免费替代方案
 
 
-_Updated on July 21, 2026_ (A total of 2654 repositories listed.)
+_Updated on November 14, 2026_ (A total of 2753 repositories listed.)
 
 ## Table of contents
 
@@ -181,6 +211,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) - 一个由独立建立的人工智能初创公司组成的策划清单 - 仅包括自助、前种子和天使投资的产品。
  * [ai-models](https://github.com/i-need-token/ai-models) - 包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。输出：包含4,587个AI模型的结构化YAML目录，涵盖95个提供商 - 定价、上下文窗口、模态、能力。具有TypeScript类型和Zod验证的第一方数据。
  * [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) - 🚀 世界上最大的GPT图像2提示库，每天更新 - 2000多个精选提示与预览图像，支持16种语言。OpenAI的下一代图像模型具有像素完美的文本渲染，跨图像一致性和商业级插图。免费并开放。
+ * [awesome-agentic-ai](https://github.com/adriannoes/awesome-agentic-ai) - 329个代理技能（光标，克劳德代码和法典），5,380个OpenClaw技能，201个机器学习笔记本，9本教科书，82篇研究论文，85个策划项目，18份面向产品经理、设计师和开发人员的行业报告。
 
 
 ## Prompts
@@ -374,6 +405,11 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ccline](https://github.com/jianshuo/ccline) - 在您的zsh提示符处输入一个想法，得到一个答案 - 并运行它建议的命令。
  * [presentation-design-prompts](https://github.com/slidespeak/presentation-design-prompts) - 免费演示幻灯片设计.md，您可以粘贴到ChatGPT、Claude或您的任何AI工具中。
  * [headroom](https://github.com/headroomlabs-ai/headroom) - 在输出到LLM之前，压缩工具会压缩输出、日志、文件和RAG块。减少60-95%的令牌数量，但答案保持不变。包括图书馆、代理和MCP服务器。
+ * [Rapid-MLX](https://github.com/raullenchai/rapid-mlx) - 适用于苹果芯片的最快本地AI引擎。比Ollama快4.2倍，缓存TTFT为0.08秒，100%工具调用。17个工具解析器，提示缓存，推理分离，云路由。可替代OpenAI。与Claude Code、Cursor、Aider兼容。
+ * [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - 使用技能审计和重写内容，以消除AI写作模式。与您喜爱的代理一起使用，包括克劳德代码、OpenClaw、Codex和Hermes。
+ * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
+ * [agent-manager](https://github.com/yoanwai/agent-manager) - 为每个AI编码代理提供最快的开发工作流程。通过一个tmux TUI实时状态、快速提示、工作树和差异审查。
+ * [ChatGPT-Workflows](https://github.com/rongnianxin/chatgpt-workflows) - ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具
 
 
 ## Chatbots
@@ -760,6 +796,11 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [CrustAI](https://github.com/davesimoes/crustai) - 私人、本地优先的AI助手，支持Telegram、Discord、WhatsApp和Slack。
  * [vellum-assistant](https://github.com/vellum-ai/vellum-assistant) - 一个易于设置的AI助手，全天候为您工作，了解您的偏好，并随着时间的推移变得更加智能。
  * [hope-agent](https://github.com/shiwenwen/hope-agent) - 🦭跨设备传递、更了解你的桌面 AI 助手——也可在NAS或云端无头运行
+ * [thoughtdag](https://github.com/chenxiachan/thoughtdag) - 您的思维值得一张地图：一个无限的画布，LLM对话可以在其中发展成可编辑的思维图。线条是上下文。
+ * [ai](https://github.com/tanstack/ai) - 🤖 适用于流式聊天、工具调用、代理和多模态应用的类型安全、提供者不可知的TypeScript AI SDK，可跨OpenAI、Anthropic、Gemini、React、Vue、Svelte和Solid。
+ * [rakazo](https://github.com/elie222/rakazo) - 开源的Grok Bot替代方案。选择您自己的模型和沙盒。
+ * [Proma](https://github.com/proma-ai/proma) - Proma为您的工作流程带来了无缝的通用代理体验。专为100×专业人士和主动代理时代而打造。
+ * [open-dots](https://github.com/anil-matcha/open-dots) - 开源、自托管的AI代理工作空间，是OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork和ChatGPT代理的替代品。MIT许可证；包括聊天、连接器、批准和可选的计算机使用。早期原型。
 
 
 ## Browser-extensions
@@ -1019,6 +1060,16 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [thClaws](https://github.com/thclaws/thclaws) - 开源AI代理程序在本机Rust中利用- GUI，CLI，无头和Web应用程序来自一个二进制文件。多提供商，MCP，技能，插件，代理团队。
  * [oh-my-taiyiforge](https://github.com/dong90/oh-my-taiyiforge) - AI 工作流自动化插件，用于与 Claude/Codex 一起生成智能代码。
  * [explyt](https://github.com/explyt/explyt) - JetBrains IDE的AI代理：通过IDE进行调试器、重构和符号导航——更少的标记，更精确。
+ * [voyager](https://github.com/nagi-ovo/voyager) - Voyager - 一个面向AI Studio、Gemini、Claude和ChatGPT的全能增强套件：时间轴、文件夹、提示、使用跟踪、聊天导出、插件等功能。
+ * [agents](https://github.com/wshobson/agents) - Claude Code、Codex、Cursor、OpenCode、GitHub Copilot和Google Antigravity的多线束代理插件市场
+ * [mulmoterminal](https://github.com/receptron/mulmoterminal) - 同时运行多个克劳德代码和密码本会话 - 一个浏览器终端网格显示哪个代理需要您。本地，tmux支持，麻省理工学院。
+ * [thursday](https://github.com/cgoinglove/thursday) - 下一个用于网络浏览器的开源文件上传器🐶
+ * [chat-on-steroids](https://github.com/totec448-spec/chat-on-steroids) - 跨平台本地MCP功能，与Chrome集成，目标，紧凑和恢复，以及耐用的多代理工作流程。
+ * [jev-social](https://github.com/socai-io/jev-social) - 开源、本地优先的社交媒体研究代理，适用于Instagram、TikTok和LinkedIn。Jev路由只读步骤；socai CLI捕获引用的浏览器证据。
+ * [quivr](https://github.com/the-vibe-company/quivr) - 一个开源引擎，可以将连续的内容流转换为搜索和监控。持久的摄入，混合搜索，警报以及用于格式，模型和业务规则的插件。
+ * [archcore](https://github.com/archcore-ai/archcore) - 为Claude Code、Cursor、Codex和GitHub Copilot进行基于规范驱动的开发和上下文工程，支持Git中的项目上下文。
+ * [voyager](https://github.com/voyager-crew/voyager) - 针对 Gemini、AI Studio、Claude、ChatGPT 和 DeepSeek 的增强套件，以及任何网站的提示词管理器，包括 DeepSeek Harness。
+ * [holaOS](https://github.com/holaboss-ai/holaos) - 企业可自行打造的开源智能体工作空间。将你现有的系统连接起来——100 多种集成、MCP、聊天工具、应用、浏览器和本地文件，并共享记忆。支持任意智能体（Claude Code、Codex）、任意模型，也支持自带密钥（BYOK）。点击几下即可完成设置，n
 
 
 ## CLIs
@@ -1283,6 +1334,30 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-profiles](https://github.com/ducksss/codex-profiles) - 命名为CODEX_HOME配置文件和ChatGPT桌面窗口具有单独的本地状态，不复制令牌。
  * [shob](https://github.com/shobcoder/shob) - Shob - 一个提供高质量编码和自动化工作的人工智能代理
  * [nika](https://github.com/supernovae-st/nika) - 意图作为代码 | 人工智能的工作流语言。一个文件，4个动词，一个Rust二进制文件。本地优先，任何模型，AGPL-3.0。🦋
+ * [codex-security](https://github.com/openai/codex-security) - OpenAI的Codex安全CLI和TypeScript SDK用于查找、验证和修复安全漏洞。npm：https://www.npmjs.com/package/@openai/codex-security
+ * [EchoBird](https://github.com/edison7009/echobird) - 一键安装+模型切换：克劳德代码，Codex CLI（OpenAI），Grok Build（xAI），Kimi Code（Moonshot），Qwen Code，Aider，OpenCode，MiMo Code（小米），ZCode（Z.AI），OpenClaw，Pi，OpenScience，Vibe-Trading，克劳德桌面（3P配置文件），ChatGPT桌面，OpenCode桌。
+ * [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) - 使用AI控制Gmail、Google日历、文档、表格、幻灯片、聊天、表单、任务、搜索和驱动器-全面的Google Workspace MCP服务器和CLI工具。
+ * [Chat2DB](https://github.com/ottermind/chat2db) - 🔥🔥🔥 人工智能驱动的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等数据库。
+ * [opencodex](https://github.com/lidge-jun/opencodex) - 为OpenAI Codex和Claude Code提供的通用提供者代理 - 使用Codex CLI、App、SDK和Claude Code中的任何LLM（Claude、Gemini、Grok、DeepSeek、Ollama...）
+ * [llm-wiki-cli](https://github.com/janyork/llm-wiki-cli) - 基于代理的主动记忆CLI用于AI代理-自主地在会话之间回忆、维护和演化持久的、源地知识。
+ * [zero](https://github.com/gitlawb/zero) - 回答您的编码代理，您的模型，您的机器，您的规则。输出：回答您的编码代理，您的模型，您的机器，您的规则。
+ * [PDFMathTranslate](https://github.com/pdfmathtranslate/pdfmathtranslate) - [EMNLP 2025 演示] 保留格式的 PDF 科学论文翻译 - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+ * [herdr](https://github.com/herdrdev/herdr) - 您的编码代理程序运行的时间输出：您的编码代理程序运行的时间
+ * [ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多代理实现全自动AI小说生成
+ * [tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ 从您的终端跟踪AI编码代理的令牌使用情况。🏅 全球排行榜，跟踪了数万亿个令牌。
+ * [future-os](https://github.com/futuregene/future-os) - 一个AI代理，无论你在哪里工作——终端、桌面、移动设备和聊天应用程序。Rust核心。
+ * [Graft](https://github.com/trailhq/graft) - 涡轮克劳德代码，光标，密码本，双子座和每个编码代理：更快，更便宜，具有针对您代码库的上下文理解。
+ * [career-ops](https://github.com/career-ops-hq/career-ops) - 开源人工智能求职：扫描工作门户网站，将列表评估为结构化的A-H报告，得出全球1-5分数，定制您的简历，跟踪申请——在您的人工智能编码CLI（Claude Code，Codex，OpenCode，Antigravity…）本地运行。
+ * [coucou](https://github.com/louis-cfm/coucou) - 一个小伙伴，住在你的缺口（macOS）或屏幕顶部（Windows，Linux），时刻关注着你的编码代理：Claude Code，Codex，Cursor，Gemini CLI，Antigravity等等。
+ * [CPA-Manager-Plus](https://github.com/seakee/cpa-manager-plus) - 一个自托管的CPA / CLIProxyAPI管理面板和AI网关可观察性仪表板，用于请求、使用情况、成本、配额、故障和账户健康。
+ * [skillshare](https://github.com/runkids/skillshare) - 📚 您的AI编码设置，无处不在。在一个地方管理技能、代理、规则、MCP连接和钩子，并通过桌面应用程序或CLI简化团队共享。
+ * [dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
+ * [openrig](https://github.com/mvschwarz/openrig) - 从Claude Code、Codex和Pi建立自己的代理网络：具有角色、共享背景和自有工作的持久团队。
+ * [rea](https://github.com/morluto/rea) - 使用代理人逆向工程任何东西，从应用程序行为到本机二进制文件。
+ * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - 在多个独立的Codex账户和ChatGPT工作区之间切换，无需重复登出/登录。
+ * [ouroboros](https://github.com/q00/ouroboros) - 代理操作系统：代理会自我学习变得更加智能。我们只需守住阵地：面试门槛、分阶段评估、预算演化循环。MCP服务器，14个运行时：克劳德代码、Codex命令行界面、Gemini命令行界面、OpenCode、Copilot、Kiro等等。
+ * [OmniRoute](https://github.com/cheaper-inference/omniroute) - 永不停止编码。免费的 MIT AI 网关：一个端点，接入 375 家服务商（150 多家免费），提供 1,400 多个模型，包括 Kimi、Claude、GPT、Gemini、GLM、DeepSeek 和 MiniMax。兼容 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。支持配额感知自动回退，以及 RTK+Caveman 压缩】【。
+ * [paperclip](https://github.com/paperclipai/paperclip) - 人人都在工作中用来管理智能体的开源应用
 
 
 ## Reimplementations
@@ -1780,6 +1855,23 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [screenpipe](https://github.com/screenpipe/screenpipe) - YC（S26）| 每天全天记录您的屏幕并连接到您的代理。本地、私密、安全。连接到OpenClaw、Hermes代理和100多个应用程序。
  * [imcodes](https://github.com/im4codes/imcodes) - 代理商的即时通讯。共享代理上下文和记忆，监督执行，并跨AI提供商进行代理审计。
  * [agent-qa](https://github.com/vostride/agent-qa) - 软件团队的自我改进QA代理。具有记忆的测试工具。用自然语言为Web和移动设备编写测试。代理QA从每次运行中学习，适应UI更改，并在您发布之前捕捉回归。
+ * [Raven](https://github.com/evermind-ai/raven) - 基于EverOS构建的以记忆为先、自我改进的代理器，配备MiroThinker强大的深度研究和推理能力。
+ * [Switchyard](https://github.com/nvidia-nemo/switchyard) - Switchyard允许LLM应用程序在保留原生OpenAI和Anthropic API兼容性的同时，跨模型和提供商路由流量，从而实现灵活的模型选择、基准测试和成本/性能优化。
+ * [loushang](https://github.com/zhnt/loushang) - AI原生代理编码工作流的利用Python：多模型LLM编排、有状态会话、工具治理、可追溯交付，以及为GPT、Claude、DeepSeek、Qwen、Kimi、GLM和MiniMax提供路由。
+ * [any-llm](https://github.com/mozilla-ai/any-llm) - 使用单一界面与LLM提供商进行沟通
+ * [Atomic-Chat](https://github.com/atomicbot-ai/atomic-chat) - 本地AI应用程序和推理引擎，用于代理商。在您的计算机上本地运行开放权重LLMs — 私人，100%离线。加入我们的Discord：https://discord.com/invite/8wGSsvmg4V
+ * [codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) - 高性能代码智能MCP服务器。将代码库索引到持久知识图中 - 平均存储库在毫秒内。支持158种语言，子毫秒查询，减少99%的令牌。单一静态二进制文件，零依赖。
+ * [gentle-ai](https://github.com/gentleman-programming/gentle-ai) - Gentle-AI配置您已经使用的AI编码代理：Claude Code，Cursor，OpenCode，Codex，Pi等。选择持久内存，基于规范的开发，精心策划的技能，MCP服务器，人物角色和可选的有限审查。开源，无代理锁。
+ * [open-code-review](https://github.com/alibaba/open-code-review) - 快速、高效，在阿里巴巴规模上经过实战检验。混合架构代码审查工具：确定性流水线+LLM代理，精确的行级评论，内置多语言规则集（NPE、线程安全、XSS、SQL注入），兼容OpenAI和Anthropic。
+ * [open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - 使用自托管的TypeScript代理运行时，具有持久的批准和可验证的运行记录。拥有它，批准它，审计它。
+ * [Auto-Company](https://github.com/maxmiksa/auto-company) - 一个汽车公司在您自己的PC上24/7工作- Windows/Linux/macOS。
+ * [cindy](https://github.com/makecindy/cindy) - 想到，就能做到。开源、开箱即用的 AI 代理。
+ * [magpie](https://github.com/yetone/magpie) - 每个代理商的模型。一个地方。DeepSeek上的Codex，Kimi上的Claude Code，从菜单栏。
+ * [cortex](https://github.com/cortex-docs/cortex) - Cortex - 从OpenAPI、AsyncAPI、GraphQL、gRPC、OpenRPC和Markdown生成交互式API文档、类型化SDK和MCP服务器。
+ * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。
+ * [bifrost](https://github.com/maximhq/bifrost) - 开源、高性能的AI网关，可作为您的LLM网关、MCP网关和代理网关。一个兼容OpenAI的API，支持10,000多个模型，具有故障转移、负载均衡、语义缓存、虚拟密钥、预算和MCP代码模式。与任何S兼容。
+ * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - 让一个AI模型使用一部真实的iPhone和一个7美元的ESP32：AirPlay眼睛，USB HID手，任何兼容OpenAI的视觉模型。无需Mac，无需开发者账户，无需越狱。
+ * [claude-mem](https://github.com/thedotmack/claude-mem) - 为每个智能体提供跨会话持久上下文——记录智能体在会话期间所做的一切，利用 AI 进行压缩，并将相关上下文注入未来的会话。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open。
 
 
 ## Langchain
@@ -1964,6 +2056,7 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [openyak](https://github.com/openyak/openyak) - OpenYak - 适用于Windows，macOS和Linux的开源本地AI代理。是Claude Code，Claude for Work和OpenAI Codex的私人BYOK替代方案，具有20多种工具，通过OpenRouter，MCP和Ollama提供100多种模型。免费，MIT许可，无遥测。
  * [GoModel](https://github.com/enterpilot/gomodel) - 用Go编写的AI网关。轻量级统一的OpenAI兼容API，适用于OpenAI、Anthropic、Gemini、Groq、xAI和Ollama。具有可观察性、防护栏、流式传输、成本和使用跟踪的LiteLLM替代方案。
  * [harness-sdk](https://github.com/strands-agents/harness-sdk) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
+ * [LibreChat](https://github.com/librechat-ai/librechat) - 增强版ChatGPT克隆：功能代理，MCP，技能，DeepSeek，人类，AWS，OpenAI，响应API，Azure，Groq，o1，GPT-5，Mistral，OpenRouter，Vertex AI，Gemini，工件，AI模型切换，消息搜索，代码解释器，langchain，DALL-E-3，Ope
 
 
 ## Unity
@@ -2314,6 +2407,10 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - 在Linux上运行OpenAI Codex桌面版-自动安装程序
  * [Friday](https://github.com/thesongzhu/friday) - AI个人运营平台，监督、有证据支持的自动化。
  * [gpt_image_playground](https://github.com/cooksleep/gpt_image_playground) - 基于OpenAI gpt-image-2 API的图片生成与编辑工具
+ * [pr-agent](https://github.com/the-pr-agent/pr-agent) - 🚀 公关代理：原始开源公关评论员。这个项目不是Qodo的免费版。
+ * [FunASR](https://github.com/modelscope/funasr) - 开源语音识别工具包，用于训练、推断、流式ASR、VAD、标点符号、说话者分割管道，以及与OpenAI兼容/MCP服务。
+ * [watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - 一个以隐私为先的应用程序，可以去除您拥有内容上的AI水印。
+ * [AIQuotaBar](https://github.com/yagcioglutoprak/aiquotabar) - 在您的 macOS 菜单栏中，Claude、ChatGPT、Cursor 和 Copilot 的使用限制：重置倒计时、节奏警告、零设置
 
 
 ## Others
@@ -2793,5 +2890,24 @@ _Updated on July 21, 2026_ (A total of 2654 repositories listed.)
  * [ping-island](https://github.com/erha19/ping-island) - 一个动态的岛屿风格指挥中心，用于管理macOS上所有的AI编码代理。
  * [PriceAI](https://github.com/dimthink/priceai) - AI订阅卡网渠道比价工具：汇集100多个卡网渠道，包括ChatGPT、Claude、Gemini、Grok等多个渠道的报价，展示有货的最低价、库存状态和原站购买链接。
  * [GoodMemory](https://github.com/hjqcan/goodmemory) - 本地优先，可审计的内存层，适用于AI应用程序和编码代理 - Codex，Claude Code，MCP，HTTP，TypeScript和Python。
+ * [uizze](https://github.com/uizze/uizze) - 四种免费的UI技能，专注于UIZZE MCP参考资料，并为编码代理提供保守的GitHub操作。
+ * [cccc](https://github.com/chesterra/cccc) - 将您的编码代理协调得像一个群聊一样——阅读回执、交付跟踪和远程操作都可以通过手机完成。只需一次pip安装，零基础设施。一个面向生产的24/7工作流编排器。
+ * [codex-with-chatgpt](https://github.com/xiaoduoya/codex-with-chatgpt) - ChatGPT思考。Codex工作。在保留Codex控制的同时，使用ChatGPT作为规划大脑。
+ * [loopx](https://github.com/huangruiteng/loopx) - 长期视角代理控制平面，用于在Codex、Claude Code和其他工具中进行持久、受控的工作。
+ * [atlas](https://github.com/pacifio/atlas) - 代理商的源代码控制。使用多个编码代理，跟踪他们的更改并在一个地方查询它们。
+ * [Maestro](https://github.com/runmaestro/maestro) - 代理编排命令中心
+ * [bb](https://github.com/get-bb/bb) - 构建自身的代理IDE
+ * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AI代理现在可以编写99%的代码。这改变了开发者的含义。我们的角色转变为知道“好的代码是什么样的”。为了做到这一点，我们需要全新的开发者工具。Tendril是在代理时代取代您的IDE的工具。
+ * [one-switch](https://github.com/yinxulai/one-switch) - TRON区块链的Solidity智能合约 https://tron.network
+ * [openusage](https://github.com/robinebers/openusage) - 您的订阅速度太快了吗？支付您从未使用过的东西？停止猜测。OpenUsage是免费且开源的。
+ * [codex-local-hub](https://github.com/makorise/codex-local-hub) - Codex Lookout - 通过手机在本地网络上监视、继续和审查Codex任务。
+ * [loopx](https://github.com/loopx-project/loopx) - 一个具有耐用状态内核的控制平面，适用于长期计划的代理人和团队。在会话之间保持工作的进行和改进，减少人工干预。
+ * [letta-code](https://github.com/letta-ai/letta-code) - 有记忆、身份和学习适应能力的有状态代理，就像人一样。
+ * [search-mcp](https://github.com/parallel-web/search-mcp) - 免费网络搜索和页面获取服务供代理商使用。托管MCP，无需API密钥。
+ * [supercov](https://github.com/supercorp-ai/supercov) - 编码代理的覆盖范围、安全性和代码质量
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 从规划到合并，运行和监督编码代理团队。任何工具（克劳德代码，密码本，+25种其他工具）。桌面，网络，移动和云代理。
+ * [t3code](https://github.com/pingdotgg/t3code) - 从任何电脑或手机上控制 Claude Code、Codex 等工具的最佳方式
+ * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - 一款面向 CodexApp 的增强工具，致力于让 Codex 和其他 AI Agent 更好用、更舒适。
+ * [eigent](https://github.com/eigent-ai/eigent) - Eigent：开源 Cowork 桌面应用——Claude Cowork 和 Codex 的本地免费替代方案
 
 
