@@ -2926,5 +2926,6 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex
  * [ClickHouse Loom](https://github.com/ClickHouse/loom) - Self-hosted MCP server that gives AI agents shared long-term memory, document search with citations and a code index, stored in ClickHouse.
+ * [FlashData MCP](https://github.com/flashdatadev/flashdata-mcp) - Open-source MIT MCP server for Google Search, YouTube Data/Transcripts, and YouTube Download for Codex and AI agents. Free trial (no credit card), $0/mo pay-as-you-go.
 
 
