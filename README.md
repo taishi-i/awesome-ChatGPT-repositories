@@ -2941,3 +2941,4 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
  * [nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.
 
 
+ * [OpenMontage](https://github.com/charliewwdev/OpenMontage) - Self-hosted AI short-drama studio: an LLM (any OpenAI-compatible API) drafts the script, characters and storyboard, then images, video, voice and edit follow, with reference assets reused across shots for character consistency. AGPL-3.0.
