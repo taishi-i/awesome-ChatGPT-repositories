@@ -17852,6 +17852,95 @@
                     "zh-hans": "开源、自托管的AI代理工作空间，是OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork和ChatGPT代理的替代品。MIT许可证；包括聊天、连接器、批准和可选的计算机使用。早期原型。",
                     "zh-hant": "開源、自託管的AI代理工作空間，是OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork和ChatGPT代理的替代方案。採用MIT許可證；包括聊天、連接器、批准和可選的電腦使用。早期原型。"
                 }
+            },
+            "https://github.com/homeassistant-ai/ha-mcp": {
+                "repository_name": "ha-mcp",
+                "user_name": "homeassistant-ai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "hacs",
+                    "home-assistant",
+                    "home-automation",
+                    "llm",
+                    "mcp",
+                    "model-context-protocol"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+                    "ja": "Claude、ChatGPT、その他のAIアシスタントを使って、Home Assistantを設定・自動化しましょう。",
+                    "zh-hans": "使用 Claude、ChatGPT 和其他 AI 助手配置并自动化 Home Assistant。",
+                    "zh-hant": "透過 Claude、ChatGPT 和其他 AI 助理，設定並自動化 Home Assistant。"
+                }
+            },
+            "https://github.com/tencent/loopforge": {
+                "repository_name": "LoopForge",
+                "user_name": "Tencent",
+                "language": "Go",
+                "license": "Other",
+                "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+                "topics": [
+                    "agent-orchestration",
+                    "agentic-workflow",
+                    "ai-agents",
+                    "ai-coding",
+                    "claude-code",
+                    "code-review",
+                    "codebuddy",
+                    "codex",
+                    "coding-agents",
+                    "cursor",
+                    "developer-tools",
+                    "human-on-the-loop",
+                    "llm",
+                    "mcp",
+                    "multi-agent",
+                    "sdlc",
+                    "self-hosted",
+                    "sop",
+                    "workflow-automation",
+                    "workflow-engine"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+                    "ja": "コーディングエージェントの成果を届けるためのセルフホスト型ワークフロー。スクリプトと人による承認ステップを使って、CodeBuddy、Codex、Claude Codeをオーケストレーションできます。コーディングアシスタント向けのローカルワークフローも含まれています。",
+                    "zh-hans": "面向编码智能体交付的自托管工作流。通过脚本和人工审批关卡，编排 CodeBuddy、Codex 和 Claude Code。还包含适用于编程助手的本地工作流。",
+                    "zh-hant": "用於交付程式碼代理的自架工作流程。透過指令碼與人工核准關卡，協調 CodeBuddy、Codex 和 Claude Code。內含適用於程式碼助理的本機工作流程。"
+                }
+            },
+            "https://github.com/sylinko/everywhere": {
+                "repository_name": "Everywhere",
+                "user_name": "Sylinko",
+                "language": "C#",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-assistant",
+                    "avalonia",
+                    "claude",
+                    "deepseek",
+                    "desktop-app",
+                    "flow-state",
+                    "gemini",
+                    "hermes-agent",
+                    "mcp",
+                    "on-screen-awareness",
+                    "openai",
+                    "openclaw",
+                    "personal",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.",
+                    "ja": "デスクトップ向けの画面認識型AIアシスタント。現在使用中のアプリの状況を把握し、複数のLLMやMCPツールを活用して、アプリをまたいだ作業をサポートします。",
+                    "zh-hans": "适用于桌面的屏幕感知型 AI 助手。它能结合当前应用上下文，调用多个大语言模型和 MCP 工具，帮你在不同应用间完成操作。",
+                    "zh-hant": "具備螢幕感知能力的桌面 AI 助理。運用目前的應用程式脈絡、多個大型語言模型及 MCP 工具，協助你跨應用程式執行操作。"
+                }
             }
         },
         "Browser-extensions": {
@@ -24477,6 +24566,29 @@
                     "ja": "企業が独自に構築できる、オープンソースのエージェント型ワークスペース。すでに利用しているシステム（100以上の連携機能、MCP、チャットツール、アプリ、ブラウザー、ローカルファイル）を、共有メモリでつなげます。エージェント（Claude Code、Codex）は何でも、モデルも何でも、BYOKにも対応。数クリックでセットアップ。n…",
                     "zh-hans": "企业可自行打造的开源智能体工作空间。将你现有的系统连接起来——100 多种集成、MCP、聊天工具、应用、浏览器和本地文件，并共享记忆。支持任意智能体（Claude Code、Codex）、任意模型，也支持自带密钥（BYOK）。点击几下即可完成设置，n",
                     "zh-hant": "開源的代理式工作空間，企業可自行打造。串接你現有的系統——100 多種整合、MCP、聊天工具、應用程式、瀏覽器與本機檔案——並共享記憶。支援任何代理程式（Claude Code、Codex）、任何模型，或自備 API 金鑰（BYOK）。只需點擊幾下即可完成設定，n"
+                }
+            },
+            "https://github.com/nightly-labs/openbot": {
+                "repository_name": "openbot",
+                "user_name": "nightly-labs",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+                "topics": [
+                    "ai-agents",
+                    "bun",
+                    "codex",
+                    "electron",
+                    "local-first",
+                    "macos",
+                    "solidjs",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+                    "ja": "AIチームメイトが継続的に活動する、ローカルファーストのデスクトップワークスペース。専用ワークスペース、タスクキュー、ファイル共有、ブラウザー操作、エージェント同士の連携機能を備え、Codex、Claude、Grokを実行できます。",
+                    "zh-hans": "一款本地优先的桌面工作空间，让 AI 队友常驻协作。通过专属工作区、任务队列、文件共享、浏览器控制和智能体间协作，运行 Codex、Claude 和 Grok。",
+                    "zh-hant": "以本機優先的桌面工作空間，讓 AI 隊友常駐協作。透過專屬工作區、任務佇列、檔案共享、瀏覽器控制，以及代理程式彼此協作，執行 Codex、Claude 和 Grok。"
                 }
             }
         },
@@ -31935,6 +32047,34 @@
                     "ja": "誰もが仕事でエージェントを管理するために使うオープンソースアプリ。",
                     "zh-hans": "人人都在工作中用来管理智能体的开源应用",
                     "zh-hant": "人人都在工作中用來管理 AI 代理的開源應用程式"
+                }
+            },
+            "https://github.com/arthur-ficial/apfel": {
+                "repository_name": "apfel",
+                "user_name": "Arthur-Ficial",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.",
+                "topics": [
+                    "apple-intelligence",
+                    "apple-silicon",
+                    "cli",
+                    "foundationmodels",
+                    "homebrew",
+                    "llm",
+                    "macos",
+                    "macos-26",
+                    "on-device",
+                    "openai-compatible",
+                    "swift",
+                    "tool-calling",
+                    "unix"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.",
+                    "ja": "Macにすでに搭載されている無料のAI。CLIツール、OpenAI互換サーバー、対話型チャットを、すべてApple Intelligenceでオンデバイス実行。APIキーもクラウドもダウンロードも不要。",
+                    "zh-hans": "Mac 上自带的免费 AI。命令行工具、兼容 OpenAI 的服务器和交互式聊天——全部通过 Apple Intelligence 在设备本地运行。无需 API 密钥、无需云端、无需下载。",
+                    "zh-hant": "Mac 上已內建的免費 AI。CLI 工具、相容 OpenAI 的伺服器，以及互動式聊天——全都透過 Apple Intelligence 在裝置端執行。無需 API 金鑰、雲端服務或下載。"
                 }
             }
         },
@@ -44110,6 +44250,76 @@
                     "ja": "すべてのエージェントで、セッションをまたいでコンテキストを保持。エージェントがセッション中に行うすべての作業を記録し、AIで圧縮して、関連するコンテキストを今後のセッションに反映します。Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open に対応。",
                     "zh-hans": "为每个智能体提供跨会话持久上下文——记录智能体在会话期间所做的一切，利用 AI 进行压缩，并将相关上下文注入未来的会话。支持 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open。",
                     "zh-hant": "為每個代理程式跨工作階段保留持續上下文——記錄代理程式在工作階段中的所有操作，運用 AI 壓縮內容，並在未來的工作階段中注入相關上下文。支援 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open】【。"
+                }
+            },
+            "https://github.com/tt-a1i/archify": {
+                "repository_name": "archify",
+                "user_name": "tt-a1i",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+                "topics": [
+                    "agent-skills",
+                    "ai-agents",
+                    "architecture-diagram",
+                    "claude-code",
+                    "claude-skills",
+                    "codex",
+                    "coding-agents",
+                    "deepseek-harness",
+                    "developer-tools",
+                    "diagrams",
+                    "diagrams-as-code",
+                    "dsh-plugin",
+                    "flowchart",
+                    "llm",
+                    "mermaid",
+                    "opencode",
+                    "sequence-diagram",
+                    "software-architecture",
+                    "system-design",
+                    "visualization"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+                    "ja": "あらゆるアイデア、計画、コードベースを、美しくインタラクティブな図に。Claude Code、Codex などで使えるエージェントスキル。",
+                    "zh-hans": "将任何想法、计划或代码库转化为精美的交互式图表。适用于 Claude Code、Codex 等工具的智能体技能。",
+                    "zh-hant": "將任何想法、計畫或程式碼庫轉化為精美的互動式圖表。適用於 Claude Code、Codex 等工具的代理程式技能。"
+                }
+            },
+            "https://github.com/failproofai/failproofai": {
+                "repository_name": "failproofai",
+                "user_name": "FailproofAI",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  ",
+                "topics": [
+                    "agent-failure",
+                    "agent-harness",
+                    "agent-observability",
+                    "agent-reliability",
+                    "agent-tracing",
+                    "ai-agent",
+                    "claude-code",
+                    "codex",
+                    "enforcement",
+                    "evals",
+                    "guardrails",
+                    "hermes",
+                    "hooks",
+                    "llm",
+                    "llm-failures",
+                    "llm-observability",
+                    "npm-package",
+                    "observability",
+                    "openclaw",
+                    "reliability"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.",
+                    "ja": "AIエージェント・ハーネスの可観測性とポリシー適用。すべての実行を記録し、ポリシーを適用することで、実行時の信頼性を確保します。",
+                    "zh-hans": "为 AI 智能体运行框架提供可观测性与策略管控。记录每次运行，并通过策略管控保障运行时可靠性。",
+                    "zh-hant": "為 AI 代理程式執行框架提供可觀測性與政策強制執行。記錄每次執行，並透過政策控管確保執行階段的可靠性。"
                 }
             }
         },
@@ -66688,6 +66898,135 @@
                     "ja": "Eigent：オープンソースのCoworkデスクトップ — Claude CoworkやCodexに代わる、ローカルで使える無料の選択肢",
                     "zh-hans": "Eigent：开源 Cowork 桌面应用——Claude Cowork 和 Codex 的本地免费替代方案",
                     "zh-hant": "Eigent：開源 Cowork 桌面應用程式——Claude Cowork 和 Codex 的免費本機替代方案"
+                }
+            },
+            "https://github.com/orchestratorinc/agent-orchestrator": {
+                "repository_name": "agent-orchestrator",
+                "user_name": "OrchestratorInc",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.",
+                "topics": [
+                    "agent-fleet",
+                    "agent-ide",
+                    "agent-orchestration",
+                    "agent-swarm",
+                    "agentic-coding",
+                    "ai-agents",
+                    "ai-coding",
+                    "claude-code",
+                    "codex",
+                    "codex-cli",
+                    "coding-agents",
+                    "developer-tools",
+                    "git-worktrees",
+                    "mobile",
+                    "multi-agent",
+                    "orchestration",
+                    "orchestrator",
+                    "parallel-agents",
+                    "parallel-coding",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.",
+                    "ja": "タスクからPRのマージまで、エージェント群の計画・実行・監督を一元管理。デスクトップ（macOS、Windows、Linux）に加え、iPhone・Androidアプリにも対応。Claude Code、Codexをはじめ、35種類以上のコーディングエージェントをサポート。",
+                    "zh-hans": "从任务到 PR 合并，全程规划、运行并监督智能体团队。提供桌面端（macOS、Windows、Linux）以及 iPhone 和 Android 应用。支持 Claude Code、Codex 和 35 多种编程智能体。",
+                    "zh-hant": "從任務規劃、執行到 PR 合併，全程調度並監督代理程式群組。提供桌面版（macOS、Windows、Linux）以及 iPhone 和 Android 應用程式。支援 Claude Code、Codex 及 35 種以上的程式碼代理程式。"
+                }
+            },
+            "https://github.com/rlaope/oh-my-hermes": {
+                "repository_name": "oh-my-hermes",
+                "user_name": "rlaope",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "⚚ The ultrawork agent with AI coworkers wired into you",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-agent",
+                    "ai-tools",
+                    "claude-code",
+                    "codex",
+                    "hermes-agent",
+                    "hermes-skill",
+                    "skills"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⚚ The ultrawork agent with AI coworkers wired into you",
+                    "ja": "⚚ AIの同僚があなたに組み込まれた、超ワークエージェント",
+                    "zh-hans": "⚚ 一款将 AI 同事深度融入你的超级工作智能体",
+                    "zh-hant": "⚚ 與你深度整合 AI 同事的超級工作代理"
+                }
+            },
+            "https://github.com/nexu-io/openmotion": {
+                "repository_name": "openmotion",
+                "user_name": "nexu-io",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+                "topics": [
+                    "agent-skills",
+                    "ai",
+                    "ai-agents",
+                    "animation",
+                    "claude-code",
+                    "codex",
+                    "deepseek-harness",
+                    "dsh",
+                    "dsh-plugin",
+                    "ffmpeg",
+                    "generative-ai",
+                    "html",
+                    "javascript",
+                    "local-first",
+                    "mcp",
+                    "motion-graphics",
+                    "openmotion",
+                    "typescript",
+                    "video-editing",
+                    "video-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides",
+                    "ja": "オープンソースのClaude Motion／CapCut代替ツール。参考動画を、ブランドキットを活用した編集可能なモーショングラフィックスに変換できます。YouTube、YouTube Shorts、Instagram Reels、TikTok向けにMP4を書き出し。300以上のMotion.mdガイドを備えた、フルスタックのエージェント型動画制作スタジオ。",
+                    "zh-hans": "开源的 Claude Motion 和 CapCut 替代方案。使用你的品牌套件，将参考视频转化为可编辑的动态图形。导出适用于 YouTube、YouTube Shorts、Instagram Reels 和 TikTok 的 MP4 视频。配备 300 多份 Motion.md 指南的全栈智能体视频工作室。",
+                    "zh-hant": "開源的 Claude Motion 與 CapCut 替代方案。將參考影片轉化為可編輯的動態圖像，並套用你的品牌素材包。匯出 MP4，適用於 YouTube、YouTube Shorts、Instagram Reels 和 TikTok。內建 300 多份 Motion.md 指南的全端代理式影片工作室。"
+                }
+            },
+            "https://github.com/nocobase/nocobase": {
+                "repository_name": "nocobase",
+                "user_name": "nocobase",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.",
+                "topics": [
+                    "admin-dashboard",
+                    "agent-skills",
+                    "agentic-ai",
+                    "ai-agent",
+                    "ai-agents",
+                    "ai-governance",
+                    "claude-code",
+                    "codex",
+                    "crm",
+                    "crud",
+                    "erp",
+                    "internal-tools",
+                    "low-code",
+                    "no-code",
+                    "opencode",
+                    "rbac",
+                    "self-hosted",
+                    "vibe-coding",
+                    "workflow-engine",
+                    "workflows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.",
+                    "ja": "NocoBaseは、AIとともに業務システムを構築・運用し、進化させるためのオープンソースプラットフォームです。エージェントがコードを書き、作業を担い、NocoBaseが基盤とガバナンスを提供し、人が意思決定を行います。",
+                    "zh-hans": "NocoBase 是一个开源平台，助力借助 AI 构建、运行并持续演进业务系统。智能体编写代码并执行工作，NocoBase 提供基础能力与治理机制，而人负责做出决策。",
+                    "zh-hant": "NocoBase 是一個開源平台，讓您能運用 AI 建置、運行並持續演進業務系統。智能體負責編寫程式碼並執行工作，NocoBase 提供基礎架構與治理，而人們負責做出決策。"
                 }
             }
         }

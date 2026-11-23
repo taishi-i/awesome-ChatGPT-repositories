@@ -74,27 +74,33 @@ npx skills add taishi-i/awesome-ChatGPT-repositories
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - 透過 Claude、ChatGPT 和其他 AI 助理，設定並自動化 Home Assistant。
+ * [LoopForge](https://github.com/tencent/loopforge) - 用於交付程式碼代理的自架工作流程。透過指令碼與人工核准關卡，協調 CodeBuddy、Codex 和 Claude Code。內含適用於程式碼助理的本機工作流程。
+ * [Everywhere](https://github.com/sylinko/everywhere) - 具備螢幕感知能力的桌面 AI 助理。運用目前的應用程式脈絡、多個大型語言模型及 MCP 工具，協助你跨應用程式執行操作。
+
+
 **Browser-extensions**
- * [holaOS](https://github.com/holaboss-ai/holaos) - 開源的代理式工作空間，企業可自行打造。串接你現有的系統——100 多種整合、MCP、聊天工具、應用程式、瀏覽器與本機檔案——並共享記憶。支援任何代理程式（Claude Code、Codex）、任何模型，或自備 API 金鑰（BYOK）。只需點擊幾下即可完成設定，n
+ * [openbot](https://github.com/nightly-labs/openbot) - 以本機優先的桌面工作空間，讓 AI 隊友常駐協作。透過專屬工作區、任務佇列、檔案共享、瀏覽器控制，以及代理程式彼此協作，執行 Codex、Claude 和 Grok。
 
 
 **CLIs**
- * [OmniRoute](https://github.com/cheaper-inference/omniroute) - 永不停止寫程式。免費的 MIT AI 閘道：單一端點、375 家供應商（150 家以上免費）、1,400 多種模型，涵蓋 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。相容於 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。具備配額感知的自動備援切換、RTK+Caveman 壓縮……
- * [paperclip](https://github.com/paperclipai/paperclip) - 人人都在工作中用來管理 AI 代理的開源應用程式
+ * [apfel](https://github.com/arthur-ficial/apfel) - Mac 上已內建的免費 AI。CLI 工具、相容 OpenAI 的伺服器，以及互動式聊天——全都透過 Apple Intelligence 在裝置端執行。無需 API 金鑰、雲端服務或下載。
 
 
 **NLP**
- * [claude-mem](https://github.com/thedotmack/claude-mem) - 為每個代理程式跨工作階段保留持續上下文——記錄代理程式在工作階段中的所有操作，運用 AI 壓縮內容，並在未來的工作階段中注入相關上下文。支援 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open】【。
+ * [archify](https://github.com/tt-a1i/archify) - 將任何想法、計畫或程式碼庫轉化為精美的互動式圖表。適用於 Claude Code、Codex 等工具的代理程式技能。
+ * [failproofai](https://github.com/failproofai/failproofai) - 為 AI 代理程式執行框架提供可觀測性與政策強制執行。記錄每次執行，並透過政策控管確保執行階段的可靠性。
 
 
 **Others**
- * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 運行和監督編碼代理團隊從計劃到合併。任何工具（Claude代碼，代碼書，+25個以上）。桌面，網頁，移動和雲代理。
- * [t3code](https://github.com/pingdotgg/t3code) - 從任何電腦或手機控制 Claude Code、Codex 等工具的最佳方式
- * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - 一款 CodexApp 增強工具，致力於讓 Codex 和其他 AI Agent 更好用、更舒適。
- * [eigent](https://github.com/eigent-ai/eigent) - Eigent：開源 Cowork 桌面應用程式——Claude Cowork 和 Codex 的免費本機替代方案
+ * [agent-orchestrator](https://github.com/orchestratorinc/agent-orchestrator) - 從任務規劃、執行到 PR 合併，全程調度並監督代理程式群組。提供桌面版（macOS、Windows、Linux）以及 iPhone 和 Android 應用程式。支援 Claude Code、Codex 及 35 種以上的程式碼代理程式。
+ * [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ 與你深度整合 AI 同事的超級工作代理
+ * [openmotion](https://github.com/nexu-io/openmotion) - 開源的 Claude Motion 與 CapCut 替代方案。將參考影片轉化為可編輯的動態圖像，並套用你的品牌素材包。匯出 MP4，適用於 YouTube、YouTube Shorts、Instagram Reels 和 TikTok。內建 300 多份 Motion.md 指南的全端代理式影片工作室。
+ * [nocobase](https://github.com/nocobase/nocobase) - NocoBase 是一個開源平台，讓您能運用 AI 建置、運行並持續演進業務系統。智能體負責編寫程式碼並執行工作，NocoBase 提供基礎架構與治理，而人們負責做出決策。
 
 
-_Updated on November 14, 2026_ (A total of 2753 repositories listed.)
+_Updated on November 23, 2026_ (A total of 2755 repositories listed.)
 
 ## Table of contents
 
@@ -801,6 +807,9 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [rakazo](https://github.com/elie222/rakazo) - 開源Grok Bot替代方案。選擇您自己的模型和沙盒。
  * [Proma](https://github.com/proma-ai/proma) - Proma 將無縫地將通用代理體驗帶入您的工作流程中。專為100×專業人士和積極主動的代理時代而打造。
  * [open-dots](https://github.com/anil-matcha/open-dots) - 開源、自託管的AI代理工作空間，是OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork和ChatGPT代理的替代方案。採用MIT許可證；包括聊天、連接器、批准和可選的電腦使用。早期原型。
+ * [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - 透過 Claude、ChatGPT 和其他 AI 助理，設定並自動化 Home Assistant。
+ * [LoopForge](https://github.com/tencent/loopforge) - 用於交付程式碼代理的自架工作流程。透過指令碼與人工核准關卡，協調 CodeBuddy、Codex 和 Claude Code。內含適用於程式碼助理的本機工作流程。
+ * [Everywhere](https://github.com/sylinko/everywhere) - 具備螢幕感知能力的桌面 AI 助理。運用目前的應用程式脈絡、多個大型語言模型及 MCP 工具，協助你跨應用程式執行操作。
 
 
 ## Browser-extensions
@@ -1070,6 +1079,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [archcore](https://github.com/archcore-ai/archcore) - 基於Git中的項目上下文，為Claude Code、Cursor、Codex和GitHub Copilot進行基於規範的開發和上下文工程。
  * [voyager](https://github.com/voyager-crew/voyager) - 針對 Gemini、AI Studio、Claude、ChatGPT 和 DeepSeek 的增強套件，以及任何網站的提示詞管理器，包括 DeepSeek Harness。
  * [holaOS](https://github.com/holaboss-ai/holaos) - 開源的代理式工作空間，企業可自行打造。串接你現有的系統——100 多種整合、MCP、聊天工具、應用程式、瀏覽器與本機檔案——並共享記憶。支援任何代理程式（Claude Code、Codex）、任何模型，或自備 API 金鑰（BYOK）。只需點擊幾下即可完成設定，n
+ * [openbot](https://github.com/nightly-labs/openbot) - 以本機優先的桌面工作空間，讓 AI 隊友常駐協作。透過專屬工作區、任務佇列、檔案共享、瀏覽器控制，以及代理程式彼此協作，執行 Codex、Claude 和 Grok。
 
 
 ## CLIs
@@ -1358,6 +1368,7 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [ouroboros](https://github.com/q00/ouroboros) - 代理人OS：代理人自行變得更聰明。我們只需守住這條線：面試閘門、分階段評估、預算進化迴圈。MCP伺服器，14個運行時：克勞德代碼、Codex CLI、Gemini CLI、OpenCode、Copilot、Kiro等等。
  * [OmniRoute](https://github.com/cheaper-inference/omniroute) - 永不停止寫程式。免費的 MIT AI 閘道：單一端點、375 家供應商（150 家以上免費）、1,400 多種模型，涵蓋 Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。相容於 Claude Code、Codex、Cursor、OpenCode、Cline 和 Copilot。具備配額感知的自動備援切換、RTK+Caveman 壓縮……
  * [paperclip](https://github.com/paperclipai/paperclip) - 人人都在工作中用來管理 AI 代理的開源應用程式
+ * [apfel](https://github.com/arthur-ficial/apfel) - Mac 上已內建的免費 AI。CLI 工具、相容 OpenAI 的伺服器，以及互動式聊天——全都透過 Apple Intelligence 在裝置端執行。無需 API 金鑰、雲端服務或下載。
 
 
 ## Reimplementations
@@ -1872,6 +1883,8 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [bifrost](https://github.com/maximhq/bifrost) - 開源、高性能的人工智慧閘道，可作為您的LLM閘道、MCP閘道和代理閘道。一個兼容OpenAI的API，支持10,000多個模型，具有故障切換、負載平衡、語義緩存、虛擬密鑰、預算和MCP代碼模式。可與任何S配合使用。
  * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - 讓一個AI模型使用一部真實的iPhone和一個價值7美元的ESP32：AirPlay眼睛，USB HID手，任何與OpenAI兼容的視覺模型。無需Mac，無需開發者帳戶，無需越獄。
  * [claude-mem](https://github.com/thedotmack/claude-mem) - 為每個代理程式跨工作階段保留持續上下文——記錄代理程式在工作階段中的所有操作，運用 AI 壓縮內容，並在未來的工作階段中注入相關上下文。支援 Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open】【。
+ * [archify](https://github.com/tt-a1i/archify) - 將任何想法、計畫或程式碼庫轉化為精美的互動式圖表。適用於 Claude Code、Codex 等工具的代理程式技能。
+ * [failproofai](https://github.com/failproofai/failproofai) - 為 AI 代理程式執行框架提供可觀測性與政策強制執行。記錄每次執行，並透過政策控管確保執行階段的可靠性。
 
 
 ## Langchain
@@ -2909,5 +2922,9 @@ _Updated on November 14, 2026_ (A total of 2753 repositories listed.)
  * [t3code](https://github.com/pingdotgg/t3code) - 從任何電腦或手機控制 Claude Code、Codex 等工具的最佳方式
  * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - 一款 CodexApp 增強工具，致力於讓 Codex 和其他 AI Agent 更好用、更舒適。
  * [eigent](https://github.com/eigent-ai/eigent) - Eigent：開源 Cowork 桌面應用程式——Claude Cowork 和 Codex 的免費本機替代方案
+ * [agent-orchestrator](https://github.com/orchestratorinc/agent-orchestrator) - 從任務規劃、執行到 PR 合併，全程調度並監督代理程式群組。提供桌面版（macOS、Windows、Linux）以及 iPhone 和 Android 應用程式。支援 Claude Code、Codex 及 35 種以上的程式碼代理程式。
+ * [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ 與你深度整合 AI 同事的超級工作代理
+ * [openmotion](https://github.com/nexu-io/openmotion) - 開源的 Claude Motion 與 CapCut 替代方案。將參考影片轉化為可編輯的動態圖像，並套用你的品牌素材包。匯出 MP4，適用於 YouTube、YouTube Shorts、Instagram Reels 和 TikTok。內建 300 多份 Motion.md 指南的全端代理式影片工作室。
+ * [nocobase](https://github.com/nocobase/nocobase) - NocoBase 是一個開源平台，讓您能運用 AI 建置、運行並持續演進業務系統。智能體負責編寫程式碼並執行工作，NocoBase 提供基礎架構與治理，而人們負責做出決策。
 
 
