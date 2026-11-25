@@ -2108,6 +2108,7 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
 
 ## Openai
 
+ * [Open Agent API](https://github.com/jiangxingfan1-coder/Open-Agent-API) - Self-hosted gateway for calling coding agents with OpenAI-compatible SDKs. TypeScript, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/jiangxingfan1-coder/Open-Agent-API?style=social)
  * [Auto-GPT](https://github.com/torantulino/auto-gpt) - An experimental open-source attempt to make GPT-4 fully autonomous.
  * [BlenderGPT](https://github.com/gd3kr/blendergpt) - Use commands in English to control Blender with OpenAI's GPT-4
  * [evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
