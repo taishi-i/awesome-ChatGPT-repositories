@@ -75,30 +75,32 @@ npx skills add taishi-i/awesome-ChatGPT-repositories
 ## The latest additions 🎉
 
 **Chatbots**
- * [open-dots](https://github.com/anil-matcha/open-dots) - オープンソース、自己ホスト型のAIエージェントワークスペースであり、OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork、およびChatGPTエージェントの代替となるもの。MITライセンス付与済み；チャット、コネクタ、承認、およびオプションのコンピュータ利用を含む。初期プロトタイプ。
+ * [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Claude、ChatGPT、その他のAIアシスタントを使って、Home Assistantを設定・自動化しましょう。
+ * [LoopForge](https://github.com/tencent/loopforge) - コーディングエージェントの成果を届けるためのセルフホスト型ワークフロー。スクリプトと人による承認ステップを使って、CodeBuddy、Codex、Claude Codeをオーケストレーションできます。コーディングアシスタント向けのローカルワークフローも含まれています。
+ * [Everywhere](https://github.com/sylinko/everywhere) - デスクトップ向けの画面認識型AIアシスタント。現在使用中のアプリの状況を把握し、複数のLLMやMCPツールを活用して、アプリをまたいだ作業をサポートします。
 
 
 **Browser-extensions**
- * [archcore](https://github.com/archcore-ai/archcore) - Claude Code、Cursor、Codex、およびGitHub Copilotのための仕様駆動開発とコンテキストエンジニアリング- Git内のプロジェクトコンテキストに支えられています。
- * [voyager](https://github.com/voyager-crew/voyager) - ジェミニ、AIスタジオ、クロード、ChatGPT＆DeepSeek向けの拡張スイート、プラス、任意のウェブサイト用のプロンプトマネージャー、DeepSeek Harnessが含まれています。
+ * [openbot](https://github.com/nightly-labs/openbot) - AIチームメイトが継続的に活動する、ローカルファーストのデスクトップワークスペース。専用ワークスペース、タスクキュー、ファイル共有、ブラウザー操作、エージェント同士の連携機能を備え、Codex、Claude、Grokを実行できます。
 
 
 **CLIs**
- * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - 複数の独立したCodexアカウントとChatGPTワークスペースを繰り返しログアウト/ログインすることなく切り替える。
- * [ouroboros](https://github.com/q00/ouroboros) - エージェントOS：エージェントは自己学習します。私たちはただラインを守るだけです：インタビューゲート、段階的評価、予算化された進化ループ。MCPサーバー、14ランタイム：クロードコード、コーデックスCLI、ジェミニCLI、オープンコード、コパイロット、キロなど。
+ * [apfel](https://github.com/arthur-ficial/apfel) - Macにすでに搭載されている無料のAI。CLIツール、OpenAI互換サーバー、対話型チャットを、すべてApple Intelligenceでオンデバイス実行。APIキーもクラウドもダウンロードも不要。
 
 
 **NLP**
- * [bifrost](https://github.com/maximhq/bifrost) - オープンソースで高性能なAIゲートウェイは、LLMゲートウェイ、MCPゲートウェイ、エージェントゲートウェイとして機能します。1つのOpenAI互換APIで10,000以上のモデルを使用でき、フェイルオーバー、負荷分散、意味キャッシュ、仮想キー、予算、MCPコードモードが備わっています。どんなSとも連携可能です。
- * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - AIモデルに実際のiPhoneと$7のESP32を使用させる：AirPlayの目、USB HIDの手、どんなOpenAI互換のビジョンモデルでも。Macも開発者アカウントもジェイルブレイクも必要ありません。
+ * [archify](https://github.com/tt-a1i/archify) - あらゆるアイデア、計画、コードベースを、美しくインタラクティブな図に。Claude Code、Codex などで使えるエージェントスキル。
+ * [failproofai](https://github.com/failproofai/failproofai) - AIエージェント・ハーネスの可観測性とポリシー適用。すべての実行を記録し、ポリシーを適用することで、実行時の信頼性を確保します。
 
 
 **Others**
- * [search-mcp](https://github.com/parallel-web/search-mcp) - エージェント向けの無料ウェブ検索とページ取得。ホストされたMCP、APIキーは必要ありません。
- * [supercov](https://github.com/supercorp-ai/supercov) - コーディングエージェントのカバレッジ、セキュリティ、およびコード品質
+ * [agent-orchestrator](https://github.com/orchestratorinc/agent-orchestrator) - タスクからPRのマージまで、エージェント群の計画・実行・監督を一元管理。デスクトップ（macOS、Windows、Linux）に加え、iPhone・Androidアプリにも対応。Claude Code、Codexをはじめ、35種類以上のコーディングエージェントをサポート。
+ * [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ AIの同僚があなたに組み込まれた、超ワークエージェント
+ * [openmotion](https://github.com/nexu-io/openmotion) - オープンソースのClaude Motion／CapCut代替ツール。参考動画を、ブランドキットを活用した編集可能なモーショングラフィックスに変換できます。YouTube、YouTube Shorts、Instagram Reels、TikTok向けにMP4を書き出し。300以上のMotion.mdガイドを備えた、フルスタックのエージェント型動画制作スタジオ。
+ * [nocobase](https://github.com/nocobase/nocobase) - NocoBaseは、AIとともに業務システムを構築・運用し、進化させるためのオープンソースプラットフォームです。エージェントがコードを書き、作業を担い、NocoBaseが基盤とガバナンスを提供し、人が意思決定を行います。
 
 
-_Updated on October 16, 2026_ (A total of 2733 repositories listed.)
+_Updated on November 23, 2026_ (A total of 2755 repositories listed.)
 
 ## Table of contents
 
@@ -805,6 +807,9 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rakazo](https://github.com/elie222/rakazo) - オープンソースのGrok Botの代替品。自分自身のモデルとサンドボックスを選択してください。
  * [Proma](https://github.com/proma-ai/proma) - プロマは、あなたのワークフローにシームレスな汎用エージェント体験をもたらします。100倍のプロフェッショナルと積極的なエージェント時代に向けて構築されています。
  * [open-dots](https://github.com/anil-matcha/open-dots) - オープンソース、自己ホスト型のAIエージェントワークスペースであり、OpenAI Dots、Meta Muse、Grok Bot、Instinct、Manus Cue、Claude Cowork、およびChatGPTエージェントの代替となるもの。MITライセンス付与済み；チャット、コネクタ、承認、およびオプションのコンピュータ利用を含む。初期プロトタイプ。
+ * [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Claude、ChatGPT、その他のAIアシスタントを使って、Home Assistantを設定・自動化しましょう。
+ * [LoopForge](https://github.com/tencent/loopforge) - コーディングエージェントの成果を届けるためのセルフホスト型ワークフロー。スクリプトと人による承認ステップを使って、CodeBuddy、Codex、Claude Codeをオーケストレーションできます。コーディングアシスタント向けのローカルワークフローも含まれています。
+ * [Everywhere](https://github.com/sylinko/everywhere) - デスクトップ向けの画面認識型AIアシスタント。現在使用中のアプリの状況を把握し、複数のLLMやMCPツールを活用して、アプリをまたいだ作業をサポートします。
 
 
 ## Browser-extensions
@@ -1073,6 +1078,8 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [quivr](https://github.com/the-vibe-company/quivr) - 連続したコンテンツストリームを検索および監視に変換するオープンソースエンジン。耐久性のある取り込み、ハイブリッド検索、アラート、およびフォーマット、モデル、およびビジネスルール用のプラグインがあります。
  * [archcore](https://github.com/archcore-ai/archcore) - Claude Code、Cursor、Codex、およびGitHub Copilotのための仕様駆動開発とコンテキストエンジニアリング- Git内のプロジェクトコンテキストに支えられています。
  * [voyager](https://github.com/voyager-crew/voyager) - ジェミニ、AIスタジオ、クロード、ChatGPT＆DeepSeek向けの拡張スイート、プラス、任意のウェブサイト用のプロンプトマネージャー、DeepSeek Harnessが含まれています。
+ * [holaOS](https://github.com/holaboss-ai/holaos) - 企業が独自に構築できる、オープンソースのエージェント型ワークスペース。すでに利用しているシステム（100以上の連携機能、MCP、チャットツール、アプリ、ブラウザー、ローカルファイル）を、共有メモリでつなげます。エージェント（Claude Code、Codex）は何でも、モデルも何でも、BYOKにも対応。数クリックでセットアップ。n…
+ * [openbot](https://github.com/nightly-labs/openbot) - AIチームメイトが継続的に活動する、ローカルファーストのデスクトップワークスペース。専用ワークスペース、タスクキュー、ファイル共有、ブラウザー操作、エージェント同士の連携機能を備え、Codex、Claude、Grokを実行できます。
 
 
 ## CLIs
@@ -1359,6 +1366,9 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [rea](https://github.com/morluto/rea) - エージェントを使用して、アプリの動作からネイティブバイナリまで、何でもリバースエンジニアリングできます。
  * [codex-multiple-env](https://github.com/masakaai/codex-multiple-env) - 複数の独立したCodexアカウントとChatGPTワークスペースを繰り返しログアウト/ログインすることなく切り替える。
  * [ouroboros](https://github.com/q00/ouroboros) - エージェントOS：エージェントは自己学習します。私たちはただラインを守るだけです：インタビューゲート、段階的評価、予算化された進化ループ。MCPサーバー、14ランタイム：クロードコード、コーデックスCLI、ジェミニCLI、オープンコード、コパイロット、キロなど。
+ * [OmniRoute](https://github.com/cheaper-inference/omniroute) - コーディングを止めるな。無料のMITライセンスAIゲートウェイ。1つのエンドポイントで375のプロバイダー（うち150以上は無料）、1,400以上のモデルに対応。Kimi、Claude、GPT、Gemini、GLM、DeepSeek、MiniMax。Claude Code、Codex、Cursor、OpenCode、Cline、Copilotで利用可能。クォータに応じた自動フォールバック、RTK＋Caveman圧縮…
+ * [paperclip](https://github.com/paperclipai/paperclip) - 誰もが仕事でエージェントを管理するために使うオープンソースアプリ。
+ * [apfel](https://github.com/arthur-ficial/apfel) - Macにすでに搭載されている無料のAI。CLIツール、OpenAI互換サーバー、対話型チャットを、すべてApple Intelligenceでオンデバイス実行。APIキーもクラウドもダウンロードも不要。
 
 
 ## Reimplementations
@@ -1872,6 +1882,9 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - スマートフォンに装着された会話の副運転手：QQ / X / フェイシューで相手を理解し、候補の返信を提供し、ワンクリックで入力欄に入力し、送信するかどうかはあなた次第です。侵入せず、画面を読み取り、フックやパッケージの変更はしません。
  * [bifrost](https://github.com/maximhq/bifrost) - オープンソースで高性能なAIゲートウェイは、LLMゲートウェイ、MCPゲートウェイ、エージェントゲートウェイとして機能します。1つのOpenAI互換APIで10,000以上のモデルを使用でき、フェイルオーバー、負荷分散、意味キャッシュ、仮想キー、予算、MCPコードモードが備わっています。どんなSとも連携可能です。
  * [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) - AIモデルに実際のiPhoneと$7のESP32を使用させる：AirPlayの目、USB HIDの手、どんなOpenAI互換のビジョンモデルでも。Macも開発者アカウントもジェイルブレイクも必要ありません。
+ * [claude-mem](https://github.com/thedotmack/claude-mem) - すべてのエージェントで、セッションをまたいでコンテキストを保持。エージェントがセッション中に行うすべての作業を記録し、AIで圧縮して、関連するコンテキストを今後のセッションに反映します。Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、Open に対応。
+ * [archify](https://github.com/tt-a1i/archify) - あらゆるアイデア、計画、コードベースを、美しくインタラクティブな図に。Claude Code、Codex などで使えるエージェントスキル。
+ * [failproofai](https://github.com/failproofai/failproofai) - AIエージェント・ハーネスの可観測性とポリシー適用。すべての実行を記録し、ポリシーを適用することで、実行時の信頼性を確保します。
 
 
 ## Langchain
@@ -2896,7 +2909,6 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [loopx](https://github.com/huangruiteng/loopx) - 耐久性のある、統治された作業を行うための長期エージェント制御プレーン、Codex、Claude Code、および他のハーネスを横断する。
  * [atlas](https://github.com/pacifio/atlas) - エージェントのためのソースコントロール。複数のコーディングエージェントを使用し、彼らの変更を追跡し、1か所でクエリする。
  * [Maestro](https://github.com/runmaestro/maestro) - エージェントオーケストレーションコマンドセンター
- * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 計画からマージまでのコーディングエージェントチームを運営および監督します。任意のハーネス（クロードコード、コーデックス、その他25種類以上）。デスクトップ、Web、モバイル、クラウドエージェント。
  * [bb](https://github.com/get-bb/bb) - 自分自身を構築するエージェントIDE
  * [Ivy-Tendril](https://github.com/ivy-interactive/ivy-tendril) - AIエージェントは今やコードの99%を書くことができます。これにより、開発者であることの意味が変わります。私たちの役割は、「良いものがどのように見えるか」を知ることにシフトします。そのためには、完全に新しい開発者ツールが必要です。Tendrilは、エージェントの時代においてあなたのIDEを置き換えるものです。
  * [one-switch](https://github.com/yinxulai/one-switch) - TRONブロックチェーン用のSolidityスマートコントラクト https://tron.network
@@ -2906,5 +2918,13 @@ _Updated on October 16, 2026_ (A total of 2733 repositories listed.)
  * [letta-code](https://github.com/letta-ai/letta-code) - 人間のような記憶、アイデンティティ、学習能力、適応能力を持つ状態を保持するエージェント
  * [search-mcp](https://github.com/parallel-web/search-mcp) - エージェント向けの無料ウェブ検索とページ取得。ホストされたMCP、APIキーは必要ありません。
  * [supercov](https://github.com/supercorp-ai/supercov) - コーディングエージェントのカバレッジ、セキュリティ、およびコード品質
+ * [agent-orchestrator](https://github.com/untrivial-ai/agent-orchestrator) - 計画からマージまでのコーディングエージェントチームを運営および監督します。任意のハーネス（クロードコード、コーデックス、その他25種類以上）。デスクトップ、Web、モバイル、クラウドエージェント。
+ * [t3code](https://github.com/pingdotgg/t3code) - あらゆるパソコンやスマートフォンからClaude CodeやCodexなどを操作する最適な方法
+ * [CodexPlusPlus](https://github.com/bigpizzav3/codexplusplus) - CodexAppを強化し、Codexやその他のAIエージェントをより使いやすく、快適に利用できるようにするツールです。
+ * [eigent](https://github.com/eigent-ai/eigent) - Eigent：オープンソースのCoworkデスクトップ — Claude CoworkやCodexに代わる、ローカルで使える無料の選択肢
+ * [agent-orchestrator](https://github.com/orchestratorinc/agent-orchestrator) - タスクからPRのマージまで、エージェント群の計画・実行・監督を一元管理。デスクトップ（macOS、Windows、Linux）に加え、iPhone・Androidアプリにも対応。Claude Code、Codexをはじめ、35種類以上のコーディングエージェントをサポート。
+ * [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ AIの同僚があなたに組み込まれた、超ワークエージェント
+ * [openmotion](https://github.com/nexu-io/openmotion) - オープンソースのClaude Motion／CapCut代替ツール。参考動画を、ブランドキットを活用した編集可能なモーショングラフィックスに変換できます。YouTube、YouTube Shorts、Instagram Reels、TikTok向けにMP4を書き出し。300以上のMotion.mdガイドを備えた、フルスタックのエージェント型動画制作スタジオ。
+ * [nocobase](https://github.com/nocobase/nocobase) - NocoBaseは、AIとともに業務システムを構築・運用し、進化させるためのオープンソースプラットフォームです。エージェントがコードを書き、作業を担い、NocoBaseが基盤とガバナンスを提供し、人が意思決定を行います。
 
 
