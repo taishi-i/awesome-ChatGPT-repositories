@@ -823,6 +823,7 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
  * [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
  * [LoopForge](https://github.com/tencent/loopforge) - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
  * [Everywhere](https://github.com/sylinko/everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
+ * [AppuBot](https://github.com/sarthakguptadev/AppuBot) - Open-source Grok Bot alternative: a team of AI bots, each with its own job, that hand tasks to each other and work in your real apps, on the ChatGPT (Codex), Claude, Cursor, Grok or Copilot plan you already have.
 
 
 ## Browser-extensions
