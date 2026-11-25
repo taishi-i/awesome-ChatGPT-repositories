@@ -2939,5 +2939,6 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
  * [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - ⚚ The ultrawork agent with AI coworkers wired into you
  * [openmotion](https://github.com/nexu-io/openmotion) - The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.
  * [nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.
+ * [bulkpublish-ai-toolkit](https://github.com/azeemkafridi/bulkpublish-ai-toolkit) - Agent skills, plugin configs and MCP server setup for scheduling and publishing social media posts to 15 platforms from Claude Code, Cursor, Codex and other AI agents through BulkPublish.
 
 
