@@ -1382,6 +1382,7 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
  * [OmniRoute](https://github.com/cheaper-inference/omniroute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
  * [paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
  * [apfel](https://github.com/arthur-ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
+ * [AlphaSift](https://github.com/ZhuLinsen/alphasift) - Multi-market quantitative stock screener CLI and 14-tool read-only MCP server with deterministic announcement red-flag caps and zero-snooping walk-forward pattern validation across 7 equity markets.
 
 
 ## Reimplementations
