@@ -2941,3 +2941,5 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
  * [nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.
 
 
+
+ * [APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible AI API for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM models, with plans from $19/month.
