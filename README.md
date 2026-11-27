@@ -1383,6 +1383,7 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
  * [paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
  * [apfel](https://github.com/arthur-ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 
+ * [catude](https://github.com/catude/catude) - Terminal UI and CLI for Claude Code and Claude Desktop that shows where the tokens went, switches MCP servers and skills off per project, maps subagent runs and audits local settings.
 
 ## Reimplementations
 
