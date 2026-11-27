@@ -443,7 +443,6 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
  * [ChatGPT-at-Home](https://github.com/sentdex/chatgpt-at-home) - ChatGPT @ Home: Large Language Model (LLM) chatbot application, written by ChatGPT
  * [ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt) - GUI for ChatGPT API
  * [GPT3Discord](https://github.com/kav-k/gpt3discord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
- * [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现
  * [ChatGPT-in-Slack](https://github.com/seratch/chatgpt-in-slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
  * [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) - Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
  * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用が前提)
