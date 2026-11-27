@@ -429,6 +429,7 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
  * [vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
  * [agent-manager](https://github.com/yoanwai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
  * [ChatGPT-Workflows](https://github.com/rongnianxin/chatgpt-workflows) - ChatGPT 与 Codex 的可验证工作流、断点交接、网页增强和本地工具
+ * [motion-skills](https://github.com/iart-ai/motion-skills) - MIT-licensed agent skills that teach Claude Code, Codex and other coding agents to make motion graphics and video: kinetic typography, explainers, data animation and lower thirds.
 
 
 ## Chatbots
