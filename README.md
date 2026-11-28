@@ -2441,6 +2441,7 @@ _Updated on November 23, 2026_ (A total of 2755 repositories listed.)
 
 ## Others
 
+ * [theseoagent-mcp](https://github.com/jeremy665/theseoagent-mcp) - Official MIT MCP server for The SEO Agent: run technical SEO audits, keyword research, fact-checked article generation, and CMS publishing from Claude, ChatGPT, or Cursor.
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
